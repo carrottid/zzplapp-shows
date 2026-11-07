@@ -1,0 +1,45 @@
+{
+ "id": "PF301715",
+ "title": "보잉보잉",
+ "genre": "연극",
+ "from": "2026-10-24",
+ "to": "2026-11-22",
+ "venue": "대학로 스타릿홀 (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301715_260928_101842.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "노승민",
+  "이열",
+  "김치성",
+  "김도경",
+  "장용",
+  "임연택",
+  "최승주"
+ ],
+ "facilityId": "FC004589",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "손남목, 이소영, 곽두성 등",
+ "producer": "극단 두레",
+ "price": "전석 50,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(14:00,17:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301715_202609281018429052.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301715_202609281018428811.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301715_202609281018428740.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1639677"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013639"
+  }
+ ],
+ "updated": "2026-10-06 16:09:20",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

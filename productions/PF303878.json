@@ -1,0 +1,39 @@
+{
+ "id": "PF303878",
+ "title": "애프터 나인 쇼케이스",
+ "genre": "뮤지컬",
+ "from": "2026-11-09",
+ "to": "2026-11-09",
+ "venue": "XSCALA(엑스칼라) (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303878_261020_131103.jpg",
+ "area": "서울특별시",
+ "state": "공연예정",
+ "cast": [
+  "주민진",
+  "정지은",
+  "강찬",
+  "윤미소",
+  "이주찬",
+  "심건우",
+  "김동현"
+ ],
+ "facilityId": "FC004693",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "성재준, 홍정의, 김나희 등",
+ "producer": "컴퍼니B",
+ "price": "전석 20,000원",
+ "schedule": "월요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF303878_202610200111032080.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/66353"
+  }
+ ],
+ "updated": "2026-10-20 15:00:00.107706",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

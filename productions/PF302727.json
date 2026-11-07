@@ -1,0 +1,50 @@
+{
+ "id": "PF302727",
+ "title": "체인지 로그인 [대구]",
+ "genre": "연극",
+ "from": "2026-11-06",
+ "to": "2027-01-03",
+ "venue": "여우별아트홀 (여우별아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302727_261007_141419.gif",
+ "area": "대구광역시",
+ "state": "공연중",
+ "cast": [
+  "전청일",
+  "이섭정",
+  "오하성",
+  "윤풀호",
+  "오수빈",
+  "임지수",
+  "송은지"
+ ],
+ "facilityId": "FC001393",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "producer": "여우별아트홀 (극단여우별)",
+ "price": "전석 50,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(14:00,17:00), HOL(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF302727_202610070214190680.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/66157"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1748523"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014475"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7440"
+  }
+ ],
+ "updated": "2026-10-27 11:18:23",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

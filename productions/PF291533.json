@@ -1,0 +1,43 @@
+{
+ "id": "PF291533",
+ "title": "빨래: 32차 프로덕션",
+ "genre": "뮤지컬",
+ "from": "2026-06-11",
+ "to": "2027-02-21",
+ "venue": "유니플렉스 (2관(중극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF291533_260515_150927.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "기영수",
+  "오주언",
+  "민하늘",
+  "이진우",
+  "정형석",
+  "류찬열",
+  "서나영"
+ ],
+ "facilityId": "FC001233",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "추민주, 민찬홍, 여신동 등",
+ "producer": "(주)씨에이치수박",
+ "price": "R석 77,000원, S석 55,000원, 시야제한석 20,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF291533_202605150309272070.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26007159"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1792664471"
+  }
+ ],
+ "updated": "2026-10-27 13:38:48",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

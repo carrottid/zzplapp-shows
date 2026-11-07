@@ -1,0 +1,44 @@
+{
+ "id": "PF295172",
+ "title": "늦은 봄날",
+ "genre": "뮤지컬",
+ "from": "2026-07-17",
+ "to": "2026-11-29",
+ "venue": "블랙박스 1357 (블랙박스 1357(B1))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295172_260702_145427.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "openRun": true,
+ "cast": [
+  "김찬우",
+  "온지환",
+  "김지수",
+  "박건우",
+  "강다희",
+  "전소하",
+  "권오현"
+ ],
+ "facilityId": "FC004947",
+ "runtime": "2시간",
+ "age": "전체 관람가",
+ "crew": "김인성, 강다희, 이하연 등",
+ "producer": "블랙박스 1357, 엠스테이지",
+ "price": "전석 60,000원",
+ "schedule": "수요일 ~ 금요일(19:00), 토요일 ~ 일요일(14:00), HOL(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295172_202610011105349090.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1744323"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014494"
+  }
+ ],
+ "updated": "2026-10-27 10:47:27",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

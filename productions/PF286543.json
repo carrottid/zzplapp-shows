@@ -1,0 +1,47 @@
+{
+ "id": "PF286543",
+ "title": "백 번째 리뷰",
+ "genre": "연극",
+ "from": "2026-04-04",
+ "to": "2026-12-27",
+ "venue": "올림픽공원 (뮤즈라이브)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF286543_260820_111402.png",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "김유성",
+  "조활",
+  "천이도",
+  "전세기",
+  "유나연",
+  "문선혜",
+  "김본비"
+ ],
+ "facilityId": "FC001247",
+ "runtime": "1시간 20분",
+ "age": "만 7세 이상",
+ "crew": "김채우, 김원, 김수아 등",
+ "producer": "(주)마이무대",
+ "price": "전석 50,000원",
+ "schedule": "토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF286543_202608201114027400.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/5/bizes/1636838"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26002711"
+  },
+  {
+   "name": "카카오톡예약하기",
+   "url": "https://booking.kakao.com/detail/ticket/606694"
+  }
+ ],
+ "updated": "2026-08-20 11:15:12",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

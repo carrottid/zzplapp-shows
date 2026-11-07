@@ -1,0 +1,2829 @@
+{
+ "date": "2026-12-12",
+ "sessions": [
+  {
+   "id": "PF293005",
+   "title": "AI세계에서 살아남기",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303270",
+   "title": "개구쟁이 특공대: 마녀저택 [전남광주]",
+   "genre": "뮤지컬",
+   "venue": "광산문화예술회관 (공연장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294408",
+   "title": "겨울왕국: 겨울이야기 [서울 양천]",
+   "genre": "뮤지컬",
+   "venue": "양천문화회관 (대극장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300672",
+   "title": "공부의 신",
+   "genre": "연극",
+   "venue": "업스테이지 (UP Stage) (업스테이지 (UP Stage) )",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254868",
+   "title": "급식왕: 급식이 사라졌다",
+   "genre": "연극",
+   "venue": "스케치홀 (구.소극장 선물 1관) (스케치홀 (구.소극장 선물 1관) )",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300900",
+   "title": "로보카폴리: 브룸스타운의 에너지를 지켜라! [서울 영등포]",
+   "genre": "뮤지컬",
+   "venue": "영등포아트홀 (영등포아트홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299986",
+   "title": "로봇 특공대 [제주 서귀포]",
+   "genre": "뮤지컬",
+   "venue": "서귀포예술의전당 (대극장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302536",
+   "title": "루돌프의 크리스마스 [대구]",
+   "genre": "뮤지컬",
+   "venue": "동아백화점 아트홀 (동아백화점 아트홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304155",
+   "title": "루돌프의 크리스마스 선물 [인천]",
+   "genre": "뮤지컬",
+   "venue": "청라복합문화센터 블루노바홀 (공연장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300279",
+   "title": "미녀와 야수 [창원]",
+   "genre": "뮤지컬",
+   "venue": "창원과학체험관 (다목적강당)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299039",
+   "title": "바다탐험대 옥토넛 시즌4: 숨겨진 보물을 찾아라! [용인]",
+   "genre": "뮤지컬",
+   "venue": "용인시문화예술회관 (처인홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303895",
+   "title": "베베핀, 두근두근 새친구 [화성]",
+   "genre": "뮤지컬",
+   "venue": "화성아트홀 (화성아트홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303367",
+   "title": "산타마을의 루돌프와 산타클로스 [진주]",
+   "genre": "뮤지컬",
+   "venue": "경상대학교 칠암캠퍼스 (대강당)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300947",
+   "title": "산타와 루돌프 [서울 양천]",
+   "genre": "뮤지컬",
+   "venue": "한국방송회관 코바코홀 (구. 브로드홀) (한국방송회관 코바코홀 (구. 브로드홀))",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301693",
+   "title": "산타와 루돌프 [평택 남부]",
+   "genre": "뮤지컬",
+   "venue": "평택시남부문예회관 (대공연장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301594",
+   "title": "산타클로스와 브레멘음악대 [부산]",
+   "genre": "뮤지컬",
+   "venue": "신세계 문화홀 [센텀시티] (신세계 문화홀 [센텀시티])",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302780",
+   "title": "소맥거핀: 찰칵! 세계여행 [서울]",
+   "genre": "뮤지컬",
+   "venue": "서울어린이대공원 (아트센터)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302164",
+   "title": "슈퍼윙스 [세종]",
+   "genre": "뮤지컬",
+   "venue": "세종문화예술회관 (대공연장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303894",
+   "title": "스크루지의 크리스마스 캐롤 [서울 강북]",
+   "genre": "뮤지컬",
+   "venue": "꿈의숲아트센터 (퍼포먼스홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301102",
+   "title": "시크릿쥬쥬: 별의보석, 잃어버린 빛을 찾아서 [대구]",
+   "genre": "뮤지컬",
+   "venue": "대구어린이회관 꾀꼬리극장 (대구어린이회관 꾀꼬리극장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299721",
+   "title": "신데렐라 [홍성]",
+   "genre": "뮤지컬",
+   "venue": "홍주문화회관 (대공연장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304239",
+   "title": "아기돼지삼형제: 늑대숲 또옹돼지 원정대 [평택]",
+   "genre": "뮤지컬",
+   "venue": "평택시북부문예회관 (대공연장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305270",
+   "title": "아주아주 배고픈 애벌레 쇼",
+   "genre": "연극",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304407",
+   "title": "어린이 참여공연, 아빠와 난 초등 1학년 [전남 광주]",
+   "genre": "연극",
+   "venue": "국립아시아문화전당 (극장3)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294327",
+   "title": "엄마까투리: 유치원도, 도시도 처음이야 [부천]",
+   "genre": "뮤지컬",
+   "venue": "부천시민회관 (대공연장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301211",
+   "title": "인싸가족 [제주]",
+   "genre": "뮤지컬",
+   "venue": "한라아트홀 (대극장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301113",
+   "title": "조선 마법사관 진준",
+   "genre": "뮤지컬",
+   "venue": "국립중앙박물관 극장 용 (국립중앙박물관 극장 용)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300549",
+   "title": "집사TV 시즌2, Part.2: 대저택 끝 없는 문 [천안]",
+   "genre": "뮤지컬",
+   "venue": "천안시성환문화회관 (대공연장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304411",
+   "title": "크리스마스 대소동 [수원]",
+   "genre": "뮤지컬",
+   "venue": "KBS 수원아트홀 (KBS 수원아트홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303024",
+   "title": "피노키오 [전주]",
+   "genre": "뮤지컬",
+   "venue": "상상플레이스 전주이룸 (상상플레이스 전주이룸 )",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300944",
+   "title": "헬로카봇: 카봇크루가 되어줘! [광주]",
+   "genre": "뮤지컬",
+   "venue": "5.18기념문화센터 (민주홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303587",
+   "title": "호두까기 인형: 더 비기닝",
+   "genre": "뮤지컬",
+   "venue": "티켓링크 1975 씨어터(구.능동 어린이회관) (티켓링크 1975 씨어터(구.무지개극장))",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300663",
+   "title": "호두까기인형 [서울 서대문]",
+   "genre": "뮤지컬",
+   "venue": "서대문문화체육회관 (대극장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303892",
+   "title": "호두까기인형 [안양 만안]",
+   "genre": "뮤지컬",
+   "venue": "안양아트센터 (수리홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302289",
+   "title": "호두까기인형 [제주 서귀포]",
+   "genre": "뮤지컬",
+   "venue": "서귀포예술의전당 (대극장)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304322",
+   "title": "산타우체국 [인천]",
+   "genre": "뮤지컬",
+   "venue": "인천어린이과학관 (강당)",
+   "time": "11:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304694",
+   "title": "성냥팔이 소녀 [울산]",
+   "genre": "뮤지컬",
+   "venue": "레미어린이극장 [울산진장] (레미어린이극장 [울산진장])",
+   "time": "11:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304105",
+   "title": "아기상어 쿵짝쿵짝 뮤지컬 [서울 영등포]",
+   "genre": "뮤지컬",
+   "venue": "영등포 타임스퀘어 (영등포 아트스퀘어(B2))",
+   "time": "11:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303002",
+   "title": "호두까기인형 [부산 기장]",
+   "genre": "뮤지컬",
+   "venue": "기장군청 (차성아트홀)",
+   "time": "11:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF298148",
+   "title": "오즈의 크리스마스 [서울 송파]",
+   "genre": "뮤지컬",
+   "venue": "송파어린이문화회관 (아이소리홀)",
+   "time": "11:40",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305130",
+   "title": "빨간 모자 [광주]",
+   "genre": "뮤지컬",
+   "venue": "레미어린이극장 [광주수완] (레미어린이극장 [광주수완])",
+   "time": "12:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301687",
+   "title": "산타와 루돌프 [강릉]",
+   "genre": "뮤지컬",
+   "venue": "강릉원주대학교 해람문화관 (해람홀)",
+   "time": "12:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF160272",
+   "title": "해녀의 부엌: 해녀이야기",
+   "genre": "연극",
+   "venue": "해녀의부엌 (해녀의부엌)",
+   "time": "12:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300672",
+   "title": "공부의 신",
+   "genre": "연극",
+   "venue": "업스테이지 (UP Stage) (업스테이지 (UP Stage) )",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254868",
+   "title": "급식왕: 급식이 사라졌다",
+   "genre": "연극",
+   "venue": "스케치홀 (구.소극장 선물 1관) (스케치홀 (구.소극장 선물 1관) )",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301486",
+   "title": "라이어 [창원]",
+   "genre": "연극",
+   "venue": "성산아트홀 (소극장)",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302701",
+   "title": "메리크리스마스 산타할아버지 [수원]",
+   "genre": "뮤지컬",
+   "venue": "장안구민회관 한누리아트홀 (한누리아트홀)",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302037",
+   "title": "바울: 사랑으로 걷다 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "명륜아트홀 (명륜아트홀)",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303367",
+   "title": "산타마을의 루돌프와 산타클로스 [진주]",
+   "genre": "뮤지컬",
+   "venue": "경상대학교 칠암캠퍼스 (대강당)",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300947",
+   "title": "산타와 루돌프 [서울 양천]",
+   "genre": "뮤지컬",
+   "venue": "한국방송회관 코바코홀 (구. 브로드홀) (한국방송회관 코바코홀 (구. 브로드홀))",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304831",
+   "title": "산타찾기 [서울 종로]",
+   "genre": "연극",
+   "venue": "종로아이들극장 (종로아이들극장)",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301117",
+   "title": "연극 식당: 매일이 크리스마스",
+   "genre": "연극",
+   "venue": "남극장(NAM THEATER) (남극장(4F))",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304411",
+   "title": "크리스마스 대소동 [수원]",
+   "genre": "뮤지컬",
+   "venue": "KBS 수원아트홀 (KBS 수원아트홀)",
+   "time": "13:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF295113",
+   "title": "멜로에 차질 [대학로]",
+   "genre": "연극",
+   "venue": "나인진홀 (구.청년극장) (나인진홀 2관)",
+   "time": "13:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "13:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF293005",
+   "title": "AI세계에서 살아남기",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305091",
+   "title": "T와 F의 로맨스 [대전]",
+   "genre": "연극",
+   "venue": "아신극장 (2관 (2층) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304889",
+   "title": "가장 보편의 환상",
+   "genre": "뮤지컬",
+   "venue": "오류아트홀 (오류아트홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303270",
+   "title": "개구쟁이 특공대: 마녀저택 [전남광주]",
+   "genre": "뮤지컬",
+   "venue": "광산문화예술회관 (공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF292160",
+   "title": "겨울왕국 [서울]",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터 (샤롯데씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294408",
+   "title": "겨울왕국: 겨울이야기 [서울 양천]",
+   "genre": "뮤지컬",
+   "venue": "양천문화회관 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304181",
+   "title": "국립정동극장 예술단, 아리랑",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장 (국립정동극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303377",
+   "title": "꽃의 비밀 [이천]",
+   "genre": "연극",
+   "venue": "이천아트홀 (소공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235543",
+   "title": "난타 [명동]",
+   "genre": "뮤지컬",
+   "venue": "명동난타극장 (명동난타극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236349",
+   "title": "난타 [홍대]",
+   "genre": "뮤지컬",
+   "venue": "홍대난타극장(구. 뮤직쇼웨딩 전용관) (홍대난타극장(구. 뮤직쇼웨딩 전용관))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300616",
+   "title": "너를 들고 간다 [대학로]",
+   "genre": "연극",
+   "venue": "et theatre 1 (구. 눈빛극장) (et theatre 1 (구. 눈빛극장) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF297237",
+   "title": "노맨틱 코미디 [청주]",
+   "genre": "연극",
+   "venue": "소명아트홀 (구.메가폴리스아트홀) (소명아트홀 (구.메가폴리스아트홀) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304086",
+   "title": "닥터 두리틀 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305110",
+   "title": "동상이몽 [대학로]",
+   "genre": "연극",
+   "venue": "봄날아트홀 (구. 아리랑소극장) (2관 (지하2층) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300974",
+   "title": "두 도시 이야기",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299443",
+   "title": "라이어 1탄 [대구]",
+   "genre": "연극",
+   "venue": "봉산문화회관 (가온홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303036",
+   "title": "러브레터 [서울 강남]",
+   "genre": "연극",
+   "venue": "KT&G 상상마당 대치아트홀 (KT&G 상상마당 대치아트홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302516",
+   "title": "레베카 [서울]",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305670",
+   "title": "로미오와 줄리엣",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터 (한전아트센터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300900",
+   "title": "로보카폴리: 브룸스타운의 에너지를 지켜라! [서울 영등포]",
+   "genre": "뮤지컬",
+   "venue": "영등포아트홀 (영등포아트홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299986",
+   "title": "로봇 특공대 [제주 서귀포]",
+   "genre": "뮤지컬",
+   "venue": "서귀포예술의전당 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302536",
+   "title": "루돌프의 크리스마스 [대구]",
+   "genre": "뮤지컬",
+   "venue": "동아백화점 아트홀 (동아백화점 아트홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304155",
+   "title": "루돌프의 크리스마스 선물 [인천]",
+   "genre": "뮤지컬",
+   "venue": "청라복합문화센터 블루노바홀 (공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299888",
+   "title": "마리 퀴리 [포항]",
+   "genre": "뮤지컬",
+   "venue": "포항문화예술회관 (대공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF289294",
+   "title": "마트로시카 [서울 중구]",
+   "genre": "연극",
+   "venue": "명보아트홀 (라온홀 (3F) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305551",
+   "title": "모든 날 모든 순간",
+   "genre": "연극",
+   "venue": "지즐소극장 (지즐소극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300279",
+   "title": "미녀와 야수 [창원]",
+   "genre": "뮤지컬",
+   "venue": "창원과학체험관 (다목적강당)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302677",
+   "title": "미세스 다웃파이어 [서울]",
+   "genre": "뮤지컬",
+   "venue": "GS아트센터 (GS아트센터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304403",
+   "title": "미안해 아빠 [대학로]",
+   "genre": "연극",
+   "venue": "아트하우스 (아트하우스)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305515",
+   "title": "미호제작소 사계절여행연극시리즈 #겨울: Merry Christmas in Prague",
+   "genre": "연극",
+   "venue": "성북마을극장 (성북마을극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299039",
+   "title": "바다탐험대 옥토넛 시즌4: 숨겨진 보물을 찾아라! [용인]",
+   "genre": "뮤지컬",
+   "venue": "용인시문화예술회관 (처인홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303895",
+   "title": "베베핀, 두근두근 새친구 [화성]",
+   "genre": "뮤지컬",
+   "venue": "화성아트홀 (화성아트홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF285349",
+   "title": "불편한 편의점2",
+   "genre": "연극",
+   "venue": "후암씨어터(콘텐츠룸) (후암씨어터(콘텐츠룸))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF296263",
+   "title": "불편한 편의점2 [부산]",
+   "genre": "연극",
+   "venue": "KNN시어터 (KNN시어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305130",
+   "title": "빨간 모자 [광주]",
+   "genre": "뮤지컬",
+   "venue": "레미어린이극장 [광주수완] (레미어린이극장 [광주수완])",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF150471",
+   "title": "빨간모자야 조심해! [청주, 세종]",
+   "genre": "뮤지컬",
+   "venue": "소극장 쇠내골 (소극장 쇠내골)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291533",
+   "title": "빨래: 32차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301687",
+   "title": "산타와 루돌프 [강릉]",
+   "genre": "뮤지컬",
+   "venue": "강릉원주대학교 해람문화관 (해람홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301693",
+   "title": "산타와 루돌프 [평택 남부]",
+   "genre": "뮤지컬",
+   "venue": "평택시남부문예회관 (대공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304322",
+   "title": "산타우체국 [인천]",
+   "genre": "뮤지컬",
+   "venue": "인천어린이과학관 (강당)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301594",
+   "title": "산타클로스와 브레멘음악대 [부산]",
+   "genre": "뮤지컬",
+   "venue": "신세계 문화홀 [센텀시티] (신세계 문화홀 [센텀시티])",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304694",
+   "title": "성냥팔이 소녀 [울산]",
+   "genre": "뮤지컬",
+   "venue": "레미어린이극장 [울산진장] (레미어린이극장 [울산진장])",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302780",
+   "title": "소맥거핀: 찰칵! 세계여행 [서울]",
+   "genre": "뮤지컬",
+   "venue": "서울어린이대공원 (아트센터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300598",
+   "title": "수레바퀴 아래서 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀 (SH아트홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302164",
+   "title": "슈퍼윙스 [세종]",
+   "genre": "뮤지컬",
+   "venue": "세종문화예술회관 (대공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303043",
+   "title": "스위니토드 (SWEENEY TODD)",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303894",
+   "title": "스크루지의 크리스마스 캐롤 [서울 강북]",
+   "genre": "뮤지컬",
+   "venue": "꿈의숲아트센터 (퍼포먼스홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302015",
+   "title": "시카고 [서울]",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301102",
+   "title": "시크릿쥬쥬: 별의보석, 잃어버린 빛을 찾아서 [대구]",
+   "genre": "뮤지컬",
+   "venue": "대구어린이회관 꾀꼬리극장 (대구어린이회관 꾀꼬리극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299721",
+   "title": "신데렐라 [홍성]",
+   "genre": "뮤지컬",
+   "venue": "홍주문화회관 (대공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304842",
+   "title": "쏠티와 함께: 비긴즈",
+   "genre": "뮤지컬",
+   "venue": "CTS아트홀 (CTS아트홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305507",
+   "title": "아가사 AGATHA [대학로]",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304239",
+   "title": "아기돼지삼형제: 늑대숲 또옹돼지 원정대 [평택]",
+   "genre": "뮤지컬",
+   "venue": "평택시북부문예회관 (대공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305270",
+   "title": "아주아주 배고픈 애벌레 쇼",
+   "genre": "연극",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304407",
+   "title": "어린이 참여공연, 아빠와 난 초등 1학년 [전남 광주]",
+   "genre": "연극",
+   "venue": "국립아시아문화전당 (극장3)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304289",
+   "title": "어쩌다보니 [전남 광주]",
+   "genre": "연극",
+   "venue": "기분좋은극장 [상무지구] (기분좋은극장 [상무지구] )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301826",
+   "title": "얼리버드",
+   "genre": "연극",
+   "venue": "소극장 도어  (소극장 도어 )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294327",
+   "title": "엄마까투리: 유치원도, 도시도 처음이야 [부천]",
+   "genre": "뮤지컬",
+   "venue": "부천시민회관 (대공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303673",
+   "title": "여신님이 보고 계셔 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303908",
+   "title": "오픈 더 도어 [대학로]",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305676",
+   "title": "우주보다 멀고 빛보다 가까운 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "연우소극장 (연우소극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303033",
+   "title": "운빨로맨스 [대구]",
+   "genre": "연극",
+   "venue": "아트플러스씨어터 (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301211",
+   "title": "인싸가족 [제주]",
+   "genre": "뮤지컬",
+   "venue": "한라아트홀 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF285591",
+   "title": "저항: 찬송이 된 사람들",
+   "genre": "뮤지컬",
+   "venue": "광야아트센터 (광야아트센터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF247938",
+   "title": "점프 JUMP",
+   "genre": "뮤지컬",
+   "venue": "명보아트홀 (가온홀 (B3F) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301113",
+   "title": "조선 마법사관 진준",
+   "genre": "뮤지컬",
+   "venue": "국립중앙박물관 극장 용 (국립중앙박물관 극장 용)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303100",
+   "title": "지금 우리는 [부산]",
+   "genre": "뮤지컬",
+   "venue": "가온아트홀 [부산] (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300549",
+   "title": "집사TV 시즌2, Part.2: 대저택 끝 없는 문 [천안]",
+   "genre": "뮤지컬",
+   "venue": "천안시성환문화회관 (대공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304258",
+   "title": "청소년을 위한 공연축제 Ⅱ, 페이크북 [인천]",
+   "genre": "뮤지컬",
+   "venue": "인천문화예술회관 (소공연장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF296104",
+   "title": "콰이어 오브 맨 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304638",
+   "title": "투셰 [대학로]",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소) (대학로 자유극장 (자유문화발전소) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF237479",
+   "title": "페인터즈 [경향아트힐]",
+   "genre": "뮤지컬",
+   "venue": "경향아트힐 (1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303241",
+   "title": "핫플러팅 [대전]",
+   "genre": "연극",
+   "venue": "작은극장 다함 (작은극장 다함)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300944",
+   "title": "헬로카봇: 카봇크루가 되어줘! [광주]",
+   "genre": "뮤지컬",
+   "venue": "5.18기념문화센터 (민주홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303002",
+   "title": "호두까기인형 [부산 기장]",
+   "genre": "뮤지컬",
+   "venue": "기장군청 (차성아트홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300663",
+   "title": "호두까기인형 [서울 서대문]",
+   "genre": "뮤지컬",
+   "venue": "서대문문화체육회관 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303892",
+   "title": "호두까기인형 [안양 만안]",
+   "genre": "뮤지컬",
+   "venue": "안양아트센터 (수리홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302289",
+   "title": "호두까기인형 [제주 서귀포]",
+   "genre": "뮤지컬",
+   "venue": "서귀포예술의전당 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301593",
+   "title": "히든퍼즐 [대전]",
+   "genre": "연극",
+   "venue": "런던스테이지 [대전 중구] (런던스테이지(2F))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302413",
+   "title": "더 벙커 [대학로]",
+   "genre": "연극",
+   "venue": "더벙커 전용관 (더벙커 전용관)",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF296245",
+   "title": "보물찾기 [전주]",
+   "genre": "연극",
+   "venue": "한해랑아트홀 (한해랑아트홀)",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304105",
+   "title": "아기상어 쿵짝쿵짝 뮤지컬 [서울 영등포]",
+   "genre": "뮤지컬",
+   "venue": "영등포 타임스퀘어 (영등포 아트스퀘어(B2))",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF297539",
+   "title": "오! 럭키 데이! [부산]",
+   "genre": "연극",
+   "venue": "BNK부산은행 조은극장 (2관)",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304742",
+   "title": "80일간의 세계일주 [부산]",
+   "genre": "뮤지컬",
+   "venue": "어댑터씨어터 2관 (어댑터씨어터 2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305506",
+   "title": "ART LINK: 지역예술인 동행 시리즈 Ⅳ. GREASE [평택]",
+   "genre": "뮤지컬",
+   "venue": "평택아트센터 (소공연장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301565",
+   "title": "FATED [대학로]",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291062",
+   "title": "NEW 오! 나의 귀신님 [대학로]",
+   "genre": "연극",
+   "venue": "아루또소극장 (구. 소담소극장, 구. 코메디컬센터) (아루또소극장 (구. 소담소극장, 구. 코메디컬센터) )",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302270",
+   "title": "V 에버 애프터 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300672",
+   "title": "공부의 신",
+   "genre": "연극",
+   "venue": "업스테이지 (UP Stage) (업스테이지 (UP Stage) )",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304705",
+   "title": "국립극단, 안트로폴리스 Ⅴ: 안티고네/에필로그",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF295977",
+   "title": "국립극장, 마당놀이: 춘풍처도 온다",
+   "genre": "연극",
+   "venue": "국립극장 (하늘극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304015",
+   "title": "귀여운 올렌카",
+   "genre": "연극",
+   "venue": "뜻밖의 극장(구. 해우소소극장) (뜻밖의 극장(구. 해우소소극장))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301771",
+   "title": "그새끼",
+   "genre": "연극",
+   "venue": "맥거핀 서교 (맥거핀 서교)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254868",
+   "title": "급식왕: 급식이 사라졌다",
+   "genre": "연극",
+   "venue": "스케치홀 (구.소극장 선물 1관) (스케치홀 (구.소극장 선물 1관) )",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304785",
+   "title": "나의 레논에게",
+   "genre": "연극",
+   "venue": "나온씨어터 (나온씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288040",
+   "title": "내가 하면 로맨스 [하마씨어터]",
+   "genre": "연극",
+   "venue": "하마씨어터(구. 가든씨어터) (하마씨어터(구. 가든씨어터))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302374",
+   "title": "노맨틱 코미디",
+   "genre": "연극",
+   "venue": "올래홀 (올래홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF186819",
+   "title": "늘근도둑이야기 [대학로]",
+   "genre": "연극",
+   "venue": "아트포레스트 아트홀 (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301866",
+   "title": "달빛 옥상 리와인드 [대전]",
+   "genre": "뮤지컬",
+   "venue": "상상아트홀 [대전] (상상아트홀 [대전] )",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303634",
+   "title": "달콤쌉싸레 [대전]",
+   "genre": "연극",
+   "venue": "이음아트홀 [대전] (이음아트홀 [대전])",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304911",
+   "title": "당신만이 [부평]",
+   "genre": "뮤지컬",
+   "venue": "부평아트센터 (달누리극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291898",
+   "title": "더 드레서 [김해]",
+   "genre": "연극",
+   "venue": "김해문화의전당 (마루홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302012",
+   "title": "더 라스트 카고",
+   "genre": "연극",
+   "venue": "드림시어터 [대학로] (소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305549",
+   "title": "돌아와요 미자씨 [대구]",
+   "genre": "연극",
+   "venue": "봉산문화회관 (스페이스라온)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305033",
+   "title": "딜리버리 [대전]",
+   "genre": "연극",
+   "venue": "이수아트홀 [대전] (이수아트홀 [대전])",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299346",
+   "title": "렛미플라이 [서울]",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301746",
+   "title": "마하고니 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302701",
+   "title": "메리크리스마스 산타할아버지 [수원]",
+   "genre": "뮤지컬",
+   "venue": "장안구민회관 한누리아트홀 (한누리아트홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294534",
+   "title": "바람으로의 여행",
+   "genre": "뮤지컬",
+   "venue": "스튜디오 블루 (스튜디오 블루)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286543",
+   "title": "백 번째 리뷰",
+   "genre": "연극",
+   "venue": "올림픽공원 (뮤즈라이브)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301964",
+   "title": "보잉보잉 [대구]",
+   "genre": "연극",
+   "venue": "송죽씨어터 (송죽씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303594",
+   "title": "브로큰 넘버스 (BROKEN NUMBERS)",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303902",
+   "title": "사랑을 노래한 시 [인천]",
+   "genre": "뮤지컬",
+   "venue": "신포아트홀 (신포아트홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF298445",
+   "title": "사랑을 이루어 드립니다 [부산]",
+   "genre": "연극",
+   "venue": "가온아트홀 [부산] (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300941",
+   "title": "사춘기 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터 (예그린씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303367",
+   "title": "산타마을의 루돌프와 산타클로스 [진주]",
+   "genre": "뮤지컬",
+   "venue": "경상대학교 칠암캠퍼스 (대강당)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300947",
+   "title": "산타와 루돌프 [서울 양천]",
+   "genre": "뮤지컬",
+   "venue": "한국방송회관 코바코홀 (구. 브로드홀) (한국방송회관 코바코홀 (구. 브로드홀))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF282162",
+   "title": "서울시뮤지컬단, 크리스마스 캐럴",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304882",
+   "title": "설강화 [대학로]",
+   "genre": "연극",
+   "venue": "큐씨어터(구. 수상한흥신소전용관) (큐씨어터(구. 수상한흥신소전용관))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300790",
+   "title": "쇼 머스트 고 온 in 대학로",
+   "genre": "뮤지컬",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF298289",
+   "title": "스타크로스드 [대학로]",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF297794",
+   "title": "엠. 버터플라이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299342",
+   "title": "오! 나의 귀신님 [부산]",
+   "genre": "연극",
+   "venue": "BNK부산은행 조은극장 (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304963",
+   "title": "윌리엄과 윌리엄의 윌리엄들",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299855",
+   "title": "이끼숲",
+   "genre": "뮤지컬",
+   "venue": "백암아트홀 (백암아트홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304574",
+   "title": "인간실격: 사양 편",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303133",
+   "title": "인트라 무로스 (INTRA MUROS)",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302881",
+   "title": "점프 JUMP [울산]",
+   "genre": "뮤지컬",
+   "venue": "울산문화예술회관 (대공연장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304960",
+   "title": "조립식가족 [대학로]",
+   "genre": "연극",
+   "venue": "민송아트홀 (구. 브로드웨이아트홀) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299272",
+   "title": "지금 우리는 [부산]",
+   "genre": "뮤지컬",
+   "venue": "가온아트홀 [부산] (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302748",
+   "title": "직소 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "브이씨어터 (브이씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305450",
+   "title": "청소년극 단막극 연작, 동물X사람X공룡",
+   "genre": "연극",
+   "venue": "아르코 꿈밭극장 (아르코꿈밭극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302727",
+   "title": "체인지 로그인 [대구]",
+   "genre": "연극",
+   "venue": "여우별아트홀 (여우별아트홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305029",
+   "title": "최후의 분대장: 제1부 조선의용군",
+   "genre": "연극",
+   "venue": "서강대 메리홀 (대극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304792",
+   "title": "타자기 치는 남자 [대학로]",
+   "genre": "연극",
+   "venue": "보라 아트홀(구. 지구인아트홀) (보라 아트홀(구. 지구인아트홀))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302924",
+   "title": "포쉬 [대학로]",
+   "genre": "연극",
+   "venue": "굿씨어터 (굿씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305499",
+   "title": "풍월주",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유) (플러스씨어터(구. 컬처스페이스 엔유))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291833",
+   "title": "플러팅 [대학로]",
+   "genre": "연극",
+   "venue": "라온씨어터 (라온씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305019",
+   "title": "피장파장의 오류 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드) (브릭스씨어터 (구. 콘텐츠 그라운드))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301308",
+   "title": "하트비트: 심폐소생일지 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF276055",
+   "title": "헝키쇼 (HUNKY SHOW)",
+   "genre": "뮤지컬",
+   "venue": "스타스테이지 (스타스테이지)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304757",
+   "title": "헬프 HELP",
+   "genre": "연극",
+   "venue": "두산아트센터 (Space111)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303587",
+   "title": "호두까기 인형: 더 비기닝",
+   "genre": "뮤지컬",
+   "venue": "티켓링크 1975 씨어터(구.능동 어린이회관) (티켓링크 1975 씨어터(구.무지개극장))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "15:20",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304988",
+   "title": "걸음이 느린 아이 [춘천]",
+   "genre": "연극",
+   "venue": "봄내극장 (봄내극장)",
+   "time": "15:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF295113",
+   "title": "멜로에 차질 [대학로]",
+   "genre": "연극",
+   "venue": "나인진홀 (구.청년극장) (나인진홀 2관)",
+   "time": "15:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF293005",
+   "title": "AI세계에서 살아남기",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301486",
+   "title": "라이어 [창원]",
+   "genre": "연극",
+   "venue": "성산아트홀 (소극장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299986",
+   "title": "로봇 특공대 [제주 서귀포]",
+   "genre": "뮤지컬",
+   "venue": "서귀포예술의전당 (대극장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304155",
+   "title": "루돌프의 크리스마스 선물 [인천]",
+   "genre": "뮤지컬",
+   "venue": "청라복합문화센터 블루노바홀 (공연장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302037",
+   "title": "바울: 사랑으로 걷다 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "명륜아트홀 (명륜아트홀)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305130",
+   "title": "빨간 모자 [광주]",
+   "genre": "뮤지컬",
+   "venue": "레미어린이극장 [광주수완] (레미어린이극장 [광주수완])",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304931",
+   "title": "산울림 편지콘서트: 에릭 사티와 벨 에포크의 예술가들",
+   "genre": "연극",
+   "venue": "산울림소극장 (산울림소극장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301687",
+   "title": "산타와 루돌프 [강릉]",
+   "genre": "뮤지컬",
+   "venue": "강릉원주대학교 해람문화관 (해람홀)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301693",
+   "title": "산타와 루돌프 [평택 남부]",
+   "genre": "뮤지컬",
+   "venue": "평택시남부문예회관 (대공연장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304322",
+   "title": "산타우체국 [인천]",
+   "genre": "뮤지컬",
+   "venue": "인천어린이과학관 (강당)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304831",
+   "title": "산타찾기 [서울 종로]",
+   "genre": "연극",
+   "venue": "종로아이들극장 (종로아이들극장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301594",
+   "title": "산타클로스와 브레멘음악대 [부산]",
+   "genre": "뮤지컬",
+   "venue": "신세계 문화홀 [센텀시티] (신세계 문화홀 [센텀시티])",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302780",
+   "title": "소맥거핀: 찰칵! 세계여행 [서울]",
+   "genre": "뮤지컬",
+   "venue": "서울어린이대공원 (아트센터)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304239",
+   "title": "아기돼지삼형제: 늑대숲 또옹돼지 원정대 [평택]",
+   "genre": "뮤지컬",
+   "venue": "평택시북부문예회관 (대공연장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305282",
+   "title": "오 더 옐로우 (Oh THe yELLOw)",
+   "genre": "연극",
+   "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304748",
+   "title": "제84회 부산시립극단 정기공연: 스타프로젝트, 바다로 가는 기사",
+   "genre": "연극",
+   "venue": "부산시민회관 (소극장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304551",
+   "title": "짧은대본",
+   "genre": "연극",
+   "venue": "비유아트홀(구. 효천아트센터 그라운드씬) (비유아트홀(구. 효천아트센터 그라운드씬))",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300663",
+   "title": "호두까기인형 [서울 서대문]",
+   "genre": "뮤지컬",
+   "venue": "서대문문화체육회관 (대극장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303892",
+   "title": "호두까기인형 [안양 만안]",
+   "genre": "뮤지컬",
+   "venue": "안양아트센터 (수리홀)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303270",
+   "title": "개구쟁이 특공대: 마녀저택 [전남광주]",
+   "genre": "뮤지컬",
+   "venue": "광산문화예술회관 (공연장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294408",
+   "title": "겨울왕국: 겨울이야기 [서울 양천]",
+   "genre": "뮤지컬",
+   "venue": "양천문화회관 (대극장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236460",
+   "title": "난타 [제주]",
+   "genre": "뮤지컬",
+   "venue": "제주난타극장 (제주난타극장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305110",
+   "title": "동상이몽 [대학로]",
+   "genre": "연극",
+   "venue": "봄날아트홀 (구. 아리랑소극장) (2관 (지하2층) )",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300900",
+   "title": "로보카폴리: 브룸스타운의 에너지를 지켜라! [서울 영등포]",
+   "genre": "뮤지컬",
+   "venue": "영등포아트홀 (영등포아트홀)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305551",
+   "title": "모든 날 모든 순간",
+   "genre": "연극",
+   "venue": "지즐소극장 (지즐소극장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299039",
+   "title": "바다탐험대 옥토넛 시즌4: 숨겨진 보물을 찾아라! [용인]",
+   "genre": "뮤지컬",
+   "venue": "용인시문화예술회관 (처인홀)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303895",
+   "title": "베베핀, 두근두근 새친구 [화성]",
+   "genre": "뮤지컬",
+   "venue": "화성아트홀 (화성아트홀)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302164",
+   "title": "슈퍼윙스 [세종]",
+   "genre": "뮤지컬",
+   "venue": "세종문화예술회관 (대공연장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303894",
+   "title": "스크루지의 크리스마스 캐롤 [서울 강북]",
+   "genre": "뮤지컬",
+   "venue": "꿈의숲아트센터 (퍼포먼스홀)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301102",
+   "title": "시크릿쥬쥬: 별의보석, 잃어버린 빛을 찾아서 [대구]",
+   "genre": "뮤지컬",
+   "venue": "대구어린이회관 꾀꼬리극장 (대구어린이회관 꾀꼬리극장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304105",
+   "title": "아기상어 쿵짝쿵짝 뮤지컬 [서울 영등포]",
+   "genre": "뮤지컬",
+   "venue": "영등포 타임스퀘어 (영등포 아트스퀘어(B2))",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304407",
+   "title": "어린이 참여공연, 아빠와 난 초등 1학년 [전남 광주]",
+   "genre": "연극",
+   "venue": "국립아시아문화전당 (극장3)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294327",
+   "title": "엄마까투리: 유치원도, 도시도 처음이야 [부천]",
+   "genre": "뮤지컬",
+   "venue": "부천시민회관 (대공연장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301211",
+   "title": "인싸가족 [제주]",
+   "genre": "뮤지컬",
+   "venue": "한라아트홀 (대극장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301113",
+   "title": "조선 마법사관 진준",
+   "genre": "뮤지컬",
+   "venue": "국립중앙박물관 극장 용 (국립중앙박물관 극장 용)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300549",
+   "title": "집사TV 시즌2, Part.2: 대저택 끝 없는 문 [천안]",
+   "genre": "뮤지컬",
+   "venue": "천안시성환문화회관 (대공연장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300944",
+   "title": "헬로카봇: 카봇크루가 되어줘! [광주]",
+   "genre": "뮤지컬",
+   "venue": "5.18기념문화센터 (민주홀)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302413",
+   "title": "더 벙커 [대학로]",
+   "genre": "연극",
+   "venue": "더벙커 전용관 (더벙커 전용관)",
+   "time": "16:40",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305091",
+   "title": "T와 F의 로맨스 [대전]",
+   "genre": "연극",
+   "venue": "아신극장 (2관 (2층) )",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300672",
+   "title": "공부의 신",
+   "genre": "연극",
+   "venue": "업스테이지 (UP Stage) (업스테이지 (UP Stage) )",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235543",
+   "title": "난타 [명동]",
+   "genre": "뮤지컬",
+   "venue": "명동난타극장 (명동난타극장)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236349",
+   "title": "난타 [홍대]",
+   "genre": "뮤지컬",
+   "venue": "홍대난타극장(구. 뮤직쇼웨딩 전용관) (홍대난타극장(구. 뮤직쇼웨딩 전용관))",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF297237",
+   "title": "노맨틱 코미디 [청주]",
+   "genre": "연극",
+   "venue": "소명아트홀 (구.메가폴리스아트홀) (소명아트홀 (구.메가폴리스아트홀) )",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299443",
+   "title": "라이어 1탄 [대구]",
+   "genre": "연극",
+   "venue": "봉산문화회관 (가온홀)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302701",
+   "title": "메리크리스마스 산타할아버지 [수원]",
+   "genre": "뮤지컬",
+   "venue": "장안구민회관 한누리아트홀 (한누리아트홀)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304403",
+   "title": "미안해 아빠 [대학로]",
+   "genre": "연극",
+   "venue": "아트하우스 (아트하우스)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305515",
+   "title": "미호제작소 사계절여행연극시리즈 #겨울: Merry Christmas in Prague",
+   "genre": "연극",
+   "venue": "성북마을극장 (성북마을극장)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF296245",
+   "title": "보물찾기 [전주]",
+   "genre": "연극",
+   "venue": "한해랑아트홀 (한해랑아트홀)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF285349",
+   "title": "불편한 편의점2",
+   "genre": "연극",
+   "venue": "후암씨어터(콘텐츠룸) (후암씨어터(콘텐츠룸))",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF296263",
+   "title": "불편한 편의점2 [부산]",
+   "genre": "연극",
+   "venue": "KNN시어터 (KNN시어터)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304842",
+   "title": "쏠티와 함께: 비긴즈",
+   "genre": "뮤지컬",
+   "venue": "CTS아트홀 (CTS아트홀)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304289",
+   "title": "어쩌다보니 [전남 광주]",
+   "genre": "연극",
+   "venue": "기분좋은극장 [상무지구] (기분좋은극장 [상무지구] )",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301826",
+   "title": "얼리버드",
+   "genre": "연극",
+   "venue": "소극장 도어  (소극장 도어 )",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF297539",
+   "title": "오! 럭키 데이! [부산]",
+   "genre": "연극",
+   "venue": "BNK부산은행 조은극장 (2관)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303193",
+   "title": "오지게 재밌는 가시나들 [과천]",
+   "genre": "뮤지컬",
+   "venue": "과천시민회관 (대극장)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303033",
+   "title": "운빨로맨스 [대구]",
+   "genre": "연극",
+   "venue": "아트플러스씨어터 (2관)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF247938",
+   "title": "점프 JUMP",
+   "genre": "뮤지컬",
+   "venue": "명보아트홀 (가온홀 (B3F) )",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303100",
+   "title": "지금 우리는 [부산]",
+   "genre": "뮤지컬",
+   "venue": "가온아트홀 [부산] (2관)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251017",
+   "title": "터치 파이브 (TOUCH FIVE)",
+   "genre": "뮤지컬",
+   "venue": "TOUCH FIVE 전용관 (TOUCH FIVE 전용관)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF237479",
+   "title": "페인터즈 [경향아트힐]",
+   "genre": "뮤지컬",
+   "venue": "경향아트힐 (1관)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242666",
+   "title": "페인터즈 [서대문전용관]",
+   "genre": "뮤지컬",
+   "venue": "NH아트홀 (NH아트홀)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303241",
+   "title": "핫플러팅 [대전]",
+   "genre": "연극",
+   "venue": "작은극장 다함 (작은극장 다함)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF160272",
+   "title": "해녀의 부엌: 해녀이야기",
+   "genre": "연극",
+   "venue": "해녀의부엌 (해녀의부엌)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301593",
+   "title": "히든퍼즐 [대전]",
+   "genre": "연극",
+   "venue": "런던스테이지 [대전 중구] (런던스테이지(2F))",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "17:10",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291833",
+   "title": "플러팅 [대학로]",
+   "genre": "연극",
+   "venue": "라온씨어터 (라온씨어터)",
+   "time": "17:20",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300616",
+   "title": "너를 들고 간다 [대학로]",
+   "genre": "연극",
+   "venue": "et theatre 1 (구. 눈빛극장) (et theatre 1 (구. 눈빛극장) )",
+   "time": "17:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF289294",
+   "title": "마트로시카 [서울 중구]",
+   "genre": "연극",
+   "venue": "명보아트홀 (라온홀 (3F) )",
+   "time": "17:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF295113",
+   "title": "멜로에 차질 [대학로]",
+   "genre": "연극",
+   "venue": "나인진홀 (구.청년극장) (나인진홀 2관)",
+   "time": "17:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299342",
+   "title": "오! 나의 귀신님 [부산]",
+   "genre": "연극",
+   "venue": "BNK부산은행 조은극장 (1관)",
+   "time": "17:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305676",
+   "title": "우주보다 멀고 빛보다 가까운 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "연우소극장 (연우소극장)",
+   "time": "17:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291062",
+   "title": "NEW 오! 나의 귀신님 [대학로]",
+   "genre": "연극",
+   "venue": "아루또소극장 (구. 소담소극장, 구. 코메디컬센터) (아루또소극장 (구. 소담소극장, 구. 코메디컬센터) )",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304181",
+   "title": "국립정동극장 예술단, 아리랑",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장 (국립정동극장)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301771",
+   "title": "그새끼",
+   "genre": "연극",
+   "venue": "맥거핀 서교 (맥거핀 서교)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288040",
+   "title": "내가 하면 로맨스 [하마씨어터]",
+   "genre": "연극",
+   "venue": "하마씨어터(구. 가든씨어터) (하마씨어터(구. 가든씨어터))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302374",
+   "title": "노맨틱 코미디",
+   "genre": "연극",
+   "venue": "올래홀 (올래홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF186819",
+   "title": "늘근도둑이야기 [대학로]",
+   "genre": "연극",
+   "venue": "아트포레스트 아트홀 (1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304086",
+   "title": "닥터 두리틀 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301866",
+   "title": "달빛 옥상 리와인드 [대전]",
+   "genre": "뮤지컬",
+   "venue": "상상아트홀 [대전] (상상아트홀 [대전] )",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303634",
+   "title": "달콤쌉싸레 [대전]",
+   "genre": "연극",
+   "venue": "이음아트홀 [대전] (이음아트홀 [대전])",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305033",
+   "title": "딜리버리 [대전]",
+   "genre": "연극",
+   "venue": "이수아트홀 [대전] (이수아트홀 [대전])",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303036",
+   "title": "러브레터 [서울 강남]",
+   "genre": "연극",
+   "venue": "KT&G 상상마당 대치아트홀 (KT&G 상상마당 대치아트홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301964",
+   "title": "보잉보잉 [대구]",
+   "genre": "연극",
+   "venue": "송죽씨어터 (송죽씨어터)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300598",
+   "title": "수레바퀴 아래서 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀 (SH아트홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303673",
+   "title": "여신님이 보고 계셔 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301117",
+   "title": "연극 식당: 매일이 크리스마스",
+   "genre": "연극",
+   "venue": "남극장(NAM THEATER) (남극장(4F))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303908",
+   "title": "오픈 더 도어 [대학로]",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF285591",
+   "title": "저항: 찬송이 된 사람들",
+   "genre": "뮤지컬",
+   "venue": "광야아트센터 (광야아트센터)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304960",
+   "title": "조립식가족 [대학로]",
+   "genre": "연극",
+   "venue": "민송아트홀 (구. 브로드웨이아트홀) (2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304551",
+   "title": "짧은대본",
+   "genre": "연극",
+   "venue": "비유아트홀(구. 효천아트센터 그라운드씬) (비유아트홀(구. 효천아트센터 그라운드씬))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302727",
+   "title": "체인지 로그인 [대구]",
+   "genre": "연극",
+   "venue": "여우별아트홀 (여우별아트홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF296104",
+   "title": "콰이어 오브 맨 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304638",
+   "title": "투셰 [대학로]",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소) (대학로 자유극장 (자유문화발전소) )",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304889",
+   "title": "가장 보편의 환상",
+   "genre": "뮤지컬",
+   "venue": "오류아트홀 (오류아트홀)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304988",
+   "title": "걸음이 느린 아이 [춘천]",
+   "genre": "연극",
+   "venue": "봄내극장 (봄내극장)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305670",
+   "title": "로미오와 줄리엣",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터 (한전아트센터)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291533",
+   "title": "빨래: 32차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302015",
+   "title": "시카고 [서울]",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305507",
+   "title": "아가사 AGATHA [대학로]",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302413",
+   "title": "더 벙커 [대학로]",
+   "genre": "연극",
+   "venue": "더벙커 전용관 (더벙커 전용관)",
+   "time": "18:50",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301565",
+   "title": "FATED [대학로]",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302270",
+   "title": "V 에버 애프터 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF292160",
+   "title": "겨울왕국 [서울]",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터 (샤롯데씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304015",
+   "title": "귀여운 올렌카",
+   "genre": "연극",
+   "venue": "뜻밖의 극장(구. 해우소소극장) (뜻밖의 극장(구. 해우소소극장))",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304785",
+   "title": "나의 레논에게",
+   "genre": "연극",
+   "venue": "나온씨어터 (나온씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302012",
+   "title": "더 라스트 카고",
+   "genre": "연극",
+   "venue": "드림시어터 [대학로] (소극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305549",
+   "title": "돌아와요 미자씨 [대구]",
+   "genre": "연극",
+   "venue": "봉산문화회관 (스페이스라온)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300974",
+   "title": "두 도시 이야기",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301486",
+   "title": "라이어 [창원]",
+   "genre": "연극",
+   "venue": "성산아트홀 (소극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302516",
+   "title": "레베카 [서울]",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299346",
+   "title": "렛미플라이 [서울]",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301746",
+   "title": "마하고니 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302677",
+   "title": "미세스 다웃파이어 [서울]",
+   "genre": "뮤지컬",
+   "venue": "GS아트센터 (GS아트센터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294534",
+   "title": "바람으로의 여행",
+   "genre": "뮤지컬",
+   "venue": "스튜디오 블루 (스튜디오 블루)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303594",
+   "title": "브로큰 넘버스 (BROKEN NUMBERS)",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300941",
+   "title": "사춘기 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터 (예그린씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF282162",
+   "title": "서울시뮤지컬단, 크리스마스 캐럴",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304882",
+   "title": "설강화 [대학로]",
+   "genre": "연극",
+   "venue": "큐씨어터(구. 수상한흥신소전용관) (큐씨어터(구. 수상한흥신소전용관))",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300790",
+   "title": "쇼 머스트 고 온 in 대학로",
+   "genre": "뮤지컬",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303043",
+   "title": "스위니토드 (SWEENEY TODD)",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF298289",
+   "title": "스타크로스드 [대학로]",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF297794",
+   "title": "엠. 버터플라이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304963",
+   "title": "윌리엄과 윌리엄의 윌리엄들",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299855",
+   "title": "이끼숲",
+   "genre": "뮤지컬",
+   "venue": "백암아트홀 (백암아트홀)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304574",
+   "title": "인간실격: 사양 편",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303133",
+   "title": "인트라 무로스 (INTRA MUROS)",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302881",
+   "title": "점프 JUMP [울산]",
+   "genre": "뮤지컬",
+   "venue": "울산문화예술회관 (대공연장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302748",
+   "title": "직소 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "브이씨어터 (브이씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305450",
+   "title": "청소년극 단막극 연작, 동물X사람X공룡",
+   "genre": "연극",
+   "venue": "아르코 꿈밭극장 (아르코꿈밭극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304258",
+   "title": "청소년을 위한 공연축제 Ⅱ, 페이크북 [인천]",
+   "genre": "뮤지컬",
+   "venue": "인천문화예술회관 (소공연장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302924",
+   "title": "포쉬 [대학로]",
+   "genre": "연극",
+   "venue": "굿씨어터 (굿씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305499",
+   "title": "풍월주",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유) (플러스씨어터(구. 컬처스페이스 엔유))",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305019",
+   "title": "피장파장의 오류 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드) (브릭스씨어터 (구. 콘텐츠 그라운드))",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301308",
+   "title": "하트비트: 심폐소생일지 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF276055",
+   "title": "헝키쇼 (HUNKY SHOW)",
+   "genre": "뮤지컬",
+   "venue": "스타스테이지 (스타스테이지)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303587",
+   "title": "호두까기 인형: 더 비기닝",
+   "genre": "뮤지컬",
+   "venue": "티켓링크 1975 씨어터(구.능동 어린이회관) (티켓링크 1975 씨어터(구.무지개극장))",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF272938",
+   "title": "더 맨 얼라이브: 초이스",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291833",
+   "title": "플러팅 [대학로]",
+   "genre": "연극",
+   "venue": "라온씨어터 (라온씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235543",
+   "title": "난타 [명동]",
+   "genre": "뮤지컬",
+   "venue": "명동난타극장 (명동난타극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305515",
+   "title": "미호제작소 사계절여행연극시리즈 #겨울: Merry Christmas in Prague",
+   "genre": "연극",
+   "venue": "성북마을극장 (성북마을극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305142",
+   "title": "인사이드 더 플레이 : 카지노X",
+   "genre": "뮤지컬",
+   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304551",
+   "title": "짧은대본",
+   "genre": "연극",
+   "venue": "비유아트홀(구. 효천아트센터 그라운드씬) (비유아트홀(구. 효천아트센터 그라운드씬))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251017",
+   "title": "터치 파이브 (TOUCH FIVE)",
+   "genre": "뮤지컬",
+   "venue": "TOUCH FIVE 전용관 (TOUCH FIVE 전용관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF237479",
+   "title": "페인터즈 [경향아트힐]",
+   "genre": "뮤지컬",
+   "venue": "경향아트힐 (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305142",
+   "title": "인사이드 더 플레이 : 카지노X",
+   "genre": "뮤지컬",
+   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
+   "time": "20:25",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305142",
+   "title": "인사이드 더 플레이 : 카지노X",
+   "genre": "뮤지컬",
+   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
+   "time": "20:40",
+   "castSource": "none"
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓 [전용관]",
+   "genre": "연극",
+   "venue": "오마이갓 전용관 (오마이갓 전용관)",
+   "time": "20:50",
+   "castSource": "none"
+  }
+ ]
+}

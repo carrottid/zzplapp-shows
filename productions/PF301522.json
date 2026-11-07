@@ -1,0 +1,59 @@
+{
+ "id": "PF301522",
+ "title": "에너미",
+ "genre": "연극",
+ "from": "2026-10-26",
+ "to": "2026-11-14",
+ "venue": "세종문화회관 (세종M씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301522_260922_104523.png",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "문소리",
+  "이봉련",
+  "황영희",
+  "강신구",
+  "마두영",
+  "이강욱",
+  "박세은"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 45분",
+ "age": "만 12세 이상",
+ "crew": "이준우, 이강욱, 박상봉 등",
+ "producer": "(재)세종문화회관",
+ "price": "R석 60,000원, S석 50,000원, A석 40,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301522_202609221045233860.png"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/65683"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0004845"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=213918"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37669&menuNo=200320"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/60277"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79456"
+  }
+ ],
+ "updated": "2026-09-28 13:54:56",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

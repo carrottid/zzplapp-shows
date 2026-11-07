@@ -1,0 +1,76 @@
+{
+ "id": "PF285349",
+ "title": "불편한 편의점2",
+ "genre": "연극",
+ "from": "2026-04-01",
+ "to": "2026-12-31",
+ "venue": "후암씨어터(콘텐츠룸) (후암씨어터(콘텐츠룸))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285349_260219_144146.jpg",
+ "area": "서울특별시",
+ "state": "공연중",
+ "openRun": true,
+ "cast": [
+  "정영성",
+  "송효원",
+  "임재혁",
+  "윤성경",
+  "조혜령",
+  "김정은",
+  "류수화"
+ ],
+ "facilityId": "FC002782",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "producer": "(주)제이엘컬처 (구. (주)브라더후드), (주)지우컴퍼니(JIWOOCOMPANY)",
+ "price": "전석 66,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(14:00,17:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285349_202602190241460681.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285349_202602190241460490.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/62415"
+  },
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13576"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1602869"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26002144"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=213676"
+  },
+  {
+   "name": "카카오톡예약하기",
+   "url": "https://booking.kakao.com/detail/ticket/537502"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1792563731"
+  },
+  {
+   "name": "쿠팡",
+   "url": "https://trip.coupang.com/tp/products/30000011366171"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79074"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6925"
+  }
+ ],
+ "updated": "2026-11-02 15:15:22",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

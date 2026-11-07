@@ -1,0 +1,51 @@
+{
+ "id": "PF303133",
+ "title": "인트라 무로스 (INTRA MUROS)",
+ "genre": "연극",
+ "from": "2026-11-10",
+ "to": "2027-02-14",
+ "venue": "충무아트센터 (중극장 블랙)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303133_261013_105306.gif",
+ "area": "서울특별시",
+ "state": "공연예정",
+ "cast": [
+  "이석준",
+  "오대석",
+  "김형기",
+  "최석진",
+  "정재환",
+  "박두호",
+  "홍나현"
+ ],
+ "facilityId": "FC000014",
+ "runtime": "2시간",
+ "age": "만 16세 이상",
+ "crew": "고강민, 김태형, 김경육 등",
+ "producer": "(주)엠비제트컴퍼니",
+ "price": "R석 70,000원, S석 60,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF303133_202610131053064600.png"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014594"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD31274"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/60587"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79479"
+  }
+ ],
+ "updated": "2026-11-02 15:43:12",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

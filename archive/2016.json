@@ -1,0 +1,34 @@
+{
+ "productions": [
+  {
+   "id": "PF134308",
+   "title": "조각: 사라진 기억",
+   "genre": "연극",
+   "from": "2016-11-20",
+   "to": "2024-04-30",
+   "venue": "댕로홀",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF134308_200901_132842.gif",
+   "state": "공연완료"
+  },
+  {
+   "id": "PF132171",
+   "title": "크리미널",
+   "genre": "연극",
+   "from": "2016-07-01",
+   "to": "2024-05-31",
+   "venue": "봄날아트홀 (구. 아리랑소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF132171_200102_095006.jpg",
+   "state": "공연완료"
+  },
+  {
+   "id": "PF141838",
+   "title": "연애하기 좋은 날",
+   "genre": "연극",
+   "from": "2016-03-01",
+   "to": "2023-03-05",
+   "venue": "올웨이즈 씨어터(구.아티스탄홀)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF141838_220117_101533.gif",
+   "state": "공연완료"
+  }
+ ]
+}

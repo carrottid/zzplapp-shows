@@ -1,0 +1,60 @@
+{
+ "id": "PF289294",
+ "title": "마트로시카 [서울 중구]",
+ "genre": "연극",
+ "from": "2026-05-01",
+ "to": "2027-01-03",
+ "venue": "명보아트홀 (라온홀 (3F) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF289294_260414_101835.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "윤제문",
+  "정석용",
+  "태항호",
+  "조희봉",
+  "손종학",
+  "김태향",
+  "허동수"
+ ],
+ "facilityId": "FC000883",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "서홍석, 최해주, 서은지 등",
+ "producer": "(주)호라이즌웍스, 잡담스토레지 (주)",
+ "price": "전석 66,000원",
+ "schedule": "월요일 ~ 화요일(19:30), 수요일(15:00,19:30), 목요일(19:30), 금요일(15:00,19:30), 토요일 ~ 일요일(14:00,17:30), HOL(14:00,17:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF289294_202607131101376540.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF289294_202607131101376781.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13698"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1536084"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26005602"
+  },
+  {
+   "name": "카카오톡예약하기",
+   "url": "https://booking.kakao.com/detail/ticket/746027"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1776247998"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7165"
+  }
+ ],
+ "updated": "2026-10-29 15:10:53",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

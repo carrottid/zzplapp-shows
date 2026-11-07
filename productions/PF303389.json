@@ -1,0 +1,37 @@
+{
+ "id": "PF303389",
+ "title": "데스트랩",
+ "genre": "연극",
+ "from": "2026-11-06",
+ "to": "2026-11-08",
+ "venue": "피카소소극장 (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303389_261015_101509.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "문수민",
+  "이혜연",
+  "최솔희",
+  "한수영",
+  "남지수"
+ ],
+ "facilityId": "FC000825",
+ "runtime": "2시간",
+ "age": "만 13세 이상",
+ "crew": "장하은, 정민희, 이준수 등",
+ "producer": "창작집단 도토리",
+ "price": "전석 25,000원",
+ "schedule": "금요일(19:30), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF303389_202610151015097260.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014264"
+  }
+ ],
+ "updated": "2026-10-15 15:00:00.138748",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

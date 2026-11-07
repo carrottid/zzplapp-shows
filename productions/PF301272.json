@@ -1,0 +1,34 @@
+{
+ "id": "PF301272",
+ "title": "3DIVA CONCERT [의정부]",
+ "genre": "뮤지컬",
+ "from": "2026-12-19",
+ "to": "2026-12-19",
+ "venue": "의정부예술의전당 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301272_260918_112845.gif",
+ "area": "경기도",
+ "state": "공연예정",
+ "cast": [
+  "신영숙",
+  "차지연",
+  "정선아"
+ ],
+ "facilityId": "FC000019",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "producer": "(재)의정부문화재단 (의정부예술의전당)",
+ "price": "R석 80,000원, S석 70,000원, A석 60,000원",
+ "schedule": "토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301272_202609181128456470.png"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012986"
+  }
+ ],
+ "updated": "2026-09-18 15:00:00.083592",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

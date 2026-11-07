@@ -1,0 +1,43 @@
+{
+ "id": "PF301117",
+ "title": "연극 식당: 매일이 크리스마스",
+ "genre": "연극",
+ "from": "2026-10-14",
+ "to": "2027-01-10",
+ "venue": "남극장(NAM THEATER) (남극장(4F))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301117_260916_160922.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "유소나",
+  "정해림",
+  "안서원",
+  "김형석",
+  "강효승",
+  "박창욱",
+  "최혜지"
+ ],
+ "facilityId": "FC004889",
+ "runtime": "1시간 10분",
+ "age": "전체 관람가",
+ "crew": "남승주, 최무열, 김수미 등",
+ "producer": "컴퍼니 연결",
+ "price": "전석 49,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(13:00,18:00), HOL(13:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301117_202609160409223560.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1684896"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013369"
+  }
+ ],
+ "updated": "2026-10-29 14:15:22",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

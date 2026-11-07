@@ -1,0 +1,44 @@
+{
+ "id": "PF301565",
+ "title": "FATED [대학로]",
+ "genre": "뮤지컬",
+ "from": "2026-11-03",
+ "to": "2027-01-24",
+ "venue": "링크아트센터드림 (드림 2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301565_260922_133248.jpg",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "박규원",
+  "신주협",
+  "박준형",
+  "박정모",
+  "조은성",
+  "김재한",
+  "이동수"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "조홍채, 손효원, 채현원 등",
+ "producer": "(주)노어스컴퍼니 (knowers company)",
+ "price": "R석 66,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301565_202609220132487420.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301565_202609220135413810.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/65818"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1743331"
+  }
+ ],
+ "updated": "2026-09-22 15:00:00.046131",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

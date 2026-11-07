@@ -1,0 +1,50 @@
+{
+ "id": "PF303434",
+ "title": "꽃의 비밀 [울산]",
+ "genre": "연극",
+ "from": "2026-12-24",
+ "to": "2026-12-25",
+ "venue": "HD아트센터(구 현대예술관) (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303434_261015_131214.jpg",
+ "area": "울산광역시",
+ "state": "공연예정",
+ "cast": [
+  "성지루",
+  "추귀정",
+  "정웅인",
+  "황석정",
+  "박하선",
+  "강은빈",
+  "신슬기"
+ ],
+ "facilityId": "FC001166",
+ "runtime": "2시간",
+ "age": "만 13세 이상",
+ "crew": "장진",
+ "price": "R석 77,000원, S석 66,000원, A석 50,000원, B석 30,000원",
+ "schedule": "목요일(19:30), 금요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF303434_202610150112140760.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/66319"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1756354"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014804"
+  },
+  {
+   "name": "현대예술관",
+   "url": "https://www.hd-artscenter.co.kr/performance/list.do?keyword=&ticketingitemseq=0000004069&mid=0000&SVC_ID=detail&unicodeseqitemtype=0000000607&now=Y&pageNo=1&returnPage=list"
+  }
+ ],
+ "updated": "2026-10-30 11:21:46",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

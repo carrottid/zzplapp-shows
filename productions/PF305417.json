@@ -1,0 +1,38 @@
+{
+ "id": "PF305417",
+ "title": "정말 안녕하세요",
+ "genre": "연극",
+ "from": "2026-11-12",
+ "to": "2026-11-15",
+ "venue": "여행자극장 (여행자극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305417_261104_113943.gif",
+ "area": "서울특별시",
+ "state": "공연예정",
+ "cast": [
+  "김민정",
+  "최준영",
+  "황예린",
+  "송수빈",
+  "원성준",
+  "김혜미"
+ ],
+ "facilityId": "FC001529",
+ "runtime": "1시간 10분",
+ "age": "만 18세 이상",
+ "crew": "최민수, 박찬우, 박이현 등",
+ "producer": "프로젝트 키덜트",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF305417_202611041139430880.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015951"
+  }
+ ],
+ "updated": "2026-11-04 15:00:03.081636",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "PF297794",
+ "title": "엠. 버터플라이",
+ "genre": "뮤지컬",
+ "from": "2026-09-22",
+ "to": "2026-12-13",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297794_260805_153337.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "주민진",
+  "안재영",
+  "유현석",
+  "김바다",
+  "유태율",
+  "홍기범",
+  "장재웅"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 50분",
+ "age": "만 16세 이상",
+ "crew": "허지혜, 정은비, 남궁유진 등",
+ "producer": "(주)연극열전",
+ "price": "R석 75,000원, S석 55,000원, A석 40,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF297794_202608070121179690.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1712222"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26011453"
+  },
+  {
+   "name": "연극열전",
+   "url": "https://www.thebestplay.co.kr/program/perf_view.asp?id=280139&pref_state=PLAN"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/59565"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7537"
+  }
+ ],
+ "updated": "2026-11-05 15:08:15",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

@@ -1,0 +1,52 @@
+{
+ "id": "PF295981",
+ "title": "서울예술단, 백범",
+ "genre": "뮤지컬",
+ "from": "2026-11-14",
+ "to": "2026-11-21",
+ "venue": "국립극장 (해오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295981_261001_134601.gif",
+ "area": "서울특별시",
+ "state": "공연예정",
+ "cast": [
+  "최병규",
+  "김현아",
+  "박소연",
+  "안재홍",
+  "고석진",
+  "김백현",
+  "금승훈"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "2시간 15분",
+ "age": "만 7세 이상",
+ "crew": "정태영, 박은혜, 서숙진 등",
+ "producer": "(재)서울예술단",
+ "price": "R석 110,000원, S석 80,000원, A석 50,000원, B석 30,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일 ~ 금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295981_202610010146017340.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295981_202610010146017431.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21008&perfId=267152"
+  },
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=14130"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "https://nol.yanolja.com/ticket/products/26013711"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79505"
+  }
+ ],
+ "updated": "2026-10-28 10:53:25",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

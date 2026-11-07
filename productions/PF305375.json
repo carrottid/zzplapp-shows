@@ -1,0 +1,36 @@
+{
+ "id": "PF305375",
+ "title": "라떼는 커피다",
+ "genre": "연극",
+ "from": "2026-11-24",
+ "to": "2026-11-26",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305375_261104_100900.gif",
+ "area": "서울특별시",
+ "state": "공연예정",
+ "cast": [
+  "한병수",
+  "김도연",
+  "차세준",
+  "방준서"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 10분",
+ "age": "만 12세 이상",
+ "crew": "송민길, 임동욱, 구은홍 등",
+ "producer": "극단 완자무늬",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 목요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF305375_202611041009000610.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015071"
+  }
+ ],
+ "updated": "2026-11-04 15:00:03.081636",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T11:01:31"
+}

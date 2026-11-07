@@ -1,0 +1,39 @@
+{
+ "id": "PF305512",
+ "title": "백학",
+ "genre": "연극",
+ "from": "2026-11-07",
+ "to": "2026-11-07",
+ "venue": "남북통합문화센터 (대강당)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305512_261105_104338.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "조우성",
+  "정하늘",
+  "임채민",
+  "김성혁",
+  "박은주",
+  "조경현",
+  "김현중"
+ ],
+ "facilityId": "FC004635",
+ "runtime": "1시간 20분",
+ "age": "만 14세 이상",
+ "crew": "오진하, 이준호, 최병훈 등",
+ "producer": "플레이노드(PLAYNODE)",
+ "price": "전석 10,000원",
+ "schedule": "토요일(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF305512_202611051043381150.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014753"
+  }
+ ],
+ "updated": "2026-11-05 15:00:03.098692",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

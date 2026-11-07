@@ -1,0 +1,55 @@
+{
+ "id": "PF298745",
+ "title": "클로저 [대학로]",
+ "genre": "연극",
+ "from": "2026-09-15",
+ "to": "2026-12-06",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298745_260818_154141.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "cast": [
+  "오만석",
+  "배수빈",
+  "홍우진",
+  "최강희",
+  "장희진",
+  "홍종현",
+  "강영석"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 50분",
+ "age": "만 19세 이상",
+ "crew": "김지호, 손형민, 김미경 등",
+ "producer": "(주)레드앤블루(구. 악어컴퍼니)",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF298745_202608180341412540.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1723506"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26010918"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/59574"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79460"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7410"
+  }
+ ],
+ "updated": "2026-10-06 11:12:01",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

@@ -1,0 +1,40 @@
+{
+ "id": "PF303535",
+ "title": "레이디 맥베스",
+ "genre": "연극",
+ "from": "2026-11-19",
+ "to": "2026-11-22",
+ "venue": "소극장 성북오름 (소극장 성북오름)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303535_261016_105305.gif",
+ "area": "서울특별시",
+ "state": "공연예정",
+ "cast": [
+  "박예주",
+  "지해일",
+  "조강연",
+  "이연실",
+  "나진성",
+  "선우권"
+ ],
+ "facilityId": "FC004866",
+ "runtime": "1시간",
+ "age": "만 15세 이상",
+ "crew": "조강연, 김양희, 강민재 등",
+ "producer": "극단 나아",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF303535_202610161053057192.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF303535_202610161053057051.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF303535_202610161053057010.png"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014831"
+  }
+ ],
+ "updated": "2026-10-16 15:00:00.152684",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

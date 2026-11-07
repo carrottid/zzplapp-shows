@@ -1,0 +1,56 @@
+{
+ "id": "PF300974",
+ "title": "두 도시 이야기",
+ "genre": "뮤지컬",
+ "from": "2026-11-11",
+ "to": "2027-02-08",
+ "venue": "광림아트센터 (BBCH홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300974_260915_132402.gif",
+ "area": "서울특별시",
+ "state": "공연예정",
+ "cast": [
+  "정기열",
+  "신성록",
+  "고은성",
+  "백형훈",
+  "진태화",
+  "노윤",
+  "이선민"
+ ],
+ "facilityId": "FC001370",
+ "runtime": "2시간 50분",
+ "age": "만 7세 이상",
+ "crew": "이성훈, 임양혁, 송한샘 등",
+ "producer": "(주)쇼노트",
+ "price": "VIP석 160,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF300974_202609170314116220.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF300974_202609170314116561.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1737045"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013098"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=213865"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=378"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/60128"
+  }
+ ],
+ "updated": "2026-09-17 15:15:05",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

@@ -1,0 +1,61 @@
+{
+ "id": "PF265271",
+ "title": "흉터 [서울 홍대]",
+ "genre": "연극",
+ "from": "2025-03-01",
+ "to": "2026-11-30",
+ "venue": "홍대 씨어터 윤 (홍대 씨어터 윤)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF265271_250519_160940.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "openRun": true,
+ "cast": [
+  "김윤수",
+  "조신휘",
+  "전청일",
+  "윤민혁",
+  "전민지",
+  "김태인"
+ ],
+ "facilityId": "FC004364",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "price": "전석 35,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(14:00,15:00,17:00,18:00), 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF265271_250519_0409400.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "https://www.ticketlink.co.kr/product/56385"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1347112"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25006966"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD27689"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/53950"
+  },
+  {
+   "name": "쿠팡",
+   "url": "https://trip.coupang.com/tp/products/30000011096265"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/4819"
+  }
+ ],
+ "updated": "2026-11-05 10:26:56",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

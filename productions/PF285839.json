@@ -1,0 +1,72 @@
+{
+ "id": "PF285839",
+ "title": "불편한 편의점1 [대학로]",
+ "genre": "연극",
+ "from": "2026-04-03",
+ "to": "2026-11-29",
+ "venue": "올웨이즈 씨어터(구.아티스탄홀) (올웨이즈 씨어터(구.아티스탄홀))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285839_260908_161105.gif",
+ "area": "서울특별시",
+ "state": "공연중",
+ "openRun": true,
+ "cast": [
+  "문대한",
+  "송명강",
+  "김송주",
+  "이준호",
+  "이새롬",
+  "고은비",
+  "김고울"
+ ],
+ "facilityId": "FC000372",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "황기현, 김하나, 정범철 등",
+ "producer": "(주)제이엘컬처 (구. (주)브라더후드), (주)지우컴퍼니(JIWOOCOMPANY)",
+ "price": "전석 66,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(11:00,14:00,17:00), 일요일(11:00,14:00,17:00), HOL(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285839_202610020216320870.png"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13577"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1597585"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26002626"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD29753"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=213663"
+  },
+  {
+   "name": "카카오톡예약하기",
+   "url": "https://booking.kakao.com/detail/ticket/536761"
+  },
+  {
+   "name": "쿠팡",
+   "url": "https://trip.coupang.com/tp/products/30000011364548"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79050"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/5034"
+  }
+ ],
+ "updated": "2026-10-02 16:16:16",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

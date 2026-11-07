@@ -1,0 +1,45 @@
+{
+ "id": "PF299903",
+ "title": "프랑켄슈타인: 더 뮤지컬 콘서트 [부산]",
+ "genre": "뮤지컬",
+ "from": "2026-11-29",
+ "to": "2026-11-29",
+ "venue": "부산시민회관 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299903_260902_135824.jpg",
+ "area": "부산광역시",
+ "state": "공연예정",
+ "cast": [
+  "이성준",
+  "김지훈",
+  "김성식",
+  "이봄소리",
+  "김지우"
+ ],
+ "facilityId": "FC000497",
+ "runtime": "1시간 40분",
+ "age": "만 6세 이상",
+ "crew": "이성준",
+ "producer": "(주)스프링이엔티, EMK엔터테인먼트",
+ "price": "VIP석 110,000원, R석 90,000원, S석 60,000원, A석 40,000원",
+ "schedule": "일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF299903_202609020158247520.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26012628"
+  },
+  {
+   "name": "부산문화/시민회관((재)부산문화회관)",
+   "url": "http://www.bscc.or.kr/01_perfor/?mcode=0401010200&mode=2&no=26822"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/60170"
+  }
+ ],
+ "updated": "2026-09-22 14:21:48",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}

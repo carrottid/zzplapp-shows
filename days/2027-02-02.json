@@ -1,0 +1,285 @@
+{
+ "date": "2027-02-02",
+ "sessions": [
+  {
+   "id": "PF301398",
+   "title": "도깨비 호랑이",
+   "genre": "뮤지컬",
+   "venue": "송파어린이문화회관 (아이소리홀)",
+   "time": "10:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305630",
+   "title": "넘버블록스 시즌2: 자이언트 랜드를 찾아서 [서울]",
+   "genre": "뮤지컬",
+   "venue": "국립중앙박물관 극장 용 (국립중앙박물관 극장 용)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302780",
+   "title": "소맥거핀: 찰칵! 세계여행 [서울]",
+   "genre": "뮤지컬",
+   "venue": "서울어린이대공원 (아트센터)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305108",
+   "title": "엄마가 유령이 되었어!",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (ABL생명홀)",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301398",
+   "title": "도깨비 호랑이",
+   "genre": "뮤지컬",
+   "venue": "송파어린이문화회관 (아이소리홀)",
+   "time": "11:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305630",
+   "title": "넘버블록스 시즌2: 자이언트 랜드를 찾아서 [서울]",
+   "genre": "뮤지컬",
+   "venue": "국립중앙박물관 극장 용 (국립중앙박물관 극장 용)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF150471",
+   "title": "빨간모자야 조심해! [청주, 세종]",
+   "genre": "뮤지컬",
+   "venue": "소극장 쇠내골 (소극장 쇠내골)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305108",
+   "title": "엄마가 유령이 되었어!",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (ABL생명홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235543",
+   "title": "난타 [명동]",
+   "genre": "뮤지컬",
+   "venue": "명동난타극장 (명동난타극장)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305084",
+   "title": "내 남사친이 변했다",
+   "genre": "연극",
+   "venue": "문래창작소극장 (소극장 )",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305084",
+   "title": "내 남사친이 변했다",
+   "genre": "연극",
+   "venue": "문래창작소극장 (소극장 )",
+   "time": "19:10",
+   "castSource": "none"
+  },
+  {
+   "id": "PF292160",
+   "title": "겨울왕국 [서울]",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터 (샤롯데씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305110",
+   "title": "동상이몽 [대학로]",
+   "genre": "연극",
+   "venue": "봄날아트홀 (구. 아리랑소극장) (2관 (지하2층) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300974",
+   "title": "두 도시 이야기",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302516",
+   "title": "레베카 [서울]",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302677",
+   "title": "미세스 다웃파이어 [서울]",
+   "genre": "뮤지컬",
+   "venue": "GS아트센터 (GS아트센터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304403",
+   "title": "미안해 아빠 [대학로]",
+   "genre": "연극",
+   "venue": "아트하우스 (아트하우스)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303043",
+   "title": "스위니토드 (SWEENEY TODD)",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302015",
+   "title": "시카고 [서울]",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305507",
+   "title": "아가사 AGATHA [대학로]",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302842",
+   "title": "오페라의 유령 40주년 스페셜 시즌",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303908",
+   "title": "오픈 더 도어 [대학로]",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235543",
+   "title": "난타 [명동]",
+   "genre": "뮤지컬",
+   "venue": "명동난타극장 (명동난타극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303594",
+   "title": "브로큰 넘버스 (BROKEN NUMBERS)",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302744",
+   "title": "식스 더 뮤지컬 (SIX THE MUSICAL)",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304068",
+   "title": "앨런 튜링 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303673",
+   "title": "여신님이 보고 계셔 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304963",
+   "title": "윌리엄과 윌리엄의 윌리엄들",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304574",
+   "title": "인간실격: 사양 편",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305142",
+   "title": "인사이드 더 플레이 : 카지노X",
+   "genre": "뮤지컬",
+   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303133",
+   "title": "인트라 무로스 (INTRA MUROS)",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305499",
+   "title": "풍월주",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유) (플러스씨어터(구. 컬처스페이스 엔유))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305019",
+   "title": "피장파장의 오류 [대학로]",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드) (브릭스씨어터 (구. 콘텐츠 그라운드))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305142",
+   "title": "인사이드 더 플레이 : 카지노X",
+   "genre": "뮤지컬",
+   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
+   "time": "20:25",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305142",
+   "title": "인사이드 더 플레이 : 카지노X",
+   "genre": "뮤지컬",
+   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
+   "time": "20:40",
+   "castSource": "none"
+  }
+ ]
+}

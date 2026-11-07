@@ -1,0 +1,47 @@
+{
+ "id": "PF303908",
+ "title": "오픈 더 도어 [대학로]",
+ "genre": "연극",
+ "from": "2026-12-05",
+ "to": "2027-03-07",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303908_261020_142951.jpg",
+ "area": "서울특별시",
+ "state": "공연예정",
+ "cast": [
+  "김성규",
+  "이시형",
+  "홍기준",
+  "안우연",
+  "오경주",
+  "이봉준",
+  "곽선영"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "1시간 25분",
+ "age": "만 10세 이상",
+ "crew": "이나원, 조경훈, 노명준 등",
+ "producer": "(주) 콘텐츠 합, (주)비에이엔터테인먼트(B.A. Entertainment)",
+ "price": "전석 66,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF303908_202610211122192850.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1759289"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015045"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/60711"
+  }
+ ],
+ "updated": "2026-10-21 11:22:55",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T10:52:32"
+}
