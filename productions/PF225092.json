@@ -1,0 +1,55 @@
+{
+ "id": "PF225092",
+ "title": "괴물B",
+ "genre": "연극",
+ "from": "2023-10-07",
+ "to": "2023-10-15",
+ "venue": "서강대 메리홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF225092_230904_111109.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이두성",
+  "지춘성",
+  "이영주",
+  "이은정",
+  "이상홍",
+  "조성현",
+  "최지혜"
+ ],
+ "facilityId": "FC001216",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "손원정, 손호성, 김형연 등",
+ "producer": "극단 코끼리만보",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00), HOL(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225092_230904_1111090.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012360"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD23809"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47135"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2550"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&page_no=1&start=0&p_idx=11771"
+  }
+ ],
+ "updated": "2023-09-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

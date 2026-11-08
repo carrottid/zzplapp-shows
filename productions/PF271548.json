@@ -1,0 +1,51 @@
+{
+ "id": "PF271548",
+ "title": "아몬드",
+ "genre": "뮤지컬",
+ "from": "2025-09-19",
+ "to": "2025-12-14",
+ "venue": "유니플렉스 (1관(대극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF271548_250911_152829.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이승원",
+  "윤소호",
+  "김리현",
+  "윤승우",
+  "김건우",
+  "조환지",
+  "김이후"
+ ],
+ "facilityId": "FC001233",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "강병원, 박서연, 이성준 등",
+ "producer": "라이브(주), 우리별이야기",
+ "price": "R석 99,000원, S석 77,000원, A석 55,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF271548_202509100446161980.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1551728"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25011300"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78704"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6677"
+  }
+ ],
+ "updated": "2025-12-09 11:36:50",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

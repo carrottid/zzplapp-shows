@@ -1,0 +1,37 @@
+{
+ "id": "PF216531",
+ "title": "스타 뮤지컬 콘서트, 이충주x박진주x백형훈",
+ "genre": "뮤지컬",
+ "from": "2023-05-07",
+ "to": "2023-05-07",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF216531_230410_160901.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이충주",
+  "백형훈",
+  "박진주"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "price": "VIP석 110,000원, R석 80,000원, S석 60,000원, A석 40,000원",
+ "schedule": "일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216531_230410_0409010.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005111"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259760"
+  }
+ ],
+ "updated": "2023-04-10 17:05:52",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "PF187464",
+ "title": "레베카",
+ "genre": "뮤지컬",
+ "from": "2022-04-22",
+ "to": "2022-04-24",
+ "venue": "인천문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF187464_220302_130217.gif",
+ "area": "인천광역시",
+ "state": "공연완료",
+ "cast": [
+  "민영기",
+  "이장우",
+  "신영숙",
+  "옥주현",
+  "임혜영",
+  "박지연",
+  "이지혜"
+ ],
+ "facilityId": "FC000013",
+ "runtime": "2시간 50분",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 김지원, 권은아 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 150,000원, R석 130,000원, S석 90,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187464_220302_0102171.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187464_220302_0102170.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266151"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002120"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=206619"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41551"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39241"
+  },
+  {
+   "name": "인천문화예술회관",
+   "url": "http://art.incheon.go.kr"
+  }
+ ],
+ "updated": "2022-03-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

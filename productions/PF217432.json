@@ -1,0 +1,52 @@
+{
+ "id": "PF217432",
+ "title": "보이A",
+ "genre": "뮤지컬",
+ "from": "2023-05-30",
+ "to": "2023-08-20",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217432_230426_105404.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "현석준",
+  "김현진",
+  "이동수",
+  "김태한",
+  "황만익",
+  "김방언",
+  "곽다인"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이승진, 박정아, 김태형 등",
+ "producer": "(주)스튜디오 단단",
+ "price": "전석 66,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 금요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217432_230426_1054041.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217432_230426_1054040.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/903053"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005596"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45677"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000009921"
+  }
+ ],
+ "updated": "2023-04-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

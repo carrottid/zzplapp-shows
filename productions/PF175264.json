@@ -1,0 +1,39 @@
+{
+ "id": "PF175264",
+ "title": "미롱",
+ "genre": "연극",
+ "from": "2021-06-17",
+ "to": "2021-06-19",
+ "venue": "홍익대 대학로 아트센터 (소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF175264_210528_113804.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정태화",
+  "이태훈",
+  "신정혜",
+  "박수정",
+  "선영욱",
+  "안대천",
+  "양동진"
+ ],
+ "facilityId": "FC001208",
+ "runtime": "1시간 30분",
+ "age": "전체 관람가",
+ "crew": "홍란주, 이용탁, 이현주 등",
+ "producer": "극단 시선",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF175264_210528_1138040.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21004445"
+  }
+ ],
+ "updated": "2021-05-28 14:58:27",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "PF192072",
+ "title": "내일 바다에",
+ "genre": "연극",
+ "from": "2022-06-25",
+ "to": "2022-07-10",
+ "venue": "유니플렉스 (3관(소극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF192072_220602_095004.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김도현",
+  "윤지현",
+  "강연정",
+  "양서윤",
+  "성주환",
+  "이지율",
+  "심수영"
+ ],
+ "facilityId": "FC001233",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "안재승, 전순열, 최단 등",
+ "price": "전석 50,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192072_220602_0950040.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22006338"
+  }
+ ],
+ "updated": "2022-06-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

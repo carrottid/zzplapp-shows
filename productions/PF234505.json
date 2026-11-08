@@ -1,0 +1,49 @@
+{
+ "id": "PF234505",
+ "title": "오즈",
+ "genre": "뮤지컬",
+ "from": "2024-02-27",
+ "to": "2024-05-06",
+ "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF234505_240126_092604.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "문성일",
+  "이승헌",
+  "황두현",
+  "양지원",
+  "송유택",
+  "홍성원",
+  "송상훈"
+ ],
+ "facilityId": "FC000382",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "박지혜, 문소현, 양지해 등",
+ "producer": "(주)아뮤즈엔터테인먼트",
+ "price": "R석 60,000원, S석 50,000원, A석 40,000원",
+ "schedule": "월요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234505_240409_0917352.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234505_240409_0917351.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234505_240409_0918115.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001224"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011581"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011566"
+  }
+ ],
+ "updated": "2024-01-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

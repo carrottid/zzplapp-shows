@@ -1,0 +1,52 @@
+{
+ "id": "PF190804",
+ "title": "비더슈탄트",
+ "genre": "뮤지컬",
+ "from": "2022-06-30",
+ "to": "2022-10-09",
+ "venue": "링크아트센터드림 (드림 3관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190804_220510_110516.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최석진",
+  "안지환",
+  "황순종",
+  "김바다",
+  "김지온",
+  "동현",
+  "김이담",
+  "김도현"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "정은비, 최대명, 라현아 등",
+ "producer": "미스틱컬처",
+ "price": "전석 66,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190804_220510_1142511.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266351"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/699068"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005589"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/42155"
+  }
+ ],
+ "updated": "2022-05-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

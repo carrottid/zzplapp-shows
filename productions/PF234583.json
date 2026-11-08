@@ -1,0 +1,40 @@
+{
+ "id": "PF234583",
+ "title": "군주",
+ "genre": "연극",
+ "from": "2024-02-07",
+ "to": "2024-02-08",
+ "venue": "대학로 자유극장 (자유문화발전소) (대학로 자유극장 (자유문화발전소) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF234583_240129_103549.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이준식",
+  "김남영",
+  "고승우",
+  "이재원",
+  "김효진",
+  "손재환",
+  "원영"
+ ],
+ "facilityId": "FC000785",
+ "runtime": "1시간",
+ "age": "만 15세 이상",
+ "crew": "김도형, 이근영, 정예림 등",
+ "price": "전석 20,000원",
+ "schedule": "수요일 ~ 목요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234583_240129_1035492.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234583_240129_1035491.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234583_240129_1035490.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001200"
+  }
+ ],
+ "updated": "2024-01-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

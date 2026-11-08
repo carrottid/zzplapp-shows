@@ -1,0 +1,43 @@
+{
+ "id": "PF274251",
+ "title": "마리 퀴리",
+ "genre": "뮤지컬",
+ "from": "2025-11-08",
+ "to": "2025-11-09",
+ "venue": "고양어울림누리 (어울림극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF274251_250916_141303.jpg",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "옥주현",
+  "이봄소리",
+  "김진욱",
+  "김호경",
+  "박시원",
+  "김보미",
+  "박영빈"
+ ],
+ "facilityId": "FC000819",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "price": "R석 90,000원, S석 70,000원, A석 50,000원",
+ "schedule": "토요일(18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF274251_202509160213038082.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF274251_202509160213038021.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF274251_202509160213037940.jpg"
+ ],
+ "links": [
+  {
+   "name": "고양어울림누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000008035"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25014956"
+  }
+ ],
+ "updated": "2025-12-08 07:26:07",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

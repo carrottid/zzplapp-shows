@@ -1,0 +1,38 @@
+{
+ "id": "PF175484",
+ "title": "카르타고",
+ "genre": "연극",
+ "from": "2021-07-01",
+ "to": "2021-07-03",
+ "venue": "두산아트센터 (Space111)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF175484_210603_103452.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강현우",
+  "유독현",
+  "조하나",
+  "최호영",
+  "조수연",
+  "유민경",
+  "김준광"
+ ],
+ "facilityId": "FC000402",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "신진호, 공한식, 박준범 등",
+ "producer": "두산아트센터((재)두산연강재단)",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF175484_210603_1034520.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000220"
+  }
+ ],
+ "updated": "2021-06-03 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

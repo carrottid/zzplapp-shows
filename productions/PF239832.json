@@ -1,0 +1,40 @@
+{
+ "id": "PF239832",
+ "title": "배니싱",
+ "genre": "뮤지컬",
+ "from": "2024-10-19",
+ "to": "2024-10-19",
+ "venue": "부산시민회관 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF239832_240424_111642.jpg",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "김종구",
+  "박규원",
+  "김찬종"
+ ],
+ "facilityId": "FC000497",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "한재은, 주미나, 성종완 등",
+ "producer": "(주)네오프로덕션",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "토요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF239832_240903_0222392.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF239832_240903_0222391.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24005219"
+  },
+  {
+   "name": "부산문화회관",
+   "url": "http://www.bscc.or.kr/01_perfor/?mcode=0401010200&mode=2&no=24831"
+  }
+ ],
+ "updated": "2024-11-01 08:42:12",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

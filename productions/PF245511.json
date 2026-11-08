@@ -1,0 +1,47 @@
+{
+ "id": "PF245511",
+ "title": "우정만리",
+ "genre": "연극",
+ "from": "2024-10-18",
+ "to": "2024-10-27",
+ "venue": "국립극장 (하늘극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245511_240722_144447.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이일섭",
+  "최우성",
+  "류진현",
+  "정운봉",
+  "권혁풍",
+  "강성해",
+  "임성주"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이대영, 김예기, 신수이 등",
+ "price": "R석 40,000원, S석 30,000원, 휠체어석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(17:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245511_240905_0100272.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245511_240905_0100271.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266750"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24012786"
+  },
+  {
+   "name": "",
+   "url": "https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70961"
+  }
+ ],
+ "updated": "2025-04-04 16:10:45",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

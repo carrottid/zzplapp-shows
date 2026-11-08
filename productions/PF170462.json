@@ -1,0 +1,38 @@
+{
+ "id": "PF170462",
+ "title": "베르나르다 알바",
+ "genre": "뮤지컬",
+ "from": "2021-01-22",
+ "to": "2021-03-14",
+ "venue": "국립정동극장 (국립정동극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170462_201207_094412.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정영주",
+  "이소정",
+  "강애심",
+  "황석정",
+  "최유하",
+  "김려원",
+  "임진아"
+ ],
+ "facilityId": "FC000006",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "producer": "(재)국립정동극장, (주)브이컴퍼니",
+ "price": "전석 70,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,18:30), HOL(15:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF170462_201207_0944120.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20008790"
+  }
+ ],
+ "updated": "2020-12-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

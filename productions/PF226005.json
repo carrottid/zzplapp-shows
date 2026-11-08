@@ -1,0 +1,47 @@
+{
+ "id": "PF226005",
+ "title": "빨래",
+ "genre": "뮤지컬",
+ "from": "2023-10-12",
+ "to": "2024-05-26",
+ "venue": "유니플렉스 (2관(중극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226005_230918_103152.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "장혜민",
+  "강연정",
+  "서은지",
+  "강기헌",
+  "문남권",
+  "이진우",
+  "최정화"
+ ],
+ "facilityId": "FC001233",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "추민주, 민찬홍, 여신동 등",
+ "producer": "(주)씨에이치수박",
+ "price": "R석 66,000원, S석 55,000원, 시야제한석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,15:00,18:30), 수요일(15:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226005_230918_1031520.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/987139"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012969"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47130"
+  }
+ ],
+ "updated": "2023-09-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

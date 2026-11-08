@@ -1,0 +1,67 @@
+{
+ "id": "PF227224",
+ "title": "컴프롬어웨이",
+ "genre": "뮤지컬",
+ "from": "2023-11-28",
+ "to": "2024-02-18",
+ "venue": "광림아트센터 (BBCH홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF227224_231006_135336.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "남경주",
+  "서현철",
+  "최정원",
+  "이정열",
+  "고창석",
+  "정영주",
+  "신영숙"
+ ],
+ "facilityId": "FC001370",
+ "runtime": "2시간 10분",
+ "age": "만 6세 이상",
+ "crew": "김영욱, 이성훈, 송한샘 등",
+ "producer": "(주)쇼노트",
+ "price": "VIP석 150,000원, OP석 130,000원, R석 120,000원, S석 80,000원, A석 60,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일(14:00,18:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF227224_231006_0153360.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/268272"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1003593"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013839"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=208808"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=361"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47295"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77583"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011160"
+  }
+ ],
+ "updated": "2023-10-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

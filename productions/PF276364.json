@@ -1,0 +1,52 @@
+{
+ "id": "PF276364",
+ "title": "레드북",
+ "genre": "뮤지컬",
+ "from": "2025-12-25",
+ "to": "2025-12-27",
+ "venue": "HD아트센터(구 현대예술관) (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF276364_251016_140425.jpg",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "옥주현",
+  "박은혜",
+  "민경아",
+  "송원근",
+  "지현우",
+  "김성식",
+  "조풍래"
+ ],
+ "facilityId": "FC001166",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "송은도, 임병우, 김영조 등",
+ "producer": "(주)아떼오드 서울사무소, (주)타입커뮤니케이션",
+ "price": "VIP석 160,000원, R석 140,000원, A석 110,000원, B석 80,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), HOL(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF276364_202510160204254231.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF276364_202510160204254070.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "https://www.ticketlink.co.kr/product/59226"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1517024"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "https://tickets.interpark.com/goods/25014982"
+  },
+  {
+   "name": "현대예술관",
+   "url": "https://www.hd-artscenter.co.kr/performance/list.do?keyword=&ticketingitemseq=0000003780&mid=0000&SVC_ID=detail&unicodeseqitemtype=0000000607&now=Y&pageNo=1&returnPage=list"
+  }
+ ],
+ "updated": "2025-10-20 15:59:20",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "PF284007",
+ "title": "THE WASP",
+ "genre": "연극",
+ "from": "2026-03-08",
+ "to": "2026-04-26",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF284007_260128_131244.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김려원",
+  "한지은",
+  "이경미",
+  "권유리",
+  "정우연"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "crew": "이항나, 윤푸름, 최영은 등",
+ "producer": "(주) 글림아티스트",
+ "price": "R석 66,000원, S석 55,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF284007_202601280116278910.png"
+ ],
+ "links": [
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=36761&menuNo=200320"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/56921"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79090"
+  }
+ ],
+ "updated": "2026-04-29 14:24:22",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

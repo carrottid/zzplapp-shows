@@ -1,0 +1,44 @@
+{
+ "id": "PF223410",
+ "title": "뷰티풀 라이프",
+ "genre": "연극",
+ "from": "2023-12-21",
+ "to": "2023-12-24",
+ "venue": "천안예술의전당 (소공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF223410_230807_123920.gif",
+ "area": "충청남도",
+ "state": "공연완료",
+ "cast": [
+  "권순미",
+  "김효진",
+  "이해인",
+  "김다정",
+  "강민주",
+  "박세영"
+ ],
+ "facilityId": "FC001383",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,16:30,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223410_230807_1239200.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/45185"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/961812"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23010669"
+  }
+ ],
+ "updated": "2023-08-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PF262857",
+ "title": "고도를 기다리며 기부공연",
+ "genre": "연극",
+ "from": "2025-05-13",
+ "to": "2025-05-13",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF262857_250411_114418.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신순기",
+  "박근형",
+  "김학철",
+  "조달환",
+  "이시목"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "2시간 20분",
+ "age": "만 13세 이상",
+ "crew": "오경택, 김종석, 김건영 등",
+ "producer": "(주)파크컴퍼니",
+ "price": "R석 88,000원, S석 66,000원, 발코니석 44,000원",
+ "schedule": "화요일 ~ 수요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF262857_250411_1144180.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25005389"
+  }
+ ],
+ "updated": "2025-04-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

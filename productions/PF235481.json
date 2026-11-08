@@ -1,0 +1,50 @@
+{
+ "id": "PF235481",
+ "title": "이것은 사랑이야기가 아니다",
+ "genre": "연극",
+ "from": "2024-03-19",
+ "to": "2024-03-31",
+ "venue": "국립정동극장 (국립정동극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF235481_240215_103638.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김시영",
+  "김효진",
+  "백소정",
+  "박은호",
+  "경지은"
+ ],
+ "facilityId": "FC000006",
+ "runtime": "1시간 25분",
+ "age": "만 11세 이상",
+ "crew": "나희경, 김태령, 이효진 등",
+ "producer": "(재)국립정동극장, 페미씨어터",
+ "price": "전석 50,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235481_240215_1036391.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235481_240215_1036390.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001944"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77706"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011471"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1708420986"
+  }
+ ],
+ "updated": "2025-05-12 17:34:15",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

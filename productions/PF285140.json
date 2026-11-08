@@ -1,0 +1,58 @@
+{
+ "id": "PF285140",
+ "title": "연극열전10, 마우스피스",
+ "genre": "연극",
+ "from": "2026-04-04",
+ "to": "2026-06-21",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285140_260213_105100.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김여진",
+  "우정원",
+  "김정",
+  "전성우",
+  "이재균",
+  "문유강"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "1시간 40분",
+ "age": "만 16세 이상",
+ "crew": "부새롬, 유은주, 김종석 등",
+ "producer": "(주)연극열전",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,18:30), HOL(15:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285140_202602131051004930.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1595100"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26001237"
+  },
+  {
+   "name": "연극열전",
+   "url": "https://www.thebestplay.co.kr/achive/perf_view.asp?id=280124"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/57015"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79255"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7024"
+  }
+ ],
+ "updated": "2026-06-08 15:35:54",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

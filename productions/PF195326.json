@@ -1,0 +1,40 @@
+{
+ "id": "PF195326",
+ "title": "리틀잭 콘서트",
+ "genre": "뮤지컬",
+ "from": "2022-08-19",
+ "to": "2022-08-21",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF195326_220727_135350.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "황민수",
+  "윤진솔",
+  "랑연",
+  "김준영",
+  "한서윤"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "price": "R석 55,000원, S석 33,000원",
+ "schedule": "금요일(20:00), 토요일(19:00), 일요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195326_220727_0153501.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195326_220727_0153500.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/739054"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/42982"
+  }
+ ],
+ "updated": "2022-07-27 14:39:28",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

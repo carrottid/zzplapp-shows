@@ -1,0 +1,54 @@
+{
+ "id": "PF202217",
+ "title": "베토벤: Beethoven Secret",
+ "genre": "뮤지컬",
+ "from": "2023-01-12",
+ "to": "2023-03-26",
+ "venue": "예술의전당 [서울] (오페라극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF202217_221115_164026.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박효신",
+  "박은태",
+  "조정은",
+  "옥주현",
+  "윤공주",
+  "이해준",
+  "윤소호"
+ ],
+ "facilityId": "FC000001",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 왕용범, 이단비 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "R석 170,000원, S석 140,000원, A석 110,000원, B석 80,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일(19:30), 금요일 ~ 토요일(14:30,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF202217_221115_0440260.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22015806"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=207516"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/44155"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76968"
+  },
+  {
+   "name": "티몬",
+   "url": "https://www.tmon.co.kr/deal/16191120078"
+  }
+ ],
+ "updated": "2022-11-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

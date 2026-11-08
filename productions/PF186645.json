@@ -1,0 +1,55 @@
+{
+ "id": "PF186645",
+ "title": "미오 프라텔로",
+ "genre": "뮤지컬",
+ "from": "2022-03-08",
+ "to": "2022-06-19",
+ "venue": "링크아트센터드림 (드림 1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186645_220211_092835.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이승현",
+  "김대현",
+  "박규원",
+  "최석진",
+  "김순택",
+  "최호승",
+  "유현석"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "노재환, 박정인, 송은도 등",
+ "producer": "(주)콘텐츠플래닝",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186645_220211_0928350.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/37422"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001335"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76032"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007239"
+  }
+ ],
+ "updated": "2022-02-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

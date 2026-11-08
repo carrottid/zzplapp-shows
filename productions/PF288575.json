@@ -1,0 +1,63 @@
+{
+ "id": "PF288575",
+ "title": "베니스의 상인",
+ "genre": "연극",
+ "from": "2026-07-08",
+ "to": "2026-08-09",
+ "venue": "국립극장 (해오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF288575_260403_102924.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박근형",
+  "이승주",
+  "정기열",
+  "최수영",
+  "원진아",
+  "이상윤",
+  "김슬기"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "2시간 20분",
+ "age": "만 7세 이상",
+ "crew": "오경택",
+ "producer": "(주)파크컴퍼니",
+ "price": "VIP석 110,000원, OP석  99,000원, R석 88,000원, S석 66,000원, A석 44,000원",
+ "schedule": "화요일(19:30), 수요일(15:00), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00), HOL(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF288575_202604240531205930.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21008&perfId=267114"
+  },
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13755"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1586928"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26005135"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/57867"
+  },
+  {
+   "name": "카카오톡예약하기",
+   "url": "https://booking.kakao.com/detail/ticket/625768"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7134"
+  }
+ ],
+ "updated": "2026-07-01 13:28:20",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

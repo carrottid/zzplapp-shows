@@ -1,0 +1,43 @@
+{
+ "id": "PF172477",
+ "title": "가면을 벗다",
+ "genre": "연극",
+ "from": "2021-04-03",
+ "to": "2021-04-11",
+ "venue": "SH아트홀 (SH아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF172477_210316_100317.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이연수",
+  "나기수",
+  "이일섭",
+  "정영신",
+  "정인",
+  "권영민",
+  "이국선"
+ ],
+ "facilityId": "FC001384",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "현천행, 반진수, 이동준 등",
+ "producer": "(주)데일리창, (주)미스터 리 아트랩, 창크리에이티브",
+ "price": "R석 50,000원, S석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF172477_210322_0438371.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21001785"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1389"
+  }
+ ],
+ "updated": "2021-03-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

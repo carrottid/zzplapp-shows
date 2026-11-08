@@ -1,0 +1,50 @@
+{
+ "id": "PF258804",
+ "title": "노베첸토",
+ "genre": "연극",
+ "from": "2025-03-19",
+ "to": "2025-06-08",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF258804_250212_103835.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "오만석",
+  "주민진",
+  "유승현",
+  "강찬",
+  "김여랑",
+  "조영훈"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 20분",
+ "age": "만 9세 이상",
+ "crew": "한승원, 함영준, 김은영 등",
+ "producer": "(주)에이치제이컬쳐(HJ컬쳐)",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF258804_250212_1034430.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1345792"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25001733"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/52537"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78378"
+  }
+ ],
+ "updated": "2025-05-26 13:56:19",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PF248080",
+ "title": "빵야",
+ "genre": "연극",
+ "from": "2024-10-19",
+ "to": "2024-10-19",
+ "venue": "영등포아트홀 (영등포아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF248080_240830_133659.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박정원",
+  "이진희",
+  "오대석",
+  "송상훈",
+  "김세환",
+  "금보미",
+  "진초록"
+ ],
+ "facilityId": "FC000059",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "고강민, 김은성, 김태형 등",
+ "producer": "(주)쇼노트, (주)엠비제트컴퍼니",
+ "price": "전석 66,000원, 투투특별석 20,000원",
+ "schedule": "토요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF248080_240830_0136590.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24012201"
+  }
+ ],
+ "updated": "2024-11-01 09:06:39",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

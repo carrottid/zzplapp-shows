@@ -1,0 +1,32 @@
+{
+ "id": "PF179337",
+ "title": "라흐마니노프",
+ "genre": "뮤지컬",
+ "from": "2021-11-05",
+ "to": "2021-11-06",
+ "venue": "부산문화회관 (중극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF179337_210907_111001.jpg",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "박유덕",
+  "정동화"
+ ],
+ "facilityId": "FC000167",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "price": "R석 50,000원, S석 30,000원, A석 20,000원",
+ "schedule": "금요일(19:30), 토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF179337_210907_1110010.jpg"
+ ],
+ "links": [
+  {
+   "name": "부산문화회관(컬처)",
+   "url": "https://www.bscc.or.kr/01_perfor/?mcode=0401010100&mode=2&no=22209&year=2021&month=11"
+  }
+ ],
+ "updated": "2021-09-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

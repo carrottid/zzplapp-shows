@@ -1,0 +1,37 @@
+{
+ "id": "PF188798",
+ "title": "사라지는 사람들",
+ "genre": "연극",
+ "from": "2022-04-19",
+ "to": "2022-04-20",
+ "venue": "세종문화회관 (세종M씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF188798_220331_110812.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "금예지",
+  "박지영",
+  "강지수",
+  "서혜주",
+  "이수정",
+  "김지영",
+  "김명준"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 10분",
+ "age": "만 7세 이상",
+ "price": "전석 1,000원",
+ "schedule": "화요일 ~ 수요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF188798_220331_1108120.jpg"
+ ],
+ "links": [
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=32981&menuNo=200004"
+  }
+ ],
+ "updated": "2022-03-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

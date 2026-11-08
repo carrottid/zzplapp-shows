@@ -1,0 +1,43 @@
+{
+ "id": "PF221699",
+ "title": "토카타",
+ "genre": "연극",
+ "from": "2023-08-19",
+ "to": "2023-09-10",
+ "venue": "LG아트센터 서울 (U+ 스테이지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF221699_230707_112433.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "손숙",
+  "김수현",
+  "정영두"
+ ],
+ "facilityId": "FC003045",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "배삼식, 손진책, 김창기 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "R석 70,000원, S석 60,000원, 발코니석 50,000원",
+ "schedule": "수요일(15:00,19:30), 목요일(19:30), 금요일(15:00), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221699_230707_1124330.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "https://www.lgart.com/product/performance/252772"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000044"
+  },
+  {
+   "name": "신시컴퍼니",
+   "url": "http://www.iseensee.com/Home/Perf/PerfDetail.aspx?IdPerf=1174"
+  }
+ ],
+ "updated": "2023-07-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

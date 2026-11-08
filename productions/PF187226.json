@@ -1,0 +1,67 @@
+{
+ "id": "PF187226",
+ "title": "불가불가",
+ "genre": "연극",
+ "from": "2022-03-26",
+ "to": "2022-04-10",
+ "venue": "세종문화회관 (세종M씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF187226_220224_105931.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강신구",
+  "김신기",
+  "주성환",
+  "강일",
+  "곽성은",
+  "조영규",
+  "최나라"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이철희, 문삼화, 남경식 등",
+ "price": "R석 55,000원, S석 40,000원, A석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(15:00,18:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187226_220224_1059311.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187226_220224_1059310.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/37406"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0002896"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=206636"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=32953&menuNo=200004"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41527"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39230"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76077"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007218"
+  }
+ ],
+ "updated": "2022-02-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

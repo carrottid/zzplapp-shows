@@ -1,0 +1,55 @@
+{
+ "id": "PF294425",
+ "title": "사칠",
+ "genre": "뮤지컬",
+ "from": "2026-08-04",
+ "to": "2026-10-25",
+ "venue": "링크아트센터드림 (드림 2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF294425_260623_130251.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "황민수",
+  "선한국",
+  "김찬종",
+  "임태현",
+  "박정혁",
+  "김재한"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이헌재, 박민재, 김치영 등",
+ "producer": "(주)네오, 극단 좋은사람",
+ "price": "전석 66,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일(20:00), 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF294425_202606230102513562.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF294425_202606230102513361.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/64013"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1351667"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/58949"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1785464320"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7347"
+  }
+ ],
+ "updated": "2026-09-28 17:32:33",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

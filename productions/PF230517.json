@@ -1,0 +1,42 @@
+{
+ "id": "PF230517",
+ "title": "국립극장 기획공연, 맥베스",
+ "genre": "연극",
+ "from": "2024-06-13",
+ "to": "2024-06-16",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230517_240305_134819.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "금예지",
+  "김우경",
+  "박지영",
+  "오서진",
+  "우지양",
+  "이혜진",
+  "김소진"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 20분",
+ "age": "만 7세 이상",
+ "crew": "김미란, 이향하, 최성대 등",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230517_240103_0432591.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266506"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017126"
+  }
+ ],
+ "updated": "2025-04-04 15:23:26",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

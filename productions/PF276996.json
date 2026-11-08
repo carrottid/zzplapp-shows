@@ -1,0 +1,51 @@
+{
+ "id": "PF276996",
+ "title": "팬레터",
+ "genre": "뮤지컬",
+ "from": "2025-12-05",
+ "to": "2026-02-22",
+ "venue": "예술의전당 [서울] (CJ 토월극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF276996_251022_114725.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정용훈",
+  "김종구",
+  "김경수",
+  "이규형",
+  "문성일",
+  "윤소호",
+  "김리현"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "강병원, 박서연, 김태형 등",
+ "producer": "라이브(주)",
+ "price": "R석 110,000원, OP석  110,000원, S석 88,000원, A석 66,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(14:30,19:30), 토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF276996_202510221147256520.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1557183"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25015215"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/55736"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78824"
+  }
+ ],
+ "updated": "2025-12-22 13:02:42",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

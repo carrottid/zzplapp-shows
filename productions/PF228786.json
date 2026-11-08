@@ -1,0 +1,51 @@
+{
+ "id": "PF228786",
+ "title": "딜쿠샤",
+ "genre": "뮤지컬",
+ "from": "2023-12-07",
+ "to": "2023-12-30",
+ "venue": "국립정동극장 (국립정동극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228786_231030_093811.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최인형",
+  "김현숙",
+  "김나윤",
+  "임강희",
+  "조영태",
+  "한상호",
+  "이유리"
+ ],
+ "facilityId": "FC000006",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "이종석, 박재현, 최영은 등",
+ "producer": "(재)국립정동극장",
+ "price": "전석 70,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228786_231030_0938110.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015577"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1699860497"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011097"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=11982"
+  }
+ ],
+ "updated": "2023-10-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

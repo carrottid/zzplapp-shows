@@ -1,0 +1,47 @@
+{
+ "id": "PF273905",
+ "title": "빵야",
+ "genre": "연극",
+ "from": "2025-11-14",
+ "to": "2025-11-16",
+ "venue": "부산문화회관 (중극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF273905_250912_102122.gif",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "김지온",
+  "전성민",
+  "박동욱",
+  "송상훈",
+  "허영손",
+  "이소희",
+  "장희원"
+ ],
+ "facilityId": "FC000167",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "고강민, 김은성, 김태형 등",
+ "producer": "(주)엠비제트컴퍼니",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF273905_202509121021229140.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/831840"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25013155"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1761119194"
+  }
+ ],
+ "updated": "2025-10-30 11:32:37",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

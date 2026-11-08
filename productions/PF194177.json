@@ -1,0 +1,66 @@
+{
+ "id": "PF194177",
+ "title": "싱크넥스트22, 원더보이",
+ "genre": "뮤지컬",
+ "from": "2022-08-19",
+ "to": "2022-08-27",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF194177_220707_094036.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김범준",
+  "이휘종",
+  "박란주",
+  "이혜란",
+  "김지철",
+  "이승재",
+  "고준식"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김덕희, 성재현, 박윤솔 등",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF194177_220707_0940360.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266567"
+  },
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/39153"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0003073"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=207068"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "http://www.sejongpac.or.kr/"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/42816"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76514"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000008014"
+  }
+ ],
+ "updated": "2022-07-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

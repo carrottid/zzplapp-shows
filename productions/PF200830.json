@@ -1,0 +1,43 @@
+{
+ "id": "PF200830",
+ "title": "물랑루즈!",
+ "genre": "뮤지컬",
+ "from": "2022-12-16",
+ "to": "2023-03-05",
+ "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF200830_221026_115658.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍광호",
+  "이충주",
+  "김지우",
+  "김용수",
+  "이정열",
+  "손준호",
+  "이창용"
+ ],
+ "facilityId": "FC000031",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "존 로건, 알렉스 팀버스, 소냐 타예 등",
+ "producer": "(주)CJ ENM, (주)인터파크",
+ "price": "VIP석 180,000원, R석 150,000원, S석 120,000원, A석 90,000원",
+ "schedule": "화요일(19:30), 수요일(14:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:30), HOL(14:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF200830_221209_0239431.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22014586"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000009012"
+  }
+ ],
+ "updated": "2022-10-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

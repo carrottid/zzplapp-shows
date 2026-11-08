@@ -1,0 +1,53 @@
+{
+ "id": "PF225321",
+ "title": "맘마미아!",
+ "genre": "뮤지컬",
+ "from": "2023-11-10",
+ "to": "2023-11-12",
+ "venue": "천안예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF225321_230906_105818.jpg",
+ "area": "충청남도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "신영숙",
+  "최태이",
+  "홍지민",
+  "김영주",
+  "박준면",
+  "김경선"
+ ],
+ "facilityId": "FC001383",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 150,000원, R석 130,000원, S석 90,000원, A석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225321_230906_1058183.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225321_230906_1058182.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225321_230906_1058181.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225321_230906_1058180.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/268163"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/981444"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012527"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47042"
+  }
+ ],
+ "updated": "2023-09-06 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

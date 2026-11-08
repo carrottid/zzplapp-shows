@@ -1,0 +1,43 @@
+{
+ "id": "PF263679",
+ "title": "선택",
+ "genre": "연극",
+ "from": "2025-05-22",
+ "to": "2025-06-01",
+ "venue": "SH아트홀 (SH아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF263679_250423_103629.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "한송희",
+  "한수림",
+  "이현호",
+  "이동훈",
+  "이새롬",
+  "김희연"
+ ],
+ "facilityId": "FC001384",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이기쁨, 남경식, 신동선 등",
+ "producer": "창작집단LAS",
+ "price": "전석 40,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF263679_250423_1036291.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF263679_250423_1036290.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1386886"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/53453"
+  }
+ ],
+ "updated": "2025-04-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

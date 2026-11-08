@@ -1,0 +1,40 @@
+{
+ "id": "PF216064",
+ "title": "영웅",
+ "genre": "뮤지컬",
+ "from": "2023-05-26",
+ "to": "2023-05-28",
+ "venue": "천안예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF216064_230331_165620.gif",
+ "area": "충청남도",
+ "state": "공연완료",
+ "cast": [
+  "정성화",
+  "양준모",
+  "민우혁",
+  "김도형",
+  "서영주",
+  "최민철",
+  "정재은"
+ ],
+ "facilityId": "FC001383",
+ "runtime": "2시간",
+ "age": "만 8세 이상",
+ "price": "VIP석 150,000원, R석 130,000원, S석 100,000원, A석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216064_230331_0456203.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216064_230331_0456202.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216064_230331_0456201.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216064_230331_0456200.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004657"
+  }
+ ],
+ "updated": "2023-04-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

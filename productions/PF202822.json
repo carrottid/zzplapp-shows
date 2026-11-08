@@ -1,0 +1,39 @@
+{
+ "id": "PF202822",
+ "title": "패스",
+ "genre": "연극",
+ "from": "2022-12-16",
+ "to": "2022-12-18",
+ "venue": "서강대 메리홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF202822_221123_132631.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍성민",
+  "여동훈",
+  "김경환",
+  "채송화",
+  "윤예솔",
+  "황준우",
+  "김상훈"
+ ],
+ "facilityId": "FC001216",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "윤정환, 엄태환, 박이현 등",
+ "producer": "극단 산",
+ "price": "전석 30,000원",
+ "schedule": "금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF202822_221123_0126310.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22016343"
+  }
+ ],
+ "updated": "2022-11-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

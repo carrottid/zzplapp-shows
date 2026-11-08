@@ -1,0 +1,54 @@
+{
+ "id": "PF216036",
+ "title": "시티즌 오브 헬",
+ "genre": "연극",
+ "from": "2023-04-21",
+ "to": "2023-05-28",
+ "venue": "대학로 자유극장 (자유문화발전소) (대학로 자유극장 (자유문화발전소) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF216036_230331_151819.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "전박찬",
+  "이기현",
+  "김정민",
+  "강해진"
+ ],
+ "facilityId": "FC000785",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "producer": "(주)모먼트메이커",
+ "price": "전석 55,000원",
+ "schedule": "월요일(15:00), 수요일 ~ 금요일(20:00), 토요일(15:00,18:00), 일요일(15:00), HOL(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216036_230331_0318193.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216036_230331_0318192.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216036_230331_0318191.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216036_230331_0318190.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267509"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/876517"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004619"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45478"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/19502499798"
+  }
+ ],
+ "updated": "2023-03-31 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

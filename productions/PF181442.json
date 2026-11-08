@@ -1,0 +1,42 @@
+{
+ "id": "PF181442",
+ "title": "라흐마니노프",
+ "genre": "뮤지컬",
+ "from": "2021-11-20",
+ "to": "2021-11-20",
+ "venue": "군산예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF181442_211020_123346.jpg",
+ "area": "전북특별자치도",
+ "state": "공연완료",
+ "cast": [
+  "박유덕",
+  "유성재",
+  "김여랑",
+  "김동아",
+  "정연태",
+  "이승구",
+  "유승범"
+ ],
+ "facilityId": "FC000447",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "price": "R석 30,000원, S석 20,000원",
+ "schedule": "토요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181442_211020_1233460.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181442_211020_0115103.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/36139"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/599131"
+  }
+ ],
+ "updated": "2021-10-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

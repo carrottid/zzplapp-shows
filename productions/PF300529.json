@@ -1,0 +1,43 @@
+{
+ "id": "PF300529",
+ "title": "팬레터",
+ "genre": "뮤지컬",
+ "from": "2026-10-08",
+ "to": "2026-10-09",
+ "venue": "김천시문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300529_260909_155806.jpg",
+ "area": "경상북도",
+ "state": "공연완료",
+ "cast": [
+  "강필석",
+  "홍기범",
+  "원태민",
+  "이봄소리",
+  "박정표",
+  "김지욱",
+  "이승현"
+ ],
+ "facilityId": "FC001108",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김태형, 강병원, 박서연 등",
+ "producer": "라이브(주)",
+ "price": "R석 70,000원, S석 50,000원, A석 30,000원",
+ "schedule": "목요일(19:30), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF300529_202609090358067530.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/65161"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1724694"
+  }
+ ],
+ "updated": "2026-09-09 18:00:00.145157",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

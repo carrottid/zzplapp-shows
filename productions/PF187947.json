@@ -1,0 +1,35 @@
+{
+ "id": "PF187947",
+ "title": "앙상블",
+ "genre": "연극",
+ "from": "2022-04-07",
+ "to": "2022-05-08",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF187947_220314_112446.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정경순",
+  "유승락",
+  "배보람",
+  "한은주"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 40분",
+ "age": "만 8세 이상",
+ "crew": "심재찬",
+ "price": "전석 40,000원",
+ "schedule": "월요일(20:00), 수요일(15:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187947_220314_1124460.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002590"
+  }
+ ],
+ "updated": "2022-03-14 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

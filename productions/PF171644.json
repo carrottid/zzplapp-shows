@@ -1,0 +1,55 @@
+{
+ "id": "PF171644",
+ "title": "팬텀",
+ "genre": "뮤지컬",
+ "from": "2021-03-17",
+ "to": "2021-06-27",
+ "venue": "샤롯데씨어터 (샤롯데씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171644_210218_101247.PNG",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박은태",
+  "카이",
+  "전동석",
+  "규현",
+  "김소현",
+  "임선혜",
+  "이지혜"
+ ],
+ "facilityId": "FC000012",
+ "runtime": "3시간",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 권은아, 박천휘 등",
+ "producer": "(주)EMK뮤지컬컴퍼니, 롯데엔터테인먼트",
+ "price": "VIP석 150,000원, R석 130,000원, S석 100,000원, A석 70,000원",
+ "schedule": "화요일(19:00), 수요일(15:00,20:00), 목요일(19:00), 금요일(15:00,20:00), 토요일(14:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171644_210218_1012470.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000206"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=205737"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=205737"
+  },
+  {
+   "name": "SK플래닛",
+   "url": "https://skt.culturecube.co.kr:4437/contents/program.tkt"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/6374211538"
+  }
+ ],
+ "updated": "2021-02-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

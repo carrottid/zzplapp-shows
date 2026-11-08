@@ -1,0 +1,42 @@
+{
+ "id": "PF293970",
+ "title": "우화",
+ "genre": "연극",
+ "from": "2026-07-04",
+ "to": "2026-07-06",
+ "venue": "링크아트센터드림 (드림 1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF293970_260617_150101.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강민주",
+  "윤나정",
+  "최성주",
+  "배준우",
+  "인규식",
+  "차한결",
+  "신희찬"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 30분",
+ "age": "만 14세 이상",
+ "crew": "이다영, 김다은, 송소연 등",
+ "producer": "마크923(MARK923)",
+ "price": "전석 20,000원",
+ "schedule": "토요일(16:00), 일요일(15:00,19:00), 월요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF293970_202606170301015853.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF293970_202606170301015652.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF293970_202606170301015571.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF293970_202606170301015330.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26008711"
+  }
+ ],
+ "updated": "2026-06-17 18:00:04.132085",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

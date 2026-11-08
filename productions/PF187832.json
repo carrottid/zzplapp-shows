@@ -1,0 +1,59 @@
+{
+ "id": "PF187832",
+ "title": "레베카",
+ "genre": "뮤지컬",
+ "from": "2022-05-06",
+ "to": "2022-05-08",
+ "venue": "용인포은아트홀 (용인포은아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF187832_220311_093506.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "민영기",
+  "김준현",
+  "이장우",
+  "신영숙",
+  "옥주현",
+  "임혜영",
+  "박지연"
+ ],
+ "facilityId": "FC000057",
+ "runtime": "2시간 50분",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 김지원, 권은아 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 150,000원, R석 130,000원, S석 90,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187832_220311_0935060.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266163"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/663143"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002578"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=206651"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41639"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39264"
+  }
+ ],
+ "updated": "2022-03-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

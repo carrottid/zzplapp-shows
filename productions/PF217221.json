@@ -1,0 +1,39 @@
+{
+ "id": "PF217221",
+ "title": "브랜든 리 뮤지컬 심포니 콘서트 Vol.2, WestEnd＆Disney",
+ "genre": "뮤지컬",
+ "from": "2023-05-06",
+ "to": "2023-05-06",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217221_230421_114228.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이성준",
+  "박민성",
+  "배다해"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "2시간",
+ "age": "만 5세 이상",
+ "crew": "이성준 등",
+ "price": "VIP석 121,000원, R석 99,000원, S석 77,000원, A석 55,000원",
+ "schedule": "토요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217221_230421_1142281.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217221_230421_1142280.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005668"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259909"
+  }
+ ],
+ "updated": "2023-04-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

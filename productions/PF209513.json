@@ -1,0 +1,42 @@
+{
+ "id": "PF209513",
+ "title": "결투",
+ "genre": "뮤지컬",
+ "from": "2023-02-05",
+ "to": "2023-04-17",
+ "venue": "링크아트센터드림 (드림 2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF209513_230109_143018.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김민범",
+  "박상혁",
+  "이준우",
+  "권익환",
+  "김제하",
+  "유성재",
+  "홍성원"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "김운기, 이희준, 박현숙 등",
+ "price": "전석 65,000원",
+ "schedule": "화요일 ~ 수요일(20:00), 목요일(16:00,20:00), 금요일(20:00), 토요일(15:00,19:00), 일요일(20:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF209513_230109_0230180.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23000134"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/44576"
+  }
+ ],
+ "updated": "2023-01-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

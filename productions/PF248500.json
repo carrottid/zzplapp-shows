@@ -1,0 +1,43 @@
+{
+ "id": "PF248500",
+ "title": "햄릿",
+ "genre": "연극",
+ "from": "2024-10-18",
+ "to": "2024-11-17",
+ "venue": "예술의전당 [서울] (CJ 토월극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF248500_240909_174504.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "조승우",
+  "박성근",
+  "정재은",
+  "전국환",
+  "김영민",
+  "김종구",
+  "백석광"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "신유청, 강태경, 황정은 등",
+ "producer": "예술의전당",
+ "price": "OP석 100,000원, R석 100,000원, S석 70,000원, A석 40,000원",
+ "schedule": "화요일 ~ 수요일(19:30), 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF248500_240906_0952420.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24012828"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/50924"
+  }
+ ],
+ "updated": "2024-10-21 16:46:29",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

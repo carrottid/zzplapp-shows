@@ -1,0 +1,60 @@
+{
+ "id": "PF204261",
+ "title": "셰익스피어 인 러브",
+ "genre": "연극",
+ "from": "2023-01-28",
+ "to": "2023-03-26",
+ "venue": "예술의전당 [서울] (CJ 토월극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF204261_221215_104837.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정문성",
+  "이상이",
+  "김성철",
+  "정소민",
+  "채수빈",
+  "김유정",
+  "송영규"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "2시간 30분",
+ "age": "만 13세 이상",
+ "crew": "김영욱, 이성훈, 송한샘 등",
+ "producer": "(주)쇼노트",
+ "price": "OP석 110,000원, 1층석 110,000원, 2층석 88,000원, 3층석 55,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF204261_221215_1048371.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF204261_221215_1048370.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22017346"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=207677"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=353"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/44392"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76990"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000009279"
+  }
+ ],
+ "updated": "2022-12-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,44 @@
+{
+ "id": "PF178025",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2021-09-25",
+ "to": "2021-09-26",
+ "venue": "울산문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF178025_210805_112514.gif",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "티파니 영",
+  "민경아",
+  "최재림",
+  "박건형",
+  "김영주"
+ ],
+ "facilityId": "FC000081",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 오민영 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 140,000원, R석 120,000원, S석 90,000원, A석 60,000원",
+ "schedule": "토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178025_210805_1125141.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178025_210805_1125140.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21006940"
+  },
+  {
+   "name": "울산문화예술회관",
+   "url": "https://ucac.ulsan.go.kr/performance/main/PER_000000000002631/detail.do?resultListCnt=NaN&resCate=ResCateCD_001&showCal="
+  }
+ ],
+ "updated": "2021-08-05 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

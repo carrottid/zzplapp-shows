@@ -1,0 +1,44 @@
+{
+ "id": "PF222052",
+ "title": "햄릿",
+ "genre": "연극",
+ "from": "2023-07-29",
+ "to": "2023-07-30",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF222052_230713_164132.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이봉련",
+  "강현우",
+  "김보나",
+  "김예림",
+  "김용준",
+  "노기용",
+  "박소연"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "2시간 20분",
+ "age": "만 11세 이상",
+ "crew": "부새롬, 정진새, 여신동 등",
+ "price": "전석 20,000원",
+ "schedule": "토요일(14:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222052_230713_0441322.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222052_230713_0441321.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222052_230713_0441320.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "https://www.ntck.or.kr/ko/performance/info/257162"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_idx=11626"
+  }
+ ],
+ "updated": "2023-07-13 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

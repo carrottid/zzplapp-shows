@@ -1,0 +1,36 @@
+{
+ "id": "PF279100",
+ "title": "Joy to the Musical",
+ "genre": "뮤지컬",
+ "from": "2025-12-15",
+ "to": "2025-12-16",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF279100_251114_140016.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이강식",
+  "윤형렬",
+  "기세중",
+  "임정모",
+  "박슬기"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "천정훈",
+ "price": "R석 160,000원, S석 130,000원, A석 100,000원, B석 60,000원, C석 30,000원, 시야방해R 112,000원, 시야방해S 91,000원, 시야방해A 70,000원",
+ "schedule": "월요일 ~ 화요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF279100_202512160523259150.png"
+ ],
+ "links": [
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/260388"
+  }
+ ],
+ "updated": "2025-12-16 18:00:03.120262",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

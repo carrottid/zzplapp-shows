@@ -1,0 +1,51 @@
+{
+ "id": "PF264519",
+ "title": "리틀잭",
+ "genre": "뮤지컬",
+ "from": "2025-06-28",
+ "to": "2025-09-21",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF264519_250509_103150.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박규원",
+  "유승현",
+  "김준영",
+  "황민수",
+  "박세미",
+  "유주연",
+  "박소현"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "crew": "한승원, 김종석, 옥경선 등",
+ "producer": "(주)에이치제이컬쳐(HJ컬쳐)",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF264519_250509_1029050.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1409020"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25006347"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/53723"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78596"
+  }
+ ],
+ "updated": "2025-06-02 15:12:07",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

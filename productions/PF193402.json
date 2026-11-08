@@ -1,0 +1,41 @@
+{
+ "id": "PF193402",
+ "title": "링크 OFF, 마지막 사건",
+ "genre": "뮤지컬",
+ "from": "2022-06-22",
+ "to": "2022-06-25",
+ "venue": "링크아트센터드림 (드림 1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF193402_220623_140040.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김종구",
+  "백기범",
+  "김찬종",
+  "정민",
+  "홍승안",
+  "조풍래"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이헌재, 성재준, 홍정의 등",
+ "producer": "(주)더 웨이브",
+ "price": "R석 35,000원, S석 25,000원",
+ "schedule": "수요일(20:00), 목요일(11:00,20:00), 금요일(11:00), 토요일(11:00,14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF193402_220623_0200403.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF193402_220623_0200402.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF193402_220623_0200401.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF193402_220623_0200400.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/39082"
+  }
+ ],
+ "updated": "2022-06-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

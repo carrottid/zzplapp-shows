@@ -1,0 +1,42 @@
+{
+ "id": "PF224821",
+ "title": "PALMTREEISLAND 2nd GALA CONCERT",
+ "genre": "뮤지컬",
+ "from": "2023-09-22",
+ "to": "2023-09-24",
+ "venue": "세종문화회관 (세종대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224821_230829_141224.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김준수",
+  "김소현",
+  "정선하",
+  "손준호",
+  "진태화",
+  "서경수",
+  "양서윤"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "producer": "(주)인터파크트리플",
+ "price": "VIP석 154,000원, R석 132,000원, S석 110,000원, A석 88,000원, B석 66,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224821_230829_0212240.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0003571"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=34446&menuNo=200004"
+  }
+ ],
+ "updated": "2023-08-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

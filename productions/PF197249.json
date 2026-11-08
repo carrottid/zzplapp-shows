@@ -1,0 +1,42 @@
+{
+ "id": "PF197249",
+ "title": "태풍이 오던 날",
+ "genre": "연극",
+ "from": "2022-09-15",
+ "to": "2022-09-18",
+ "venue": "홍익대 대학로 아트센터 (소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF197249_220830_104635.jpeg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고훈목",
+  "김설",
+  "이태훈",
+  "박현미",
+  "조하석",
+  "유종연",
+  "이혜민"
+ ],
+ "facilityId": "FC001208",
+ "runtime": "1시간 40분",
+ "age": "만 14세 이상",
+ "crew": "홍순섭, 이승희, 최인수 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF197249_220830_1046350.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011549"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1931"
+  }
+ ],
+ "updated": "2022-08-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

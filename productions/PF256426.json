@@ -1,0 +1,39 @@
+{
+ "id": "PF256426",
+ "title": "네버랜드",
+ "genre": "연극",
+ "from": "2025-01-10",
+ "to": "2025-01-26",
+ "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF256426_241230_113233.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "권영은",
+  "선유림",
+  "송민규",
+  "문병설",
+  "조희수",
+  "오시후"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 40분",
+ "age": "만 15세 이상",
+ "crew": "전세현, 김정현, 양준명 등",
+ "producer": "컨템포러리 테일즈",
+ "price": "전석 44,000원",
+ "schedule": "월요일 ~ 화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF256426_241230_1133292.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF256426_241230_1133291.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018376"
+  }
+ ],
+ "updated": "2024-12-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

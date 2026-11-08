@@ -1,0 +1,54 @@
+{
+ "id": "PF222520",
+ "title": "벤허",
+ "genre": "뮤지컬",
+ "from": "2023-09-02",
+ "to": "2023-11-19",
+ "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF222520_230721_125651.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박은태",
+  "신성록",
+  "이지훈",
+  "박민성",
+  "서경수",
+  "이정화",
+  "최지혜"
+ ],
+ "facilityId": "FC003045",
+ "runtime": "2시간 35분",
+ "age": "만 7세 이상",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일(19:30), 금요일(14:30,19:30), 토요일(14:00,19:00), 일요일(15:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222520_230721_1256510.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "https://www.lgart.com/product/performance/252780"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000049"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=208505"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010737"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/23267829862"
+  }
+ ],
+ "updated": "2023-07-21 14:38:59",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

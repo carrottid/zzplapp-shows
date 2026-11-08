@@ -1,0 +1,43 @@
+{
+ "id": "PF226243",
+ "title": "마리 퀴리",
+ "genre": "뮤지컬",
+ "from": "2023-10-14",
+ "to": "2023-10-15",
+ "venue": "부산문화회관 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226243_230920_103347.jpg",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "이정화",
+  "강혜인",
+  "최지혜",
+  "민정아",
+  "옥경민",
+  "홍유정",
+  "유낙원"
+ ],
+ "facilityId": "FC000167",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "강병원, 박서연, 천세은 등",
+ "price": "VIP석 99,000원, R석 88,000원, S석 66,000원",
+ "schedule": "토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226243_230920_1033481.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226243_230920_1033470.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013353"
+  },
+  {
+   "name": "부산문화회관",
+   "url": "http://www.bscc.or.kr/01_perfor/?mcode=0401010200&mode=2&no=24046"
+  }
+ ],
+ "updated": "2023-09-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

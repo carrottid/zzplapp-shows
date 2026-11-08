@@ -1,0 +1,41 @@
+{
+ "id": "PF250511",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2024-11-02",
+ "to": "2024-11-02",
+ "venue": "HD아트센터(구 현대예술관) (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF250511_241004_165404.JPG",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "황미영",
+  "박건형",
+  "김영주",
+  "차정현",
+  "김서준",
+  "최성대"
+ ],
+ "facilityId": "FC001166",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 김준태 등",
+ "price": "1층석 20,000원, 2층석 10,000원",
+ "schedule": "토요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250511_241004_0454043.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250511_241004_0454042.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250511_241004_0454041.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250511_241004_0454040.jpg"
+ ],
+ "links": [
+  {
+   "name": "현대예술관",
+   "url": "https://www.hhiarts.co.kr/performance/list.do?keyword=&ticketingitemseq=0000003510&mid=0000&SVC_ID=detail&unicodeseqitemtype=0000000607&now=Y&pageNo=1&returnPage=list"
+  }
+ ],
+ "updated": "2024-10-21 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

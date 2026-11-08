@@ -1,0 +1,52 @@
+{
+ "id": "PF256534",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2025-02-21",
+ "to": "2025-02-23",
+ "venue": "익산예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF256534_250102_102851.jpg",
+ "area": "전북특별자치도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "박은혜",
+  "박건형",
+  "김영주",
+  "김경선",
+  "차정현"
+ ],
+ "facilityId": "FC001356",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "타냐 나다니, 게리 크리스트, 김태훈 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 160,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF256534_250102_1023442.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF256534_250102_1022540.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/53972"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1309735"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018435"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/52129"
+  }
+ ],
+ "updated": "2025-01-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PF286500",
+ "title": "아트",
+ "genre": "연극",
+ "from": "2026-03-31",
+ "to": "2026-06-14",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF286500_260306_180651.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "엄기준",
+  "최재웅",
+  "김도빈",
+  "박은석",
+  "박건형",
+  "김재범",
+  "조풍래"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "성종완, 이승호, 이은석 등",
+ "producer": "(주)더블케이 필름 앤 씨어터 (더블케이엔터테인먼트)",
+ "price": "R석 70,000원, S석 50,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF286500_202604150131391720.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF286500_202604150131391881.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/61905"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1608345"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26003037"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/57362"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79105"
+  }
+ ],
+ "updated": "2026-05-04 17:33:33",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

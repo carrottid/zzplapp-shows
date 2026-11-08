@@ -1,0 +1,46 @@
+{
+ "id": "PF195859",
+ "title": "라흐마니노프 콘서트",
+ "genre": "뮤지컬",
+ "from": "2022-09-09",
+ "to": "2022-09-11",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF195859_220808_105647.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "유성재",
+  "박유덕",
+  "임병근",
+  "정동화",
+  "안재영",
+  "정욱진",
+  "김현진"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "금요일(15:00), 토요일(18:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195859_220808_1056471.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195859_220808_1056470.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266682"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/746245"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/43051"
+  }
+ ],
+ "updated": "2022-08-08 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

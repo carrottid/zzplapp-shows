@@ -1,0 +1,39 @@
+{
+ "id": "PF185256",
+ "title": "NT Live, 로미오와 줄리엣",
+ "genre": "연극",
+ "from": "2022-02-17",
+ "to": "2022-02-20",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF185256_211229_104418.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "제시 버클리",
+  "조시 오코너"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "사이먼 고드원",
+ "producer": "영국 국립극장",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF185256_211229_1044181.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF185256_211229_1044180.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=266116"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013293"
+  }
+ ],
+ "updated": "2021-12-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

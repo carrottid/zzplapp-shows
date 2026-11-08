@@ -1,0 +1,47 @@
+{
+ "id": "PF279760",
+ "title": "노맨틱 코미디",
+ "genre": "연극",
+ "from": "2025-12-03",
+ "to": "2025-12-31",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF279760_251121_104129.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍성민",
+  "이호연",
+  "박한솔",
+  "박아정",
+  "최아진",
+  "조소현",
+  "전율"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "박아정, 지혜성, 유재화 등",
+ "producer": "(주)훌륭한",
+ "price": "전석 50,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF279760_202511211041291030.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1539493"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25016928"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6799"
+  }
+ ],
+ "updated": "2025-12-30 10:48:23",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

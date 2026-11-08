@@ -1,0 +1,45 @@
+{
+ "id": "PF232654",
+ "title": "헤르츠클란",
+ "genre": "연극",
+ "from": "2024-01-16",
+ "to": "2024-04-07",
+ "venue": "링크아트센터드림 (드림 3관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF232654_231218_112828.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김도빈",
+  "조풍래",
+  "성연",
+  "최호승",
+  "강찬",
+  "안지환",
+  "허영손"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "고강민, 박인선, 서정완 등",
+ "producer": "(주)엠비제트컴퍼니",
+ "price": "R석 60,000원, S석 50,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232654_231218_1128282.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232654_231218_1128281.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232654_231218_1128280.jpg"
+ ],
+ "links": [
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/48103"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011361"
+  }
+ ],
+ "updated": "2023-12-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

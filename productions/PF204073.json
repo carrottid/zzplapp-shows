@@ -1,0 +1,51 @@
+{
+ "id": "PF204073",
+ "title": "루쓰",
+ "genre": "뮤지컬",
+ "from": "2023-03-05",
+ "to": "2023-04-02",
+ "venue": "광림아트센터 (BBCH홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF204073_221213_093600.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정지아",
+  "김다현",
+  "이지훈",
+  "김현숙",
+  "엄태리",
+  "박인배",
+  "강동우"
+ ],
+ "facilityId": "FC001370",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "윤현진, 이종석, 홍성연 등",
+ "producer": "(주)힘컨텐츠",
+ "price": "VIP석 150,000원, R석 130,000원, OP석 110,000원, S석 90,000원, A석 70,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일(19:30), 금요일(14:30,19:30), 토요일(14:30,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF204073_221213_0936000.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267148"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/861544"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22017201"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/44355"
+  }
+ ],
+ "updated": "2022-12-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

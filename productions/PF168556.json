@@ -1,0 +1,51 @@
+{
+ "id": "PF168556",
+ "title": "아마데우스",
+ "genre": "연극",
+ "from": "2020-11-17",
+ "to": "2021-02-28",
+ "venue": "광림아트센터 (BBCH홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168556_201023_093422.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "지현준",
+  "김재범",
+  "차지연",
+  "한지상",
+  "최재웅",
+  "백석광",
+  "박은석"
+ ],
+ "facilityId": "FC001370",
+ "runtime": "2시간 35분",
+ "age": "만 13세 이상",
+ "crew": "이성일, 이지나, 이수인 등",
+ "producer": "(주) 페이지원(Page1)",
+ "price": "VIP석 99,000원, R석 88,000원, OP석 80,000원, S석 77,000원, A석 66,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(15:00,19:30), 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF168556_201023_0934220.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20008513"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=37737"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000004970"
+  }
+ ],
+ "updated": "2020-10-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

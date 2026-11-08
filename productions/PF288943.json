@@ -1,0 +1,43 @@
+{
+ "id": "PF288943",
+ "title": "감찰관",
+ "genre": "연극",
+ "from": "2026-04-29",
+ "to": "2026-05-05",
+ "venue": "아르코예술극장 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF288943_260408_142032.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이지선",
+  "임채현",
+  "조성경",
+  "최이영",
+  "강정탁",
+  "박해린",
+  "이강민"
+ ],
+ "facilityId": "FC002632",
+ "runtime": "2시간",
+ "age": "만 12세 이상",
+ "crew": "임도완, 양세현, 권수현 등",
+ "producer": "사다리움직임연구소",
+ "price": "R석 50,000원, S석 40,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF288943_202604080220329160.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26005131"
+  },
+  {
+   "name": "아르코대학로예술극장(한국문화예술위원회)",
+   "url": "https://theater.arko.or.kr/product/performance/259468"
+  }
+ ],
+ "updated": "2026-04-08 15:00:04.054904",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

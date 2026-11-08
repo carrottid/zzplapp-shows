@@ -1,0 +1,42 @@
+{
+ "id": "PF215555",
+ "title": "프랭크 와일드혼 콘서트",
+ "genre": "뮤지컬",
+ "from": "2023-04-17",
+ "to": "2023-04-17",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF215555_230323_141747.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "민영기",
+  "김소향",
+  "김성식",
+  "이성준"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "price": "R석 110,000원, S석 90,000원, A석 70,000원",
+ "schedule": "월요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF215555_230323_0217470.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/43085"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004233"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259781"
+  }
+ ],
+ "updated": "2023-03-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

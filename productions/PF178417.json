@@ -1,0 +1,52 @@
+{
+ "id": "PF178417",
+ "title": "V 에버 애프터",
+ "genre": "뮤지컬",
+ "from": "2021-09-12",
+ "to": "2021-12-05",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF178417_210817_101716.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "황한나",
+  "신상언",
+  "박상혁",
+  "김지온",
+  "김이후",
+  "이준우",
+  "김병준"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "김운기, 이희준, 박현숙 등",
+ "producer": "(주) 엠제이스타피시(MJStarfish)",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178417_210817_1017512.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178417_210817_1017160.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21007215"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/39879"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38783"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000006452"
+  }
+ ],
+ "updated": "2021-08-17 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

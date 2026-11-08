@@ -1,0 +1,43 @@
+{
+ "id": "PF212559",
+ "title": "세상친구",
+ "genre": "연극",
+ "from": "2023-02-23",
+ "to": "2023-03-12",
+ "venue": "대학로 자유극장 (자유문화발전소) (대학로 자유극장 (자유문화발전소) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF212559_230202_142346.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김늘메",
+  "김대곤",
+  "김건호",
+  "최영우",
+  "서창원",
+  "태항호",
+  "심우성"
+ ],
+ "facilityId": "FC000785",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "최종혁, 오세혁, 번영진 등",
+ "price": "전석 55,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF212559_230202_0223471.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF212559_230202_0223470.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267275"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/842365"
+  }
+ ],
+ "updated": "2023-02-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

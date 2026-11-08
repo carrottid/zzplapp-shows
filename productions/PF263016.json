@@ -1,0 +1,50 @@
+{
+ "id": "PF263016",
+ "title": "태일",
+ "genre": "연극",
+ "from": "2025-05-14",
+ "to": "2025-07-20",
+ "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF263016_250414_112533.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박정원",
+  "김바다",
+  "김리현",
+  "김국희",
+  "이현진",
+  "이예지"
+ ],
+ "facilityId": "FC000382",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "송은도, 임병우, 김영조 등",
+ "producer": "(주)아떼오드 서울사무소, 목소리프로젝트",
+ "price": "R석 60,000원, S석 50,000원",
+ "schedule": "화요일 ~ 목요일(20:00), 금요일(16:00,20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF263016_250414_1122520.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/55797"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1433074"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25005485"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6324"
+  }
+ ],
+ "updated": "2025-06-11 12:58:27",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

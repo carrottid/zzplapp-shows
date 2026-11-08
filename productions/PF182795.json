@@ -1,0 +1,37 @@
+{
+ "id": "PF182795",
+ "title": "스푸트니크 리딩공연",
+ "genre": "뮤지컬",
+ "from": "2021-11-22",
+ "to": "2021-11-22",
+ "venue": "블루스퀘어 (카오스홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182795_211110_112506.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김늘봄",
+  "이준우",
+  "최미소",
+  "홍지희",
+  "황두현"
+ ],
+ "facilityId": "FC000031",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "김은지, 정혜영, 박슬기 등",
+ "producer": "골든에이지컴퍼니",
+ "price": "전석 20,000원",
+ "schedule": "월요일(20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182795_211110_1125060.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011225"
+  }
+ ],
+ "updated": "2021-11-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

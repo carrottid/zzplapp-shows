@@ -1,0 +1,54 @@
+{
+ "id": "PF185900",
+ "title": "더 테일 에이프릴 풀스",
+ "genre": "뮤지컬",
+ "from": "2022-02-08",
+ "to": "2022-05-22",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF185900_220119_111129.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최석진",
+  "현석준",
+  "홍승안",
+  "주민진",
+  "박정원",
+  "손유동"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김영욱, 이성훈, 임양혁 등",
+ "producer": "(주)쇼노트",
+ "price": "R석 66,000원, S석 55,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF185900_220119_1111290.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000635"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=206520"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=335"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76145"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007368"
+  }
+ ],
+ "updated": "2022-03-17 14:39:13",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PF171876",
+ "title": "그레이트 코멧",
+ "genre": "뮤지컬",
+ "from": "2021-03-20",
+ "to": "2021-05-30",
+ "venue": "유니버설아트센터 (유니버설아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171876_210225_111205.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍광호",
+  "정은지",
+  "이해나",
+  "이충주",
+  "박강현",
+  "고은성",
+  "홍륜희"
+ ],
+ "facilityId": "FC000010",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "김영욱, 이성훈, 임양혁 등",
+ "producer": "(주)쇼노트",
+ "price": "코멧석 140,000원, VIP석 140,000원, R석 120,000원, S석 80,000원, A석 60,000원, B석 50,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171876_210225_1155512.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171876_210225_1155511.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21001000"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=205772"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=307"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000005663"
+  }
+ ],
+ "updated": "2021-02-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "PF284496",
+ "title": "팬레터",
+ "genre": "뮤지컬",
+ "from": "2026-03-17",
+ "to": "2026-06-07",
+ "venue": "홍익대 대학로 아트센터 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF284496_260316_111443.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강필석",
+  "김재범",
+  "김경수",
+  "이규형",
+  "문태유",
+  "문성일",
+  "윤소호"
+ ],
+ "facilityId": "FC001208",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김태형, 강병원, 박서연 등",
+ "producer": "라이브(주)",
+ "price": "OP석 110,000원, VIP석 110,000원, R석 88,000원, S석 66,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF284496_202602051111366541.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/61420"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1603318"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26001565"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/57017"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79051"
+  }
+ ],
+ "updated": "2026-05-19 11:17:09",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

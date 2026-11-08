@@ -1,0 +1,46 @@
+{
+ "id": "PF220917",
+ "title": "패스",
+ "genre": "연극",
+ "from": "2023-08-04",
+ "to": "2023-08-16",
+ "venue": "서강대 메리홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF220917_230623_225653.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍성민",
+  "박승일",
+  "이정근",
+  "김경환",
+  "여동훈",
+  "정수한",
+  "최재섭"
+ ],
+ "facilityId": "FC001216",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "윤정환,엄태환, 박이현 등",
+ "price": "전석 30,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일(19:30), 금요일(15:00,19:30), 토요일(15:00,19:00), 일요일(15:00), HOL(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220917_230623_1056530.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/932127"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008657"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_idx=11647"
+  }
+ ],
+ "updated": "2023-06-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

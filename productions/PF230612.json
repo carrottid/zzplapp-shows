@@ -1,0 +1,37 @@
+{
+ "id": "PF230612",
+ "title": "엔톡 라이브 플러스, NT Live: 플리백",
+ "genre": "연극",
+ "from": "2024-04-17",
+ "to": "2024-04-21",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230612_231122_140711.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "피비 월러 브리지"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 20분",
+ "age": "만 17세 이상",
+ "crew": "비키 존스",
+ "producer": "영국 국립극장",
+ "price": "전석 20,000원",
+ "schedule": "수요일(19:00), 토요일 ~ 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230612_231124_1032491.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266598"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016406"
+  }
+ ],
+ "updated": "2025-04-04 13:50:37",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

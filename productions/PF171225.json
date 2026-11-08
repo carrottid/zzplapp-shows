@@ -1,0 +1,42 @@
+{
+ "id": "PF171225",
+ "title": "창작산실, 고역",
+ "genre": "연극",
+ "from": "2021-02-19",
+ "to": "2021-02-28",
+ "venue": "아르코예술극장 (소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171225_210127_095218.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이동준",
+  "이주영",
+  "이종무",
+  "우상전",
+  "서병철",
+  "김선아",
+  "김성욱"
+ ],
+ "facilityId": "FC002632",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "신동일, 주재형, 권민희 등",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171225_210127_0952180.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=2100041"
+  },
+  {
+   "name": "아르코대학로예술극장(한국문화예술위원회)",
+   "url": "http://theater.arko.or.kr/Pages/Perf/Detail/Detail.aspx?IdPerf=257594"
+  }
+ ],
+ "updated": "2021-01-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

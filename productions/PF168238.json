@@ -1,0 +1,51 @@
+{
+ "id": "PF168238",
+ "title": "맨오브라만차",
+ "genre": "뮤지컬",
+ "from": "2021-02-02",
+ "to": "2021-03-01",
+ "venue": "샤롯데씨어터 (샤롯데씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168238_201016_100843.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "류정한",
+  "조승우",
+  "홍광호",
+  "윤공주",
+  "김지현",
+  "최수진",
+  "이훈진"
+ ],
+ "facilityId": "FC000012",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "신춘수, 김문정, 안정하 등",
+ "producer": "(주)오디컴퍼니(ODCOMPANY), TBC, TJB 대전방송, 롯데엔터테인먼트",
+ "price": "VIP석 (화,수,목 정가) 140,000원, R석(화,수,목 정가) 120,000원, S석(화,수,목 정가) 90,000원, A석(화,수,목 정가) 60,000원, VIP석(금,토,일,공휴일 정가) 150,000원, R석(금,토,일,공휴일 정가) 130,000원, S석(금,토,일,공휴일 정가) 100,000원, A석(금,토,일,공휴일 정가) 70,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,20:00), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF168238_201027_0557101.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20008287"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://www.charlottetheater.co.kr/performence/current.asp"
+  },
+  {
+   "name": "예스24",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com//product/3000004724"
+  }
+ ],
+ "updated": "2021-09-02 16:59:46",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PF258445",
+ "title": "연극열전10, 프라이드",
+ "genre": "연극",
+ "from": "2025-03-29",
+ "to": "2025-06-22",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF258445_250207_105351.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "임주환",
+  "이형훈",
+  "김경남",
+  "권수현",
+  "김수연",
+  "홍금비",
+  "박성현"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "3시간",
+ "age": "만 16세 이상",
+ "crew": "김동연, 이은경, 김광섭 등",
+ "producer": "(주)연극열전",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF258445_250430_1013251.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1342843"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25001397"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/52499"
+  },
+  {
+   "name": "연극열전",
+   "url": "https://www.thebestplay.co.kr/program/perf_view.asp?id=280104&pref_state=PLAN"
+  }
+ ],
+ "updated": "2025-05-16 15:12:57",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

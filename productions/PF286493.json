@@ -1,0 +1,61 @@
+{
+ "id": "PF286493",
+ "title": "서편제",
+ "genre": "뮤지컬",
+ "from": "2026-04-30",
+ "to": "2026-07-19",
+ "venue": "광림아트센터 (BBCH홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF286493_260306_165308.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이자람",
+  "차지연",
+  "이봄소리",
+  "박시은",
+  "정은혜",
+  "김경수",
+  "유현석"
+ ],
+ "facilityId": "FC001370",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "이성일, 이지나, 천유정 등",
+ "producer": "(주) 페이지원(Page1)",
+ "price": "VIP석 150,000원, R석 120,000원, S석 90,000원, A석 60,000원",
+ "schedule": "화요일(19:30), 수요일(19:30), 목요일(19:30), 금요일(19:30), 토요일(15:00,19:30), 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF286493_202605120323110880.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF286493_202603060453083290.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF286493_202605120323111031.jpg"
+ ],
+ "links": [
+  {
+   "name": "29CM",
+   "url": "https://ticket.29cm.co.kr/catalog/4014098"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1609079"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26003126"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/57384"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79078"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7157"
+  }
+ ],
+ "updated": "2026-06-16 15:23:49",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

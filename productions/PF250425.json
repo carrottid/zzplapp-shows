@@ -1,0 +1,43 @@
+{
+ "id": "PF250425",
+ "title": "판",
+ "genre": "뮤지컬",
+ "from": "2024-11-23",
+ "to": "2024-11-24",
+ "venue": "(재) 영화의전당 (하늘연극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF250425_241004_105121.gif",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "문성일",
+  "현석준",
+  "원종환",
+  "김지혜",
+  "박란주",
+  "김효성",
+  "임소라"
+ ],
+ "facilityId": "FC000175",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "정인석, 박윤솔, 박준영 등",
+ "producer": "(주)아이엠컬처",
+ "price": "R석 50,000원, S석 40,000원, A석 30,000원",
+ "schedule": "토요일(17:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250425_241004_1051210.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24014101"
+  },
+  {
+   "name": "영화의전당",
+   "url": "http://www.dureraum.org/bcc/ccontents/view.do?rbsIdx=40&contentsCode=20240814006"
+  }
+ ],
+ "updated": "2024-10-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

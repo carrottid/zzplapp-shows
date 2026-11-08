@@ -1,0 +1,62 @@
+{
+ "id": "PF218472",
+ "title": "오페라의 유령",
+ "genre": "뮤지컬",
+ "from": "2023-07-21",
+ "to": "2023-11-19",
+ "venue": "샤롯데씨어터 (샤롯데씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF218472_230516_091120.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "조승우",
+  "최재림",
+  "김주택",
+  "전동석",
+  "손지수",
+  "송은혜",
+  "송원근"
+ ],
+ "facilityId": "FC000012",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "producer": "The Really Useful Group, 롯데엔터테인먼트, 에스앤코(S&CO)",
+ "price": "VIP석 190,000원, R석 160,000원, S석 130,000원, A석 90,000원",
+ "schedule": "화요일 ~ 금요일(14:30,19:30), 토요일 ~ 일요일(14:00,15:00,19:00), HOL(14:00,15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218472_230602_0821160.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267699"
+  },
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/43981"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/903363"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006740"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45927"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77428"
+  },
+  {
+   "name": "페이북",
+   "url": "https://paybooc.co.kr/app/paybooc/Culture.do?mFocus=Culture&returnURL=https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70650"
+  }
+ ],
+ "updated": "2023-06-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

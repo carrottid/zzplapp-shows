@@ -1,0 +1,36 @@
+{
+ "id": "PF171862",
+ "title": "NT Live, 리어왕",
+ "genre": "연극",
+ "from": "2021-03-31",
+ "to": "2021-05-02",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171862_210225_102940.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이언 매켈런"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "3시간 40분",
+ "age": "만 13세 이상",
+ "crew": "조너선 먼비",
+ "price": "전석 20,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171862_210225_1029400.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=265780"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000853"
+  }
+ ],
+ "updated": "2021-02-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

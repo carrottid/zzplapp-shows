@@ -1,0 +1,47 @@
+{
+ "id": "PF177496",
+ "title": "코다",
+ "genre": "연극",
+ "from": "2021-08-12",
+ "to": "2021-08-15",
+ "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF177496_210721_104611.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김연진",
+  "유종연",
+  "박지현",
+  "백채린",
+  "임예진",
+  "김준영",
+  "김지원"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "김유정, 김혜지, 김용호 등",
+ "producer": "극단 청사진",
+ "price": "전석 30,000원",
+ "schedule": "토요일(16:00,19:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF177496_210721_1046110.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/561398"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21006334"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1485"
+  }
+ ],
+ "updated": "2021-07-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

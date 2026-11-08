@@ -1,0 +1,44 @@
+{
+ "id": "PF266611",
+ "title": "지킬 앤 하이드",
+ "genre": "뮤지컬",
+ "from": "2025-08-08",
+ "to": "2025-08-10",
+ "venue": "울산문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF266611_250605_134101.gif",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "신성록",
+  "최재림",
+  "윤공주",
+  "박은혜",
+  "이지연",
+  "최수진",
+  "손지수"
+ ],
+ "facilityId": "FC000081",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "원미솔, 이수연, 조문수 등",
+ "producer": "(주)오디컴퍼니(ODCOMPANY)",
+ "price": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF266611_250605_0141011.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF266611_250605_0141010.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25007516"
+  },
+  {
+   "name": "울산문화예술회관",
+   "url": "https://ucac.ulsan.go.kr/performance/main/PER_000000000004218/detail.do?resultListCnt=1&resCate=ResCateCD_001&showCal="
+  }
+ ],
+ "updated": "2025-06-09 16:14:15",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

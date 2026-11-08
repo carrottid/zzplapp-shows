@@ -1,0 +1,38 @@
+{
+ "id": "PF224450",
+ "title": "인간, 짐승",
+ "genre": "연극",
+ "from": "2023-08-30",
+ "to": "2023-09-03",
+ "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224450_230823_125639.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "설재환",
+  "박세영",
+  "이성혜",
+  "이택기",
+  "양지안",
+  "김동우",
+  "김지현"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "producer": "프로젝트 깡다구",
+ "price": "전석 33,000원",
+ "schedule": "수요일 ~ 목요일(19:00), 금요일 ~ 토요일(15:00,19:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224450_230823_1256390.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011768"
+  }
+ ],
+ "updated": "2023-08-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

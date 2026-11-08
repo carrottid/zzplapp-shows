@@ -1,0 +1,47 @@
+{
+ "id": "PF219675",
+ "title": "레드북",
+ "genre": "뮤지컬",
+ "from": "2023-08-05",
+ "to": "2023-08-06",
+ "venue": "고양어울림누리 (어울림극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219675_230605_152321.jpg",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "옥주현",
+  "박진주",
+  "민경아",
+  "송원근",
+  "신성민",
+  "박영수",
+  "조풍래"
+ ],
+ "facilityId": "FC000819",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "송은도, 임병우, 한경숙 등",
+ "producer": "(주)아떼오드 서울사무소",
+ "price": "VIP석 110,000원, R석 90,000원, S석 65,000원",
+ "schedule": "토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219675_230605_0323220.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/44271"
+  },
+  {
+   "name": "고양어울림누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000007022"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/925124"
+  }
+ ],
+ "updated": "2023-06-05 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

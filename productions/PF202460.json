@@ -1,0 +1,39 @@
+{
+ "id": "PF202460",
+ "title": "오두막",
+ "genre": "연극",
+ "from": "2022-12-01",
+ "to": "2022-12-04",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF202460_221118_110504.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최우석",
+  "정지효",
+  "나원희",
+  "정수빈",
+  "김태헌",
+  "이정주",
+  "조윤성"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 40분",
+ "age": "만 14세 이상",
+ "crew": "나석준, 손민지, 조승현 등",
+ "producer": "창작집단 R.A.P",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(14:00,18:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF202460_221118_1105040.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22015980"
+  }
+ ],
+ "updated": "2022-11-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

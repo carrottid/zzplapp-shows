@@ -1,0 +1,42 @@
+{
+ "id": "PF190913",
+ "title": "팬레터",
+ "genre": "뮤지컬",
+ "from": "2022-07-30",
+ "to": "2022-07-31",
+ "venue": "부산시민회관 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190913_220511_111959.jpg",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "이규형",
+  "김진욱",
+  "윤소호",
+  "허혜진",
+  "소정화",
+  "박정표",
+  "임별"
+ ],
+ "facilityId": "FC000497",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "한재은, 박현숙, 김태형 등",
+ "price": "VIP석 90,000원, R석 70,000원, S석 50,000원",
+ "schedule": "토요일(18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190913_220511_1119590.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005699"
+  },
+  {
+   "name": "부산문화회관",
+   "url": "https://www.bscc.or.kr/01_perfor/?mcode=0401010500&mode=2&no=23217&page=1&schKeyword=%ED%8C%AC%EB%A0%88%ED%84%B0"
+  }
+ ],
+ "updated": "2022-05-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

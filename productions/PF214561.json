@@ -1,0 +1,40 @@
+{
+ "id": "PF214561",
+ "title": "추남, 미녀",
+ "genre": "연극",
+ "from": "2023-04-12",
+ "to": "2023-05-21",
+ "venue": "예술의전당 [서울] (자유소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF214561_230308_102853.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "백석광",
+  "김상보",
+  "김소이",
+  "이지혜"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이대웅, 허영균, 곽예진 등",
+ "producer": "예술의전당",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "수요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일(14:00,18:00), 일요일(15:00,19:30), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214561_230308_1028530.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23002923"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45226"
+  }
+ ],
+ "updated": "2023-03-08 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,46 @@
+{
+ "id": "PF170670",
+ "title": "얼음",
+ "genre": "연극",
+ "from": "2021-01-08",
+ "to": "2021-03-21",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170670_201216_095036.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정웅인",
+  "이철민",
+  "박호산",
+  "이창용",
+  "신성민",
+  "김선호"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "장진, 이엄지, 나한수 등",
+ "producer": "(주)파크컴퍼니, 장차",
+ "price": "R석 60,000원, S석 45,000원",
+ "schedule": "화요일(20:00), 수요일(16:00), 목요일 ~ 금요일(20:00), 토요일(15:00,18:30), 일요일(14:00,17:30), HOL(14:00,17:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF170670_201216_0950360.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/33733"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0002440"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=31274&menuNo=200004"
+  }
+ ],
+ "updated": "2020-12-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,36 @@
+{
+ "id": "PF213496",
+ "title": "고은성 콘서트: Les Chansons",
+ "genre": "뮤지컬",
+ "from": "2023-03-04",
+ "to": "2023-03-04",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF213496_230216_142447.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고은성"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "producer": "라이브러리컴퍼니",
+ "price": "R석 130,000원, S석 110,000원, A석 90,000원, B석 70,000원",
+ "schedule": "토요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213496_230216_0224470.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23001790"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259863"
+  }
+ ],
+ "updated": "2023-02-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,2379 @@
+{
+ "id": "PF297978",
+ "source": "nol",
+ "goodsKey": "26011174:23000029",
+ "roles": {
+  "138159": "소피아",
+  "138160": "자스민",
+  "138161": "모니카",
+  "138162": "지나",
+  "138163": "카를로",
+  "138164": "산드라",
+  "r:소피아": "소피아",
+  "r:자스민": "자스민",
+  "r:모니카": "모니카",
+  "r:지나": "지나",
+  "r:카를로": "카를로",
+  "r:산드라": "산드라"
+ },
+ "people": {
+  "1972": {
+   "name": "황석정"
+  },
+  "2861": {
+   "name": "정경순"
+  },
+  "8875": {
+   "name": "추귀정"
+  },
+  "10002": {
+   "name": "유선"
+  },
+  "12704": {
+   "name": "정웅인"
+  },
+  "19419": {
+   "name": "박하선"
+  },
+  "25181": {
+   "name": "안두호"
+  },
+  "30496": {
+   "name": "전윤민"
+  },
+  "35039": {
+   "name": "성지루"
+  },
+  "39101": {
+   "name": "김한결"
+  },
+  "44475": {
+   "name": "강은빈"
+  },
+  "46950": {
+   "name": "임모윤"
+  },
+  "54715": {
+   "name": "김남희"
+  },
+  "57671": {
+   "name": "서은영"
+  },
+  "57673": {
+   "name": "한수아"
+  },
+  "57674": {
+   "name": "신슬기"
+  },
+  "57675": {
+   "name": "경수진"
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-10-07",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "경수진",
+     "personId": "57675",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "정경순",
+     "personId": "2861",
+     "roleId": "138159"
+    },
+    {
+     "name": "황석정",
+     "personId": "1972",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "한수아",
+     "personId": "57673",
+     "roleId": "138162"
+    },
+    {
+     "name": "안두호",
+     "personId": "25181",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "추귀정",
+     "personId": "8875",
+     "roleId": "138159"
+    },
+    {
+     "name": "유선",
+     "personId": "10002",
+     "roleId": "138160"
+    },
+    {
+     "name": "박하선",
+     "personId": "19419",
+     "roleId": "138161"
+    },
+    {
+     "name": "신슬기",
+     "personId": "57674",
+     "roleId": "138162"
+    },
+    {
+     "name": "김한결",
+     "personId": "39101",
+     "roleId": "138163"
+    },
+    {
+     "name": "전윤민",
+     "personId": "30496",
+     "roleId": "138164"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "성지루",
+     "personId": "35039",
+     "roleId": "138159"
+    },
+    {
+     "name": "정웅인",
+     "personId": "12704",
+     "roleId": "138160"
+    },
+    {
+     "name": "강은빈",
+     "personId": "44475",
+     "roleId": "138161"
+    },
+    {
+     "name": "임모윤",
+     "personId": "46950",
+     "roleId": "138162"
+    },
+    {
+     "name": "김남희",
+     "personId": "54715",
+     "roleId": "138163"
+    },
+    {
+     "name": "서은영",
+     "personId": "57671",
+     "roleId": "138164"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-08T10:36:24"
+}

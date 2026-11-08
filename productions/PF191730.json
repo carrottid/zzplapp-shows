@@ -1,0 +1,39 @@
+{
+ "id": "PF191730",
+ "title": "팬레터",
+ "genre": "뮤지컬",
+ "from": "2022-07-08",
+ "to": "2022-07-10",
+ "venue": "인천문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF191730_220526_094606.gif",
+ "area": "인천광역시",
+ "state": "공연완료",
+ "cast": [
+  "이규형",
+  "백형훈",
+  "문성일",
+  "윤소호",
+  "소정화",
+  "강혜인",
+  "허혜진"
+ ],
+ "facilityId": "FC000013",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "강병원, 김태형, 한재은 등",
+ "producer": "라이브(주)",
+ "price": "VIP석 90,000원, R석 70,000원, S석 50,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF191730_220526_0946060.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22006379"
+  }
+ ],
+ "updated": "2022-05-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

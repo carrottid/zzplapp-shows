@@ -1,0 +1,1414 @@
+{
+ "id": "PF291886",
+ "source": "nol",
+ "goodsKey": "26007169:24001634",
+ "roles": {
+  "137067": "앨리",
+  "137068": "저지",
+  "137069": "미스 라이자 제인",
+  "137070": "데이비스",
+  "137071": "넉"
+ },
+ "people": {
+  "1165": {
+   "name": "테이"
+  },
+  "3205": {
+   "name": "정영주"
+  },
+  "3746": {
+   "name": "김영주"
+  },
+  "4263": {
+   "name": "박혜나"
+  },
+  "8054": {
+   "name": "최현선"
+  },
+  "18552": {
+   "name": "케이윌"
+  },
+  "30672": {
+   "name": "손승연"
+  },
+  "38116": {
+   "name": "박광선"
+  },
+  "44617": {
+   "name": "김수하"
+  },
+  "47548": {
+   "name": "한승윤"
+  },
+  "57352": {
+   "name": "박지원"
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-10-03",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "테이",
+     "personId": "1165",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "김수하",
+     "personId": "44617",
+     "roleId": "137067"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054",
+     "roleId": "137068"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116",
+     "roleId": "137071"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "손승연",
+     "personId": "30672",
+     "roleId": "137067"
+    },
+    {
+     "name": "박혜나",
+     "personId": "4263",
+     "roleId": "137068"
+    },
+    {
+     "name": "정영주",
+     "personId": "3205",
+     "roleId": "137069"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552",
+     "roleId": "137070"
+    },
+    {
+     "name": "한승윤",
+     "personId": "47548",
+     "roleId": "137071"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-08T10:36:24"
+}

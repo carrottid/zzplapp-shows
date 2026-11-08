@@ -1,0 +1,47 @@
+{
+ "id": "PF212784",
+ "title": "여신님이 보고계셔",
+ "genre": "뮤지컬",
+ "from": "2023-07-29",
+ "to": "2023-07-30",
+ "venue": "청주예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF212784_230207_170813.jpg",
+ "area": "충청북도",
+ "state": "공연완료",
+ "cast": [
+  "최호중",
+  "김도빈",
+  "성태준",
+  "조성윤",
+  "박정원",
+  "김현진",
+  "김리현"
+ ],
+ "facilityId": "FC000403",
+ "runtime": "2시간",
+ "age": "만 10세 이상",
+ "crew": "안종원, 이원범 등",
+ "producer": "(주)연우무대",
+ "price": "VIP석 90,000원, R석 70,000원, S석 80,000원, A석 50,000원",
+ "schedule": "토요일(14:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF212784_230207_0508130.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/837042"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23001806"
+  },
+  {
+   "name": "콘서트하우스(충북)",
+   "url": "http://www.concerthouse.co.kr/bbs/board.php?bo_table=show&wr_id=24"
+  }
+ ],
+ "updated": "2023-02-07 17:24:52",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

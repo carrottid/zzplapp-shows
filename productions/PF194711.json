@@ -1,0 +1,42 @@
+{
+ "id": "PF194711",
+ "title": "내게 빛나는 모든 것",
+ "genre": "연극",
+ "from": "2022-12-15",
+ "to": "2022-12-18",
+ "venue": "LG아트센터 서울 (U+ 스테이지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF194711_220715_134736.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정새별",
+  "김아영",
+  "이창훈"
+ ],
+ "facilityId": "FC003045",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "producer": "LG아트센터",
+ "price": "전석 45,000원",
+ "schedule": "금요일(17:00,20:00), 토요일 ~ 일요일(13:00,16:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF194711_220715_0147360.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "https://www.lgart.com/product/ko/performance/252687"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000019"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/43513"
+  }
+ ],
+ "updated": "2022-07-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

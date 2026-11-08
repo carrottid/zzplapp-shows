@@ -1,0 +1,47 @@
+{
+ "id": "PF275972",
+ "title": "제10회 여성연극제, 더클래스",
+ "genre": "연극",
+ "from": "2025-10-30",
+ "to": "2025-11-02",
+ "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF275972_251013_145710.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이정국",
+  "임향화",
+  "유준원",
+  "이혜진",
+  "구자환",
+  "이윤주",
+  "정지환"
+ ],
+ "facilityId": "FC004282",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "백순원, 이선미, 권영호 등",
+ "producer": "씨어터 백",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF275972_202510130257104180.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13295"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25014637"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=3836"
+  }
+ ],
+ "updated": "2025-10-28 10:20:48",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

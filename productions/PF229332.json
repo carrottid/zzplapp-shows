@@ -1,0 +1,42 @@
+{
+ "id": "PF229332",
+ "title": "불굴의 왕 리처드 3세",
+ "genre": "연극",
+ "from": "2023-11-14",
+ "to": "2023-11-14",
+ "venue": "국립극장 (하늘극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF229332_231106_111039.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "백우람",
+  "현서영",
+  "최선희",
+  "박성순",
+  "박진성",
+  "서영진",
+  "정유미"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "오진희, 김병춘, 조경미",
+ "price": "전석 30,000원",
+ "schedule": "화요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229332_231106_1110390.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266615"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016127"
+  }
+ ],
+ "updated": "2025-04-04 09:56:29",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

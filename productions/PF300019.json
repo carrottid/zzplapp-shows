@@ -1,0 +1,42 @@
+{
+ "id": "PF300019",
+ "title": "배니싱",
+ "genre": "뮤지컬",
+ "from": "2026-10-02",
+ "to": "2026-10-03",
+ "venue": "울산문화예술회관 (소공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300019_260903_111225.jpg",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "주민진",
+  "유승현",
+  "조훈"
+ ],
+ "facilityId": "FC000081",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "성종완, 이헌재, 주미나 등",
+ "price": "전석 40,000원",
+ "schedule": "금요일(19:30), 토요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF300019_202609031112259680.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1729284"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/59962"
+  },
+  {
+   "name": "울산문화예술회관",
+   "url": "https://www.ulsan.go.kr/ucac/art/page.do?mnu_code=mnu001002"
+  }
+ ],
+ "updated": "2026-09-03 15:00:00.027783",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

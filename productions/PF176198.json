@@ -1,0 +1,33 @@
+{
+ "id": "PF176198",
+ "title": "온쉼표, 아파트 (7월)",
+ "genre": "뮤지컬",
+ "from": "2021-07-06",
+ "to": "2021-07-08",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF176198_210618_110742.PNG",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김재일",
+  "김가람"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 10분",
+ "age": "만 7세 이상",
+ "crew": "류재준, 문하연, 남인우",
+ "price": "전석 1,000원",
+ "schedule": "화요일 ~ 목요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF176198_210618_1107420.jpg"
+ ],
+ "links": [
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=31684&menuNo=200004&sdate=2021-06-18&searchPlaceCdStr=&edate=2021-07-18&searchGenreCdStr=&pageIndex=4"
+  }
+ ],
+ "updated": "2021-06-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

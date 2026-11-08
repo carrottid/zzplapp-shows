@@ -1,0 +1,51 @@
+{
+ "id": "PF182725",
+ "title": "엘리펀트송",
+ "genre": "연극",
+ "from": "2021-11-26",
+ "to": "2022-02-13",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182725_211109_141314.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "전성우",
+  "김현진",
+  "강승호",
+  "신주협",
+  "이석준",
+  "정원조",
+  "정상윤"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "김승완, 김지호, 서은지 등",
+ "producer": "(주)나인스토리",
+ "price": "전석 55,000원",
+ "schedule": "화요일 ~ 수요일(20:00), 목요일(16:00,20:00), 금요일(20:00), 토요일 ~ 일요일(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182725_211109_0213140.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010936"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40712"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39048"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000006752"
+  }
+ ],
+ "updated": "2021-11-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,54 @@
+{
+ "id": "PF220630",
+ "title": "구텐버그",
+ "genre": "뮤지컬",
+ "from": "2023-08-02",
+ "to": "2023-10-22",
+ "venue": "플러스씨어터(구. 컬처스페이스 엔유) (플러스씨어터(구. 컬처스페이스 엔유))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF220630_230621_154158.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정민",
+  "최호승",
+  "정욱진",
+  "기세중",
+  "선한국",
+  "정휘"
+ ],
+ "facilityId": "FC001459",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "김영욱, 신동은, 표상아 등",
+ "producer": "(주)랑, (주)쇼노트",
+ "price": "R석 66,000원, S석 55,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220630_230622_0134065.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267846"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/936480"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008679"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=208395"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/46310"
+  }
+ ],
+ "updated": "2023-06-21 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

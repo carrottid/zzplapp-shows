@@ -1,0 +1,47 @@
+{
+ "id": "PF215979",
+ "title": "영웅",
+ "genre": "뮤지컬",
+ "from": "2023-06-02",
+ "to": "2023-06-04",
+ "venue": "고양아람누리 (아람극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF215979_230331_110217.jpg",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "정성화",
+  "양준모",
+  "민우혁",
+  "김도형",
+  "서영주",
+  "최민철",
+  "정재은"
+ ],
+ "facilityId": "FC000127",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "윤홍선, 윤호진, 윤금정 등",
+ "producer": "(주) 에이콤(ACOM)",
+ "price": "VIP석 150,000원, R석 130,000원, S석 100,000원, A석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF215979_230331_1102170.jpg"
+ ],
+ "links": [
+  {
+   "name": "고양아람누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000006982"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004199"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000009800"
+  }
+ ],
+ "updated": "2023-03-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

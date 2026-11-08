@@ -6,59 +6,15 @@
    "genre": "연극",
    "from": "2020-12-31",
    "to": "2021-01-03",
-   "venue": "아르코예술극장",
+   "venue": "아르코예술극장 (소극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170815_201224_101721.jpg",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170865",
-   "title": "황금알을 낳는 암탉 [대구]",
-   "genre": "연극",
-   "from": "2020-12-30",
-   "to": "2021-03-01",
-   "venue": "대백프라자",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170865_201229_100813.PNG",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169090",
-   "title": "백설공주 [대구]",
-   "genre": "뮤지컬",
-   "from": "2020-12-29",
-   "to": "2021-01-17",
-   "venue": "대백프라자",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169090_201110_132724.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170830",
-   "title": "청춘 라이더",
-   "genre": "연극",
-   "from": "2020-12-29",
-   "to": "2021-01-03",
-   "venue": "R&J씨어터(구. 연진아트홀)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170830_201228_100201.PNG",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170872",
-   "title": "웃픈 3일",
-   "genre": "연극",
-   "from": "2020-12-29",
-   "to": "2021-01-05",
-   "venue": "후암스테이지",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170872_201230_094241.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170882",
-   "title": "경옥, 댄스스포츠 무대에서말하다",
-   "genre": "연극",
-   "from": "2020-12-29",
-   "to": "2021-01-03",
-   "venue": "후암스테이지",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170882_201231_093702.gif",
-   "state": "공연완료"
+   "cast": [
+    "권형준",
+    "김정화",
+    "박종현"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF169896",
@@ -66,39 +22,19 @@
    "genre": "연극",
    "from": "2020-12-25",
    "to": "2021-02-14",
-   "venue": "티오엠씨어터(구. 문화공간필링)",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169896_201119_104421.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169836",
-   "title": "종이아빠",
-   "genre": "뮤지컬",
-   "from": "2020-12-24",
-   "to": "2021-01-23",
-   "venue": "루미나아트홀 (구.시온아트홀)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169836_201118_110502.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170475",
-   "title": "러브액츄얼리 [창원]",
-   "genre": "연극",
-   "from": "2020-12-24",
-   "to": "2021-03-01",
-   "venue": "축제소극장 [창원](구. 창원아트팩토리)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170475_201207_101315.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170411",
-   "title": "애랑을 위하여 [대구]",
-   "genre": "연극",
-   "from": "2020-12-23",
-   "to": "2021-01-03",
-   "venue": "예전아트센터",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170411_201203_100744.jpg",
-   "state": "공연완료"
+   "cast": [
+    "표지훈",
+    "이한솔",
+    "강은일",
+    "이준현",
+    "최현성",
+    "조용석",
+    "이충호"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF170537",
@@ -106,109 +42,39 @@
    "genre": "뮤지컬",
    "from": "2020-12-23",
    "to": "2021-01-03",
-   "venue": "아르코예술극장",
+   "venue": "아르코예술극장 (대극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170537_201209_094216.jpg",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170560",
-   "title": "＃나만빼고",
-   "genre": "연극",
-   "from": "2020-12-22",
-   "to": "2022-09-30",
-   "venue": "대학로 마로니에소극장(플레이더씨어터)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170560_210830_115437.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170724",
-   "title": "참기름 톡!",
-   "genre": "연극",
-   "from": "2020-12-19",
-   "to": "2021-01-03",
-   "venue": "동양예술극장(구. 아트센터K)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170724_201218_095320.jpg",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170062",
-   "title": "일등급인간",
-   "genre": "연극",
-   "from": "2020-12-16",
-   "to": "2021-01-22",
-   "venue": "올림아트센터 (구.스튜디오76)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170062_201124_104909.jpg",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169960",
-   "title": "그녀를 믿지 마세요 [수원]",
-   "genre": "연극",
-   "from": "2020-12-12",
-   "to": "2021-01-03",
-   "venue": "KBS 수원아트홀",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169960_201123_094016.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170326",
-   "title": "낙원의 사람들",
-   "genre": "연극",
-   "from": "2020-12-12",
-   "to": "2021-01-10",
-   "venue": "을지공간",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170326_201201_100329.gif",
-   "state": "공연완료"
+   "cast": [
+    "김종구",
+    "홍승안",
+    "윤석원",
+    "류지한",
+    "김도현",
+    "신은총",
+    "이진우"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF169374",
-   "title": "캣츠 40주년 내한공연 [대구]",
+   "title": "캣츠 40주년 내한공연",
    "genre": "뮤지컬",
    "from": "2020-12-11",
    "to": "2021-01-17",
    "venue": "계명아트센터",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169374_201110_092921.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169920",
-   "title": "돌아와요 미자씨 [대구]",
-   "genre": "연극",
-   "from": "2020-12-11",
-   "to": "2021-03-14",
-   "venue": "아트벙커",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169920_201120_094705.jpg",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170338",
-   "title": "러브앤전쟁",
-   "genre": "연극",
-   "from": "2020-12-11",
-   "to": "2021-06-06",
-   "venue": "대학로 두레홀 3관",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170338_201201_103347.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170509",
-   "title": "백투더백",
-   "genre": "연극",
-   "from": "2020-12-11",
-   "to": "2021-01-31",
-   "venue": "졸탄극장",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170509_201207_113442.jpg",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169647",
-   "title": "신바람 삼대",
-   "genre": "연극",
-   "from": "2020-12-10",
-   "to": "2023-02-28",
-   "venue": "아트포레스트 아트홀",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169647_220414_114151.gif",
-   "state": "공연완료"
+   "cast": [
+    "조아나 암필",
+    "앨리스 배트",
+    "헤이든 바움",
+    "나탈리 베니워스",
+    "탈리아 버트",
+    "에밀리 케이시",
+    "벤자민 콜리"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF169141",
@@ -216,19 +82,17 @@
    "genre": "뮤지컬",
    "from": "2020-12-08",
    "to": "2021-03-01",
-   "venue": "예스24 스테이지(구. DCF대명문화공장)",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169141_201104_104009.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169448",
-   "title": "라 루미에르",
-   "genre": "뮤지컬",
-   "from": "2020-12-08",
-   "to": "2021-01-03",
-   "venue": "동양예술극장(구. 아트센터K)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169448_201111_100226.jpg",
-   "state": "공연완료"
+   "cast": [
+    "남경읍",
+    "남명렬",
+    "이재균",
+    "정휘",
+    "최우혁"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF169120",
@@ -236,9 +100,19 @@
    "genre": "연극",
    "from": "2020-12-05",
    "to": "2021-03-21",
-   "venue": "링크아트센터드림",
+   "venue": "링크아트센터드림 (드림 3관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169120_201104_131829.gif",
-   "state": "공연완료"
+   "cast": [
+    "서승원",
+    "이준혁",
+    "김지휘",
+    "양승리",
+    "김주연",
+    "임건혁",
+    "김아석"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF169255",
@@ -246,19 +120,19 @@
    "genre": "뮤지컬",
    "from": "2020-12-04",
    "to": "2021-03-07",
-   "venue": "예스24 스테이지(구. DCF대명문화공장)",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169255_201106_100002.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169761",
-   "title": "초콜릿하우스 [대전]",
-   "genre": "뮤지컬",
-   "from": "2020-12-04",
-   "to": "2021-01-31",
-   "venue": "상상아트홀 [대전]",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169761_201117_100957.gif",
-   "state": "공연완료"
+   "cast": [
+    "김재범",
+    "에녹",
+    "김경수",
+    "임병근",
+    "장지후",
+    "강찬",
+    "최민우"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF169043",
@@ -266,9 +140,19 @@
    "genre": "연극",
    "from": "2020-12-03",
    "to": "2021-02-14",
-   "venue": "예스24 스테이지(구. DCF대명문화공장)",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169043_201103_105229.gif",
-   "state": "공연완료"
+   "cast": [
+    "이순재",
+    "신구",
+    "권유리",
+    "박소담",
+    "채수빈",
+    "이도엽",
+    "김대령"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF169261",
@@ -278,7 +162,17 @@
    "to": "2021-02-21",
    "venue": "백암아트홀",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169261_201106_101148.jpg",
-   "state": "공연완료"
+   "cast": [
+    "김찬호",
+    "이충주",
+    "이석준",
+    "정동화",
+    "배두훈",
+    "현석준",
+    "김소향"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF168563",
@@ -286,19 +180,19 @@
    "genre": "연극",
    "from": "2020-11-28",
    "to": "2021-02-07",
-   "venue": "예스24아트원(구.대학로아트원씨어터)",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168563_201023_095343.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169180",
-   "title": "헬로우 미스미스터 [대구]",
-   "genre": "연극",
-   "from": "2020-11-26",
-   "to": "2021-02-07",
-   "venue": "문화예술전용극장CT",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169180_210729_162649.jpg",
-   "state": "공연완료"
+   "cast": [
+    "서현철",
+    "박윤희",
+    "박정복",
+    "조성윤",
+    "이선주",
+    "양서빈",
+    "정원조"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF168555",
@@ -306,9 +200,19 @@
    "genre": "뮤지컬",
    "from": "2020-11-24",
    "to": "2021-01-31",
-   "venue": "유니플렉스",
+   "venue": "유니플렉스 (1관(대극장))",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168555_201023_092913.gif",
-   "state": "공연완료"
+   "cast": [
+    "김주호",
+    "이석준",
+    "성두섭",
+    "양지원",
+    "정욱진",
+    "정민",
+    "이형훈"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF168038",
@@ -316,39 +220,19 @@
    "genre": "뮤지컬",
    "from": "2020-11-20",
    "to": "2021-03-01",
-   "venue": "홍익대 대학로 아트센터",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168038_201012_131212.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF168338",
-   "title": "뷰티풀 라이프 [대전]",
-   "genre": "연극",
-   "from": "2020-11-20",
-   "to": "2021-01-03",
-   "venue": "이수아트홀 [대전]",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168338_201019_113257.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF168630",
-   "title": "오 나의 귀신님 [전주]",
-   "genre": "연극",
-   "from": "2020-11-20",
-   "to": "2021-01-10",
-   "venue": "한해랑아트홀",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168630_201026_095243.JPG",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169358",
-   "title": "극한연애 [부산]",
-   "genre": "연극",
-   "from": "2020-11-20",
-   "to": "2021-01-03",
-   "venue": "초콜릿팩토리",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169358_201109_130724.jpg",
-   "state": "공연완료"
+   "cast": [
+    "김동완",
+    "박은태",
+    "이상이",
+    "오만석",
+    "정상훈",
+    "이규형",
+    "최재림"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167675",
@@ -356,19 +240,19 @@
    "genre": "뮤지컬",
    "from": "2020-11-19",
    "to": "2021-02-21",
-   "venue": "두산아트센터",
+   "venue": "두산아트센터 (연강홀)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167675_200925_105901.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169875",
-   "title": "크리스마스캐롤 [부평]",
-   "genre": "뮤지컬",
-   "from": "2020-11-18",
-   "to": "2021-01-09",
-   "venue": "레미어린이극장 [부평]",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169875_201119_101220.JPG",
-   "state": "공연완료"
+   "cast": [
+    "김선영",
+    "김지현",
+    "김경수",
+    "고훈정",
+    "조형균",
+    "최은실",
+    "김려원"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167878",
@@ -378,7 +262,17 @@
    "to": "2021-03-28",
    "venue": "구. LG아트센터",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167878_201007_094036.jpg",
-   "state": "공연완료"
+   "cast": [
+    "엄기준",
+    "신성록",
+    "옥주현",
+    "이지혜",
+    "최민철",
+    "김준현",
+    "강태을"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF168556",
@@ -386,19 +280,19 @@
    "genre": "연극",
    "from": "2020-11-17",
    "to": "2021-02-28",
-   "venue": "광림아트센터",
+   "venue": "광림아트센터 (BBCH홀)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168556_201023_093422.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF165036",
-   "title": "러브액츄얼리 두번째 사연 [부산]",
-   "genre": "연극",
-   "from": "2020-11-13",
-   "to": "2021-01-03",
-   "venue": "부산메트로홀 (구. AN아트홀 광안)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF165036_201026_104735.jpg",
-   "state": "공연완료"
+   "cast": [
+    "지현준",
+    "김재범",
+    "차지연",
+    "한지상",
+    "최재웅",
+    "백석광",
+    "박은석"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167947",
@@ -406,9 +300,19 @@
    "genre": "뮤지컬",
    "from": "2020-11-13",
    "to": "2021-03-07",
-   "venue": "충무아트센터",
+   "venue": "충무아트센터 (대극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167947_201008_102922.gif",
-   "state": "공연완료"
+   "cast": [
+    "유준상",
+    "이건명",
+    "정성화",
+    "민우혁",
+    "온주완",
+    "조형균",
+    "양요섭"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF168442",
@@ -416,19 +320,19 @@
    "genre": "뮤지컬",
    "from": "2020-11-11",
    "to": "2021-01-31",
-   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어)",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168442_201020_113413.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF168551",
-   "title": "너에게로 또 다시 [광주]",
-   "genre": "연극",
-   "from": "2020-11-11",
-   "to": "2021-01-10",
-   "venue": "기분좋은극장 [상무지구]",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168551_201022_134253.gif",
-   "state": "공연완료"
+   "cast": [
+    "최재림",
+    "조상웅",
+    "강윤석",
+    "김용수",
+    "황성현",
+    "정재환",
+    "지승태"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF166692",
@@ -436,59 +340,16 @@
    "genre": "뮤지컬",
    "from": "2020-11-10",
    "to": "2021-01-17",
-   "venue": "블루스퀘어",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF166692_200811_095337.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF168719",
-   "title": "토끼와 자라 [창원]",
-   "genre": "뮤지컬",
-   "from": "2020-11-07",
-   "to": "2021-01-03",
-   "venue": "창원과학체험관",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168719_201027_100122.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF167595",
-   "title": "소믈리에",
-   "genre": "뮤지컬",
-   "from": "2020-11-06",
-   "to": "2021-01-31",
-   "venue": "JS아트홀 (구. 고스트씨어터 구.다소니씨어터)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167595_200923_094703.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF167934",
-   "title": "한뼘사이 [대구]",
-   "genre": "연극",
-   "from": "2020-11-06",
-   "to": "2021-03-05",
-   "venue": "여우별아트홀",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167934_201008_100959.JPG",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF168174",
-   "title": "셜록홈즈 [부산]",
-   "genre": "연극",
-   "from": "2020-11-05",
-   "to": "2021-03-01",
-   "venue": "BNK부산은행 조은극장",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168174_201015_095026.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF168582",
-   "title": "고스트 [대전]",
-   "genre": "연극",
-   "from": "2020-11-05",
-   "to": "2021-01-03",
-   "venue": "아신극장",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168582_201023_104215.gif",
-   "state": "공연완료"
+   "cast": [
+    "안젤로 델 베키오",
+    "히바 타와지",
+    "리샤르 샤레스트",
+    "플로 칼리"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167560",
@@ -496,19 +357,19 @@
    "genre": "뮤지컬",
    "from": "2020-11-03",
    "to": "2021-02-14",
-   "venue": "충무아트센터",
+   "venue": "충무아트센터 (중극장 블랙)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167560_200922_092520.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF170392",
-   "title": "판다스틱",
-   "genre": "뮤지컬",
-   "from": "2020-11-02",
-   "to": "2021-07-06",
-   "venue": "보라 아트홀(구. 지구인아트홀)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170392_201203_092728.jpg",
-   "state": "공연완료"
+   "cast": [
+    "강필석",
+    "오종혁",
+    "송원근",
+    "정운선",
+    "전성민",
+    "이하나",
+    "윤석현"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167867",
@@ -516,29 +377,19 @@
    "genre": "뮤지컬",
    "from": "2020-11-01",
    "to": "2021-02-21",
-   "venue": "예스24아트원(구.대학로아트원씨어터)",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167867_201006_102848.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169347",
-   "title": "토리깨비: 도깨비 모험 이야기",
-   "genre": "뮤지컬",
-   "from": "2020-10-30",
-   "to": "2021-01-31",
-   "venue": "홀로키즈파크 롤리팝아트홀",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169347_210722_141606.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF169008",
-   "title": "피터팬과 후크선장 [울산]",
-   "genre": "뮤지컬",
-   "from": "2020-10-29",
-   "to": "2021-01-03",
-   "venue": "레미어린이극장 [울산진장]",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF169008_201103_100416.gif",
-   "state": "공연완료"
+   "cast": [
+    "김종구",
+    "이주광",
+    "주민진",
+    "박규원",
+    "유승현",
+    "배나라",
+    "조훈"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167701",
@@ -546,19 +397,19 @@
    "genre": "뮤지컬",
    "from": "2020-10-27",
    "to": "2021-01-24",
-   "venue": "티오엠씨어터(구. 문화공간필링)",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167701_200928_103036.jpg",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF167378",
-   "title": "이브의 선물 [대구]",
-   "genre": "연극",
-   "from": "2020-10-23",
-   "to": "2021-01-03",
-   "venue": "아트플러스씨어터",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167378_200911_093840.gif",
-   "state": "공연완료"
+   "cast": [
+    "김도빈",
+    "박민성",
+    "이율",
+    "임준혁",
+    "이해준",
+    "노윤",
+    "임찬민"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167398",
@@ -568,17 +419,17 @@
    "to": "2021-01-31",
    "venue": "KT&G 상상마당 대치아트홀",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167398_200911_103101.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF168139",
-   "title": "무지개랜드",
-   "genre": "뮤지컬",
-   "from": "2020-10-23",
-   "to": "2021-12-26",
-   "venue": "별빛소극장",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF168139_201014_112108.gif",
-   "state": "공연완료"
+   "cast": [
+    "박건형",
+    "박영수",
+    "문진아",
+    "정철호",
+    "차정현",
+    "유철호",
+    "하유진"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF166543",
@@ -586,9 +437,19 @@
    "genre": "뮤지컬",
    "from": "2020-10-06",
    "to": "2021-03-14",
-   "venue": "디큐브링크아트센터",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF166543_200806_093139.gif",
-   "state": "공연완료"
+   "cast": [
+    "김우형",
+    "김진욱",
+    "박지연",
+    "최정원",
+    "박준면",
+    "김승대",
+    "백형훈"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167545",
@@ -596,9 +457,19 @@
    "genre": "뮤지컬",
    "from": "2020-10-04",
    "to": "2021-01-24",
-   "venue": "링크아트센터드림",
+   "venue": "링크아트센터드림 (드림 2관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167545_200921_111651.gif",
-   "state": "공연완료"
+   "cast": [
+    "고훈정",
+    "양지원",
+    "이승현",
+    "김이후",
+    "홍미금",
+    "서동진",
+    "정선기"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF167338",
@@ -606,139 +477,19 @@
    "genre": "뮤지컬",
    "from": "2020-09-29",
    "to": "2021-01-31",
-   "venue": "링크아트센터드림",
+   "venue": "링크아트센터드림 (드림 1관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167338_200908_094031.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF166842",
-   "title": "더 북: 성경이 된 사람들",
-   "genre": "뮤지컬",
-   "from": "2020-09-12",
-   "to": "2021-03-01",
-   "venue": "광야아트센터",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF166842_200813_110551.PNG",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF166356",
-   "title": "바보사랑",
-   "genre": "뮤지컬",
-   "from": "2020-08-28",
-   "to": "2021-01-23",
-   "venue": "세븐파이프홀",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF166356_200803_095157.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF167145",
-   "title": "언플러그드",
-   "genre": "연극",
-   "from": "2020-08-28",
-   "to": "2023-08-15",
-   "venue": "달밤엔씨어터",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF167145_210322_092527.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF165406",
-   "title": "아모르파티",
-   "genre": "뮤지컬",
-   "from": "2020-07-24",
-   "to": "2021-02-21",
-   "venue": "JTN 아트홀(구. 대학로예술마당)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF165406_200702_093959.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF165244",
-   "title": "연애하기 좋은 날 [부산]",
-   "genre": "연극",
-   "from": "2020-07-16",
-   "to": "2021-01-17",
-   "venue": "BNK부산은행 조은극장",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF165244_201118_094910.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF165065",
-   "title": "THE 가구",
-   "genre": "연극",
-   "from": "2020-06-19",
-   "to": "2021-12-31",
-   "venue": "보라 아트홀(구. 지구인아트홀)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF165065_210426_101302.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF162934",
-   "title": "흉터 [대구]",
-   "genre": "연극",
-   "from": "2020-06-04",
-   "to": "2021-08-29",
-   "venue": "아트플러스씨어터",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF162934_200805_091814.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF163841",
-   "title": "프리즌 [대학로]",
-   "genre": "뮤지컬",
-   "from": "2020-04-29",
-   "to": "2021-03-31",
-   "venue": "대학로 극장가게 (구. 문씨어터, 구. 지구인씨어터)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF163841_200428_111239.jpg",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF163702",
-   "title": "G급감성 [홍대]",
-   "genre": "연극",
-   "from": "2020-04-15",
-   "to": "2022-02-24",
-   "venue": "별빛소극장",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF163702_210720_141653.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF162350",
-   "title": "알사탕 [서울]",
-   "genre": "뮤지컬",
-   "from": "2020-04-11",
-   "to": "2021-08-29",
-   "venue": "더 서울라이티움 (갤러리아포레)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF162350_200228_103401.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF162473",
-   "title": "행오버: 게임의 시작",
-   "genre": "연극",
-   "from": "2020-03-17",
-   "to": "2021-01-31",
-   "venue": "해피씨어터",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF162473_200618_110752.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF161427",
-   "title": "더드럼",
-   "genre": "뮤지컬",
-   "from": "2020-03-13",
-   "to": "2021-03-12",
-   "venue": "판시어터",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF161427_200129_104749.gif",
-   "state": "공연완료"
-  },
-  {
-   "id": "PF163036",
-   "title": "연극 라면",
-   "genre": "연극",
-   "from": "2020-02-28",
-   "to": "2021-02-26",
-   "venue": "컬쳐씨어터(구. 휴먼시어터)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF163036_200407_135735.PNG",
-   "state": "공연완료"
+   "cast": [
+    "이승현",
+    "김대현",
+    "최석진",
+    "김순택",
+    "최호승",
+    "백기범",
+    "정성일"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   }
  ]
 }

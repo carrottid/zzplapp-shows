@@ -1,0 +1,38 @@
+{
+ "id": "PF213132",
+ "title": "아트 (ART)",
+ "genre": "연극",
+ "from": "2023-03-10",
+ "to": "2023-03-11",
+ "venue": "국립아시아문화전당 (극장2)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF213132_230210_105148.jpg",
+ "area": "전남광주통합특별시",
+ "state": "공연완료",
+ "cast": [
+  "박은석",
+  "최재웅",
+  "박정복",
+  "이순재",
+  "노주현",
+  "백일섭"
+ ],
+ "facilityId": "FC001270",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "김수로, 신영섭, 성종완 등",
+ "producer": "(주)더블케이 필름 앤 씨어터 (더블케이엔터테인먼트)",
+ "price": "R석 50,000원, S석 30,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,17:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213132_230210_1051480.png"
+ ],
+ "links": [
+  {
+   "name": "국립아시아문화전당",
+   "url": "https://www.acc.go.kr/main/performance.do?PID=0102&action=Read&bnkey=EM_0000006096"
+  }
+ ],
+ "updated": "2023-02-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

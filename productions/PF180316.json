@@ -1,0 +1,67 @@
+{
+ "id": "PF180316",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2021-11-05",
+ "to": "2021-11-07",
+ "venue": "천안예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF180316_210929_102734.gif",
+ "area": "충청남도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "티파니 영",
+  "김영주",
+  "민경아",
+  "최재림",
+  "박건형"
+ ],
+ "facilityId": "FC001383",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 오민영 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 140,000원, R석 120,000원, S석 90,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF180316_210929_1027340.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/265688"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/590341"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008787"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=206207"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40231"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38878"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=75684"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  }
+ ],
+ "updated": "2021-09-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

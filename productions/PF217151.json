@@ -1,0 +1,38 @@
+{
+ "id": "PF217151",
+ "title": "WONDERLAND THEATRE",
+ "genre": "뮤지컬",
+ "from": "2023-05-06",
+ "to": "2023-05-13",
+ "venue": "블루스퀘어 (우리WON뱅킹홀(구. SOL트래블홀) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217151_230420_122530.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강홍석",
+  "서경수",
+  "정원영",
+  "조형균",
+  "김수하",
+  "민경아",
+  "정선아"
+ ],
+ "facilityId": "FC000031",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "price": "R석 121,000원, S석 110,000원, A석 99,000원",
+ "schedule": "토요일(19:00), 토요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217151_230420_1225301.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217151_230420_1225300.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005644"
+  }
+ ],
+ "updated": "2023-04-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

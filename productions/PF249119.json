@@ -1,0 +1,38 @@
+{
+ "id": "PF249119",
+ "title": "브랜든 리 뮤지컬 심포니 콘서트",
+ "genre": "뮤지컬",
+ "from": "2024-09-28",
+ "to": "2024-09-28",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF249119_240913_170000.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신성록",
+  "옥주현",
+  "이해준",
+  "이성준"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "price": "R석 140,000원, S석 120,000원, A석 90,000원, 시야방해R 98,000원, 시야방해A 63,000원",
+ "schedule": "토요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF249119_240913_0500000.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013093"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "https://www.lotteconcerthall.com/kor/Performance/ConcertDetails/260375"
+  }
+ ],
+ "updated": "2024-09-19 14:22:03",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

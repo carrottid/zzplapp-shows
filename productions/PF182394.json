@@ -1,0 +1,41 @@
+{
+ "id": "PF182394",
+ "title": "버닝필드",
+ "genre": "연극",
+ "from": "2021-11-18",
+ "to": "2021-11-21",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182394_211104_110329.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "서정식",
+  "오경주",
+  "조우현",
+  "김영환",
+  "김유림",
+  "박강원",
+  "신준일"
+ ],
+ "facilityId": "FC000020",
+ "age": "만 7세 이상",
+ "crew": "우종희, 권용, 김준희 등",
+ "price": "R석 35,000원, S석 25,000원",
+ "schedule": "목요일 ~ 금요일(15:00,19:30), 토요일 ~ 일요일(15:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182394_211104_1103290.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0002790"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=32554&menuNo=200004"
+  }
+ ],
+ "updated": "2021-11-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

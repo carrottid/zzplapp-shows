@@ -1,0 +1,51 @@
+{
+ "id": "PF230537",
+ "title": "10주년 기념공연, 레베카",
+ "genre": "뮤지컬",
+ "from": "2023-12-14",
+ "to": "2024-02-24",
+ "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230537_231122_104754.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "류정한",
+  "민영기",
+  "오만석",
+  "신영숙",
+  "옥주현",
+  "장은아",
+  "김보경"
+ ],
+ "facilityId": "FC003045",
+ "runtime": "2시간 55분",
+ "age": "만 7세 이상",
+ "crew": "미하엘 쿤체, 실베스터 르베이, 로버트 요한슨 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "화요일(19:00), 수요일(14:00,19:00), 수요일(15:00), 목요일 ~ 금요일(19:00), 금요일(15:00), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230537_231122_1047540.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "https://www.lgart.com/product/performance/252802"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000062"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=209090"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011278"
+  }
+ ],
+ "updated": "2023-11-22 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

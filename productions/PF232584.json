@@ -1,0 +1,38 @@
+{
+ "id": "PF232584",
+ "title": "서울시극단, 제15기 시민연극교실",
+ "genre": "연극",
+ "from": "2024-01-06",
+ "to": "2024-01-07",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF232584_231215_114558.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강예진",
+  "공윤희",
+  "곽한나",
+  "김공희",
+  "김명석",
+  "김슬기",
+  "김원경"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "김신기, 이승우",
+ "price": "전석 10,000원",
+ "schedule": "토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232584_231215_1145580.jpg"
+ ],
+ "links": [
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=34882&menuNo=200004"
+  }
+ ],
+ "updated": "2024-11-28 16:35:04",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

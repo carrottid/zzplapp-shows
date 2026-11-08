@@ -1,0 +1,43 @@
+{
+ "id": "PF197728",
+ "title": "프리즌",
+ "genre": "뮤지컬",
+ "from": "2022-12-30",
+ "to": "2022-12-31",
+ "venue": "대구문화예술회관 (비슬홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF197728_220906_134736.gif",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "하준석",
+  "홍차민",
+  "이상윤",
+  "조웅희",
+  "박서희"
+ ],
+ "facilityId": "FC000191",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "price": "전석 50,000원",
+ "schedule": "금요일(19:30), 토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF197728_220906_0147360.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/40125"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/759330"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011598"
+  }
+ ],
+ "updated": "2022-09-06 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

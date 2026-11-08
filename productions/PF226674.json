@@ -1,0 +1,41 @@
+{
+ "id": "PF226674",
+ "title": "타고, Korean DrumⅢ: The Drum Shaman",
+ "genre": "뮤지컬",
+ "from": "2023-10-26",
+ "to": "2023-10-27",
+ "venue": "국립극장 (하늘극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226674_230926_095523.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김병주",
+  "김시원",
+  "이강일",
+  "현호군",
+  "박진영",
+  "홍나라",
+  "김상철"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 20분",
+ "age": "만 5세 이상",
+ "price": "R석 70,000원, S석 50,000원, A석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226674_230926_0955230.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266568"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013605"
+  }
+ ],
+ "updated": "2025-04-04 09:50:49",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

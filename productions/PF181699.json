@@ -1,0 +1,52 @@
+{
+ "id": "PF181699",
+ "title": "툴스",
+ "genre": "뮤지컬",
+ "from": "2021-10-20",
+ "to": "2021-11-20",
+ "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF181699_211025_141444.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "진기정",
+  "이정민",
+  "김혜빈",
+  "이정민",
+  "이응석"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 10분",
+ "age": "만 5세 이상",
+ "crew": "김필범, 김태환, 황일영 등",
+ "price": "전석 35,000원",
+ "schedule": "금요일(20:00), 토요일(13:30,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181699_211025_0214440.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/36204"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/601317"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010204"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD19370"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/index.php?number=4611"
+  }
+ ],
+ "updated": "2021-10-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

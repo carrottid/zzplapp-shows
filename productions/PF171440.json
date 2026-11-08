@@ -1,0 +1,43 @@
+{
+ "id": "PF171440",
+ "title": "더 픽션",
+ "genre": "뮤지컬",
+ "from": "2021-02-27",
+ "to": "2021-06-13",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171440_210209_101126.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정동화",
+  "주민진",
+  "박규원",
+  "유승현",
+  "박정원",
+  "황민수",
+  "박건"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 25분",
+ "age": "만 13세 이상",
+ "crew": "한승원, 김종석, 윤상원 등",
+ "producer": "(주)에이치제이컬쳐(HJ컬쳐)",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171440_210809_0346421.png"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/493117"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=38373"
+  }
+ ],
+ "updated": "2021-02-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

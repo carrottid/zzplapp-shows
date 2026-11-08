@@ -1,0 +1,45 @@
+{
+ "id": "PF298984",
+ "title": "리: 바운드 축제, 선녀씨 이야기",
+ "genre": "연극",
+ "from": "2026-10-30",
+ "to": "2026-10-31",
+ "venue": "예술의전당 [서울] (자유소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298984_260820_143038.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고현주",
+  "차영우",
+  "박선혜",
+  "변상윤",
+  "김인하",
+  "김영실",
+  "이혜미"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "이삼우, 심봉석, 고재경 등",
+ "producer": "극단 예도",
+ "price": "전석 20,000원",
+ "schedule": "금요일(19:30), 토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF298984_202608200230389351.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF298984_202608200230389290.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF298984_202608200233033720.jpg"
+ ],
+ "links": [
+  {
+   "name": "공기",
+   "url": "https://dash.gongki.com/reserve?eventId=1785396686"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26011924"
+  }
+ ],
+ "updated": "2026-10-29 10:00:19",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

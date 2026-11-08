@@ -1,0 +1,43 @@
+{
+ "id": "PF255845",
+ "title": "그해 여름",
+ "genre": "뮤지컬",
+ "from": "2025-01-21",
+ "to": "2025-03-02",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF255845_241216_104133.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "허혜진",
+  "홍나현",
+  "홍승안",
+  "안지환",
+  "김석환",
+  "이강혁",
+  "김지훈"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "노재환, 박정인, 송은도 등",
+ "producer": "(주)콘텐츠플래닝",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF255845_241216_1041330.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017986"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6153"
+  }
+ ],
+ "updated": "2025-02-10 18:00:25",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

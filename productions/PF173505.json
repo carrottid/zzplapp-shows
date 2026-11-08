@@ -1,0 +1,43 @@
+{
+ "id": "PF173505",
+ "title": "고야",
+ "genre": "연극",
+ "from": "2021-05-07",
+ "to": "2021-05-12",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF173505_210413_115257.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김경환",
+  "김나영",
+  "김동빈",
+  "김성각",
+  "김지연",
+  "나다은",
+  "박시은"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 5분",
+ "age": "만 15세 이상",
+ "crew": "손현규, 유주영, 최인수 등",
+ "price": "R석 40,000원, S석 35,000원, A석 30,000원",
+ "schedule": "화요일 ~ 수요일(20:00), 금요일(20:00), 토요일 ~ 일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF173505_210413_1152571.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF173505_210413_1152570.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0002568"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=31805&menuNo=200004&sdate=2021-04-13&searchWrd=%EA%B3%A0%EC%95%BC&searchCnd=1&edate=2021-05-13&searchPackage=&searchGenreCdStr=&searchPlaceCdStr=&pageIndex=1"
+  }
+ ],
+ "updated": "2021-04-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,47 @@
+{
+ "id": "PF251902",
+ "title": "마타하리",
+ "genre": "뮤지컬",
+ "from": "2024-12-05",
+ "to": "2025-03-02",
+ "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF251902_241022_133007.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "옥주현",
+  "김용선",
+  "정용훈",
+  "김성식",
+  "이정훈",
+  "최민철",
+  "노윤"
+ ],
+ "facilityId": "FC003045",
+ "runtime": "3시간",
+ "age": "만 7세 이상",
+ "crew": "정상국, 이진호, 정은용 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "화요일(15:00), 수요일(14:00,19:00), 목요일(19:30), 금요일(14:00,19:00), 토요일(14:00,19:00), 일요일(15:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF251902_241022_0130071.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "https://www.lgart.com/product/ko/performance/252879"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000106"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=210513"
+  }
+ ],
+ "updated": "2024-10-23 09:48:04",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

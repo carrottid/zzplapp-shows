@@ -1,0 +1,51 @@
+{
+ "id": "PF248115",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2024-11-22",
+ "to": "2024-11-24",
+ "venue": "청주예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF248115_240902_111946.jpg",
+ "area": "충청북도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "정선아",
+  "박은혜",
+  "스테파니 영 황",
+  "민경아",
+  "박건형"
+ ],
+ "facilityId": "FC000403",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 김준태 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 160,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF248115_240902_1117120.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1225137"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24012408"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=210322"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/50873"
+  }
+ ],
+ "updated": "2024-09-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

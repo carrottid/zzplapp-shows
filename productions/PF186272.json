@@ -1,0 +1,52 @@
+{
+ "id": "PF186272",
+ "title": "스톤",
+ "genre": "뮤지컬",
+ "from": "2022-02-27",
+ "to": "2022-05-22",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186272_220517_111229.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이승현",
+  "반정모",
+  "유성재",
+  "이준우",
+  "김민범",
+  "이진혁",
+  "권익환"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "producer": "(주) 엠제이스타피시(MJStarfish)",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "화요일 ~ 수요일(20:00), 목요일(16:00,20:00), 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186272_220128_1208472.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186272_220128_1208471.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186272_220128_1208470.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000880"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41328"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39191"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007232"
+  }
+ ],
+ "updated": "2022-01-28 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

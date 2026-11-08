@@ -1,0 +1,38 @@
+{
+ "id": "PF179038",
+ "title": "뮤시즌 콘서트: Reprise",
+ "genre": "뮤지컬",
+ "from": "2021-09-24",
+ "to": "2021-09-24",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF179038_210830_122233.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "옥주현",
+  "이지혜",
+  "이창섭",
+  "김문정"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "price": "R석 143,000원, S석 121,000원, A석 99,000원, B석 77,000원",
+ "schedule": "금요일(14:30,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF179038_210830_1222330.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21007690"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259128"
+  }
+ ],
+ "updated": "2021-08-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

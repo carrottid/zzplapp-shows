@@ -1,0 +1,40 @@
+{
+ "id": "PF249180",
+ "title": "엄유민법 콘서트",
+ "genre": "뮤지컬",
+ "from": "2024-09-29",
+ "to": "2024-09-29",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF249180_240919_111040.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이성준",
+  "엄기준",
+  "유준상",
+  "민영기",
+  "김법래"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "producer": "라이브러리컴퍼니",
+ "price": "R석 140,000원, S석 120,000원, A석 90,000원, 시야방해R 98,000원, 시야방해A 63,000원",
+ "schedule": "일요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF249180_240919_1110400.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013317"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/260376"
+  }
+ ],
+ "updated": "2024-09-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

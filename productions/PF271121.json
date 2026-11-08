@@ -1,0 +1,51 @@
+{
+ "id": "PF271121",
+ "title": "여단",
+ "genre": "뮤지컬",
+ "from": "2025-09-02",
+ "to": "2025-11-02",
+ "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF271121_250814_150841.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신의정",
+  "강연정",
+  "조영화",
+  "유소리",
+  "박세미",
+  "성민재",
+  "최나혜"
+ ],
+ "facilityId": "FC002012",
+ "runtime": "1시간",
+ "age": "만 13세 이상",
+ "crew": "정철, 김새미, 김경용 등",
+ "producer": "네버엔딩플레이(N.E.P Contents)",
+ "price": "R석 30,000원, S석 25,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00,20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF271121_202508060130324340.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/57842"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1478853"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78761"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6532"
+  }
+ ],
+ "updated": "2026-01-21 13:43:56",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

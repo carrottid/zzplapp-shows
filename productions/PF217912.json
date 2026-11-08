@@ -1,0 +1,56 @@
+{
+ "id": "PF217912",
+ "title": "모차르트!",
+ "genre": "뮤지컬",
+ "from": "2023-06-15",
+ "to": "2023-08-22",
+ "venue": "세종문화회관 (세종대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217912_230504_124429.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이해준",
+  "유회승",
+  "김희재",
+  "허혜진",
+  "황우림",
+  "민영기",
+  "서범석"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 55분",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 김지원, 권은아 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 90,000원, B석 70,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일(19:30), 금요일(14:30,19:30), 토요일(14:30,19:30), HOL(14:30,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217912_230504_1244291.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217912_230504_1244290.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "https://tickets.interpark.com/goods/P0003461"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=208169"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=34122&menuNo=200004"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77331"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/21481909830"
+  }
+ ],
+ "updated": "2023-05-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

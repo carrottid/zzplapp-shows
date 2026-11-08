@@ -1,0 +1,40 @@
+{
+ "id": "PF295984",
+ "title": "국립극장, 옹옹옹",
+ "genre": "연극",
+ "from": "2026-09-03",
+ "to": "2026-09-06",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295984_260713_164159.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [],
+ "facilityId": "FC000003",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "서동민, 강훈구",
+ "producer": "국립극장",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295984_202607130441594161.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295984_202607130441594120.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21008&perfId=267172"
+  },
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13957"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26010000"
+  }
+ ],
+ "updated": "2026-10-13 17:07:47",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

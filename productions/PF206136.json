@@ -1,0 +1,43 @@
+{
+ "id": "PF206136",
+ "title": "태양",
+ "genre": "연극",
+ "from": "2023-02-03",
+ "to": "2023-02-26",
+ "venue": "국립정동극장 (국립정동극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF206136_230104_102646.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "서창호",
+  "임미정",
+  "윤재웅",
+  "김도완",
+  "이애린",
+  "권정훈",
+  "김정화"
+ ],
+ "facilityId": "FC000006",
+ "runtime": "2시간",
+ "age": "만 13세 이상",
+ "crew": "김정, 남경식, 신동선 등",
+ "producer": "(재)경기아트센터, (재)국립정동극장, 경기도극단",
+ "price": "전석 50,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF206136_230104_1026460.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22017872"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000009199"
+  }
+ ],
+ "updated": "2023-01-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

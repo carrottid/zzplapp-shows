@@ -1,0 +1,64 @@
+{
+ "id": "PF188631",
+ "title": "레베카",
+ "genre": "뮤지컬",
+ "from": "2022-05-27",
+ "to": "2022-05-29",
+ "venue": "고양아람누리 (아람극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF188631_220329_093508.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "민영기",
+  "김준현",
+  "이장우",
+  "신영숙",
+  "옥주현",
+  "임혜영",
+  "박지연"
+ ],
+ "facilityId": "FC000127",
+ "runtime": "2시간 50분",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 김지원, 권은아 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 150,000원, R석 130,000원, S석 90,000원, A석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF188631_220329_0935081.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF188631_220329_0935080.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266215"
+  },
+  {
+   "name": "고양아람누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000006625"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/669435"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22003320"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=206695"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41757"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39295"
+  }
+ ],
+ "updated": "2022-03-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

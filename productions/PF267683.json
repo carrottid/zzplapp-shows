@@ -1,0 +1,55 @@
+{
+ "id": "PF267683",
+ "title": "연극열전10, 웨이스티드",
+ "genre": "뮤지컬",
+ "from": "2025-08-06",
+ "to": "2025-10-26",
+ "venue": "플러스씨어터(구. 컬처스페이스 엔유) (플러스씨어터(구. 컬처스페이스 엔유))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF267683_250620_104130.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "유정연",
+  "문진아",
+  "전성민",
+  "김지철",
+  "유현석",
+  "황순종",
+  "정지은"
+ ],
+ "facilityId": "FC001459",
+ "runtime": "2시간 15분",
+ "age": "만 13세 이상",
+ "crew": "허지셰, 칼 밀러, 크리스토퍼 애쉬 등",
+ "producer": "(주)연극열전",
+ "price": "R석 70,000원, S석 55,000원",
+ "schedule": "화요일 ~ 수요일(20:00), 목요일(16:00,20:00), 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF267683_250620_1041300.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1439518"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25008688"
+  },
+  {
+   "name": "연극열전",
+   "url": "https://www.thebestplay.co.kr/program/perf_view.asp?id=280109&pref_state=PLAN"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/54239"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6495"
+  }
+ ],
+ "updated": "2026-01-21 13:48:37",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

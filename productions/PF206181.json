@@ -1,0 +1,41 @@
+{
+ "id": "PF206181",
+ "title": "제7회 한국뮤지컬어워즈, 대한민국뮤지컬페스티벌",
+ "genre": "뮤지컬",
+ "from": "2023-01-16",
+ "to": "2023-01-16",
+ "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF206181_230105_104900.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김소향",
+  "김수하",
+  "이자람",
+  "차지연",
+  "강홍석",
+  "서경수",
+  "정성화"
+ ],
+ "facilityId": "FC003045",
+ "runtime": "2시간 30분",
+ "age": "만 12세 이상",
+ "price": "전석 33,000원",
+ "schedule": "월요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF206181_230105_1049000.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "https://www.lgart.com/product/ko/performance/252746"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000024"
+  }
+ ],
+ "updated": "2023-01-05 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

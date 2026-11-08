@@ -1,0 +1,43 @@
+{
+ "id": "PF220001",
+ "title": "프리다",
+ "genre": "뮤지컬",
+ "from": "2023-08-01",
+ "to": "2023-10-15",
+ "venue": "코엑스아티움(Coex Artium) (코엑스아티움(Coex Artium))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF220001_230612_144446.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김소향",
+  "알리",
+  "김히어라",
+  "전수미",
+  "리사",
+  "스테파니",
+  "임정희"
+ ],
+ "facilityId": "FC004560",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "엄홍현, 김지원 추정화 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "OP석 90,000원, VIP석 90,000원, R석 80,000원, S석 70,000원",
+ "schedule": "화요일(19:30), 목요일 ~ 금요일(19:30), 수요일(15:00,19:30), 토요일(15:00,19:30), 일요일(15:00,23:59), HOL(15:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220001_230612_0244460.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23009521"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=208339"
+  }
+ ],
+ "updated": "2023-06-12 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

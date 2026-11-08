@@ -1,0 +1,43 @@
+{
+ "id": "PF272819",
+ "title": "멤피스",
+ "genre": "뮤지컬",
+ "from": "2025-10-25",
+ "to": "2025-10-26",
+ "venue": "세종예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF272819_250828_110646.gif",
+ "area": "세종특별자치시",
+ "state": "공연완료",
+ "cast": [
+  "박강현",
+  "고은성",
+  "정택운",
+  "정선아",
+  "유리아",
+  "손승연",
+  "최민철"
+ ],
+ "facilityId": "FC002877",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김태형, 양주인, 이현정 등",
+ "producer": "(주)쇼노트",
+ "price": "R석 170,000원, S석 140,000원, A석 110,000원",
+ "schedule": "토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272819_202508281106464540.png"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25012520"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6618"
+  }
+ ],
+ "updated": "2025-10-17 18:38:58",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

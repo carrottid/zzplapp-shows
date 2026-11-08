@@ -1,0 +1,51 @@
+{
+ "id": "PF192683",
+ "title": "임대아파트",
+ "genre": "연극",
+ "from": "2022-07-14",
+ "to": "2022-08-14",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF192683_220613_105447.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박성일",
+  "김소이",
+  "이정연",
+  "동현배",
+  "양대혁",
+  "김소라",
+  "고은민"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "김강현, 김민주, 구찬영 등",
+ "producer": "(주)빅스톤스튜디오, 극단 드림랜드, 극단 청국장",
+ "price": "전석 35,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192683_220613_1054470.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/711764"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22007221"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/12125971022"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=4799"
+  }
+ ],
+ "updated": "2022-06-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

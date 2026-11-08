@@ -1,0 +1,59 @@
+{
+ "id": "PF199307",
+ "title": "스위니토드",
+ "genre": "뮤지컬",
+ "from": "2022-12-01",
+ "to": "2023-03-05",
+ "venue": "샤롯데씨어터 (샤롯데씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF199307_221004_155417.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강필석",
+  "신성록",
+  "이규형",
+  "전미도",
+  "김지현",
+  "김대종",
+  "박인배"
+ ],
+ "facilityId": "FC000012",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "신춘수, 스티븐 손드하임, 휴 휠러 등",
+ "producer": "(주)오디컴퍼니(ODCOMPANY), TBC",
+ "price": "VIP석 150,000원, R석 130,000원, S석 100,000원, A석 70,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일(19:30), 금요일(14:30,19:30), 토요일(14:00,19:00), 일요일(14:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF199307_221110_0435041.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/40525"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/785038"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22013271"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76797"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000008804"
+  }
+ ],
+ "updated": "2022-10-04 18:01:10",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "PF255356",
+ "title": "제16기 시민연극교실",
+ "genre": "연극",
+ "from": "2024-12-21",
+ "to": "2024-12-22",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF255356_241206_123252.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김성근",
+  "한영숙",
+  "이원희",
+  "황정선",
+  "정지윤",
+  "이선희",
+  "이재규"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 20분",
+ "age": "만 7세 이상",
+ "crew": "고선웅, 서정완, 한혜원",
+ "price": "전석 10,000원",
+ "schedule": "토요일 ~ 일요일(15:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF255356_241206_1232520.jpg"
+ ],
+ "links": [
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=35858&menuNo=200320"
+  }
+ ],
+ "updated": "2025-01-02 10:14:59",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

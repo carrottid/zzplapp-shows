@@ -1,0 +1,40 @@
+{
+ "id": "PF171197",
+ "title": "제인",
+ "genre": "연극",
+ "from": "2021-01-29",
+ "to": "2021-03-14",
+ "venue": "브릭스씨어터 (구. 콘텐츠 그라운드) (브릭스씨어터 (구. 콘텐츠 그라운드))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171197_210125_112849.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "문진아",
+  "임찬민",
+  "김이후",
+  "정우연"
+ ],
+ "facilityId": "FC001199",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "김운기",
+ "producer": "(주) 엠제이스타피시(MJStarfish)",
+ "price": "전석 45,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171197_210223_0900571.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000274"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000005324"
+  }
+ ],
+ "updated": "2021-01-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

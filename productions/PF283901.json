@@ -1,0 +1,46 @@
+{
+ "id": "PF283901",
+ "title": "어쩌면 해피엔딩",
+ "genre": "뮤지컬",
+ "from": "2026-03-14",
+ "to": "2026-03-15",
+ "venue": "인천문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF283901_260127_110151.png",
+ "area": "인천광역시",
+ "state": "공연완료",
+ "cast": [
+  "전성우",
+  "정휘",
+  "정민도",
+  "방민아",
+  "이시안",
+  "고훈정"
+ ],
+ "facilityId": "FC000013",
+ "runtime": "1시간 55분",
+ "age": "만 13세 이상",
+ "crew": "한경숙, 박천휴, 손지은 등",
+ "producer": "엔에이치엔링크(주)",
+ "price": "R석 90,000원, S석 80,000원, A석 70,000원",
+ "schedule": "토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF283901_202601271101510520.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/61218"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1584938"
+  },
+  {
+   "name": "인천문화예술회관",
+   "url": "http://incheon9.moonhwain.net/rsvc/rsv_pm.html?b_id=incheon&p_idx=951"
+  }
+ ],
+ "updated": "2026-01-28 17:09:53",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

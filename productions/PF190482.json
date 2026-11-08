@@ -1,0 +1,43 @@
+{
+ "id": "PF190482",
+ "title": "지킬앤하이드",
+ "genre": "뮤지컬",
+ "from": "2022-07-08",
+ "to": "2022-07-10",
+ "venue": "고양아람누리 (아람극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190482_220504_100304.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "박은태",
+  "전동석",
+  "정유지",
+  "최수진",
+  "이지혜",
+  "김봉환",
+  "윤영석"
+ ],
+ "facilityId": "FC000127",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "신춘수, 조정만, 원미솔 등",
+ "producer": "(주)오디컴퍼니(ODCOMPANY)",
+ "price": "VIP석 150,000원, R석 130,000원, S석 100,000원, A석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190482_220504_1003040.jpg"
+ ],
+ "links": [
+  {
+   "name": "고양아람누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000006650"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005025"
+  }
+ ],
+ "updated": "2022-05-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

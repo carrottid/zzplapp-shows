@@ -1,0 +1,39 @@
+{
+ "id": "PF256010",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2025-02-07",
+ "to": "2025-02-09",
+ "venue": "계명아트센터 (계명아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF256010_241218_135318.gif",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "박건형",
+  "김영주",
+  "김경선",
+  "최정현",
+  "최성대"
+ ],
+ "facilityId": "FC001239",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 김준태 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 160,000원, R석 140,000원, S석 110,000원, A석 80,000원, B석 60,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF256010_241218_0153180.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018133"
+  }
+ ],
+ "updated": "2024-12-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

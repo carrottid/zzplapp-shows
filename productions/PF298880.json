@@ -1,0 +1,48 @@
+{
+ "id": "PF298880",
+ "title": "뮤지컬 오페라",
+ "genre": "뮤지컬",
+ "from": "2026-10-01",
+ "to": "2026-10-18",
+ "venue": "이화여자대학교 삼성홀 (이화여자대학교 삼성홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298880_260819_144147.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "문태유",
+  "조병규",
+  "백인태",
+  "조환지",
+  "임강성",
+  "강정우",
+  "정아인"
+ ],
+ "facilityId": "FC001799",
+ "runtime": "2시간 15분",
+ "age": "만 7세 이상",
+ "crew": "허강녕, 추정화, 김병진 등",
+ "producer": "(주)오차드씨앤씨",
+ "price": "VIP석 99,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF298880_202608190241478040.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF298880_202608190245378730.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/65001"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1719290"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7429"
+  }
+ ],
+ "updated": "2026-10-01 14:00:23",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

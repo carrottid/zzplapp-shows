@@ -1,0 +1,33 @@
+{
+ "id": "PF256064",
+ "title": "감정 연습",
+ "genre": "연극",
+ "from": "2025-01-23",
+ "to": "2025-01-25",
+ "venue": "두산아트센터 (Space111)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF256064_241219_132747.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "남명렬",
+  "이강우"
+ ],
+ "facilityId": "FC000402",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "이경헌, 신명민, 김선빈 등",
+ "price": "전석무료",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF256064_241219_0127470.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017949"
+  }
+ ],
+ "updated": "2025-07-03 16:18:54",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

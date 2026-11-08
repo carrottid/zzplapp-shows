@@ -1,0 +1,56 @@
+{
+ "id": "PF228643",
+ "title": "더데빌: 파우스트",
+ "genre": "뮤지컬",
+ "from": "2023-12-05",
+ "to": "2024-03-03",
+ "venue": "유니플렉스 (1관(대극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228643_231026_122514.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김동현",
+  "백인태",
+  "조형균",
+  "김찬호",
+  "임병근",
+  "박규원",
+  "김준영"
+ ],
+ "facilityId": "FC001233",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "이지혜, 신은경, 이성일 등",
+ "producer": "(주)R&Dworks(알앤디웍스)",
+ "price": "R석 88,000원, S석 66,000원, A석 44,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228643_231026_1225141.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228643_231026_1225140.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015352"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47551"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77573"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010878"
+  },
+  {
+   "name": "페이북",
+   "url": "https://paybooc.co.kr/app/paybooc/Culture.do?mFocus=Culture&returnURL=https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70755"
+  }
+ ],
+ "updated": "2023-10-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

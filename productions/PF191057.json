@@ -1,0 +1,47 @@
+{
+ "id": "PF191057",
+ "title": "초선의원",
+ "genre": "연극",
+ "from": "2022-06-03",
+ "to": "2022-07-03",
+ "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF191057_220513_135511.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "성노진",
+  "김대곤",
+  "유희제",
+  "김건호",
+  "조은진",
+  "전하영",
+  "심우성"
+ ],
+ "facilityId": "FC000382",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "최종혁, 오수현, 박태양 등",
+ "producer": "극단 웃는고양이, 네버엔딩플레이(N.E.P Contents)",
+ "price": "전석 50,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF191057_220513_0155110.png"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266361"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/702370"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/42182"
+  }
+ ],
+ "updated": "2022-05-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

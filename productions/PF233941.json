@@ -1,0 +1,39 @@
+{
+ "id": "PF233941",
+ "title": "정동진",
+ "genre": "연극",
+ "from": "2024-02-01",
+ "to": "2024-03-03",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF233941_240115_141857.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김경환",
+  "박지선",
+  "정선희",
+  "신동원",
+  "전봉석",
+  "한지혜",
+  "이승주"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "이희택, 조윤화, 배형호 등",
+ "producer": "극단 웃어",
+ "price": "전석 40,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:00), HOL(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF233941_240115_0218570.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000473"
+  }
+ ],
+ "updated": "2024-01-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

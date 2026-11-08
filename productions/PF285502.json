@@ -1,0 +1,55 @@
+{
+ "id": "PF285502",
+ "title": "히스토리 보이즈",
+ "genre": "연극",
+ "from": "2026-03-19",
+ "to": "2026-06-07",
+ "venue": "링크아트센터 (페이코홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285502_260223_105924.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "오대석",
+  "정청민",
+  "견민성",
+  "박정복",
+  "오정택",
+  "손유동",
+  "윤진성"
+ ],
+ "facilityId": "FC003244",
+ "runtime": "3시간 10분",
+ "age": "만 13세 이상",
+ "crew": "앨런 베넷, 김보람, 김수로 등",
+ "producer": "(주)더블케이 필름 앤 씨어터 (더블케이엔터테인먼트), 마크923(MARK923)",
+ "price": "R석 77,000원, S석 66,000원, A석 55,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285502_202602231104039110.png"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/61651"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1623220"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/57234"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79037"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7072"
+  }
+ ],
+ "updated": "2026-04-22 14:20:56",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

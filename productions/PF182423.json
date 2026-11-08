@@ -1,0 +1,38 @@
+{
+ "id": "PF182423",
+ "title": "제13기 시민연극교실",
+ "genre": "연극",
+ "from": "2021-11-27",
+ "to": "2021-11-28",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182423_211129_164122.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송경숙",
+  "유주연",
+  "김하늘",
+  "윤명자",
+  "이성빈",
+  "김민주",
+  "반성현"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "김신기, 주성환, 김강태 등",
+ "price": "전석 10,000원",
+ "schedule": "토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182423_211129_0441220.jpg"
+ ],
+ "links": [
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=32579&menuNo=200004"
+  }
+ ],
+ "updated": "2021-11-29 16:44:24",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

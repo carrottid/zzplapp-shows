@@ -1,0 +1,47 @@
+{
+ "id": "PF254693",
+ "title": "웃는 남자",
+ "genre": "뮤지컬",
+ "from": "2025-01-09",
+ "to": "2025-03-09",
+ "venue": "예술의전당 [서울] (오페라극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF254693_241127_092942.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박은태",
+  "이석훈",
+  "조규현",
+  "김동영",
+  "서범석",
+  "민영기",
+  "이수빈"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "3시간",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 로버트 요한슨, 기진주 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "OP석 170,000원, R석 170,000원, S석 140,000원, A석 110,000원, B석 80,000원",
+ "schedule": "화요일(19:30), 수요일(14:00,19:30), 목요일(19:30), 금요일(14:00,19:30), 토요일(14:00,19:30), 일요일(15:00), HOL(14:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF254693_241127_0929420.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016737"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=210674"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/51792"
+  }
+ ],
+ "updated": "2025-01-15 13:57:47",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

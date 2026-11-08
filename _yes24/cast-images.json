@@ -1,0 +1,881 @@
+{
+ "source": "yes24",
+ "collectedOn": "2026-11-08",
+ "note": "YES24는 캐스팅표를 이미지로만 올린다. 이미지 주소와 상품 정보의 출연자 이름만 모았다(판독 전).",
+ "productions": [
+  {
+   "id": "PF147207",
+   "title": "택시안에서",
+   "reason": "tl-none",
+   "yes24Perf": "32378",
+   "yes24Title": "[부산] (리얼타임) 코믹연극 택시안에서",
+   "castNames": " 이규인 김두현 김상두 곽희규 이준구 김실즈 이새나 박소희 엄윤아",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF170941",
+   "title": "연극라면",
+   "reason": "tl-none",
+   "yes24Perf": "49515",
+   "yes24Title": "[서울 대학로] 레트로코믹극 연극 라면",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF172538",
+   "title": "한뼘사이",
+   "reason": "tl-none",
+   "yes24Perf": "38677",
+   "yes24Title": "연극 [한뼘사이]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF175093",
+   "title": "뷰티풀라이프",
+   "reason": "tl-none",
+   "yes24Perf": "29003",
+   "yes24Title": "연극 [뷰티풀라이프]",
+   "castNames": " 조준 김원진 김진호 정경식 김가현 권순미",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202107/20210707/39592_cast7.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202107/20210720/29003_cast8.jpg"
+   ]
+  },
+  {
+   "id": "PF185428",
+   "title": "행오버",
+   "reason": "tl-none",
+   "yes24Perf": "41222",
+   "yes24Title": "코믹추리스릴러 연극 [행오버]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202502/20250218/2025021812_01.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202502/20250218/2025021812_02.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202501/20250106/2025010609.jpg"
+   ]
+  },
+  {
+   "id": "PF214941",
+   "title": "너의 목소리가 들려",
+   "reason": "not-tl",
+   "yes24Perf": "46647",
+   "yes24Title": "연극 [너의 목소리가 들려]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202511/20251104/2025110402.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202511/20251117/2025111703_2.jpg"
+   ]
+  },
+  {
+   "id": "PF215020",
+   "title": "핫식스",
+   "reason": "tl-none",
+   "yes24Perf": "46651",
+   "yes24Title": "연극 [핫식스]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202609/20260918/2026091811.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261019/2026101902.jpg"
+   ]
+  },
+  {
+   "id": "PF216355",
+   "title": "오마이갓",
+   "reason": "tl-none",
+   "yes24Perf": "46649",
+   "yes24Title": "연극 [오마이갓]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202609/20260916/2026091609.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261017/46649_sc.jpg"
+   ]
+  },
+  {
+   "id": "PF234123",
+   "title": "나의PS파트너",
+   "reason": "tl-none",
+   "yes24Perf": "48465",
+   "yes24Title": "연극 [나의PS파트너]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261105/2026110599.jpg"
+   ]
+  },
+  {
+   "id": "PF235344",
+   "title": "오백에 삼십",
+   "reason": "tl-none",
+   "yes24Perf": "48742",
+   "yes24Title": "[대학로] 연극 [오백에 삼십]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202604/20260430/2026043009_2.jpg"
+   ]
+  },
+  {
+   "id": "PF235879",
+   "title": "피노키오야 노올자~!",
+   "reason": "tl-none",
+   "yes24Perf": "48899",
+   "yes24Title": "어린이 참여 소통 뮤지컬 〈피노키오야 노올자~!〉",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF235885",
+   "title": "사내연애 보고서",
+   "reason": "tl-none",
+   "yes24Perf": "48992",
+   "yes24Title": "연극 [사내연애 보고서]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202502/20250205/2025020501_01.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202502/20250205/2025020501_02.jpg"
+   ]
+  },
+  {
+   "id": "PF237479",
+   "title": "페인터즈",
+   "reason": "tl-none",
+   "yes24Perf": "49034",
+   "yes24Title": "페인터즈-광화문전용관",
+   "castNames": " --",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF244959",
+   "title": "아기돼지삼형제: 늑대숲 또옹돼지 원정대",
+   "reason": "tl-none",
+   "yes24Perf": "50300",
+   "yes24Title": "[대학로 라온씨어터] 아기돼지삼형제（늑대숲 또옹돼지원정대）",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF249529",
+   "title": "701호",
+   "reason": "tl-none",
+   "yes24Perf": "51223",
+   "yes24Title": "스릴러 연극 〈701호〉",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF265271",
+   "title": "흉터",
+   "reason": "tl-none",
+   "yes24Perf": "53950",
+   "yes24Title": "연극 [흉터] - 홍대 씨어터 윤",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261102/2026110204.jpg"
+   ]
+  },
+  {
+   "id": "PF276055",
+   "title": "헝키쇼 (HUNKY SHOW)",
+   "reason": "tl-none",
+   "yes24Perf": "53416",
+   "yes24Title": "[비지정석] 뮤지컬 헝키쇼 (HUNKY SHOW)",
+   "castNames": " 정철호",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF280368",
+   "title": "보물찾기",
+   "reason": "tl-none",
+   "yes24Perf": "56255",
+   "yes24Title": "배꼽 쏟고 눈물 잡는 연극 [보물찾기]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF282157",
+   "title": "서울시극단, 아.파.트.",
+   "reason": "tl-none",
+   "yes24Perf": "56578",
+   "yes24Title": "아.파.트.",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF282162",
+   "title": "서울시뮤지컬단, 크리스마스 캐럴",
+   "reason": "tl-none",
+   "yes24Perf": "56551",
+   "yes24Title": "뮤지컬 〈크리스마스 캐럴〉",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF282986",
+   "title": "우카시 트바르코프스키 연출, 로스코",
+   "reason": "not-tl",
+   "yes24Perf": "56869",
+   "yes24Title": "우카시 트바르코프스키 연출 ‘로스코’",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF285694",
+   "title": "마피아게임",
+   "reason": "not-tl",
+   "yes24Perf": "57503",
+   "yes24Title": "[미소티켓] 코믹추리극 [마피아게임]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF286003",
+   "title": "돌고돌아, 도라희",
+   "reason": "tl-none",
+   "yes24Perf": "57322",
+   "yes24Title": "연극 [돌고돌아, 도라희]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF286005",
+   "title": "삐삐: 기억을 담는 작은 상자",
+   "reason": "tl-none",
+   "yes24Perf": "57551",
+   "yes24Title": "연극 [삐삐]",
+   "castNames": " 유영섭 이서화 전대현 최성애 권동섭 김도연 이채연 이채원",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202607/20260722/8%EC%9B%94.jpg"
+   ]
+  },
+  {
+   "id": "PF286497",
+   "title": "김종욱 찾기",
+   "reason": "tl-none",
+   "yes24Perf": "57443",
+   "yes24Title": "[비지정석] 2026 뮤지컬 [김종욱 찾기]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF286545",
+   "title": "오싹한 알바",
+   "reason": "tl-none",
+   "yes24Perf": "57430",
+   "yes24Title": "[부산] 판타지 뮤지컬 [오싹한 알바]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF288627",
+   "title": "웁스: Oops",
+   "reason": "tl-none",
+   "yes24Perf": "59386",
+   "yes24Title": "[부산] 뮤지컬 웁스 : Oops",
+   "castNames": " 배문수 변은지 우한수 김비채 하유진 이사라 윤한욱 조문성 채민수 윤채원 전현미 강유 백고운",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF291062",
+   "title": "NEW 오! 나의 귀신님",
+   "reason": "tl-none",
+   "yes24Perf": "58844",
+   "yes24Title": "연극 [NEW 오! 나의 귀신님]",
+   "castNames": " 권순형 신준형 선경준 정세현 이선재 김지후 한선임 이예진 김채윤 유가은 민유리 최성빈 조윤 안현 김철규 신인영 이경호",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261020/2026102002.jpg"
+   ]
+  },
+  {
+   "id": "PF292160",
+   "title": "겨울왕국",
+   "reason": "past-gap",
+   "yes24Perf": "58563",
+   "yes24Title": "뮤지컬 [겨울왕국] 한국 초연 (FROZEN The Musical)",
+   "castNames": " 정선아 정유지 민경아 박진주 홍금비 최지혜 차윤해 신재범 김원빈 황건하 정원영 한규정 이창호",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261102/58563_sc1102.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261013/58563_yy.jpg"
+   ]
+  },
+  {
+   "id": "PF293074",
+   "title": "히든퍼즐",
+   "reason": "not-tl",
+   "yes24Perf": "58717",
+   "yes24Title": "그레잇코미디추리극 [히든퍼즐]",
+   "castNames": " 원종하 유혜성 이열 정승진 남은지 박정윤 이수린 최혜린 한수빈 김태선 박준용 서예덕 장건 한선우 고명진 김혜라 석민주 송현진 이율린 김영훈 김지석 윤동진 윤석준",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF294269",
+   "title": "남사친 여사친",
+   "reason": "not-tl",
+   "yes24Perf": "58906",
+   "yes24Title": "[청주] 로맨틱코미디연극 [남사친여사친]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202609/20260916/%EB%82%A8%EC%82%AC%EC%B9%9C%EC%97%AC%EC%82%AC%EC%B9%9C%20%EC%8A%A4%EC%BC%80%EC%A4%84%20(2).jpg"
+   ]
+  },
+  {
+   "id": "PF294534",
+   "title": "바람으로의 여행",
+   "reason": "tl-none",
+   "yes24Perf": "59734",
+   "yes24Title": "뮤지컬 [바람으로의 여행]",
+   "castNames": " 김소년 조수하 윤채린 김가람 권복음 권이서 윤장현 서예빈 강민수",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF295113",
+   "title": "멜로에 차질",
+   "reason": "not-tl",
+   "yes24Perf": "59740",
+   "yes24Title": "로맨스 찍먹 코미디연극 〈멜로에 차질〉",
+   "castNames": " 김동현 김지석 서동은 정승진 고명진 김유림 김혜라 문서우 김무준 박준용 이열 한선우 문선화 석민주 이주하 한수빈",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF296139",
+   "title": "미드나잇: 액터뮤지션 THE CHOICE",
+   "reason": "past-gap",
+   "yes24Perf": "59537",
+   "yes24Title": "[비지정석] 2026 뮤지컬 [미드나잇 : 액터뮤지션] - THE CHOICE",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202608/20260818/59537_sc08.jpg"
+   ]
+  },
+  {
+   "id": "PF296245",
+   "title": "보물찾기",
+   "reason": "not-tl",
+   "yes24Perf": "60341",
+   "yes24Title": "[전주] 코믹연극 [보물찾기]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF296263",
+   "title": "불편한 편의점2",
+   "reason": "not-tl",
+   "yes24Perf": "59353",
+   "yes24Title": "[부산] 뮤직드라마 [불편한 편의점2]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF296319",
+   "title": "다이브",
+   "reason": "past-gap",
+   "yes24Perf": "59300",
+   "yes24Title": "뮤지컬 [다이브]",
+   "castNames": " 박새힘 박주혁 정지우 반정모 조영화 이세헌 임찬민 강찬 박은미 이민규 유동훈 곽다인 금보미 박주아",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202609/20260928/59300_sc0928.jpg"
+   ]
+  },
+  {
+   "id": "PF296698",
+   "title": "수상한 룸메이트 (원작 비누향기)",
+   "reason": "not-tl",
+   "yes24Perf": "40603",
+   "yes24Title": "연극 [수상한 룸메이트 (원작 비누향기)]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF296889",
+   "title": "운빨로맨스",
+   "reason": "not-tl",
+   "yes24Perf": "60339",
+   "yes24Title": "[전주] 로맨틱코믹연극 [운빨로맨스]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF296942",
+   "title": "연극열전10, 네이처 오브 포겟팅",
+   "reason": "past-gap",
+   "yes24Perf": "59370",
+   "yes24Title": "피지컬 시어터 〈네이처 오브 포겟팅〉 : 연극열전10_열 번째 작품",
+   "castNames": " 박정원 전성우 백성현 김주연 이정화 김시유 곽다인 강은나 송나영 김치영 이우림 이상원",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261104/2026110435.jpg"
+   ]
+  },
+  {
+   "id": "PF297237",
+   "title": "노맨틱 코미디",
+   "reason": "not-tl",
+   "yes24Perf": "60373",
+   "yes24Title": "[청주] 연극 [노맨틱코미디]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF297517",
+   "title": "뷰티풀라이프",
+   "reason": "tl-none",
+   "yes24Perf": "59549",
+   "yes24Title": "[대구] 동성로연극 [뷰티풀라이프]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF297539",
+   "title": "오! 럭키 데이!",
+   "reason": "tl-none",
+   "yes24Perf": "59519",
+   "yes24Title": "[부산] 연극 [오 럭키데이]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF297578",
+   "title": "피터래빗",
+   "reason": "not-tl",
+   "yes24Perf": "59490",
+   "yes24Title": "[성남] 2026 어린이 난타뮤지컬 [피터래빗]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF297712",
+   "title": "잔혹동화 생존기",
+   "reason": "past-gap",
+   "yes24Perf": "59488",
+   "yes24Title": "뮤지컬 [잔혹동화 생존기] 웃다가 살아남는 생존 뮤지컬",
+   "castNames": " 신의정 주다온 선유하 김초하 곽나윤 표바하 한보라 신진경 류비 서동진 김이담 선한국 박세훈 최반석 김현기 신준석",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261103/59488_sc1103.jpg"
+   ]
+  },
+  {
+   "id": "PF297912",
+   "title": "곤 투모로우",
+   "reason": "past-gap",
+   "yes24Perf": "59596",
+   "yes24Title": "뮤지컬 [곤 투모로우] 10주년 기념 공연",
+   "castNames": " 강필석 최재웅 김경수 송원근 고훈정 손동운 김재범 신성민 백형훈 윤소호 원태민 문유강 고영빈 박영수 김준수 김태한 지현준 신재희",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261027/59596_sc1027.jpg"
+   ]
+  },
+  {
+   "id": "PF298289",
+   "title": "스타크로스드",
+   "reason": "not-tl",
+   "yes24Perf": "59650",
+   "yes24Title": "연극 〈스타크로스드〉",
+   "castNames": " 정상윤 김경수 김찬호 정동화 조성윤 양지원 이서준 이선우 신주협",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261027/2026102713.jpg"
+   ]
+  },
+  {
+   "id": "PF298445",
+   "title": "사랑을 이루어 드립니다",
+   "reason": "not-tl",
+   "yes24Perf": "59586",
+   "yes24Title": "[부산] 연극 [사랑을 이루어 드립니다]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF298593",
+   "title": "아나키스트",
+   "reason": "past-gap",
+   "yes24Perf": "59694",
+   "yes24Title": "뮤지컬 [아나키스트]",
+   "castNames": " 김도빈 최호승 이진혁 이지연 정재환 정우연 박좌헌 김재한 진호 홍나현 박준형 박주혁",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261029/59694_sc1029.jpg",
+    "https://tkfile.yes24.com/Upload2/Board/202608/20260819/59694_h.jpg"
+   ]
+  },
+  {
+   "id": "PF299009",
+   "title": "리: 바운드 축제, 우리가 빛의 속도로 갈 수 없다면",
+   "reason": "not-tl",
+   "yes24Perf": "59817",
+   "yes24Title": "［2026 리:바운드 축제］우리가 빛의 속도로 갈 수 없다면",
+   "castNames": " --",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF299169",
+   "title": "미드나잇: 앤틀러스",
+   "reason": "past-gap",
+   "yes24Perf": "60524",
+   "yes24Title": "뮤지컬 [미드나잇 : 앤틀러스] 혜공 전관 - 그래이공 DAY",
+   "castNames": " 김종구 고상호 김려원 장보람 박유덕 이창용 신수빈 김리 여은 박시인 강대운 정종환 송정은 방가희",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261007/60524_sc.jpg"
+   ]
+  },
+  {
+   "id": "PF299272",
+   "title": "지금 우리는",
+   "reason": "not-tl",
+   "yes24Perf": "60564",
+   "yes24Title": "[부산] 뮤지컬 [지금 우리는]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF299302",
+   "title": "호두까기 인형",
+   "reason": "not-tl",
+   "yes24Perf": "59846",
+   "yes24Title": "[서울(양천)] 2026 라이브 가족뮤지컬 [호두까기 인형]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF299342",
+   "title": "오! 나의 귀신님",
+   "reason": "tl-none",
+   "yes24Perf": "59845",
+   "yes24Title": "[부산] 연극 [오 나의 귀신님]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF299346",
+   "title": "렛미플라이",
+   "reason": "past-gap",
+   "yes24Perf": "59852",
+   "yes24Title": "뮤지컬 [렛미플라이]",
+   "castNames": " 안재욱 이희준 오의식 이형훈 배해선 윤공주 김지현 윤소호 안지환 윤재호 홍지희 나하나 이수빈 박슬기",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261103/59852.jpg"
+   ]
+  },
+  {
+   "id": "PF299408",
+   "title": "첫사랑 레시피",
+   "reason": "tl-none",
+   "yes24Perf": "59609",
+   "yes24Title": "[대전] 뮤지컬 [첫사랑 레시피]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202609/20260923/59609_scsc.jpg"
+   ]
+  },
+  {
+   "id": "PF300084",
+   "title": "사랑해 엄마",
+   "reason": "not-tl",
+   "yes24Perf": "59931",
+   "yes24Title": "[부산] 2026 연극 [사랑해 엄마]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF300623",
+   "title": "별을 갖고 튀어라",
+   "reason": "tl-none",
+   "yes24Perf": "60023",
+   "yes24Title": "[광주] 연극 [별을 갖고 튀어라]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF300790",
+   "title": "쇼 머스트 고 온 in 대학로",
+   "reason": "tl-none",
+   "yes24Perf": "60112",
+   "yes24Title": "2026 쥬크박스 뮤지컬 [쇼 머스트 고 온 in 대학로]",
+   "castNames": " 최대철 이주훈 신예준 김성훈 손난희 양나현 예하나 김태현 정의욱 김현중 윤토왕 이유선 박수현 최아라 황인보 허욱 김상원 고혜미 위신애 강다희",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261027/60112_sc1027.jpg"
+   ]
+  },
+  {
+   "id": "PF300833",
+   "title": "불편한 편의점",
+   "reason": "not-tl",
+   "yes24Perf": "60136",
+   "yes24Title": "뮤직드라마 〈불편한 편의점〉 - 성남",
+   "castNames": " --",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF300947",
+   "title": "산타와 루돌프",
+   "reason": "not-tl",
+   "yes24Perf": "60132",
+   "yes24Title": "[서울(양천)] 2026 크리스마스 가족뮤지컬 [산타와루돌프]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF301113",
+   "title": "조선 마법사관 진준",
+   "reason": "tl-none",
+   "yes24Perf": "60148",
+   "yes24Title": "케이팝 뮤지컬 [조선 마법사관 진준]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF301486",
+   "title": "라이어",
+   "reason": "not-tl",
+   "yes24Perf": "60262",
+   "yes24Title": "[창원] 국민연극 〈라이어〉",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF301522",
+   "title": "에너미",
+   "reason": "tl-none",
+   "yes24Perf": "60277",
+   "yes24Title": "연극〈에너미〉",
+   "castNames": " 문소리 이봉련 황영희 마두영 강신구 이강욱 박세은",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF301593",
+   "title": "히든퍼즐",
+   "reason": "tl-none",
+   "yes24Perf": "60345",
+   "yes24Title": "[대전] 연극 〈히든퍼즐〉",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF301665",
+   "title": "마리퀴리",
+   "reason": "not-tl",
+   "yes24Perf": "60331",
+   "yes24Title": "[창원] 뮤지컬 [마리퀴리]",
+   "castNames": " 이정화 김려원 전민지 임별 강태을 옥경민 박영빈 등",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF301746",
+   "title": "마하고니",
+   "reason": "past-gap",
+   "yes24Perf": "60316",
+   "yes24Title": "뮤지컬 [마하고니]",
+   "castNames": " 최재웅 선한국 이진혁 김찬종 임예진 정민 온주완 이율 이종석 이지연 김한결 마이삭 한비 최민경 박민주",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261105/60316_scscscsc.jpg"
+   ]
+  },
+  {
+   "id": "PF301852",
+   "title": "산타클로스와 브레멘음악대",
+   "reason": "not-tl",
+   "yes24Perf": "60348",
+   "yes24Title": "[대구] 2026 크리스마스 뮤지컬 [산타클로스와 브레멘음악대]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF301866",
+   "title": "달빛 옥상 리와인드",
+   "reason": "tl-none",
+   "yes24Perf": "60396",
+   "yes24Title": "[대전] 뮤지컬 [달빛 옥상 리와인드]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261103/60396_sc1103.jpg"
+   ]
+  },
+  {
+   "id": "PF301964",
+   "title": "보잉보잉",
+   "reason": "tl-none",
+   "yes24Perf": "60578",
+   "yes24Title": "[대구] 동성로 연극 [보잉보잉]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF302037",
+   "title": "바울: 사랑으로 걷다",
+   "reason": "not-tl",
+   "yes24Perf": "60397",
+   "yes24Title": "뮤지컬 [바울]",
+   "castNames": " 김승회 이나영 서태경 박상하 강현빈 우민서 봉경복",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF302744",
+   "title": "식스 더 뮤지컬 (SIX THE MUSICAL)",
+   "reason": "not-tl",
+   "yes24Perf": "60484",
+   "yes24Title": "식스 더 뮤지컬(SIX THE MUSICAL)",
+   "castNames": " 손승연 장보람 김지우 배수정 이보람 한재아 김지선 최현선 김려원 효정 유주혜 주다온",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261002/60484_sc.jpg"
+   ]
+  },
+  {
+   "id": "PF302924",
+   "title": "포쉬",
+   "reason": "past-gap",
+   "yes24Perf": "60526",
+   "yes24Title": "연극 〈포쉬〉",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261023/2026102305.jpg"
+   ]
+  },
+  {
+   "id": "PF303014",
+   "title": "범죄의 재구성",
+   "reason": "tl-none",
+   "yes24Perf": "60579",
+   "yes24Title": "[대전] 연극 [범죄의 재구성]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF303033",
+   "title": "운빨로맨스",
+   "reason": "tl-none",
+   "yes24Perf": "60608",
+   "yes24Title": "[대구] 연극 〈운빨로맨스〉",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261016/2026101614.jpg"
+   ]
+  },
+  {
+   "id": "PF303220",
+   "title": "팬레터",
+   "reason": "not-tl",
+   "yes24Perf": "60528",
+   "yes24Title": "[창원] 뮤지컬 [팬레터]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF303404",
+   "title": "고충처리반 윤미미",
+   "reason": "tl-none",
+   "yes24Perf": "60624",
+   "yes24Title": "[부산] 연극 [고충처리반 윤미미]",
+   "castNames": " 하지수 장재영 김경훈 장시현 김세친 강승환 김은수 박성준 조한별",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF303627",
+   "title": "임대아파트",
+   "reason": "tl-none",
+   "yes24Perf": "60673",
+   "yes24Title": "[부산] 연극 [임대아파트]",
+   "castNames": " 국민용 박문현 남태인 이설 하다현 황정인",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF303661",
+   "title": "제16회 서울미래연극제, 기념비",
+   "reason": "not-tl",
+   "yes24Perf": "60651",
+   "yes24Title": "제16회 서울미래연극제 [기념비]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF304027",
+   "title": "난타 크리스마스 특별공연",
+   "reason": "not-tl",
+   "yes24Perf": "60675",
+   "yes24Title": "2026 난타 크리스마스 특별 부산 공연",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF304050",
+   "title": "카지노: 게임의 법칙",
+   "reason": "tl-none",
+   "yes24Perf": "60744",
+   "yes24Title": "[대전] 연극 [카지노 : 게임의 법칙]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF304248",
+   "title": "제16회 서울미래연극제, 시지프스는 무엇을 위해 돌을 굴렸나",
+   "reason": "not-tl",
+   "yes24Perf": "60749",
+   "yes24Title": "제16회 서울미래연극제 [시지프스는 무엇을 위해 돌을 굴렸나]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF304289",
+   "title": "어쩌다보니",
+   "reason": "tl-none",
+   "yes24Perf": "60746",
+   "yes24Title": "[광주] 연극 [어쩌다보니]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF304682",
+   "title": "스카팽: 판을 뒤집는 여자",
+   "reason": "not-tl",
+   "yes24Perf": "60816",
+   "yes24Title": "[부산] 연극 [스카팽:판을 뒤집는 여자]",
+   "castNames": " 강규민 강담서 고유라 김여진 명유림 문재희 박준희 손상훈 이크신 정성주",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF304742",
+   "title": "80일간의 세계일주",
+   "reason": "tl-none",
+   "yes24Perf": "60784",
+   "yes24Title": "[부산] 뮤지컬 80일간의 세계일주",
+   "castNames": " 김성우 김륜호 서상원 김율 전자연 김비채 배문수 채민수 김진아 우한수 윤한욱 백고운 이동욱",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261026/60784_sc.jpg"
+   ]
+  },
+  {
+   "id": "PF304792",
+   "title": "타자기 치는 남자",
+   "reason": "not-tl",
+   "yes24Perf": "60831",
+   "yes24Title": "연극 〈타자기 치는 남자〉",
+   "castNames": " 김동현 최무인 홍경인",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF304877",
+   "title": "제16회 서울미래연극제, 그때는 기억속에서 사라진다. 사라져간다",
+   "reason": "not-tl",
+   "yes24Perf": "60822",
+   "yes24Title": "제16회 서울미래연극제 [그때는 기억속에서 사라진다. 사라져간다]",
+   "castNames": " -",
+   "scheduleImages": []
+  },
+  {
+   "id": "PF304931",
+   "title": "산울림 편지콘서트: 에릭 사티와 벨 에포크의 예술가들",
+   "reason": "not-tl",
+   "yes24Perf": "60830",
+   "yes24Title": "산울림 편지콘서트 〈에릭 사티와 벨 에포크의 예술가들〉",
+   "castNames": " 전박찬 차예준 윤연준 최민석",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202610/20261029/2026102905.jpg"
+   ]
+  },
+  {
+   "id": "PF305670",
+   "title": "로미오와 줄리엣",
+   "reason": "tl-none",
+   "yes24Perf": "60933",
+   "yes24Title": "프랑스 뮤지컬 [로미오와 줄리엣]",
+   "castNames": " -",
+   "scheduleImages": [
+    "https://tkfile.yes24.com/Upload2/Board/202611/20261106/60933_sc1106.jpg"
+   ]
+  }
+ ]
+}

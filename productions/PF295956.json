@@ -1,0 +1,37 @@
+{
+ "id": "PF295956",
+ "title": "NT Live, 더 피프스 스텝 (영상화)",
+ "genre": "연극",
+ "from": "2026-09-27",
+ "to": "2026-09-27",
+ "venue": "국립극장 (해오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295956_260713_154210.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "잭 로든",
+  "틴 프리먼"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "데이비드 아일랜드, 핀 덴 헤르토흐, 밀라 클라크 등",
+ "price": "R석 30,000원, S석 20,000원",
+ "schedule": "일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295956_202607130342103190.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?perfId=267164&mi=21008"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009843"
+  }
+ ],
+ "updated": "2026-10-13 09:30:46",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

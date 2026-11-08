@@ -1,0 +1,44 @@
+{
+ "id": "PF196216",
+ "title": "러브레터",
+ "genre": "연극",
+ "from": "2022-10-06",
+ "to": "2022-11-13",
+ "venue": "예술의전당 [서울] (자유소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF196216_220812_140148.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박정자",
+  "배종옥",
+  "오영수",
+  "장현성"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "오경택",
+ "producer": "(주)파크컴퍼니, 예술의전당",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(19:30), 수요일(14:00,17:00), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,17:00), HOL(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF196216_220812_0201480.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010260"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/43590"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/13369002410"
+  }
+ ],
+ "updated": "2022-08-12 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

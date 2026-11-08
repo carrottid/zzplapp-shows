@@ -1,0 +1,42 @@
+{
+ "id": "PF186116",
+ "title": "용욱이의 편지",
+ "genre": "뮤지컬",
+ "from": "2022-02-18",
+ "to": "2022-04-17",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186116_220126_095714.PNG",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고결이",
+  "김민영",
+  "김현승",
+  "변정우",
+  "석현준",
+  "성형석",
+  "양진혁"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "최뮤열, 김성겸, 오유리 등",
+ "price": "전석 40,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일(14:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186116_220126_0957140.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/636593"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000780"
+  }
+ ],
+ "updated": "2022-01-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

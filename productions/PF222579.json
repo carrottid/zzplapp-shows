@@ -1,0 +1,34 @@
+{
+ "id": "PF222579",
+ "title": "엔톡 라이브 플러스 ITA Live, 메디아",
+ "genre": "연극",
+ "from": "2023-11-18",
+ "to": "2023-11-24",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF222579_230721_184053.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [],
+ "facilityId": "FC000003",
+ "runtime": "1시간 20분",
+ "age": "만 17세 이상",
+ "crew": "사이먼 스톤",
+ "price": "전석 20,000원",
+ "schedule": "토요일(15:00), 화요일(19:30), 금요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222579_230721_0640530.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266454"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23009904"
+  }
+ ],
+ "updated": "2025-04-04 09:57:39",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

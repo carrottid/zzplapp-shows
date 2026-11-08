@@ -1,0 +1,47 @@
+{
+ "id": "PF277271",
+ "title": "레드북",
+ "genre": "뮤지컬",
+ "from": "2026-01-16",
+ "to": "2026-01-18",
+ "venue": "대구오페라하우스 (대구오페라하우스)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF277271_251024_144500.gif",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "옥주현",
+  "박은혜",
+  "민경아",
+  "송원근",
+  "지현우",
+  "김성식",
+  "조풍래"
+ ],
+ "facilityId": "FC000566",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "송은도, 임병우, 김영조",
+ "producer": "(주) 아떼오드",
+ "price": "VIP석 160,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF277271_202510240245009520.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/59386"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1525064"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25014970"
+  }
+ ],
+ "updated": "2025-10-24 15:00:04.090705",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

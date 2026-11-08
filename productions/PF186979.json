@@ -1,0 +1,47 @@
+{
+ "id": "PF186979",
+ "title": "웨스턴 스토리",
+ "genre": "뮤지컬",
+ "from": "2022-03-04",
+ "to": "2022-05-22",
+ "venue": "유니플렉스 (1관(대극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186979_220221_093928.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강혜인",
+  "김이후",
+  "최지혜",
+  "임준혁",
+  "배나라",
+  "윤소호",
+  "김종구"
+ ],
+ "facilityId": "FC001233",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "성종완, 김은영, 홍유선 등",
+ "producer": "(주)뉴프로덕션",
+ "price": "R석 88,000원, S석 66,000원, A석 44,000원",
+ "schedule": "화요일(20:00), 수요일(15:30,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186979_220221_0939280.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000934"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007386"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/10523052662"
+  }
+ ],
+ "updated": "2022-02-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

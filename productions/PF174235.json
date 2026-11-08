@@ -1,0 +1,60 @@
+{
+ "id": "PF174235",
+ "title": "비틀쥬스",
+ "genre": "뮤지컬",
+ "from": "2021-06-18",
+ "to": "2021-08-08",
+ "venue": "세종문화회관 (세종대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF174235_210503_134924.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "유준상",
+  "정성화",
+  "홍나현",
+  "장민제",
+  "김지우",
+  "유리아",
+  "이율"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "정상국, 배지연, 이종훈 등",
+ "producer": "(주)CJ ENM",
+ "price": "VIP석 150,000원, 저세상관광석 140,000원, R석 120,000원, S석 90,000원, A석 70,000원, B석 50,000원",
+ "schedule": "화요일(20:00), 수요일(15:00,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174235_210709_09540011.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174235_210709_0953328.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/34545"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/523099"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21003471"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=31508&menuNo=200004&sdate=2021-05-04&searchWrd=&searchCnd=1&edate=2021-06-30&searchPackage=&searchGenreCdStr=G%2C1001&searchPlaceCdStr=&pageIndex=1"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000005853"
+  }
+ ],
+ "updated": "2021-05-03 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

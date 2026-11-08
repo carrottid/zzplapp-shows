@@ -1,0 +1,51 @@
+{
+ "id": "PF202558",
+ "title": "로빈",
+ "genre": "뮤지컬",
+ "from": "2023-01-09",
+ "to": "2023-04-09",
+ "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF202558_221121_105207.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최재웅",
+  "최미소",
+  "조성태",
+  "연지현",
+  "정현지",
+  "김종구",
+  "윤현선"
+ ],
+ "facilityId": "FC000382",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "박진희, 현지은, 강소연 등",
+ "producer": "(주)쇼플레이, (주)쇼플레이액터스",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF202558_221121_1052070.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/797766"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22016158"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/44163"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000009051"
+  }
+ ],
+ "updated": "2022-11-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

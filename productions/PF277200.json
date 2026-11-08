@@ -1,0 +1,39 @@
+{
+ "id": "PF277200",
+ "title": "빨래",
+ "genre": "뮤지컬",
+ "from": "2025-11-14",
+ "to": "2025-11-15",
+ "venue": "서귀포예술의전당 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF277200_251024_105738.jpg",
+ "area": "제주특별자치도",
+ "state": "공연완료",
+ "cast": [
+  "신고은",
+  "노희찬",
+  "강나리",
+  "양미경",
+  "이강혁",
+  "안두호",
+  "이윤성"
+ ],
+ "facilityId": "FC001231",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "추민주, 민찬홍, 서정선 등",
+ "producer": "(주)씨에이치수박",
+ "price": "R석 30,000원, A석 20,000원, B석 10,000원",
+ "schedule": "금요일(19:30), 토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF277200_202510241057382580.jpg"
+ ],
+ "links": [
+  {
+   "name": "서귀포예술의전당",
+   "url": "https://eticket.seogwipo.go.kr/performance/view?bmcode=show_seogwipo_culture&prodSeq=3000003821"
+  }
+ ],
+ "updated": "2025-10-24 15:00:04.090705",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

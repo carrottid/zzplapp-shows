@@ -1,0 +1,37 @@
+{
+ "id": "PF192454",
+ "title": "아킬레스 LIVE CONCERT in Seoul",
+ "genre": "뮤지컬",
+ "from": "2022-06-30",
+ "to": "2022-07-04",
+ "venue": "링크아트센터드림 (드림 1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF192454_220608_132618.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고훈정",
+  "양지원",
+  "이승현",
+  "홍미금",
+  "서동진",
+  "이준우",
+  "권익환"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 50분",
+ "age": "만 15세 이상",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "월요일(15:00,19:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192454_220608_0126180.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/38885"
+  }
+ ],
+ "updated": "2022-06-08 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "PF243626",
+ "title": "15주년 기념공연, 영웅",
+ "genre": "뮤지컬",
+ "from": "2024-09-06",
+ "to": "2024-09-08",
+ "venue": "울산문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF243626_240624_141818.gif",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "정성화",
+  "양준모",
+  "민우혁",
+  "김도형",
+  "최민철",
+  "정재은",
+  "솔지"
+ ],
+ "facilityId": "FC000081",
+ "runtime": "2시간 45분",
+ "age": "만 7세 이상",
+ "crew": "윤홍선, 윤호진, 김민영 등",
+ "producer": "(주) 에이콤(ACOM)",
+ "price": "VIP석 160,000원, R석 140,000원, S석 99,000원, A석 77,000원, B석 55,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF243626_240624_0218180.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24008233"
+  },
+  {
+   "name": "울산문화예술회관",
+   "url": "https://ucac.ulsan.go.kr/performance/main/PER_000000000003913/detail.do"
+  }
+ ],
+ "updated": "2024-06-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

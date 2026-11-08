@@ -1,0 +1,51 @@
+{
+ "id": "PF237786",
+ "title": "클로저",
+ "genre": "연극",
+ "from": "2024-04-23",
+ "to": "2024-07-14",
+ "venue": "플러스씨어터(구. 컬처스페이스 엔유) (플러스씨어터(구. 컬처스페이스 엔유))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF237786_240603_131811.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "안소희",
+  "김주연",
+  "최석진",
+  "유현석",
+  "이상윤",
+  "진서연",
+  "이진희"
+ ],
+ "facilityId": "FC001459",
+ "runtime": "1시간 50분",
+ "age": "만 19세 이상",
+ "crew": "황석희, 손형민, 김지호 등",
+ "producer": "(주)레드앤블루(구. 악어컴퍼니)",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF237786_240603_0118111.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1119940"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003302"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=49146"
+  },
+  {
+   "name": "티몬",
+   "url": "https://www.tmon.co.kr/deal/27083528998"
+  }
+ ],
+ "updated": "2024-03-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

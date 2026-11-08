@@ -1,0 +1,50 @@
+{
+ "id": "PF280411",
+ "title": "위키드 내한 공연",
+ "genre": "뮤지컬",
+ "from": "2026-02-05",
+ "to": "2026-03-01",
+ "venue": "계명아트센터 (계명아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF280411_251128_104709.gif",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "코트니 몬스마",
+  "셰리든 아담스",
+  "폴 핸런",
+  "제니퍼 불레틱",
+  "리암 헤드",
+  "첼시 딘",
+  "커티스 파파디니스"
+ ],
+ "facilityId": "FC001239",
+ "runtime": "2시간 50분",
+ "age": "만 7세 이상",
+ "producer": "에스앤코(S&CO)",
+ "price": "VIP석 190,000원, R석 160,000원, S석 130,000원, A석 80,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF280411_202511281047098870.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1547655"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25017296"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/56251"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78890"
+  }
+ ],
+ "updated": "2025-12-01 14:09:57",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

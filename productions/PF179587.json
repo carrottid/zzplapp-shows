@@ -1,0 +1,44 @@
+{
+ "id": "PF179587",
+ "title": "웰컴대학로, 어린왕자",
+ "genre": "뮤지컬",
+ "from": "2021-10-09",
+ "to": "2021-10-24",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF179587_210913_100803.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정동화",
+  "김현진",
+  "강은일",
+  "정우연"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "한승원, 김종석, 성재현 등",
+ "producer": "(주)에이치제이컬쳐(HJ컬쳐)",
+ "price": "R석 44,000원, S석 33,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일(20:00), 금요일(16:00,20:00), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF179587_210913_1008030.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008085"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40107"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38841"
+  }
+ ],
+ "updated": "2021-09-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PF292177",
+ "title": "이터니티 콘서트",
+ "genre": "뮤지컬",
+ "from": "2026-07-11",
+ "to": "2026-07-11",
+ "venue": "예스24 라이브홀 (구. 악스코리아) (예스24 라이브홀 (구. 악스코리아))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292177_260526_125102.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "변희상",
+  "유태율",
+  "이동수",
+  "조민호",
+  "김보현",
+  "박상준"
+ ],
+ "facilityId": "FC000205",
+ "runtime": "2시간 10분",
+ "age": "만 13세 이상",
+ "producer": "(주) 에이오디(AOD)",
+ "price": "전석 99,000원",
+ "schedule": "토요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF292177_202605261251030100.png"
+ ],
+ "links": [
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/58510"
+  }
+ ],
+ "updated": "2026-05-26 15:00:04.095277",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

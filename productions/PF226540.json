@@ -1,0 +1,62 @@
+{
+ "id": "PF226540",
+ "title": "마리 퀴리",
+ "genre": "뮤지컬",
+ "from": "2023-11-24",
+ "to": "2024-02-18",
+ "venue": "홍익대 대학로 아트센터 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226540_230925_095441.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김소현",
+  "이정화",
+  "유리아",
+  "강혜인",
+  "효은",
+  "최지혜",
+  "박영수"
+ ],
+ "facilityId": "FC001208",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "강병원, 박서연, 천세은 등",
+ "price": "VIP석 99,000원, R석 88,000원, S석 66,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226540_230925_0954410.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/268391"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/994840"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013541"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47226"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77591"
+  },
+  {
+   "name": "페이북",
+   "url": "https://paybooc.co.kr/app/paybooc/Culture.do?mFocus=Culture&returnURL=https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70740"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011036"
+  }
+ ],
+ "updated": "2023-09-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

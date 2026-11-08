@@ -1,0 +1,52 @@
+{
+ "id": "PF258672",
+ "title": "비기닝",
+ "genre": "연극",
+ "from": "2025-03-07",
+ "to": "2025-03-23",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF258672_250221_110031.jfif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이종혁",
+  "유선",
+  "윤현민",
+  "김윤지"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "박수이, 표상아, 조은아 등",
+ "producer": "수컴퍼니 (su company)",
+ "price": "R석 66,000원, S석 55,000원, A석 44,000원",
+ "schedule": "화요일(19:30), 수요일(16:00,19:30), 목요일(19:30), 금요일(16:00,19:30), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF258672_250212_1026301.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1354159"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0004200"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=36041&menuNo=200320"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78362"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6174"
+  }
+ ],
+ "updated": "2025-02-26 11:30:16",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

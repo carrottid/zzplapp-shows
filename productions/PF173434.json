@@ -1,0 +1,45 @@
+{
+ "id": "PF173434",
+ "title": "프리즌",
+ "genre": "뮤지컬",
+ "from": "2021-05-19",
+ "to": "2021-05-23",
+ "venue": "전남광주통합특별시 예술의전당 (구. 광주예술의전당) (소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF173434_210412_113758.gif",
+ "area": "전남광주통합특별시",
+ "state": "공연완료",
+ "cast": [],
+ "facilityId": "FC000233",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "price": "전석 45,000원",
+ "schedule": "수요일(14:00,18:00), 목요일 ~ 금요일(19:30), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF173434_210412_1137580.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/265161"
+  },
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/34416"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/512225"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21002768"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=38951"
+  }
+ ],
+ "updated": "2021-04-12 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

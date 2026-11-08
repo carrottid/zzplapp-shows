@@ -1,0 +1,68 @@
+{
+ "id": "PF174891",
+ "title": "팬텀",
+ "genre": "뮤지컬",
+ "from": "2021-07-31",
+ "to": "2021-08-01",
+ "venue": "성남아트센터 (오페라하우스)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF174891_210521_103636.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "박은태",
+  "김소현",
+  "임선혜",
+  "이지혜",
+  "김수",
+  "윤영석",
+  "홍경수"
+ ],
+ "facilityId": "FC000016",
+ "runtime": "3시간",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 권은아, 박천휘 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 150,000원, R석 130,000원, S석 90,000원, A석 70,000원",
+ "schedule": "토요일 ~ 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174891_210521_1036361.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174891_210521_1036360.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/265203"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/533686"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21004086"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=205936"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39085"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38574"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "-"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  }
+ ],
+ "updated": "2021-05-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

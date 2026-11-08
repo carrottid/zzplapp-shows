@@ -1,0 +1,51 @@
+{
+ "id": "PF279234",
+ "title": "더 드레서",
+ "genre": "연극",
+ "from": "2025-12-27",
+ "to": "2026-03-01",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF279234_260106_105251.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박근형",
+  "정동환",
+  "송승환",
+  "오만석",
+  "송옥숙",
+  "정재은",
+  "송영재"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "장유진, 박제영, 박소영 등",
+ "producer": "(주)나인스토리",
+ "price": "R석 88,000원, S석 66,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF279234_202602021133077350.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?perfId=266996&mi=21008"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1434294"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25016884"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6791"
+  }
+ ],
+ "updated": "2026-02-02 11:35:04",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

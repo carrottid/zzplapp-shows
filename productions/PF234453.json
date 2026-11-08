@@ -1,0 +1,43 @@
+{
+ "id": "PF234453",
+ "title": "초선의원",
+ "genre": "연극",
+ "from": "2024-03-22",
+ "to": "2024-05-12",
+ "venue": "대학로 자유극장 (자유문화발전소) (대학로 자유극장 (자유문화발전소) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF234453_240125_101756.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송용진",
+  "김준원",
+  "김대곤",
+  "한서원",
+  "윤지현",
+  "김건호",
+  "이성희"
+ ],
+ "facilityId": "FC000785",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "오세혁, 변영진, 이진욱 등",
+ "producer": "(주)쇼빌컴퍼니, 극단 웃는고양이",
+ "price": "야!기분좋다석 55,000원, 맞습니다맞고요석 55,000원, 이쯤가면석 50,000원, 막하자는거지요석 45,000원",
+ "schedule": "화요일 ~ 목요일(20:00), 금요일(16:00,20:00), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234453_240125_1017560.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000251"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1710734898"
+  }
+ ],
+ "updated": "2024-01-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

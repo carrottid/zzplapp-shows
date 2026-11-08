@@ -1,0 +1,46 @@
+{
+ "id": "PF200306",
+ "title": "온 더 비트",
+ "genre": "연극",
+ "from": "2022-11-21",
+ "to": "2023-01-01",
+ "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF200306_221018_152109.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "윤나무",
+  "강기둥"
+ ],
+ "facilityId": "FC000382",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "민새롬, 박다솔, 신동훈 등",
+ "producer": "(주)프로젝트 그룹 일다",
+ "price": "전석 55,000원",
+ "schedule": "월요일 ~ 화요일(20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF200306_221018_0321090.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22014012"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76719"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000008672"
+  }
+ ],
+ "updated": "2022-10-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

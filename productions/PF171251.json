@@ -1,0 +1,46 @@
+{
+ "id": "PF171251",
+ "title": "마지막 사건",
+ "genre": "뮤지컬",
+ "from": "2021-02-15",
+ "to": "2021-05-09",
+ "venue": "링크아트센터드림 (드림 2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171251_210128_100917.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김종구",
+  "홍승안",
+  "김찬종",
+  "정민",
+  "조풍래",
+  "백기범"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이헌재, 성재준, 홍정의 등",
+ "producer": "(주)더 웨이브",
+ "price": "전석 60,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171251_210128_1009170.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/33882"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/478571"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000383"
+  }
+ ],
+ "updated": "2021-02-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

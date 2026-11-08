@@ -1,0 +1,47 @@
+{
+ "id": "PF245746",
+ "title": "리지 LIZZIE",
+ "genre": "뮤지컬",
+ "from": "2024-09-14",
+ "to": "2024-12-01",
+ "venue": "두산아트센터 (연강홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245746_240725_103556.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김소향",
+  "김려원",
+  "이봄소리",
+  "정지은",
+  "이아름솔",
+  "오지민",
+  "이효은"
+ ],
+ "facilityId": "FC000402",
+ "runtime": "2시간",
+ "age": "만 16세 이상",
+ "crew": "김영욱, 이성훈, 임양혁 등",
+ "producer": "(주)쇼노트",
+ "price": "R석 88,000원, S석 66,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일(14:00,18:00), 일요일(14:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245746_240725_1035560.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010566"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=210159"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=366"
+  }
+ ],
+ "updated": "2024-07-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

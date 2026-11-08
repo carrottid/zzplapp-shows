@@ -1,0 +1,59 @@
+{
+ "id": "PF182568",
+ "title": "헤드윅",
+ "genre": "뮤지컬",
+ "from": "2021-12-04",
+ "to": "2021-12-05",
+ "venue": "인천문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182568_211108_115056.jpg",
+ "area": "인천광역시",
+ "state": "공연완료",
+ "cast": [
+  "고은성",
+  "오만석",
+  "김려원",
+  "이영미",
+  "이준",
+  "최기호",
+  "조삼희"
+ ],
+ "facilityId": "FC000013",
+ "runtime": "2시간 15분",
+ "age": "만 15세 이상",
+ "crew": "김영욱, 이성훈, 임양혁 등",
+ "producer": "(주)쇼노트",
+ "price": "R석 110,000원, S석 99,000원",
+ "schedule": "토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182568_211108_1150560.png"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/36242"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/605739"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010407"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40647"
+  },
+  {
+   "name": "인천문화예술회관",
+   "url": "https://www.incheon.go.kr/art/ART010101/view?resveProgrmSeCode=C&resveGroupSn=5&progrmSn=9427"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000006830"
+  }
+ ],
+ "updated": "2021-11-08 17:10:27",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

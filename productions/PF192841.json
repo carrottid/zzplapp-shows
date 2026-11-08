@@ -1,0 +1,42 @@
+{
+ "id": "PF192841",
+ "title": "청년 윤봉길",
+ "genre": "연극",
+ "from": "2022-07-21",
+ "to": "2022-07-24",
+ "venue": "예술의전당 [서울] (CJ 토월극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF192841_220615_102631.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김현진",
+  "방용원",
+  "유미경",
+  "고현지",
+  "손인찬",
+  "이다운",
+  "조영길"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 20분",
+ "age": "만 7세 이상",
+ "crew": "이승원",
+ "price": "R석 50,000원, S석 30,000원",
+ "schedule": "목요일 ~ 금요일(14:00,19:30), 토요일(14:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192841_220615_1026310.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22007045"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/42566"
+  }
+ ],
+ "updated": "2025-11-05 15:31:51",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

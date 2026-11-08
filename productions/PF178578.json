@@ -1,0 +1,55 @@
+{
+ "id": "PF178578",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2021-10-08",
+ "to": "2021-10-10",
+ "venue": "성산아트홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF178578_210819_102434.gif",
+ "area": "경상남도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "티파니 영",
+  "민경아",
+  "최재림",
+  "박건형",
+  "김영주"
+ ],
+ "facilityId": "FC000885",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 오민영 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 140,000원, R석 120,000원, S석 90,000원, A석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178578_210819_1024340.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/265588"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/574562"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21007330"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/39910"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38732"
+  }
+ ],
+ "updated": "2021-08-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

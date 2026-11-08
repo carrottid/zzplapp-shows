@@ -1,0 +1,42 @@
+{
+ "id": "PF179848",
+ "title": "웰컴대학로, 피맛골 연가 미니콘서트",
+ "genre": "뮤지컬",
+ "from": "2021-10-08",
+ "to": "2021-10-10",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF179848_210916_112110.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "안영수",
+  "장소영",
+  "최혁준",
+  "정연우",
+  "안진영",
+  "안동혁",
+  "홍기범"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "producer": "TMM(True Music True Mind)",
+ "price": "전석 40,000원",
+ "schedule": "금요일(20:00), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF179848_210916_1121100.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21007817"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40040"
+  }
+ ],
+ "updated": "2021-09-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

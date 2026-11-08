@@ -1,0 +1,38 @@
+{
+ "id": "PF226521",
+ "title": "안중근의 고백",
+ "genre": "뮤지컬",
+ "from": "2023-10-06",
+ "to": "2023-10-08",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226521_230922_154742.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "심우창",
+  "이인철",
+  "유태균",
+  "이승호",
+  "박승득",
+  "장영주",
+  "손현정"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 40분",
+ "age": "만 9세 이상",
+ "crew": "최주봉, 김숙희, 이종열 등",
+ "price": "VIP석 70,000원, R석 50,000원, S석 30,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226521_230922_0347420.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266559"
+  }
+ ],
+ "updated": "2025-04-04 09:44:43",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

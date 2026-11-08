@@ -1,0 +1,56 @@
+{
+ "id": "PF290595",
+ "title": "블랙메리포핀스",
+ "genre": "뮤지컬",
+ "from": "2026-06-18",
+ "to": "2026-09-06",
+ "venue": "링크아트센터 (벅스홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF290595_260504_152008.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박정원",
+  "문경초",
+  "유태율",
+  "윤승우",
+  "원태민",
+  "박준형",
+  "김경록"
+ ],
+ "facilityId": "FC003244",
+ "runtime": "1시간 40분",
+ "age": "만 16세 이상",
+ "crew": "이성훈, 임양혁, 송한샘 등",
+ "producer": "(주)쇼노트",
+ "price": "R석 77,000원, S석 55,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF290595_202605040320082302.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF290595_202605040320082101.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/63057"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1651587"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26006404"
+  },
+  {
+   "name": "쇼노트",
+   "url": "https://www.shownote.com/Ticket/Performance/Details?performanceId=377"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7245"
+  }
+ ],
+ "updated": "2026-08-20 15:11:02",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

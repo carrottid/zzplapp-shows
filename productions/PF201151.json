@@ -1,0 +1,37 @@
+{
+ "id": "PF201151",
+ "title": "미인",
+ "genre": "뮤지컬",
+ "from": "2022-11-20",
+ "to": "2022-11-20",
+ "venue": "울산문화예술회관 (소공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF201151_221031_140645.jpg",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "박영수",
+  "현석준",
+  "장민제",
+  "조현우",
+  "김윤하",
+  "백예은"
+ ],
+ "facilityId": "FC000081",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "신중현, 홍승희, 이희준 등",
+ "price": "전석 20,000원",
+ "schedule": "일요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201151_221031_0206450.jpg"
+ ],
+ "links": [
+  {
+   "name": "울산문화예술회관",
+   "url": "https://ucac.ulsan.go.kr/performance/main/PER_000000000003245/detail.do"
+  }
+ ],
+ "updated": "2022-10-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

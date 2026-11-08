@@ -1,0 +1,40 @@
+{
+ "id": "PF173587",
+ "title": "동치미",
+ "genre": "연극",
+ "from": "2021-05-01",
+ "to": "2021-05-09",
+ "venue": "SH아트홀 (SH아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF173587_210415_103800.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김진태",
+  "김계선",
+  "이효윤",
+  "안재완",
+  "안수현",
+  "김영아"
+ ],
+ "facilityId": "FC001384",
+ "runtime": "1시간 35분",
+ "age": "만 9세 이상",
+ "price": "전석 50,000원",
+ "schedule": "수요일(15:00), 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF173587_210415_1038000.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21002647"
+  },
+  {
+   "name": "SK플래닛",
+   "url": "http://skt.culturecube.co.kr/"
+  }
+ ],
+ "updated": "2021-04-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

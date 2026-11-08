@@ -1,0 +1,46 @@
+{
+ "id": "PF222550",
+ "title": "나는 재미있는 낙타예요",
+ "genre": "연극",
+ "from": "2023-12-06",
+ "to": "2023-12-10",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF222550_231120_095634.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정지혜",
+  "한송희",
+  "정지현",
+  "김홍남",
+  "이수현",
+  "김솔지",
+  "심준보"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "홍단비, 이기쁨, 김솔지 등",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222550_231120_0954011.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266478"
+  },
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=11979"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23010323"
+  }
+ ],
+ "updated": "2025-04-04 10:01:09",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "PF295965",
+ "title": "NT Live, 모두가 나의 아들 (영상화)",
+ "genre": "연극",
+ "from": "2026-09-26",
+ "to": "2026-09-26",
+ "venue": "국립극장 (해오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295965_260713_155722.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "브라이언 크랜스톤",
+  "마리안 장 밥티스트",
+  "파아파 에시에두",
+  "톰 글린 카니",
+  "헤일리 스콰이어스",
+  "리처드 한셀",
+  "알리야 오도핀"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "2시간 30분",
+ "age": "만 13세 이상",
+ "crew": "이보 반 호프, 얀 페르스베이벨트, 안 드휘스 등",
+ "producer": "국립극장",
+ "price": "R석 30,000원, S석 20,000원",
+ "schedule": "토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295965_202607130418178340.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295965_202607130418178381.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295965_202607130418178452.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21008&perfId=267185"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009470"
+  }
+ ],
+ "updated": "2026-10-13 09:30:26",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

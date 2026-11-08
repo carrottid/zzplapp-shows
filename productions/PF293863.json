@@ -1,0 +1,43 @@
+{
+ "id": "PF293863",
+ "title": "리어와 말뚝이",
+ "genre": "연극",
+ "from": "2026-10-02",
+ "to": "2026-10-04",
+ "venue": "국립극장 (하늘극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF293863_261012_085728.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송영광",
+  "김봉현",
+  "김희량",
+  "임은희",
+  "은성준",
+  "김정원",
+  "박주성"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "오진희, 김병춘, 박채원 등",
+ "producer": "극단 오",
+ "price": "전석 50,000원",
+ "schedule": "금요일(19:30), 토요일(15:00,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF293863_202611060905231730.png"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21008&perfId=267225"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26008564"
+  }
+ ],
+ "updated": "2026-11-06 09:05:23",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

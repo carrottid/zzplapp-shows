@@ -1,0 +1,51 @@
+{
+ "id": "PF228061",
+ "title": "모딜리아니",
+ "genre": "뮤지컬",
+ "from": "2023-12-09",
+ "to": "2024-03-10",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228061_231018_111805.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "양지원",
+  "김준영",
+  "황민수",
+  "최민우",
+  "금조",
+  "박새힘",
+  "선유하"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간",
+ "age": "만 7세 이상",
+ "crew": "한승원, 김종석, 백혜빈 등",
+ "producer": "(주)에이치제이컬쳐(HJ컬쳐)",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228061_231018_1118050.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/268374"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1005914"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23014456"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47420"
+  }
+ ],
+ "updated": "2023-10-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

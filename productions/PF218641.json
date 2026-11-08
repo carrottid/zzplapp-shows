@@ -1,0 +1,46 @@
+{
+ "id": "PF218641",
+ "title": "에쿠우스",
+ "genre": "연극",
+ "from": "2023-07-07",
+ "to": "2023-07-08",
+ "venue": "포항문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF218641_230518_003236.png",
+ "area": "경상북도",
+ "state": "공연완료",
+ "cast": [
+  "장두이",
+  "김시유",
+  "박초롱",
+  "이양숙",
+  "유정기",
+  "은경균",
+  "김재훈"
+ ],
+ "facilityId": "FC001191",
+ "runtime": "2시간",
+ "age": "만 16세 이상",
+ "crew": "이한승, 신종한, 김태근 등",
+ "price": "R석 30,000원, S석 20,000원",
+ "schedule": "금요일(19:30), 토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218641_230518_1232360.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/44021"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/909425"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_idx=11559"
+  }
+ ],
+ "updated": "2023-05-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

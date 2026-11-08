@@ -1,0 +1,52 @@
+{
+ "id": "PF285662",
+ "title": "난쟁이들",
+ "genre": "뮤지컬",
+ "from": "2026-04-16",
+ "to": "2026-04-18",
+ "venue": "HD아트센터(구 현대예술관) (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285662_260224_104053.jpg",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "기세중",
+  "신주협",
+  "류제윤",
+  "장민수",
+  "박새힘",
+  "박슬기",
+  "안상은"
+ ],
+ "facilityId": "FC001166",
+ "runtime": "2시간",
+ "age": "만 16세 이상",
+ "crew": "송승환, 신동은, 이지현 등",
+ "producer": "(주)랑",
+ "price": "R석 75,000원, A석 55,000원, B석 40,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285662_202602241040530711.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285662_202602241040530550.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/61756"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1601960"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26002610"
+  },
+  {
+   "name": "현대예술관",
+   "url": "https://www.hd-artscenter.co.kr/performance/list.do?keyword=&ticketingitemseq=0000003876&mid=0000&SVC_ID=detail&unicodeseqitemtype=0000000607&now=Y&pageNo=1&returnPage=list"
+  }
+ ],
+ "updated": "2026-02-25 15:58:12",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

@@ -1,0 +1,60 @@
+{
+ "id": "PF235085",
+ "title": "난설",
+ "genre": "뮤지컬",
+ "from": "2024-03-12",
+ "to": "2024-06-02",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF235085_240207_095210.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정인지",
+  "최연우",
+  "김려원",
+  "김도빈",
+  "주민진",
+  "고상호",
+  "박정원"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "노재환, 박정인, 송은도 등",
+ "producer": "(주)콘텐츠플래닝",
+ "price": "R석 70,000원, S석 50,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235085_240207_0952111.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235085_240207_0952110.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1082719"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/48648"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77679"
+  },
+  {
+   "name": "페이북",
+   "url": "https://paybooc.co.kr/app/paybooc/Culture.do?mFocus=Culture&returnURL=https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70835"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011431"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12248"
+  }
+ ],
+ "updated": "2024-02-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

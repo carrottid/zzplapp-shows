@@ -1,0 +1,37 @@
+{
+ "id": "PF171865",
+ "title": "NT Live, 한여름 밤의 꿈",
+ "genre": "연극",
+ "from": "2021-03-26",
+ "to": "2021-05-01",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171865_210225_103316.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "그웬돌린 크리스티",
+  "올리버 크리스"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "니컬러스 하이트너",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171865_210225_1033160.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=265779"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000852"
+  }
+ ],
+ "updated": "2021-02-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

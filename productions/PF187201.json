@@ -1,0 +1,66 @@
+{
+ "id": "PF187201",
+ "title": "지붕위의 바이올린",
+ "genre": "뮤지컬",
+ "from": "2022-04-22",
+ "to": "2022-05-08",
+ "venue": "세종문화회관 (세종대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF187201_220224_093740.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박성훈",
+  "양준모",
+  "권명현",
+  "이혜란",
+  "정은영",
+  "우현아",
+  "김범준"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "정태영, 김길려, 서병구 등",
+ "price": "VIP석 100,000원, R석 80,000원, S석 60,000원, A석 40,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(15:00,19:30), 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187201_220224_0937400.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/37453"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0002912"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=206639"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "http://www.sejongpac.or.kr/"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41504"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39229"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76072"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007194"
+  }
+ ],
+ "updated": "2022-02-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

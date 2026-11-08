@@ -1,0 +1,34 @@
+{
+ "id": "PF245507",
+ "title": "몬스터 콜스",
+ "genre": "연극",
+ "from": "2024-12-05",
+ "to": "2024-12-08",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245507_240722_143941.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [],
+ "facilityId": "FC000003",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "박지선, 민새롬 등",
+ "price": "R석 40,000원, S석 30,000원, 휠체어석 40,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245507_240724_1016091.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266751"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "https://tickets.interpark.com/goods/24010382"
+  }
+ ],
+ "updated": "2025-04-04 16:17:36",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

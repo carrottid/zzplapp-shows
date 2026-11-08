@@ -1,0 +1,67 @@
+{
+ "id": "PF175412",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2021-07-23",
+ "to": "2021-07-25",
+ "venue": "청주예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF175412_210602_101640.jpg",
+ "area": "충청북도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "민경아",
+  "박건형",
+  "최재림",
+  "김영주",
+  "김경선"
+ ],
+ "facilityId": "FC000403",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 오민영 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 140,000원, R석 120,000원, S석 90,000원, A석 60,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF175412_210602_1016400.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/265244"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/536845"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21004481"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=205968"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39203"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38604"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "-"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  }
+ ],
+ "updated": "2021-06-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

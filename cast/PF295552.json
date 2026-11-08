@@ -1,0 +1,1863 @@
+{
+ "id": "PF295552",
+ "source": "nol",
+ "goodsKey": "26009625:24001018",
+ "roles": {
+  "137655": "명우",
+  "137656": "월하",
+  "137657": "수아",
+  "137658": "시영",
+  "137659": "과거 명우",
+  "137660": "과거 수아",
+  "r:명우": "명우",
+  "r:월하": "월하",
+  "r:수아": "수아",
+  "r:시영": "시영",
+  "r:과거 명우": "과거 명우",
+  "r:과거 수아": "과거 수아"
+ },
+ "people": {
+  "4131": {
+   "name": "차지연"
+  },
+  "6961": {
+   "name": "에녹"
+  },
+  "9910": {
+   "name": "문진아"
+  },
+  "12056": {
+   "name": "류승주"
+  },
+  "22878": {
+   "name": "손준호"
+  },
+  "25033": {
+   "name": "박세미"
+  },
+  "29854": {
+   "name": "이석훈"
+  },
+  "33399": {
+   "name": "서은광"
+  },
+  "34789": {
+   "name": "기세중"
+  },
+  "47856": {
+   "name": "김서연"
+  },
+  "50861": {
+   "name": "선예"
+  },
+  "53431": {
+   "name": "박희준"
+  },
+  "54485": {
+   "name": "이은정"
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-10-07",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "서은광",
+     "personId": "33399",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "손준호",
+     "personId": "22878",
+     "roleId": "137655"
+    },
+    {
+     "name": "차지연",
+     "personId": "4131",
+     "roleId": "137656"
+    },
+    {
+     "name": "류승주",
+     "personId": "12056",
+     "roleId": "137657"
+    },
+    {
+     "name": "박세미",
+     "personId": "25033",
+     "roleId": "137658"
+    },
+    {
+     "name": "박희준",
+     "personId": "53431",
+     "roleId": "137659"
+    },
+    {
+     "name": "김서연",
+     "personId": "47856",
+     "roleId": "137660"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이석훈",
+     "personId": "29854",
+     "roleId": "137655"
+    },
+    {
+     "name": "에녹",
+     "personId": "6961",
+     "roleId": "137656"
+    },
+    {
+     "name": "선예",
+     "personId": "50861",
+     "roleId": "137657"
+    },
+    {
+     "name": "문진아",
+     "personId": "9910",
+     "roleId": "137658"
+    },
+    {
+     "name": "기세중",
+     "personId": "34789",
+     "roleId": "137659"
+    },
+    {
+     "name": "이은정",
+     "personId": "54485",
+     "roleId": "137660"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-08T10:36:24"
+}

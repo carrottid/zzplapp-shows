@@ -1,0 +1,42 @@
+{
+ "id": "PF213133",
+ "title": "아트(ART)",
+ "genre": "연극",
+ "from": "2023-04-08",
+ "to": "2023-04-09",
+ "venue": "대구문화예술회관 (팔공홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF213133_230210_105430.PNG",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "순재",
+  "백일섭",
+  "노주현",
+  "최재웅",
+  "김재범",
+  "박정복"
+ ],
+ "facilityId": "FC000191",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "김수로, 신영섭, 성종완 등",
+ "producer": "(주)나인스토리, (주)더블케이 필름 앤 씨어터 (더블케이엔터테인먼트)",
+ "price": "R석 65,000원, S석 45,000원",
+ "schedule": "토요일 ~ 일요일(14:00,17:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213133_230210_1054300.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/42498"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/846951"
+  }
+ ],
+ "updated": "2023-02-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

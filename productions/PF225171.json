@@ -1,0 +1,40 @@
+{
+ "id": "PF225171",
+ "title": "젤다",
+ "genre": "뮤지컬",
+ "from": "2023-09-22",
+ "to": "2023-09-23",
+ "venue": "SH아트홀 (SH아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF225171_230904_151436.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정재은",
+  "윤지환",
+  "김진철",
+  "조원석"
+ ],
+ "facilityId": "FC001384",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "강보배, 이나영, 김경민 등",
+ "producer": "스테이지온 (stage on)",
+ "price": "전석 20,000원",
+ "schedule": "금요일(20:00), 토요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225171_230904_0314360.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/962245"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011202"
+  }
+ ],
+ "updated": "2023-09-08 09:34:13",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

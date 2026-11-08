@@ -1,0 +1,44 @@
+{
+ "id": "PF289375",
+ "title": "데스노트",
+ "genre": "뮤지컬",
+ "from": "2026-06-09",
+ "to": "2026-06-14",
+ "venue": "대전예술의전당 (아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF289375_260415_105857.gif",
+ "area": "대전광역시",
+ "state": "공연완료",
+ "cast": [
+  "조규현",
+  "고은성",
+  "임규형",
+  "김성철",
+  "탕준상",
+  "이영미",
+  "장은아"
+ ],
+ "facilityId": "FC000076",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "신춘수, 김동연, 김문정 등",
+ "producer": "(주)오디컴퍼니(ODCOMPANY)",
+ "price": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF289375_202604151058578521.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF289375_202604151058578480.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/62823"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26005693"
+  }
+ ],
+ "updated": "2026-05-14 10:04:41",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

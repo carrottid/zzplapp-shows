@@ -1,0 +1,48 @@
+{
+ "id": "PF254216",
+ "title": "고스트 베이커리",
+ "genre": "뮤지컬",
+ "from": "2024-12-19",
+ "to": "2025-02-23",
+ "venue": "두산아트센터 (연강홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF254216_241120_154604.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박지연",
+  "박진주",
+  "송원근",
+  "전성우",
+  "이재환",
+  "정시현",
+  "신은총"
+ ],
+ "facilityId": "FC000402",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "crew": "박천휴, 김재이, 박예림 등",
+ "producer": "라이브러리컴퍼니",
+ "price": "R석 90,000원, S석 70,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일(19:30), 금요일(15:00,19:30), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF254216_241120_0346040.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF254216_241120_0350383.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016412"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1733727596"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12740"
+  }
+ ],
+ "updated": "2025-07-03 08:14:02",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

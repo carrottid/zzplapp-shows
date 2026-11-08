@@ -1,0 +1,51 @@
+{
+ "id": "PF182734",
+ "title": "더모먼트",
+ "genre": "뮤지컬",
+ "from": "2021-12-14",
+ "to": "2022-03-06",
+ "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182734_211110_090109.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "원종환",
+  "윤석원",
+  "최호중",
+  "김도빈",
+  "주민진",
+  "손유동",
+  "송광일"
+ ],
+ "facilityId": "FC000382",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "홍승희, 표상아, 김여우리 등",
+ "producer": "(주)홍컴퍼니",
+ "price": "전석 60,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182734_211110_0901090.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011119"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=75823"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000006914"
+  }
+ ],
+ "updated": "2021-11-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

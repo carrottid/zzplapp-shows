@@ -1,0 +1,35 @@
+{
+ "id": "PF219611",
+ "title": "고훈정 콘서트, Unplugged & Rock(10000)",
+ "genre": "뮤지컬",
+ "from": "2023-07-01",
+ "to": "2023-07-01",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219611_230605_112436.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고훈정"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "price": "R석 130,000원, S석 110,000원, A석 90,000원, 시야방해S 77,000원, 시야방해A 63,000원",
+ "schedule": "토요일(18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219611_230605_1124360.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007583"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259967"
+  }
+ ],
+ "updated": "2023-06-05 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

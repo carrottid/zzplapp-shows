@@ -1,0 +1,55 @@
+{
+ "id": "PF211480",
+ "title": "어린왕자",
+ "genre": "뮤지컬",
+ "from": "2023-03-04",
+ "to": "2023-04-23",
+ "venue": "충무아트센터 (중극장 블랙)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF211480_230127_121857.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정동화",
+  "안재영",
+  "이우종",
+  "정지우",
+  "황민수",
+  "송영미",
+  "정우연"
+ ],
+ "facilityId": "FC000014",
+ "runtime": "1시간 20분",
+ "age": "만 11세 이상",
+ "crew": "한승원, 김종석, 성재현 등",
+ "producer": "(주)에이치제이컬쳐(HJ컬쳐)",
+ "price": "R석 55,000원, S석 44,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(13:00,14:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF211480_230127_1218570.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267268"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/840540"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23001088"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/44801"
+  },
+  {
+   "name": "클립서비스",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77024"
+  }
+ ],
+ "updated": "2023-01-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

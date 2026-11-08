@@ -1,0 +1,41 @@
+{
+ "id": "PF233969",
+ "title": "WONDERLAND THEATRE",
+ "genre": "뮤지컬",
+ "from": "2024-01-27",
+ "to": "2024-01-28",
+ "venue": "경희대학교 평화의전당 (경희대학교 평화의전당)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF233969_240116_102538.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고훈정",
+  "김바울",
+  "유채훈",
+  "박혜나",
+  "신영숙",
+  "장은아",
+  "정선아"
+ ],
+ "facilityId": "FC001291",
+ "runtime": "2시간 10분",
+ "age": "만 7세 이상",
+ "price": "R석 132,000원, S석 110,000원, A석 88,000원",
+ "schedule": "토요일(17:00), 일요일(14:30,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF233969_240116_1025380.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/48009"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1064299"
+  }
+ ],
+ "updated": "2024-11-06 14:11:59",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

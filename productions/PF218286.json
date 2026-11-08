@@ -1,0 +1,41 @@
+{
+ "id": "PF218286",
+ "title": "도넛",
+ "genre": "연극",
+ "from": "2023-05-27",
+ "to": "2023-06-04",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF218286_230512_091558.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "진휘서",
+  "서은빈",
+  "김기주",
+  "이충호",
+  "유권",
+  "임동진",
+  "이한솔"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "공유빈, 최하은, 김민지 등",
+ "producer": "극단 소년",
+ "price": "전석 55,000원",
+ "schedule": "일요일(14:00,18:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), HOL(14:00,15:00,18:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218286_230512_0915582.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218286_230512_0915581.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218286_230512_0915580.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006413"
+  }
+ ],
+ "updated": "2023-05-12 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

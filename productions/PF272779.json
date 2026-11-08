@@ -1,0 +1,42 @@
+{
+ "id": "PF272779",
+ "title": "바닐라",
+ "genre": "연극",
+ "from": "2025-09-05",
+ "to": "2025-09-10",
+ "venue": "서강대 메리홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF272779_250827_143658.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이희성",
+  "이종현",
+  "정우영",
+  "김현지",
+  "권오성",
+  "유정수",
+  "이유민"
+ ],
+ "facilityId": "FC001216",
+ "runtime": "2시간",
+ "age": "만 13세 이상",
+ "crew": "이해인, 이건호, 김재현 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 수요일(19:30), 금요일(19:30), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272779_202508270236588154.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272779_202508270236588113.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272779_202508270236588072.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272779_202508270236588041.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272779_202508270236588000.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25012472"
+  }
+ ],
+ "updated": "2025-08-27 15:00:03.069213",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

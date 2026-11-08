@@ -1,0 +1,54 @@
+{
+ "id": "PF218444",
+ "title": "더 픽션",
+ "genre": "뮤지컬",
+ "from": "2023-06-24",
+ "to": "2023-09-17",
+ "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF218444_230515_131146.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김도빈",
+  "유승현",
+  "김준영",
+  "박유덕",
+  "주민진",
+  "정동화",
+  "최호승"
+ ],
+ "facilityId": "FC001236",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "한승원, 김종석, 성재현 등",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218444_230515_0111460.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267692"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/903344"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006429"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45885"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77307"
+  }
+ ],
+ "updated": "2023-05-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

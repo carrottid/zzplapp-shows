@@ -1,0 +1,46 @@
+{
+ "id": "PF273050",
+ "title": "등등곡",
+ "genre": "뮤지컬",
+ "from": "2025-09-27",
+ "to": "2025-09-27",
+ "venue": "울산문화예술회관 (소공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF273050_250901_124338.jpg",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "고상호",
+  "안재영",
+  "김바다",
+  "안지환",
+  "박상혁",
+  "박선영",
+  "정서안"
+ ],
+ "facilityId": "FC000081",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김지식, 정혜지, 성종환 등",
+ "price": "전석 50,000원",
+ "schedule": "토요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF273050_202509011243383790.png"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1489680"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/55101"
+  },
+  {
+   "name": "울산문화예술회관",
+   "url": "https://ucac.ulsan.go.kr/performance/main/PER_000000000004350/detail.do"
+  }
+ ],
+ "updated": "2025-10-13 10:12:52",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

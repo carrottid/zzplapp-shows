@@ -1,0 +1,55 @@
+{
+ "id": "PF272350",
+ "title": "트루웨스트",
+ "genre": "연극",
+ "from": "2025-09-30",
+ "to": "2025-12-14",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF272350_250822_104001.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "오만석",
+  "김도윤",
+  "김다흰",
+  "최재웅",
+  "김이담",
+  "김현진",
+  "이승원"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "오만석, 김미경, 이형복 등",
+ "producer": "(주)레드앤블루(구. 악어컴퍼니)",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272350_202508221040012320.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1482962"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25011730"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/54941"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78861"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6575"
+  }
+ ],
+ "updated": "2025-11-14 16:04:21",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

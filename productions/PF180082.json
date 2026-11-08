@@ -1,0 +1,43 @@
+{
+ "id": "PF180082",
+ "title": "헤드윅",
+ "genre": "뮤지컬",
+ "from": "2021-11-26",
+ "to": "2021-11-28",
+ "venue": "고양아람누리 (아람극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF180082_210923_160541.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "오만석",
+  "이규형",
+  "고은성",
+  "이영미",
+  "김려원",
+  "이준",
+  "최기호"
+ ],
+ "facilityId": "FC000127",
+ "runtime": "2시간 15분",
+ "age": "만 15세 이상",
+ "crew": "김영욱, 이성훈, 임양혁 등",
+ "producer": "(주)쇼노트",
+ "price": "R석 110,000원, S석 99,000원, A석 77,000원, B석 55,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 월요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF180082_210923_0405410.jpg"
+ ],
+ "links": [
+  {
+   "name": "고양아람누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000006425"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008379"
+  }
+ ],
+ "updated": "2021-09-23 20:44:01",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

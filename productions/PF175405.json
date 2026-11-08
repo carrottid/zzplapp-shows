@@ -1,0 +1,55 @@
+{
+ "id": "PF175405",
+ "title": "스프링 어웨이크닝",
+ "genre": "뮤지컬",
+ "from": "2021-07-08",
+ "to": "2021-10-03",
+ "venue": "동국대학교 (이해랑예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF175405_210602_095843.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김서연",
+  "이정화",
+  "김현진",
+  "이봉준",
+  "박석용",
+  "류수화",
+  "오유민"
+ ],
+ "facilityId": "FC000570",
+ "runtime": "2시간 20분",
+ "age": "만 16세 이상",
+ "crew": "이종석, 이나영, 신선호 등",
+ "producer": "(주)아떼오드 서울사무소, (주)엠피앤컴퍼니",
+ "price": "R석 75,000원, 무대석 65,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF175405_210602_0958430.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/34803"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21004531"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=39217"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=75677"
+  },
+  {
+   "name": "달컴퍼니",
+   "url": "http://www.dalcompany.co.kr"
+  }
+ ],
+ "updated": "2021-06-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

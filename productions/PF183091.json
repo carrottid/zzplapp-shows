@@ -1,0 +1,39 @@
+{
+ "id": "PF183091",
+ "title": "흔듦",
+ "genre": "연극",
+ "from": "2021-11-26",
+ "to": "2021-11-27",
+ "venue": "서강대 메리홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF183091_211115_143126.jpeg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "장경민",
+  "이학",
+  "송진우",
+  "조현도",
+  "정성태"
+ ],
+ "facilityId": "FC001216",
+ "runtime": "1시간",
+ "age": "만 11세 이상",
+ "crew": "정성태, 김동현, 노명준 등",
+ "price": "전석 30,000원",
+ "schedule": "금요일(20:00), 토요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183091_211115_0231263.jpeg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183091_211115_0231262.jpeg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183091_211115_0231261.jpeg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183091_211115_0231260.jpeg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1643"
+  }
+ ],
+ "updated": "2021-11-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

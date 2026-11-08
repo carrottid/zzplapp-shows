@@ -1,0 +1,43 @@
+{
+ "id": "PF224796",
+ "title": "바닷마을 다이어리",
+ "genre": "연극",
+ "from": "2023-10-08",
+ "to": "2023-11-19",
+ "venue": "예술의전당 [서울] (자유소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224796_230829_120833.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박하선",
+  "서예화",
+  "강해진",
+  "설가은",
+  "이윤서",
+  "임수향",
+  "류이재"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 50분",
+ "age": "만 6세 이상",
+ "crew": "김유철, 설가민, 이준우 등",
+ "producer": "라이브러리컴퍼니",
+ "price": "R석 88,000원, S석 66,000원, A석 44,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일(14:00,18:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224796_230829_1208330.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012118"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/46993"
+  }
+ ],
+ "updated": "2023-08-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

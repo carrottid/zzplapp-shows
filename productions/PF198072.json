@@ -1,0 +1,43 @@
+{
+ "id": "PF198072",
+ "title": "킹키부츠",
+ "genre": "뮤지컬",
+ "from": "2022-11-04",
+ "to": "2022-11-13",
+ "venue": "계명아트센터 (계명아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF198072_220914_111315.gif",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "김호영",
+  "최재림",
+  "김환희",
+  "고창석",
+  "이윤하",
+  "김용수",
+  "전호준"
+ ],
+ "facilityId": "FC001239",
+ "runtime": "2시간 35분",
+ "age": "만 7세 이상",
+ "producer": "(주)CJ ENM",
+ "price": "VIP석 150,000원, R석 130,000원, S석 110,000원, A석 90,000원, B석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198072_220914_1113151.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198072_220914_1113150.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011993"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76706"
+  }
+ ],
+ "updated": "2022-09-14 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

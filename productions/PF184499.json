@@ -1,0 +1,37 @@
+{
+ "id": "PF184499",
+ "title": "The Modern 402",
+ "genre": "연극",
+ "from": "2021-12-10",
+ "to": "2021-12-12",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF184499_211207_133702.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "서영주",
+  "정성일",
+  "임강희",
+  "김민",
+  "박세진",
+  "김건우"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 45분",
+ "age": "만 13세 이상",
+ "crew": "서윤미, 정재혁, 이진욱 등",
+ "price": "전석 15,000원",
+ "schedule": "금요일(20:00), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF184499_211207_0137020.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012537"
+  }
+ ],
+ "updated": "2021-12-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

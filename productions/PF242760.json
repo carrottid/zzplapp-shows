@@ -1,0 +1,51 @@
+{
+ "id": "PF242760",
+ "title": "임대아파트",
+ "genre": "연극",
+ "from": "2024-07-05",
+ "to": "2024-09-01",
+ "venue": "공간아울 (공간아울)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF242760_240611_113714.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이정연",
+  "장서원",
+  "신재열",
+  "고우리",
+  "김근혁",
+  "김소라",
+  "김마로"
+ ],
+ "facilityId": "FC001209",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "변영진, 김현지, 이재국 등",
+ "producer": "네버엔딩플레이(N.E.P Contents), 안녕컴퍼니, 제프 주식회사",
+ "price": "전석 40,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,17:00), HOL(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF242760_240704_1112541.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1191014"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24008143"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5742"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/27179654262"
+  }
+ ],
+ "updated": "2024-06-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

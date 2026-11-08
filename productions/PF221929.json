@@ -1,0 +1,41 @@
+{
+ "id": "PF221929",
+ "title": "세자매",
+ "genre": "연극",
+ "from": "2023-07-29",
+ "to": "2023-07-30",
+ "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF221929_230712_111723.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "조혜진",
+  "예슬비",
+  "장유정",
+  "이다현",
+  "한준수",
+  "이예은",
+  "박혜원"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김동휘, 예슬비, 박혜원 등",
+ "price": "전석 30,000원",
+ "schedule": "토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221929_230712_1117233.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221929_230712_1117232.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221929_230712_1117231.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221929_230712_1117230.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2456"
+  }
+ ],
+ "updated": "2023-07-12 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

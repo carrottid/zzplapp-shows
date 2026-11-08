@@ -1,0 +1,43 @@
+{
+ "id": "PF226347",
+ "title": "빨래",
+ "genre": "뮤지컬",
+ "from": "2023-11-30",
+ "to": "2023-12-03",
+ "venue": "수성아트피아 (대극장 (대공연장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226347_230921_100912.gif",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "윤진솔",
+  "노희찬",
+  "장이주",
+  "김송이",
+  "이승헌",
+  "박준성",
+  "박정민"
+ ],
+ "facilityId": "FC000204",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "최세연, 추민주, 민찬홍 등",
+ "producer": "(주)씨에이치수박",
+ "price": "R석 70,000원, S석 50,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226347_230921_1009120.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013320"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010742"
+  }
+ ],
+ "updated": "2023-09-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

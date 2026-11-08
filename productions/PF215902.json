@@ -1,0 +1,42 @@
+{
+ "id": "PF215902",
+ "title": "스크루테이프",
+ "genre": "연극",
+ "from": "2023-04-29",
+ "to": "2023-06-10",
+ "venue": "LG아트센터 서울 (U+ 스테이지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF215902_230330_102416.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "황만익",
+  "정의욱",
+  "구시연",
+  "이은주",
+  "노은하",
+  "김동민"
+ ],
+ "facilityId": "FC003045",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "노우진, 이석준, 김선영 등",
+ "producer": "(주)야긴과 보아스 컴퍼니",
+ "price": "R석 60,000원, S석 50,000원",
+ "schedule": "월요일 ~ 화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF215902_230330_1024160.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "https://www.lgart.com/product/ko/performance/252763"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000038"
+  }
+ ],
+ "updated": "2023-03-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,45 @@
+{
+ "id": "PF215633",
+ "title": "섬 이야기",
+ "genre": "연극",
+ "from": "2023-04-13",
+ "to": "2023-04-16",
+ "venue": "서강대 메리홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF215633_230327_102055.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이경성",
+  "나경민",
+  "배소현",
+  "성수연",
+  "장성익"
+ ],
+ "facilityId": "FC001216",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "이경성, 나경민, 김슬기 등",
+ "producer": "코르코르디움",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF215633_230327_1020550.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/876450"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004184"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr"
+  }
+ ],
+ "updated": "2023-03-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

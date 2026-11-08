@@ -1,0 +1,34 @@
+{
+ "id": "PF205252",
+ "title": "살고지고",
+ "genre": "연극",
+ "from": "2023-01-09",
+ "to": "2023-01-15",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF205252_230102_135259.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "오인순",
+  "김성숙"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 10분",
+ "age": "만 14세 이상",
+ "crew": "송현창, 이종태, 전양식 등",
+ "price": "전석 20,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF205252_230102_0152591.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF205252_230102_0152590.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22017145"
+  }
+ ],
+ "updated": "2023-01-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

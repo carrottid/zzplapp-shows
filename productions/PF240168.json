@@ -1,0 +1,57 @@
+{
+ "id": "PF240168",
+ "title": "머피 (Murphy)",
+ "genre": "뮤지컬",
+ "from": "2024-05-31",
+ "to": "2024-06-30",
+ "venue": "예그린씨어터 (예그린씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF240168_240429_153215.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신윤철",
+  "한희도",
+  "권정수",
+  "황시우",
+  "표근률",
+  "김담현",
+  "조훈"
+ ],
+ "facilityId": "FC001212",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "서유석, 손수민, 진주백 등",
+ "producer": "(주)이비컴퍼니",
+ "price": "전석 60,000원",
+ "schedule": "화요일(20:00), 목요일 ~ 금요일(20:00), 수요일(16:00,20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF240168_240429_0332152.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF240168_240429_0332151.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF240168_240429_0332150.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1130481"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/49548"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011917"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5670"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12261"
+  }
+ ],
+ "updated": "2024-04-29 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

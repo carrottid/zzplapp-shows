@@ -1,0 +1,1977 @@
+{
+ "id": "PF294946",
+ "source": "nol",
+ "goodsKey": "26009314:26000011",
+ "roles": {
+  "137476": "황후 엘리자벳",
+  "137477": "죽음",
+  "137478": "루이지 루케니",
+  "137479": "황제 프란츠 요제프",
+  "137480": "대공비 소피",
+  "137481": "황태자 루돌프"
+ },
+ "people": {
+  "255": {
+   "name": "서지영"
+  },
+  "353": {
+   "name": "주아"
+  },
+  "3547": {
+   "name": "박민성"
+  },
+  "3732": {
+   "name": "민영기"
+  },
+  "4004": {
+   "name": "박은태"
+  },
+  "10358": {
+   "name": "서경수"
+  },
+  "18104": {
+   "name": "카이"
+  },
+  "18920": {
+   "name": "김준수"
+  },
+  "20681": {
+   "name": "박지연"
+  },
+  "25102": {
+   "name": "린아"
+  },
+  "26127": {
+   "name": "강홍석"
+  },
+  "26675": {
+   "name": "고은성"
+  },
+  "29583": {
+   "name": "이지수"
+  },
+  "29655": {
+   "name": "이지혜"
+  },
+  "41822": {
+   "name": "노윤"
+  },
+  "49714": {
+   "name": "장윤석"
+  },
+  "52474": {
+   "name": "김우성"
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-10-07",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-07",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이지수",
+     "personId": "29583",
+     "roleId": "137476"
+    },
+    {
+     "name": "카이",
+     "personId": "18104",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "이지수",
+     "personId": "29583",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "카이",
+     "personId": "18104",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "이지수",
+     "personId": "29583",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "카이",
+     "personId": "18104",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이지수",
+     "personId": "29583",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "이지수",
+     "personId": "29583",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "카이",
+     "personId": "18104",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "카이",
+     "personId": "18104",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이지수",
+     "personId": "29583",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "카이",
+     "personId": "18104",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "카이",
+     "personId": "18104",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "카이",
+     "personId": "18104",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "김준수",
+     "personId": "18920",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "박지연",
+     "personId": "20681",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "강홍석",
+     "personId": "26127",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "린아",
+     "personId": "25102",
+     "roleId": "137476"
+    },
+    {
+     "name": "고은성",
+     "personId": "26675",
+     "roleId": "137477"
+    },
+    {
+     "name": "노윤",
+     "personId": "41822",
+     "roleId": "137478"
+    },
+    {
+     "name": "박민성",
+     "personId": "3547",
+     "roleId": "137479"
+    },
+    {
+     "name": "주아",
+     "personId": "353",
+     "roleId": "137480"
+    },
+    {
+     "name": "김우성",
+     "personId": "52474",
+     "roleId": "137481"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "이지혜",
+     "personId": "29655",
+     "roleId": "137476"
+    },
+    {
+     "name": "서경수",
+     "personId": "10358",
+     "roleId": "137477"
+    },
+    {
+     "name": "박은태",
+     "personId": "4004",
+     "roleId": "137478"
+    },
+    {
+     "name": "민영기",
+     "personId": "3732",
+     "roleId": "137479"
+    },
+    {
+     "name": "서지영",
+     "personId": "255",
+     "roleId": "137480"
+    },
+    {
+     "name": "장윤석",
+     "personId": "49714",
+     "roleId": "137481"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-08T10:36:24"
+}

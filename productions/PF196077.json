@@ -1,0 +1,43 @@
+{
+ "id": "PF196077",
+ "title": "오션스 쇼케이스",
+ "genre": "뮤지컬",
+ "from": "2022-09-01",
+ "to": "2022-09-04",
+ "venue": "코엑스아티움(Coex Artium) (코엑스아티움(Coex Artium))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF196077_220811_100352.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "백인태",
+  "윤소호",
+  "강찬",
+  "김찬호",
+  "정원영",
+  "김지휘",
+  "신은총"
+ ],
+ "facilityId": "FC004560",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 김지원, 추정화 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 80,000원, R석 60,000원, S석 40,000원",
+ "schedule": "목요일(19:00), 금요일(15:00,19:00), 토요일(15:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF196077_220811_1003520.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010287"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=207199"
+  }
+ ],
+ "updated": "2022-08-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

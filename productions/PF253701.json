@@ -1,0 +1,37 @@
+{
+ "id": "PF253701",
+ "title": "Don't take me home",
+ "genre": "연극",
+ "from": "2024-12-10",
+ "to": "2024-12-15",
+ "venue": "서울문화재단 대학로극장 쿼드 (예술청) (프로젝트룸 (5층) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF253701_241115_092643.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이주영",
+  "장재호",
+  "권일",
+  "김진수",
+  "박소이",
+  "이호택"
+ ],
+ "facilityId": "FC003018",
+ "runtime": "1시간",
+ "age": "만 13세 이상",
+ "crew": "하수민, 이중배, 유성엽 등",
+ "price": "전석 10,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF253701_241115_0926430.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016379"
+  }
+ ],
+ "updated": "2024-11-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

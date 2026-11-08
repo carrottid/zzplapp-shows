@@ -1,0 +1,42 @@
+{
+ "id": "PF178808",
+ "title": "박정희",
+ "genre": "뮤지컬",
+ "from": "2021-09-04",
+ "to": "2021-09-22",
+ "venue": "홍익대 대학로 아트센터 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF178808_210824_121333.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송민경",
+  "최수형",
+  "김민균",
+  "노민아"
+ ],
+ "facilityId": "FC001208",
+ "runtime": "2시간 50분",
+ "age": "만 8세 이상",
+ "price": "VIP석 (금토일공휴일) 90,000원, R석 (금토일공휴일) 60,000원, S석 (금토일공휴일) 30,000원, A석 (금토일공휴일) 15,000원, VIP석 (화수목) 70,000원, R석 (화수목) 50,000원, S석 (화수목) 20,000원, A석 (화수목) 10,000원",
+ "schedule": "화요일 ~ 금요일(19:00), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178808_210927_0326151.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/483003"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21007489"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/39988"
+  }
+ ],
+ "updated": "2021-09-28 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

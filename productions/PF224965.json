@@ -1,0 +1,55 @@
+{
+ "id": "PF224965",
+ "title": "룰렛",
+ "genre": "뮤지컬",
+ "from": "2023-10-13",
+ "to": "2023-11-12",
+ "venue": "연남장 (연남장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224965_230831_125747.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "서동진",
+  "조현우",
+  "이무현",
+  "차이도",
+  "진소연",
+  "이수정",
+  "이민규"
+ ],
+ "facilityId": "FC002037",
+ "runtime": "1시간 30분",
+ "age": "만 14세 이상",
+ "crew": "김민석, 김가람, 이한밀 등",
+ "producer": "(주)스포트라이트",
+ "price": "전석 66,000원",
+ "schedule": "화요일 ~ 목요일(20:00), 금요일(17:00,20:30), 토요일(17:00,20:30), 일요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224965_230831_1257470.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/268151"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/980030"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012218"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/46969"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/23717700170"
+  }
+ ],
+ "updated": "2023-08-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

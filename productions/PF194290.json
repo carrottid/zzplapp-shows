@@ -1,0 +1,63 @@
+{
+ "id": "PF194290",
+ "title": "더 데빌 콘서트",
+ "genre": "뮤지컬",
+ "from": "2022-08-07",
+ "to": "2022-08-07",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF194290_220708_130238.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김찬호",
+  "박규원",
+  "이충주",
+  "이승헌",
+  "이석준",
+  "백형훈",
+  "고훈정"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "이지혜, 이지나, 피정훈 등",
+ "producer": "(주) 크레디아뮤직앤아티스트, (주)R&Dworks(알앤디웍스), 롯데컬처웍스",
+ "price": "R석 110,000원, S석 90,000원, A석 70,000원",
+ "schedule": "일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF194290_220708_0102380.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266573"
+  },
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/39329"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22008473"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259567"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/42809"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39607"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=76515"
+  }
+ ],
+ "updated": "2022-07-08 14:42:48",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

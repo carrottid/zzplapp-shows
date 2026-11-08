@@ -1,0 +1,2091 @@
+{
+ "id": "PF297912",
+ "source": "nol",
+ "goodsKey": "26011520:23000860",
+ "roles": {
+  "138185": "김옥균",
+  "138186": "한정훈",
+  "138187": "고종",
+  "138188": "이완",
+  "138189": "와다",
+  "r:김옥균": "김옥균",
+  "r:한정훈": "한정훈",
+  "r:고종": "고종",
+  "r:이완": "이완",
+  "r:와다": "와다"
+ },
+ "people": {
+  "35": {
+   "name": "김태한"
+  },
+  "348": {
+   "name": "강필석"
+  },
+  "360": {
+   "name": "최재웅"
+  },
+  "1967": {
+   "name": "지현준"
+  },
+  "3733": {
+   "name": "고영빈"
+  },
+  "4016": {
+   "name": "김재범"
+  },
+  "6299": {
+   "name": "김경수"
+  },
+  "13925": {
+   "name": "박영수"
+  },
+  "15870": {
+   "name": "고훈정"
+  },
+  "20750": {
+   "name": "백형훈"
+  },
+  "22136": {
+   "name": "송원근"
+  },
+  "26999": {
+   "name": "신성민"
+  },
+  "30161": {
+   "name": "손동운"
+  },
+  "32741": {
+   "name": "신재희"
+  },
+  "38079": {
+   "name": "문유강"
+  },
+  "40480": {
+   "name": "김준수"
+  },
+  "54013": {
+   "name": "원태민"
+  },
+  "57693": {
+   "name": "신현준"
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-10-07",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "강필석",
+     "personId": "348",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "김준수",
+     "personId": "40480",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "김준수",
+     "personId": "40480",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136",
+     "roleId": "138185"
+    },
+    {
+     "name": "백형훈",
+     "personId": "20750",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "백형훈",
+     "personId": "20750",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "강필석",
+     "personId": "348",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "백형훈",
+     "personId": "20750",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-05",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "손동운",
+     "personId": "30161",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "원태민",
+     "personId": "54013",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "고훈정",
+     "personId": "15870",
+     "roleId": "138185"
+    },
+    {
+     "name": "김재범",
+     "personId": "4016",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "김경수",
+     "personId": "6299",
+     "roleId": "138185"
+    },
+    {
+     "name": "문유강",
+     "personId": "38079",
+     "roleId": "138186"
+    },
+    {
+     "name": "박영수",
+     "personId": "13925",
+     "roleId": "138187"
+    },
+    {
+     "name": "김태한",
+     "personId": "35",
+     "roleId": "138188"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "time": "18:30",
+   "cast": [
+    {
+     "name": "신재희",
+     "personId": "32741",
+     "roleId": "138188"
+    },
+    {
+     "name": "신현준",
+     "personId": "57693",
+     "roleId": "138189"
+    },
+    {
+     "name": "최재웅",
+     "personId": "360",
+     "roleId": "138185"
+    },
+    {
+     "name": "신성민",
+     "personId": "26999",
+     "roleId": "138186"
+    },
+    {
+     "name": "고영빈",
+     "personId": "3733",
+     "roleId": "138187"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-08T10:36:24"
+}

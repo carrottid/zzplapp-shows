@@ -1,0 +1,51 @@
+{
+ "id": "PF265925",
+ "title": "셰익스피어 인 러브",
+ "genre": "연극",
+ "from": "2025-07-05",
+ "to": "2025-09-14",
+ "venue": "예술의전당 [서울] (CJ 토월극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF265925_250528_101459.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이규형",
+  "손우현",
+  "이상이",
+  "옹성우",
+  "이주영",
+  "박주현",
+  "김향기"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김영욱, 이성훈, 송한샘 등",
+ "producer": "(주)쇼노트",
+ "price": "OP석 120,000원, R석 120,000원, S석 90,000원, A석 60,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF265925_250528_1008570.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25007212"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=211441"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=372"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/54075"
+  }
+ ],
+ "updated": "2025-05-29 11:02:39",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PF273634",
+ "title": "전우치",
+ "genre": "뮤지컬",
+ "from": "2025-10-25",
+ "to": "2025-11-02",
+ "venue": "예술의전당 [서울] (CJ 토월극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF273634_250909_112441.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이한수",
+  "손동운",
+  "최인형",
+  "금승훈",
+  "김용한",
+  "김연",
+  "이은솔"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "crew": "경민선, 황호준, 이대웅 등",
+ "producer": "(재)서울예술단",
+ "price": "R석 110,000원, S석 80,000원, A석 50,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일 ~ 금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF273634_202509091124414740.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13194"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25011389"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/55209"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78737"
+  }
+ ],
+ "updated": "2026-01-21 13:33:44",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

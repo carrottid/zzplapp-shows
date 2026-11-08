@@ -1,0 +1,34 @@
+{
+ "id": "PF203343",
+ "title": "내일은 내일에게",
+ "genre": "연극",
+ "from": "2022-12-16",
+ "to": "2022-12-16",
+ "venue": "울산문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF203343_221130_124323.jpg",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "김보람",
+  "김범수",
+  "김소민",
+  "강지훈"
+ ],
+ "facilityId": "FC000081",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "price": "전석 20,000원",
+ "schedule": "금요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF203343_221130_1243230.jpg"
+ ],
+ "links": [
+  {
+   "name": "울산문화예술회관",
+   "url": "https://ucac.ulsan.go.kr/performance/main/PER_000000000003271/detail.do"
+  }
+ ],
+ "updated": "2022-11-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

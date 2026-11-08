@@ -1,0 +1,43 @@
+{
+ "id": "PF295702",
+ "title": "팬레터",
+ "genre": "뮤지컬",
+ "from": "2026-09-18",
+ "to": "2026-09-19",
+ "venue": "경상남도문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295702_260709_110703.jpg",
+ "area": "경상남도",
+ "state": "공연완료",
+ "cast": [
+  "이규형",
+  "김종구",
+  "문태유",
+  "문성일",
+  "이봄소리",
+  "허윤슬",
+  "안창용"
+ ],
+ "facilityId": "FC001701",
+ "runtime": "2시간 40분",
+ "age": "만 13세 이상",
+ "crew": "강병원, 박서연, 김태형 등",
+ "producer": "라이브(주)",
+ "price": "VIP석 100,000원, R석 80,000원, S석 50,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295702_202607091107039700.jpg"
+ ],
+ "links": [
+  {
+   "name": "경남문화예술회관",
+   "url": "https://artcenter.gyeongnam.go.kr/concert/concertView.do?CONCERT_ID=CM0001622"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26010131"
+  }
+ ],
+ "updated": "2026-07-15 13:52:06",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

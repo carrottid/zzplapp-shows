@@ -1,0 +1,64 @@
+{
+ "id": "PF229035",
+ "title": "컬렉션",
+ "genre": "연극",
+ "from": "2023-12-01",
+ "to": "2023-12-10",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF229035_231101_092130.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강신구",
+  "정원조",
+  "최나라",
+  "김신기"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "변유정, 박준용, 김철리 등",
+ "price": "R석 45,000원, S석 35,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(15:00,18:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229035_231101_0921301.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229035_231101_0921300.png"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/268397"
+  },
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/42239"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0003341"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=208920"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=33871&menuNo=200004"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47653"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77518"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010803"
+  }
+ ],
+ "updated": "2023-11-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

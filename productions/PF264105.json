@@ -1,0 +1,60 @@
+{
+ "id": "PF264105",
+ "title": "동치미",
+ "genre": "연극",
+ "from": "2025-06-25",
+ "to": "2025-06-29",
+ "venue": "세종문화회관 (세종S씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF264105_250430_105500.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김진태",
+  "김계선",
+  "이효윤",
+  "안재완",
+  "안수현"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 40분",
+ "age": "만 6세 이상",
+ "price": "R석 66,000원, S석 55,000원, A석 44,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:30,19:30), 일요일(15:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF264105_250430_1055011.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF264105_250430_1055000.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "https://www.ticketlink.co.kr/product/55996"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1404386"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0004285"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=211351"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=36231&menuNo=200320"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/53702"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78553"
+  }
+ ],
+ "updated": "2025-06-16 14:32:26",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

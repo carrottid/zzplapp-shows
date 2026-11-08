@@ -1,0 +1,35 @@
+{
+ "id": "PF253716",
+ "title": "뮤지컬스타 갈라쇼",
+ "genre": "뮤지컬",
+ "from": "2024-12-06",
+ "to": "2024-12-07",
+ "venue": "이화여자대학교 삼성홀 (이화여자대학교 삼성홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF253716_241115_100748.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "곽범",
+  "이창호",
+  "김해준",
+  "강홍석",
+  "정선아"
+ ],
+ "facilityId": "FC001799",
+ "runtime": "1시간 40분",
+ "age": "만 15세 이상",
+ "price": "VIP석 99,000원, R석 88,000원, S석 77,000원",
+ "schedule": "금요일(20:00), 토요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF253716_241115_1007480.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/53238"
+  }
+ ],
+ "updated": "2024-12-18 08:50:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

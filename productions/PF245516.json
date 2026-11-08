@@ -1,0 +1,37 @@
+{
+ "id": "PF245516",
+ "title": "엔톡 라이브 플러스, NT Live: 바냐",
+ "genre": "연극",
+ "from": "2024-10-17",
+ "to": "2024-10-19",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245516_240722_145819.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "앤드류 스콧"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "샘 예이츠",
+ "producer": "웨식스 그로브",
+ "price": "전석 20,000원",
+ "schedule": "목요일(19:30), 토요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245516_240722_0258190.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266754"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010572"
+  }
+ ],
+ "updated": "2025-04-04 16:02:31",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

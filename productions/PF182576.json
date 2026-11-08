@@ -1,0 +1,40 @@
+{
+ "id": "PF182576",
+ "title": "전태일: 네 이름은 무엇이냐",
+ "genre": "연극",
+ "from": "2021-12-02",
+ "to": "2021-12-02",
+ "venue": "강동아트센터 (대극장 한강)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182576_211108_125057.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박희진",
+  "김지용",
+  "장도국",
+  "지현탁",
+  "박현채",
+  "이규보",
+  "최준영"
+ ],
+ "facilityId": "FC000028",
+ "runtime": "2시간",
+ "age": "만 9세 이상",
+ "price": "전석 30,000원",
+ "schedule": "목요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182576_211108_1250573.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182576_211108_1250572.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182576_211108_1250571.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182576_211108_1250570.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011003"
+  }
+ ],
+ "updated": "2021-11-08 17:10:27",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

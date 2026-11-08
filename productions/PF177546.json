@@ -1,0 +1,59 @@
+{
+ "id": "PF177546",
+ "title": "인서트 코인",
+ "genre": "뮤지컬",
+ "from": "2021-08-06",
+ "to": "2021-10-03",
+ "venue": "링크아트센터드림 (드림 2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF177546_210722_114202.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김호창",
+  "백승렬",
+  "김대현",
+  "반정모",
+  "임재은",
+  "김재희",
+  "조민희"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "오상원, 최갑원, 한상원 등",
+ "producer": "(주)엔에이피엔터테인먼트",
+ "price": "전석 60,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일(20:00), 금요일(16:00,20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF177546_210722_1142020.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/567376"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21006230"
+  },
+  {
+   "name": "쿠팡",
+   "url": "https://trip.coupang.com/tp/products/30000000574757"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=75673"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000006193"
+  }
+ ],
+ "updated": "2021-07-22 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

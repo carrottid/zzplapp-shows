@@ -1,0 +1,47 @@
+{
+ "id": "PF247385",
+ "title": "조로: 액터뮤지션",
+ "genre": "뮤지컬",
+ "from": "2024-09-11",
+ "to": "2024-11-17",
+ "venue": "유니플렉스 (1관(대극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF247385_240821_110807.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최민우",
+  "김승대",
+  "최세용",
+  "홍륜희",
+  "배수정",
+  "전나영",
+  "서채이"
+ ],
+ "facilityId": "FC001233",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "송민선, 정명주, 홍승희 등",
+ "producer": "(주)모먼트메이커",
+ "price": "VIP석 99,000원, R석 88,000원, S석 55,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF247385_241002_1031291.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011992"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78066"
+  },
+  {
+   "name": "",
+   "url": "https://paybooc.co.kr/app/paybooc/Culture.do?mFocus=Culture&returnURL=https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70955"
+  }
+ ],
+ "updated": "2024-10-02 10:32:41",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

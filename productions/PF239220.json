@@ -1,0 +1,41 @@
+{
+ "id": "PF239220",
+ "title": "낭독콘서트, 더 리더",
+ "genre": "뮤지컬",
+ "from": "2024-05-03",
+ "to": "2024-05-05",
+ "venue": "국립극장 (해오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF239220_240415_141742.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김문학",
+  "김성현",
+  "김재인",
+  "박온",
+  "안재준",
+  "어태용",
+  "유희지"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "price": "VIP석 140,000원, OP석 140,000원, R석 120,000원, S석 90,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,17:00), 일요일(13:00,16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF239220_240415_0217420.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=266683"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266683"
+  }
+ ],
+ "updated": "2025-04-04 13:52:16",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

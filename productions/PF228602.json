@@ -1,0 +1,41 @@
+{
+ "id": "PF228602",
+ "title": "고도를 기다리며",
+ "genre": "연극",
+ "from": "2023-12-19",
+ "to": "2024-02-18",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228602_231026_094853.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신순기",
+  "박근형",
+  "박정자",
+  "김학철",
+  "김리안"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "3시간",
+ "age": "만 13세 이상",
+ "crew": "오경택, 백지영, 김혜지 등",
+ "producer": "(주)파크컴퍼니",
+ "price": "R석 77,000원, S석 55,000원",
+ "schedule": "화요일(19:30), 수요일(15:00), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00), HOL(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228602_231026_0948530.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266476"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015320"
+  }
+ ],
+ "updated": "2025-04-04 10:03:04",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

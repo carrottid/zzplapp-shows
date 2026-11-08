@@ -1,0 +1,51 @@
+{
+ "id": "PF245723",
+ "title": "룰렛",
+ "genre": "뮤지컬",
+ "from": "2024-09-06",
+ "to": "2024-12-08",
+ "venue": "연남장 (연남장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245723_241118_102738.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "서동진",
+  "조현우",
+  "심수영",
+  "이무현",
+  "차이도",
+  "박주혁",
+  "진소연"
+ ],
+ "facilityId": "FC002037",
+ "runtime": "1시간 30분",
+ "age": "만 14세 이상",
+ "crew": "김민석, 김가람, 이한밀 등",
+ "producer": "(주)스포트라이트",
+ "price": "룰렛석(1층) 66,000원, 발코니석(2층) 66,000원",
+ "schedule": "화요일 ~ 목요일(20:00), 금요일(17:00,20:30), 토요일(17:00,20:30), 일요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245723_240725_0926400.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1251582"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010088"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1724929376"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78024"
+  }
+ ],
+ "updated": "2024-11-18 10:28:06",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

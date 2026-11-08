@@ -1,0 +1,59 @@
+{
+ "id": "PF179815",
+ "title": "인사이드",
+ "genre": "연극",
+ "from": "2021-09-30",
+ "to": "2021-11-21",
+ "venue": "링크아트센터드림 (드림 4관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF179815_210916_101101.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이선근",
+  "김도빈",
+  "김준호",
+  "강찬",
+  "현석준",
+  "김아론",
+  "전해주"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 20분",
+ "age": "만 15세 이상",
+ "crew": "신영섭, 김수로, 오세혁 등",
+ "producer": "(주)더블케이 필름 앤 씨어터 (더블케이엔터테인먼트)",
+ "price": "전석 50,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF179815_210916_1011010.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/265835"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008304"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40058"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38845"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=75690"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000006502"
+  }
+ ],
+ "updated": "2021-09-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

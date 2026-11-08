@@ -1,0 +1,50 @@
+{
+ "id": "PF172598",
+ "title": "유리동물원",
+ "genre": "연극",
+ "from": "2021-04-06",
+ "to": "2021-05-30",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF172598_210319_100105.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "양서빈",
+  "김정민",
+  "이휘종",
+  "홍준기",
+  "김이후",
+  "이서현",
+  "김이담"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "2시간",
+ "age": "만 13세 이상",
+ "crew": "고강민, 서정완, 이승호 등",
+ "price": "R석 60,000원, S석 40,000원, R1석 60,000원, S1석 40,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF172598_210319_1001050.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/517762"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21001903"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "-"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  }
+ ],
+ "updated": "2021-03-19 11:51:34",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

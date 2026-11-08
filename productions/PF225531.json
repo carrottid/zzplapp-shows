@@ -1,0 +1,49 @@
+{
+ "id": "PF225531",
+ "title": "레미제라블",
+ "genre": "뮤지컬",
+ "from": "2023-11-30",
+ "to": "2024-03-10",
+ "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF225531_230908_141242.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "민우혁",
+  "최재림",
+  "김우형",
+  "조정은",
+  "임기홍",
+  "윤혁운",
+  "박준면"
+ ],
+ "facilityId": "FC000031",
+ "runtime": "3시간",
+ "age": "만 7세 이상",
+ "price": "VIP석 180,000원, R석 150,000원, S석 120,000원, A석 90,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일 ~ 금요일(14:30,19:30), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225531_230908_0212420.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017511"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77515"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011144"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12046"
+  }
+ ],
+ "updated": "2023-09-08 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

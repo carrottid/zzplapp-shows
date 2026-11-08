@@ -1,0 +1,47 @@
+{
+ "id": "PF180143",
+ "title": "웰컴대학로, 올모스트 메인",
+ "genre": "연극",
+ "from": "2021-10-21",
+ "to": "2021-10-24",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF180143_210924_125747.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고태연",
+  "김기주",
+  "선주연",
+  "이충호",
+  "이하정",
+  "이한솔",
+  "정다은"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "김민섭, 김봉균, 김나연 등",
+ "producer": "극단 소년",
+ "price": "전석 55,000원",
+ "schedule": "목요일(20:00), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF180143_210924_1257470.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008576"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40191"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38870"
+  }
+ ],
+ "updated": "2021-09-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PF255222",
+ "title": "세일즈맨의 죽음",
+ "genre": "연극",
+ "from": "2025-01-07",
+ "to": "2025-03-03",
+ "venue": "세종문화회관 (세종M씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF255222_241205_093548.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박근형",
+  "손병호",
+  "손숙",
+  "예수정",
+  "이상윤",
+  "박은석",
+  "김보현"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "전용석, 김태형, 김재엽 등",
+ "producer": "(유)쇼앤텔플레이, (주)T2N미디어 (티투엔미디어)",
+ "price": "R석 88,000원, S석 66,000원, A석 44,000원",
+ "schedule": "화요일(19:30), 수요일(15:00), 목요일 ~ 금요일(19:30), 토요일(14:00,19:00), 일요일(14:00), HOL(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF255222_241204_1146190.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1284000"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017573"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=35850&menuNo=200320"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/51881"
+  }
+ ],
+ "updated": "2024-12-06 12:06:51",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

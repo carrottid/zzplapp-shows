@@ -1,0 +1,42 @@
+{
+ "id": "PF175875",
+ "title": "토지 Ⅰ",
+ "genre": "연극",
+ "from": "2021-07-31",
+ "to": "2021-08-05",
+ "venue": "예술의전당 [서울] (CJ 토월극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF175875_210611_102820.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박선혜",
+  "한재호",
+  "이사라",
+  "이은경",
+  "박승규",
+  "김수현",
+  "류창우"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "3시간",
+ "age": "만 13세 이상",
+ "crew": "김민정, 박장렬, 엄진선 등",
+ "price": "R석 70,000원, S석 50,000원, A석 30,000원",
+ "schedule": "월요일 ~ 수요일(14:00), 목요일(14:00,19:30), 토요일(18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF175875_210611_1028200.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21004896"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/39354"
+  }
+ ],
+ "updated": "2021-06-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "PF242932",
+ "title": "시데레우스",
+ "genre": "뮤지컬",
+ "from": "2024-07-24",
+ "to": "2024-10-13",
+ "venue": "플러스씨어터(구. 컬처스페이스 엔유) (플러스씨어터(구. 컬처스페이스 엔유))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF242932_240613_112051.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이창용",
+  "안재영",
+  "김지철",
+  "기세중",
+  "정휘",
+  "윤석호",
+  "유낙원"
+ ],
+ "facilityId": "FC001459",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "신동은, 백승우, 이유정 등",
+ "producer": "(주)랑",
+ "price": "R석 66,000원, S석 55,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,18:30), 일요일(15:00,18:30), HOL(15:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF242932_240613_1120510.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1178225"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24008243"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/50004"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78010"
+  },
+  {
+   "name": "",
+   "url": "https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70935"
+  }
+ ],
+ "updated": "2024-09-02 16:44:07",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

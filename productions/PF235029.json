@@ -1,0 +1,39 @@
+{
+ "id": "PF235029",
+ "title": "드라큘라",
+ "genre": "뮤지컬",
+ "from": "2024-03-20",
+ "to": "2024-03-24",
+ "venue": "대전예술의전당 (아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF235029_240206_093511.gif",
+ "area": "대전광역시",
+ "state": "공연완료",
+ "cast": [
+  "김준수",
+  "전동석",
+  "신성록",
+  "임혜영",
+  "정선아",
+  "손준호",
+  "박은석"
+ ],
+ "facilityId": "FC000076",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "신춘수, 조정만, 원미솔 등",
+ "producer": "(주)오디컴퍼니(ODCOMPANY)",
+ "price": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "수요일 ~ 목요일(19:30), 금요일(14:30,19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235029_240206_0935110.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001348"
+  }
+ ],
+ "updated": "2024-02-06 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

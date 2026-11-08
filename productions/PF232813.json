@@ -1,0 +1,39 @@
+{
+ "id": "PF232813",
+ "title": "바톤콘서트",
+ "genre": "뮤지컬",
+ "from": "2024-01-17",
+ "to": "2024-02-12",
+ "venue": "링크아트센터드림 (드림 2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF232813_231220_100448.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "곽다인",
+  "황두현",
+  "임별",
+  "변희상",
+  "송상훈",
+  "조성태",
+  "박새힘"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "박인선, 고문정, 정찬수 등",
+ "producer": "골든에이지컴퍼니",
+ "price": "전석 66,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일(19:00), 일요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232813_231220_1004480.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/47608"
+  }
+ ],
+ "updated": "2023-12-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

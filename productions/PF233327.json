@@ -1,0 +1,39 @@
+{
+ "id": "PF233327",
+ "title": "드라이빙 로그 (DRIVING LOG)",
+ "genre": "연극",
+ "from": "2024-01-12",
+ "to": "2024-01-14",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF233327_240103_095204.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김경서",
+  "김슬",
+  "정지훈",
+  "피지융"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "정일균, 최수완, 박민정 등",
+ "price": "전석 25,000원",
+ "schedule": "금요일(19:30), 토요일(15:00,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF233327_240103_0950530.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1056422"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/New/Perf/Detail/Detail.aspx?IdPerf=48226"
+  }
+ ],
+ "updated": "2025-01-09 15:25:31",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

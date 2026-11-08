@@ -1,0 +1,38 @@
+{
+ "id": "PF230523",
+ "title": "에브리 우먼",
+ "genre": "연극",
+ "from": "2024-05-10",
+ "to": "2024-05-12",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230523_231122_101118.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "우르시나 라르디"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 20분",
+ "age": "만 13세 이상",
+ "crew": "우르시나 라르디, 밀로 라우",
+ "producer": "샤우뷔네 베를린, 잘츠부르크 페스티벌",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230523_231122_1010301.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230523_231122_1010300.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266505"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "https://tickets.interpark.com/goods/23017170"
+  }
+ ],
+ "updated": "2025-04-04 13:53:14",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

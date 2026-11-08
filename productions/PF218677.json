@@ -1,0 +1,55 @@
+{
+ "id": "PF218677",
+ "title": "맘마미아!",
+ "genre": "뮤지컬",
+ "from": "2023-07-07",
+ "to": "2023-07-09",
+ "venue": "인천문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF218677_230518_123305.gif",
+ "area": "인천광역시",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "신영숙",
+  "김환희",
+  "최태이",
+  "홍지민",
+  "김영주",
+  "박준면"
+ ],
+ "facilityId": "FC000013",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "이재은, 김문정 황현정 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 150,000원, R석 130,000원, S석 90,000원, A석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218677_230518_1233050.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267705"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/903320"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006898"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45925"
+  },
+  {
+   "name": "인천문화예술회관",
+   "url": "http://art.incheon.go.kr"
+  }
+ ],
+ "updated": "2023-05-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

@@ -1,0 +1,56 @@
+{
+ "id": "PF189438",
+ "title": "카파이즘",
+ "genre": "뮤지컬",
+ "from": "2022-05-07",
+ "to": "2022-07-10",
+ "venue": "링크아트센터드림 (드림 2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF189438_220413_120833.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "유승현",
+  "안재영",
+  "김준영",
+  "최연우",
+  "정우연",
+  "김이후",
+  "우경아"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "최종혁, 오세혁, 박준하 등",
+ "producer": "네버엔딩플레이(N.E.P Contents)",
+ "price": "R석 60,000원, 시야제한석 45,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF189438_220413_1208331.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF189438_220413_1208330.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266278"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/679449"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41903"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39337"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007844"
+  }
+ ],
+ "updated": "2022-04-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

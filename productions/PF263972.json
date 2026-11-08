@@ -1,0 +1,50 @@
+{
+ "id": "PF263972",
+ "title": "위키드 내한 공연",
+ "genre": "뮤지컬",
+ "from": "2025-07-12",
+ "to": "2025-10-26",
+ "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF263972_250508_102632.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "코트니 몬스마",
+  "셰리든 아담스",
+  "사이먼 버크",
+  "제니퍼 불레틱",
+  "리암 헤드",
+  "폴 핸런",
+  "첼시 딘"
+ ],
+ "facilityId": "FC000031",
+ "runtime": "2시간 50분",
+ "age": "만 7세 이상",
+ "producer": "에스앤코(S&CO)",
+ "price": "VIP석 190,000원, R석 160,000원, S석 130,000원, A석 80,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(14:30,19:30), 토요일(14:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF263972_250428_0110300.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1410569"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25005777"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/53644"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78548"
+  }
+ ],
+ "updated": "2025-09-04 14:15:23",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

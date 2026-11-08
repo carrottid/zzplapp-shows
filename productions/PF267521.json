@@ -1,0 +1,38 @@
+{
+ "id": "PF267521",
+ "title": "뮤지컬 갈라 콘서트, The Stage: Three Legends",
+ "genre": "뮤지컬",
+ "from": "2025-09-11",
+ "to": "2025-09-11",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF267521_250618_150146.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이강식",
+  "차지연",
+  "민우혁",
+  "최영선"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "price": "R석 140,000원, S석 110,000원, A석 80,000원, B석 60,000원, 시야방해R 98,000원, 시야방해S 77,000원, 시야방해A 56,000원, 시야방해B 42,000원",
+ "schedule": "목요일(20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF267521_250618_0301460.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25008426"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/260823"
+  }
+ ],
+ "updated": "2025-06-20 13:06:28",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

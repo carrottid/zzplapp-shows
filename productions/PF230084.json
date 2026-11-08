@@ -1,0 +1,45 @@
+{
+ "id": "PF230084",
+ "title": "뮤지컬 콘서트, 베르사유의 장미",
+ "genre": "뮤지컬",
+ "from": "2023-12-02",
+ "to": "2023-12-03",
+ "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230084_231115_144814.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "옥주현",
+  "김지우",
+  "이해준",
+  "윤소호",
+  "정백선",
+  "장혜린",
+  "박혜미"
+ ],
+ "facilityId": "FC003045",
+ "age": "만 7세 이상",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 132,000원, R석 110,000원, S석 88,000원, A석 66,000원",
+ "schedule": "토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230084_231115_0248140.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=L0000061"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=209062"
+  },
+  {
+   "name": "LG아트센터",
+   "url": "https://www.lgart.com/product/ko/performance/252801"
+  }
+ ],
+ "updated": "2023-11-15 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

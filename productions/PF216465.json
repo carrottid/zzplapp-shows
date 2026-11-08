@@ -1,0 +1,51 @@
+{
+ "id": "PF216465",
+ "title": "영웅",
+ "genre": "뮤지컬",
+ "from": "2023-06-09",
+ "to": "2023-06-11",
+ "venue": "경기아트센터(구. 경기도문화의전당) (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF216465_230410_112849.jpg",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "정성화",
+  "양준모",
+  "민우혁",
+  "김도형",
+  "서영주",
+  "최민철",
+  "정재은"
+ ],
+ "facilityId": "FC000017",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "윤홍선, 윤호진, 윤금정 등",
+ "producer": "(주) 에이콤(ACOM)",
+ "price": "R석 150,000원, S석 130,000원, A석 90,000원, B석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216465_230417_1025541.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267531"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/882008"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005002"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45524"
+  }
+ ],
+ "updated": "2023-04-10 17:05:52",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

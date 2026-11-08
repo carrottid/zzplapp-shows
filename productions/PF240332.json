@@ -1,0 +1,64 @@
+{
+ "id": "PF240332",
+ "title": "빵야",
+ "genre": "연극",
+ "from": "2024-06-18",
+ "to": "2024-09-08",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF240332_240502_134212.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박성훈",
+  "박정원",
+  "전성우",
+  "이진희",
+  "김국희",
+  "전성민",
+  "오대석"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "고강민, 김태형, 이현정 등",
+ "producer": "(주)쇼노트, (주)엠비제트컴퍼니",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF240332_240502_0142122.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF240332_240502_0142121.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1133336"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD25872"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/49539"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000012176"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78033"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/?number=5823"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1723539929"
+  }
+ ],
+ "updated": "2024-08-21 10:20:40",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

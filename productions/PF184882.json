@@ -1,0 +1,52 @@
+{
+ "id": "PF184882",
+ "title": "엑스칼리버",
+ "genre": "뮤지컬",
+ "from": "2022-01-29",
+ "to": "2022-03-13",
+ "venue": "세종문화회관 (세종대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF184882_211216_101323.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김준수",
+  "김성규",
+  "이지훈",
+  "강태을",
+  "신영숙",
+  "장은아",
+  "민영기"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "엄홍현, 김지원, 권은아 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 150,000원, R석 130,000원, S석 100,000원, A석 80,000원, B석 60,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 수요일 ~ 목요일(19:30), 금요일(14:00,19:00), 토요일(14:00,19:00), 일요일(15:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF184882_211216_1013231.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF184882_211216_1013230.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012701"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=206446"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "http://www.sejongpac.or.kr/"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007170"
+  }
+ ],
+ "updated": "2021-12-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

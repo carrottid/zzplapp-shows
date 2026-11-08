@@ -1,0 +1,47 @@
+{
+ "id": "PF255969",
+ "title": "바닷마을 다이어리",
+ "genre": "연극",
+ "from": "2025-01-15",
+ "to": "2025-03-23",
+ "venue": "예술의전당 [서울] (자유소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF255969_241218_101037.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "한혜진",
+  "박하선",
+  "홍은희",
+  "서예화",
+  "임수향",
+  "강해진",
+  "류이재"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "crew": "설가민, 이준우, 황정은 등",
+ "producer": "라이브러리컴퍼니",
+ "price": "R석 88,000원, S석 77,000원, A석 55,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:30), HOL(15:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF255969_241218_1010370.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017992"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/52145"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1736833905"
+  }
+ ],
+ "updated": "2025-01-15 10:26:59",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,37 @@
+{
+ "id": "PF178532",
+ "title": "ITA Live, 오이디푸스",
+ "genre": "연극",
+ "from": "2021-10-08",
+ "to": "2021-10-16",
+ "venue": "국립극장 (해오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF178532_210818_104912.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "한스 케스팅",
+  "마리커 헤이빙크"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 50분",
+ "age": "만 16세 이상",
+ "crew": "로버트 아이크",
+ "price": "전석 20,000원",
+ "schedule": "금요일(19:30), 토요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178532_210818_1049120.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=265982"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21007202"
+  }
+ ],
+ "updated": "2021-08-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

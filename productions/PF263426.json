@@ -1,0 +1,51 @@
+{
+ "id": "PF263426",
+ "title": "알라딘",
+ "genre": "뮤지컬",
+ "from": "2025-07-11",
+ "to": "2025-09-28",
+ "venue": "드림씨어터 [부산] (드림씨어터 [부산] )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF263426_250828_113650.gif",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "김준수",
+  "서경수",
+  "박강현",
+  "정성화",
+  "정원영",
+  "강홍석",
+  "이성경"
+ ],
+ "facilityId": "FC002162",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "김동연, 문병권, 양주인 등",
+ "producer": "에스앤코(S&CO)",
+ "price": "VIP석 190,000원, R석 160,000원, S석 130,000원, A석 80,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(14:30,19:30), 토요일(14:00,19:00), 일요일(15:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF263426_202508281137054540.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1394595"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25005672"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/53547"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78520"
+  }
+ ],
+ "updated": "2025-08-28 11:37:05",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,3848 @@
+{
+ "id": "PF292160",
+ "source": "nol",
+ "goodsKey": "26007416:21000636",
+ "roles": {
+  "137100": "엘사",
+  "137101": "안나",
+  "137102": "크리스토프",
+  "137103": "한스",
+  "137104": "올라프",
+  "137105": "위즐튼 공작",
+  "r:엘사": "엘사",
+  "r:안나": "안나",
+  "r:크리스토프": "크리스토프",
+  "r:한스": "한스",
+  "r:올라프": "올라프"
+ },
+ "people": {
+  "43": {
+   "name": "임진웅"
+  },
+  "3738": {
+   "name": "정선아"
+  },
+  "4318": {
+   "name": "한규정"
+  },
+  "8695": {
+   "name": "정원영"
+  },
+  "25261": {
+   "name": "박진주"
+  },
+  "30078": {
+   "name": "신재범"
+  },
+  "33163": {
+   "name": "정열"
+  },
+  "34309": {
+   "name": "정유지"
+  },
+  "37027": {
+   "name": "민경아"
+  },
+  "39951": {
+   "name": "홍금비"
+  },
+  "43325": {
+   "name": "이창호"
+  },
+  "45102": {
+   "name": "차윤해"
+  },
+  "45995": {
+   "name": "김원빈"
+  },
+  "46728": {
+   "name": "최지혜"
+  },
+  "47640": {
+   "name": "황건하"
+  }
+ },
+ "sessions": [
+  {
+   "date": "2026-10-07",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-08",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-09",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-10",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-11",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-15",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-18",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-20",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-21",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-22",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-24",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-25",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-27",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-28",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-29",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-31",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-01",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-03",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-04",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-06",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-07",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-08",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-05",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-06",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-12",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-12",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-13",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-15",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-17",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-18",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-18",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-19",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-19",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-22",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-23",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-24",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-25",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-25",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-26",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-26",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-27",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-29",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-30",
+   "time": "14:30",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-31",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-01",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-01",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-02",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "민경아",
+     "personId": "37027",
+     "roleId": "137100"
+    },
+    {
+     "name": "최지혜",
+     "personId": "46728",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "한규정",
+     "personId": "4318",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-02",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "정유지",
+     "personId": "34309",
+     "roleId": "137100"
+    },
+    {
+     "name": "박진주",
+     "personId": "25261",
+     "roleId": "137101"
+    },
+    {
+     "name": "차윤해",
+     "personId": "45102",
+     "roleId": "137102"
+    },
+    {
+     "name": "김원빈",
+     "personId": "45995",
+     "roleId": "137103"
+    },
+    {
+     "name": "정원영",
+     "personId": "8695",
+     "roleId": "137104"
+    },
+    {
+     "name": "임진웅",
+     "personId": "43",
+     "roleId": "137105"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-03",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "정선아",
+     "personId": "3738",
+     "roleId": "137100"
+    },
+    {
+     "name": "홍금비",
+     "personId": "39951",
+     "roleId": "137101"
+    },
+    {
+     "name": "신재범",
+     "personId": "30078",
+     "roleId": "137102"
+    },
+    {
+     "name": "황건하",
+     "personId": "47640",
+     "roleId": "137103"
+    },
+    {
+     "name": "이창호",
+     "personId": "43325",
+     "roleId": "137104"
+    },
+    {
+     "name": "정열",
+     "personId": "33163",
+     "roleId": "137105"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-08T10:36:24"
+}

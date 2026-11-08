@@ -1,0 +1,47 @@
+{
+ "id": "PF259818",
+ "title": "컨택트",
+ "genre": "뮤지컬",
+ "from": "2025-03-28",
+ "to": "2025-06-29",
+ "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF259818_250226_103012.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박선영",
+  "윤지우",
+  "박진경",
+  "김정은",
+  "김태오",
+  "이선우",
+  "조환지"
+ ],
+ "facilityId": "FC000098",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "crew": "백시원, 추정화, 허수현 등",
+ "producer": "(주) 엔제이원",
+ "price": "전석 66,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF259818_250409_0152521.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25002471"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78433"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6256"
+  }
+ ],
+ "updated": "2025-07-03 07:56:18",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

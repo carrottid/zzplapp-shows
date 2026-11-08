@@ -1,0 +1,64 @@
+{
+ "id": "PF172344",
+ "title": "맨오브라만차",
+ "genre": "뮤지컬",
+ "from": "2021-03-24",
+ "to": "2021-05-16",
+ "venue": "충무아트센터 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF172344_210311_105700.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "류정한",
+  "조승우",
+  "윤공주",
+  "김지현",
+  "최수진",
+  "이훈진",
+  "정원영"
+ ],
+ "facilityId": "FC000014",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "신춘수, 김문정, 안정하 등",
+ "producer": "(주)오디컴퍼니(ODCOMPANY), TBC, TJB 대전방송, 롯데엔터테인먼트",
+ "price": "VIP석(화,수,목) 140,000원, R석(화,수,목) 120,000원, S석(화,수,목) 90,000원, A석(화,수,목) 60,000원, VIP석 (금,토,일,공휴일) 150,000원, R석 (금,토,일,공휴일) 130,000원, S석 (금,토,일,공휴일) 100,000원, A석 (금,토,일,공휴일) 70,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(14:00,19:00), 일요일(14:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF172344_210810_0520512.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF172344_210810_0520511.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/499367"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21001625"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=38585"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "-"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  },
+  {
+   "name": "SK플래닛",
+   "url": "https://skt.culturecube.co.kr:4437/contents/program.tkt?pages=3&mode=view&regCompanyCD=110206&programCD=10022373&rnd=31734"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000005428"
+  }
+ ],
+ "updated": "2021-03-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

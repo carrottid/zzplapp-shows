@@ -1,0 +1,48 @@
+{
+ "id": "PF238514",
+ "title": "베어 더 뮤지컬",
+ "genre": "뮤지컬",
+ "from": "2024-05-22",
+ "to": "2024-08-25",
+ "venue": "두산아트센터 (연강홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF238514_240402_114030.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박정원",
+  "임재윤",
+  "윤석호",
+  "홍기범",
+  "한서원",
+  "최재웅",
+  "김재한"
+ ],
+ "facilityId": "FC000402",
+ "runtime": "2시간 45분",
+ "age": "만 15세 이상",
+ "crew": "박진희, 이재준, 김윤영 등",
+ "producer": "(주)쇼플레이",
+ "price": "R석 88,000원, S석 66,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238514_240402_1140301.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238514_240402_1140300.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24004835"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/49272"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000012158"
+  }
+ ],
+ "updated": "2025-04-10 10:12:15",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,43 @@
+{
+ "id": "PF215059",
+ "title": "오셀로",
+ "genre": "연극",
+ "from": "2023-05-12",
+ "to": "2023-06-04",
+ "venue": "예술의전당 [서울] (CJ 토월극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF215059_230316_094717.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박호산",
+  "유태웅",
+  "손상규",
+  "이설",
+  "이자람",
+  "이호재",
+  "홍선우"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "2시간 20분",
+ "age": "만 13세 이상",
+ "crew": "박정희, 박철호, 여신동 등",
+ "producer": "예술의전당",
+ "price": "OP석 80,000원, R석 80,000원, S석 60,000원, A석 40,000원",
+ "schedule": "수요일(14:00,19:30), 목요일 ~ 금요일(19:30), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF215059_230316_0947170.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003823"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45328"
+  }
+ ],
+ "updated": "2023-03-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

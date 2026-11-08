@@ -2,144 +2,16 @@
  "date": "2027-01-08",
  "sessions": [
   {
-   "id": "PF301398",
-   "title": "도깨비 호랑이",
-   "genre": "뮤지컬",
-   "venue": "송파어린이문화회관 (아이소리홀)",
-   "time": "10:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304555",
-   "title": "건전지 엄마 [서울]",
-   "genre": "뮤지컬",
-   "venue": "이화여자대학교 영산극장 (이화여자대학교 영산극장)",
-   "time": "11:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305630",
-   "title": "넘버블록스 시즌2: 자이언트 랜드를 찾아서 [서울]",
-   "genre": "뮤지컬",
-   "venue": "국립중앙박물관 극장 용 (국립중앙박물관 극장 용)",
-   "time": "11:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF302780",
-   "title": "소맥거핀: 찰칵! 세계여행 [서울]",
-   "genre": "뮤지컬",
-   "venue": "서울어린이대공원 (아트센터)",
-   "time": "11:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF302462",
-   "title": "숲속 100층짜리 집 [서울 종로]",
-   "genre": "뮤지컬",
-   "venue": "성균관대학교 새천년홀 (성균관대학교 새천년홀)",
-   "time": "11:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305108",
-   "title": "엄마가 유령이 되었어!",
-   "genre": "뮤지컬",
-   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (ABL생명홀)",
-   "time": "11:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304789",
-   "title": "한글용사 아이야 라이브ver. 달라도 친구야! [서울]",
-   "genre": "뮤지컬",
-   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
-   "time": "11:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF301398",
-   "title": "도깨비 호랑이",
-   "genre": "뮤지컬",
-   "venue": "송파어린이문화회관 (아이소리홀)",
-   "time": "11:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304105",
-   "title": "아기상어 쿵짝쿵짝 뮤지컬 [서울 영등포]",
-   "genre": "뮤지컬",
-   "venue": "영등포 타임스퀘어 (영등포 아트스퀘어(B2))",
-   "time": "11:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304747",
-   "title": "콩쥐팥쥐 [서울 송파]",
-   "genre": "뮤지컬",
-   "venue": "롯데월드 (민속박물관)",
-   "time": "13:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305630",
-   "title": "넘버블록스 시즌2: 자이언트 랜드를 찾아서 [서울]",
-   "genre": "뮤지컬",
-   "venue": "국립중앙박물관 극장 용 (국립중앙박물관 극장 용)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304403",
-   "title": "미안해 아빠 [대학로]",
-   "genre": "연극",
-   "venue": "아트하우스 (아트하우스)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF150471",
-   "title": "빨간모자야 조심해! [청주, 세종]",
-   "genre": "뮤지컬",
-   "venue": "소극장 쇠내골 (소극장 쇠내골)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF302462",
-   "title": "숲속 100층짜리 집 [서울 종로]",
-   "genre": "뮤지컬",
-   "venue": "성균관대학교 새천년홀 (성균관대학교 새천년홀)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305108",
-   "title": "엄마가 유령이 되었어!",
-   "genre": "뮤지컬",
-   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (ABL생명홀)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304789",
-   "title": "한글용사 아이야 라이브ver. 달라도 친구야! [서울]",
-   "genre": "뮤지컬",
-   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
    "id": "PF292160",
-   "title": "겨울왕국 [서울]",
+   "title": "겨울왕국",
    "genre": "뮤지컬",
-   "venue": "샤롯데씨어터 (샤롯데씨어터)",
+   "venue": "샤롯데씨어터",
    "time": "14:30",
    "castSource": "none"
   },
   {
    "id": "PF302516",
-   "title": "레베카 [서울]",
+   "title": "레베카",
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "14:30",
@@ -147,47 +19,80 @@
   },
   {
    "id": "PF302677",
-   "title": "미세스 다웃파이어 [서울]",
+   "title": "미세스 다웃파이어",
    "genre": "뮤지컬",
-   "venue": "GS아트센터 (GS아트센터)",
+   "venue": "GS아트센터",
    "time": "14:30",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "정상훈"
+    },
+    {
+     "name": "박혜나"
+    },
+    {
+     "name": "김다현"
+    },
+    {
+     "name": "김아영"
+    }
+   ]
   },
   {
-   "id": "PF304105",
-   "title": "아기상어 쿵짝쿵짝 뮤지컬 [서울 영등포]",
+   "id": "PF302842",
+   "title": "오페라의 유령 40주년 스페셜 시즌",
    "genre": "뮤지컬",
-   "venue": "영등포 타임스퀘어 (영등포 아트스퀘어(B2))",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
    "time": "14:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304555",
-   "title": "건전지 엄마 [서울]",
-   "genre": "뮤지컬",
-   "venue": "이화여자대학교 영산극장 (이화여자대학교 영산극장)",
-   "time": "15:00",
-   "castSource": "none"
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "최선호",
+     "personId": "57929"
+    },
+    {
+     "name": "최재림",
+     "personId": "11862"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136"
+    },
+    {
+     "name": "한보라",
+     "personId": "51056"
+    }
+   ]
   },
   {
    "id": "PF302015",
-   "title": "시카고 [서울]",
+   "title": "시카고",
    "genre": "뮤지컬",
    "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
    "time": "15:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304747",
-   "title": "콩쥐팥쥐 [서울 송파]",
-   "genre": "뮤지컬",
-   "venue": "롯데월드 (민속박물관)",
-   "time": "15:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "최정원"
+    },
+    {
+     "name": "티파니 영"
+    },
+    {
+     "name": "박건형"
+    },
+    {
+     "name": "김영주"
+    },
+    {
+     "name": "S. J. Kim"
+    }
+   ]
   },
   {
    "id": "PF301746",
-   "title": "마하고니 [대학로]",
+   "title": "마하고니",
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "16:00",
@@ -195,50 +100,10 @@
   },
   {
    "id": "PF303673",
-   "title": "여신님이 보고 계셔 [대학로]",
+   "title": "여신님이 보고 계셔",
    "genre": "뮤지컬",
    "venue": "유니플렉스 (1관(대극장))",
    "time": "16:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304551",
-   "title": "짧은대본",
-   "genre": "연극",
-   "venue": "비유아트홀(구. 효천아트센터 그라운드씬) (비유아트홀(구. 효천아트센터 그라운드씬))",
-   "time": "16:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF302462",
-   "title": "숲속 100층짜리 집 [서울 종로]",
-   "genre": "뮤지컬",
-   "venue": "성균관대학교 새천년홀 (성균관대학교 새천년홀)",
-   "time": "16:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304789",
-   "title": "한글용사 아이야 라이브ver. 달라도 친구야! [서울]",
-   "genre": "뮤지컬",
-   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
-   "time": "16:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF235543",
-   "title": "난타 [명동]",
-   "genre": "뮤지컬",
-   "venue": "명동난타극장 (명동난타극장)",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304403",
-   "title": "미안해 아빠 [대학로]",
-   "genre": "연극",
-   "venue": "아트하우스 (아트하우스)",
-   "time": "17:00",
    "castSource": "none"
   },
   {
@@ -250,50 +115,10 @@
    "castSource": "none"
   },
   {
-   "id": "PF242666",
-   "title": "페인터즈 [서대문전용관]",
-   "genre": "뮤지컬",
-   "venue": "NH아트홀 (NH아트홀)",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304551",
-   "title": "짧은대본",
-   "genre": "연극",
-   "venue": "비유아트홀(구. 효천아트센터 그라운드씬) (비유아트홀(구. 효천아트센터 그라운드씬))",
-   "time": "18:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305551",
-   "title": "모든 날 모든 순간",
-   "genre": "연극",
-   "venue": "지즐소극장 (지즐소극장)",
-   "time": "19:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF291062",
-   "title": "NEW 오! 나의 귀신님 [대학로]",
-   "genre": "연극",
-   "venue": "아루또소극장 (구. 소담소극장, 구. 코메디컬센터) (아루또소극장 (구. 소담소극장, 구. 코메디컬센터) )",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305091",
-   "title": "T와 F의 로맨스 [대전]",
-   "genre": "연극",
-   "venue": "아신극장 (2관 (2층) )",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
    "id": "PF292160",
-   "title": "겨울왕국 [서울]",
+   "title": "겨울왕국",
    "genre": "뮤지컬",
-   "venue": "샤롯데씨어터 (샤롯데씨어터)",
+   "venue": "샤롯데씨어터",
    "time": "19:30",
    "castSource": "none"
   },
@@ -306,26 +131,10 @@
    "castSource": "none"
   },
   {
-   "id": "PF302374",
-   "title": "노맨틱 코미디",
-   "genre": "연극",
-   "venue": "올래홀 (올래홀)",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
    "id": "PF304086",
-   "title": "닥터 두리틀 [대학로]",
+   "title": "닥터 두리틀",
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305110",
-   "title": "동상이몽 [대학로]",
-   "genre": "연극",
-   "venue": "봄날아트홀 (구. 아리랑소극장) (2관 (지하2층) )",
    "time": "19:30",
    "castSource": "none"
   },
@@ -338,16 +147,8 @@
    "castSource": "none"
   },
   {
-   "id": "PF305033",
-   "title": "딜리버리 [대전]",
-   "genre": "연극",
-   "venue": "이수아트홀 [대전] (이수아트홀 [대전])",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
    "id": "PF302516",
-   "title": "레베카 [서울]",
+   "title": "레베카",
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
@@ -357,25 +158,31 @@
    "id": "PF305670",
    "title": "로미오와 줄리엣",
    "genre": "뮤지컬",
-   "venue": "한전아트센터 (한전아트센터)",
+   "venue": "한전아트센터",
    "time": "19:30",
    "castSource": "none"
   },
   {
    "id": "PF302677",
-   "title": "미세스 다웃파이어 [서울]",
+   "title": "미세스 다웃파이어",
    "genre": "뮤지컬",
-   "venue": "GS아트센터 (GS아트센터)",
+   "venue": "GS아트센터",
    "time": "19:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF294534",
-   "title": "바람으로의 여행",
-   "genre": "뮤지컬",
-   "venue": "스튜디오 블루 (스튜디오 블루)",
-   "time": "19:30",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "정성화"
+    },
+    {
+     "name": "박혜나"
+    },
+    {
+     "name": "김다현"
+    },
+    {
+     "name": "김아영"
+    }
+   ]
   },
   {
    "id": "PF291533",
@@ -391,29 +198,64 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "조승우",
+     "personId": "364"
+    },
+    {
+     "name": "전미도",
+     "personId": "3438"
+    },
+    {
+     "name": "지현준",
+     "personId": "1967"
+    },
+    {
+     "name": "윤승우",
+     "personId": "46469"
+    },
+    {
+     "name": "황순종",
+     "personId": "44400"
+    },
+    {
+     "name": "장혜린",
+     "personId": "52291"
+    }
+   ]
   },
   {
    "id": "PF302015",
-   "title": "시카고 [서울]",
+   "title": "시카고",
    "genre": "뮤지컬",
    "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "최정원"
+    },
+    {
+     "name": "티파니 영"
+    },
+    {
+     "name": "박건형"
+    },
+    {
+     "name": "김영주"
+    },
+    {
+     "name": "S. J. Kim"
+    }
+   ]
   },
   {
    "id": "PF305507",
-   "title": "아가사 AGATHA [대학로]",
+   "title": "아가사 AGATHA",
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF301117",
-   "title": "연극 식당: 매일이 크리스마스",
-   "genre": "연극",
-   "venue": "남극장(NAM THEATER) (남극장(4F))",
    "time": "19:30",
    "castSource": "none"
   },
@@ -423,27 +265,37 @@
    "genre": "뮤지컬",
    "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "이해원",
+     "personId": "14585"
+    },
+    {
+     "name": "전동석",
+     "personId": "16138"
+    },
+    {
+     "name": "송원근",
+     "personId": "22136"
+    },
+    {
+     "name": "한보라",
+     "personId": "51056"
+    }
+   ]
   },
   {
    "id": "PF303908",
-   "title": "오픈 더 도어 [대학로]",
+   "title": "오픈 더 도어",
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
    "time": "19:30",
    "castSource": "none"
   },
   {
-   "id": "PF304965",
-   "title": "캣츠 내한공연 (Musical CATS) [전남광주]",
-   "genre": "뮤지컬",
-   "venue": "전남광주통합특별시 예술의전당 (구. 광주예술의전당) (대극장)",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
    "id": "PF301565",
-   "title": "FATED [대학로]",
+   "title": "FATED",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
@@ -451,31 +303,15 @@
   },
   {
    "id": "PF302270",
-   "title": "V 에버 애프터 [대학로]",
+   "title": "V 에버 애프터",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
    "castSource": "none"
   },
   {
-   "id": "PF301771",
-   "title": "그새끼",
-   "genre": "연극",
-   "venue": "맥거핀 서교 (맥거핀 서교)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF235543",
-   "title": "난타 [명동]",
-   "genre": "뮤지컬",
-   "venue": "명동난타극장 (명동난타극장)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
    "id": "PF301746",
-   "title": "마하고니 [대학로]",
+   "title": "마하고니",
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "20:00",
@@ -491,15 +327,15 @@
   },
   {
    "id": "PF300941",
-   "title": "사춘기 [대학로]",
+   "title": "사춘기",
    "genre": "뮤지컬",
-   "venue": "예그린씨어터 (예그린씨어터)",
+   "venue": "예그린씨어터",
    "time": "20:00",
    "castSource": "none"
   },
   {
    "id": "PF304068",
-   "title": "앨런 튜링 [대학로]",
+   "title": "앨런 튜링",
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "time": "20:00",
@@ -507,7 +343,7 @@
   },
   {
    "id": "PF303673",
-   "title": "여신님이 보고 계셔 [대학로]",
+   "title": "여신님이 보고 계셔",
    "genre": "뮤지컬",
    "venue": "유니플렉스 (1관(대극장))",
    "time": "20:00",
@@ -530,14 +366,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF305142",
-   "title": "인사이드 더 플레이 : 카지노X",
-   "genre": "뮤지컬",
-   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
    "id": "PF303133",
    "title": "인트라 무로스 (INTRA MUROS)",
    "genre": "연극",
@@ -546,26 +374,10 @@
    "castSource": "none"
   },
   {
-   "id": "PF304551",
-   "title": "짧은대본",
-   "genre": "연극",
-   "venue": "비유아트홀(구. 효천아트센터 그라운드씬) (비유아트홀(구. 효천아트센터 그라운드씬))",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
    "id": "PF304638",
-   "title": "투셰 [대학로]",
+   "title": "투셰",
    "genre": "연극",
-   "venue": "대학로 자유극장 (자유문화발전소) (대학로 자유극장 (자유문화발전소) )",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF302924",
-   "title": "포쉬 [대학로]",
-   "genre": "연극",
-   "venue": "굿씨어터 (굿씨어터)",
+   "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
    "castSource": "none"
   },
@@ -573,24 +385,16 @@
    "id": "PF305499",
    "title": "풍월주",
    "genre": "뮤지컬",
-   "venue": "플러스씨어터(구. 컬처스페이스 엔유) (플러스씨어터(구. 컬처스페이스 엔유))",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
    "time": "20:00",
    "castSource": "none"
   },
   {
    "id": "PF305019",
-   "title": "피장파장의 오류 [대학로]",
+   "title": "피장파장의 오류",
    "genre": "뮤지컬",
-   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드) (브릭스씨어터 (구. 콘텐츠 그라운드))",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305142",
-   "title": "인사이드 더 플레이 : 카지노X",
-   "genre": "뮤지컬",
-   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
-   "time": "20:25",
    "castSource": "none"
   },
   {
@@ -599,14 +403,6 @@
    "genre": "뮤지컬",
    "venue": "홍익대 대학로 아트센터 (대극장)",
    "time": "20:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305142",
-   "title": "인사이드 더 플레이 : 카지노X",
-   "genre": "뮤지컬",
-   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
-   "time": "20:40",
    "castSource": "none"
   }
  ]

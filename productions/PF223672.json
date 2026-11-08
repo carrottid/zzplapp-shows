@@ -1,0 +1,33 @@
+{
+ "id": "PF223672",
+ "title": "에쿠우스",
+ "genre": "연극",
+ "from": "2023-12-08",
+ "to": "2023-12-09",
+ "venue": "춘천문화예술회관 (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF223672_230810_122329.jpg",
+ "area": "강원특별자치도",
+ "state": "공연완료",
+ "cast": [],
+ "facilityId": "FC000371",
+ "age": "만 16세 이상",
+ "producer": "(재)춘천문화재단",
+ "price": "R석 30,000원, S석 20,000원, A석 10,000원",
+ "schedule": "금요일(19:30), 토요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223672_230810_1223290.jpg"
+ ],
+ "links": [
+  {
+   "name": "춘천문화예술회관2",
+   "url": "https://www.cccf.or.kr/Home/H10000/H10200/concertDetail?conct_no=2472"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=11902"
+  }
+ ],
+ "updated": "2023-08-11 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

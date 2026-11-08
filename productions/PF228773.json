@@ -1,0 +1,66 @@
+{
+ "id": "PF228773",
+ "title": "맥베스",
+ "genre": "뮤지컬",
+ "from": "2023-12-02",
+ "to": "2023-12-30",
+ "venue": "세종문화회관 (세종M씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228773_231027_130636.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "한일경",
+  "성태준",
+  "유미",
+  "이아름솔",
+  "박원진",
+  "허도영",
+  "이민규"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "김덕희, 김은성, 박천휘 등",
+ "price": "R석 70,000원, S석 50,000원, A석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(14:00,19:00), 일요일(14:00), HOL(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228773_231027_0106360.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/268384"
+  },
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/46634"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0003370"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=208912"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr:443/portal/performance/performance/view.do?performIdx=33879&menuNo=200004&pageIndex="
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47615"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77558"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010761"
+  }
+ ],
+ "updated": "2023-10-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

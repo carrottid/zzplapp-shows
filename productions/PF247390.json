@@ -1,0 +1,42 @@
+{
+ "id": "PF247390",
+ "title": "신바람 삼대",
+ "genre": "연극",
+ "from": "2024-10-10",
+ "to": "2024-10-24",
+ "venue": "HD아트센터(구 현대예술관) (소공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF247390_240821_112154.jpg",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "민성욱",
+  "정승민",
+  "김민지",
+  "윤성경"
+ ],
+ "facilityId": "FC001166",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "price": "전석 25,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(14:00,18:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF247390_240821_1121540.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1221125"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011950"
+  },
+  {
+   "name": "현대예술관",
+   "url": "https://www.hhiarts.co.kr/performance/list.do?keyword=&ticketingitemseq=0000003505&mid=0000&SVC_ID=detail&unicodeseqitemtype=0000000607&now=Y&pageNo=1&returnPage=list"
+  }
+ ],
+ "updated": "2024-09-05 13:03:39",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PF219191",
+ "title": "라스트 세션",
+ "genre": "연극",
+ "from": "2023-07-08",
+ "to": "2023-09-10",
+ "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219191_230526_203342.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신구",
+  "남명렬",
+  "이상윤"
+ ],
+ "facilityId": "FC000382",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "오경택, 김승완, 김혜지 등",
+ "producer": "(주)파크컴퍼니",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일 ~ 수요일(20:00), 금요일(20:00), 목요일(16:00), 토요일(14:00,17:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219191_230526_0833420.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267853"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/950498"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007040"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/46296"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  }
+ ],
+ "updated": "2023-05-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,55 @@
+{
+ "id": "PF209764",
+ "title": "드라큘라",
+ "genre": "뮤지컬",
+ "from": "2023-02-17",
+ "to": "2023-02-19",
+ "venue": "계명아트센터 (계명아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF209764_230116_100752.gif",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "신성우",
+  "안재욱",
+  "정동하",
+  "김진환",
+  "유승우",
+  "이병찬",
+  "김법래"
+ ],
+ "facilityId": "FC001239",
+ "runtime": "2시간 30분",
+ "age": "만 13세 이상",
+ "crew": "김선미, 노우성, 김성수 등",
+ "producer": "(주)글로벌컨텐츠",
+ "price": "VIP석 150,000원, R석 130,000원, S석 110,000원, A석 90,000원, B석 70,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF209764_230116_1007520.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267233"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/833663"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23000659"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/44651"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000009204"
+  }
+ ],
+ "updated": "2023-01-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

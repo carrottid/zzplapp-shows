@@ -1,0 +1,39 @@
+{
+ "id": "PF225690",
+ "title": "메이드 인 제인",
+ "genre": "연극",
+ "from": "2023-10-08",
+ "to": "2023-11-12",
+ "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF225690_230912_105441.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "안태준",
+  "이승우",
+  "이상진",
+  "정수현",
+  "김태성",
+  "김정훈",
+  "이채원"
+ ],
+ "facilityId": "FC000098",
+ "runtime": "1시간 40분",
+ "age": "만 15세 이상",
+ "crew": "신지인, 백지은, 임건우 등",
+ "producer": "창작집단 농담",
+ "price": "전석 40,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(16:00,20:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225690_230912_1054410.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012760"
+  }
+ ],
+ "updated": "2023-09-12 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

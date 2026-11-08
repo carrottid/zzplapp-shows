@@ -1,0 +1,47 @@
+{
+ "id": "PF250390",
+ "title": "테베랜드",
+ "genre": "연극",
+ "from": "2024-11-20",
+ "to": "2025-02-09",
+ "venue": "충무아트센터 (중극장 블랙)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF250390_241002_181120.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이석준",
+  "정희태",
+  "길은성",
+  "김남희",
+  "이주승",
+  "손우현",
+  "정택운"
+ ],
+ "facilityId": "FC000014",
+ "runtime": "2시간 45분",
+ "age": "만 16세 이상",
+ "crew": "김영욱, 이성훈, 임양혁 등",
+ "producer": "(주)쇼노트",
+ "price": "R석 66,000원, S석 55,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일(14:00,18:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250390_241002_0611200.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24014092"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=210443"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=367"
+  }
+ ],
+ "updated": "2024-10-07 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PF186531",
+ "title": "데스노트",
+ "genre": "뮤지컬",
+ "from": "2022-04-01",
+ "to": "2022-06-19",
+ "venue": "충무아트센터 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186531_220208_113405.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍광호",
+  "고은성",
+  "김준수",
+  "김성철",
+  "김선영",
+  "장은아",
+  "강홍석"
+ ],
+ "facilityId": "FC000014",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "신춘수, 김동연, 조정만 등",
+ "producer": "(주)오디컴퍼니(ODCOMPANY), TBC, TJB 대전방송",
+ "price": "VIP석 150,000원, R석 130,000원, S석 100,000원, A석 70,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186531_220208_1134050.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/37282"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000970"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41357"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/9959829810"
+  }
+ ],
+ "updated": "2022-02-08 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

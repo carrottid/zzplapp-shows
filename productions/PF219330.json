@@ -1,0 +1,47 @@
+{
+ "id": "PF219330",
+ "title": "오즈",
+ "genre": "뮤지컬",
+ "from": "2023-07-11",
+ "to": "2023-09-17",
+ "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219330_230530_180323.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강찬",
+  "이승헌",
+  "황두현",
+  "송유택",
+  "윤은오",
+  "홍성원",
+  "송상훈"
+ ],
+ "facilityId": "FC000382",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "키요야마 코즈에, 박지혜, 김솔지 등",
+ "producer": "(주)아뮤즈엔터테인먼트",
+ "price": "R석 60,000원, S석 50,000원, A석 40,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219330_230530_0603230.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007189"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77278"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010192"
+  }
+ ],
+ "updated": "2023-05-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "PF210119",
+ "title": "정선아X김호영X조권 갈라 콘서트: THE COLORS",
+ "genre": "뮤지컬",
+ "from": "2023-04-16",
+ "to": "2023-04-16",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF210119_230120_130821.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김호영",
+  "정선아",
+  "조권",
+  "최영선"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "price": "VIP석 143,000원, R석 121,000원, S석 99,000원, A석 66,000원",
+ "schedule": "일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF210119_230120_0108210.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23000844"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259654"
+  }
+ ],
+ "updated": "2023-01-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

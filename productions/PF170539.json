@@ -1,0 +1,74 @@
+{
+ "id": "PF170539",
+ "title": "캣츠 40주년 내한공연",
+ "genre": "뮤지컬",
+ "from": "2021-01-22",
+ "to": "2021-02-28",
+ "venue": "세종문화회관 (세종대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170539_201209_104914.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "조아나 암필",
+  "앨리스 배트",
+  "헤이든 바움 나탈리 베니워스",
+  "탈리아 버트",
+  "에밀리 케이시",
+  "벤자민 콜리"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "트레버 넌, 질리언 린, 존 내피어 등",
+ "producer": "The Really Useful Group, 에스앤코(S&CO)",
+ "price": "VIP석 160,000원, R석 130,000원, S석 110,000원, A석 90,000원, B석 60,000원",
+ "schedule": "화요일(20:00), 수요일(14:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,19:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF170539_210223_0850330.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/264870"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/456856"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20010583"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=205702"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=31305&menuNo=200004"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=38134"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=38414"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=75052"
+  },
+  {
+   "name": "하나투어",
+   "url": "http://ticket.hanatour.com/Pages/Perf/Detail/Detail.aspx?IdPerf=38212"
+  },
+  {
+   "name": "페이북",
+   "url": "https://paybooc.co.kr/app/paybooc/Culture.do?mFocus=Culture&returnURL=https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70073"
+  }
+ ],
+ "updated": "2020-12-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PF188826",
+ "title": "1919필라델피아",
+ "genre": "연극",
+ "from": "2022-04-14",
+ "to": "2022-05-01",
+ "venue": "광림아트센터 (BBCH홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF188826_220331_132844.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "서광재",
+  "이지형",
+  "김영훈",
+  "해리 벤자민",
+  "강운",
+  "서호준",
+  "김용래"
+ ],
+ "facilityId": "FC001370",
+ "runtime": "1시간 45분",
+ "age": "만 6세 이상",
+ "crew": "이혜경, 홍정민, 김종균 등",
+ "price": "R석 70,000원, S석 50,000원",
+ "schedule": "화요일(19:30), 수요일(15:00), 목요일(19:30), 금요일(15:00,19:30), 토요일(15:00,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF188826_220331_0142382.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF188826_220331_0142381.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266235"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/672905"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41825"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39310"
+  }
+ ],
+ "updated": "2022-03-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

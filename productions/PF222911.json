@@ -1,0 +1,60 @@
+{
+ "id": "PF222911",
+ "title": "제시의 일기",
+ "genre": "뮤지컬",
+ "from": "2023-08-29",
+ "to": "2023-10-29",
+ "venue": "링크아트센터드림 (드림 3관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF222911_230728_110349.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "안유진",
+  "임강희",
+  "최우리",
+  "정민",
+  "김찬호",
+  "고상호",
+  "정새별"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 30분",
+ "age": "만 10세 이상",
+ "crew": "최종혁, 이예지, 이진욱 등",
+ "price": "R석 65,000원, 시야제한석 40,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222911_230728_1103492.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222911_230728_1103491.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222911_230728_1103490.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/268001"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/956963"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/46626"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77412"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010404"
+  }
+ ],
+ "updated": "2023-07-28 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

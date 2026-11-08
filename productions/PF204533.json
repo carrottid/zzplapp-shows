@@ -1,0 +1,39 @@
+{
+ "id": "PF204533",
+ "title": "다이스",
+ "genre": "뮤지컬",
+ "from": "2023-02-03",
+ "to": "2023-03-05",
+ "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF204533_221221_094512.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "황민수",
+  "황두현",
+  "이상아",
+  "안창용",
+  "문경초",
+  "김지훈",
+  "김보근"
+ ],
+ "facilityId": "FC000098",
+ "runtime": "1시간 50분",
+ "age": "만 10세 이상",
+ "crew": "김효중, 김주영, 박병준 등",
+ "producer": "컬처마인",
+ "price": "R석 55,000원, S석 35,000원",
+ "schedule": "화요일 ~ 목요일(20:00), 금요일(16:00,20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF204533_221221_0945120.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22017653"
+  }
+ ],
+ "updated": "2022-12-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

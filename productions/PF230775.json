@@ -1,0 +1,59 @@
+{
+ "id": "PF230775",
+ "title": "조조와 양수",
+ "genre": "연극",
+ "from": "2023-12-24",
+ "to": "2023-12-29",
+ "venue": "국립극장 (하늘극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230775_231124_111307.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "손병호",
+  "이형훈",
+  "이형택",
+  "김정은",
+  "김효영",
+  "박승원",
+  "송경근"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "김우석, 임지민, 이단비 등",
+ "producer": "코르코르디움",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(15:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230775_231124_1113070.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266624"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1027033"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017116"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011142"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1701317224"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12012"
+  }
+ ],
+ "updated": "2025-04-04 10:03:22",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

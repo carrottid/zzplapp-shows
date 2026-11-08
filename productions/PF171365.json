@@ -1,0 +1,43 @@
+{
+ "id": "PF171365",
+ "title": "파우스트 엔딩",
+ "genre": "연극",
+ "from": "2021-02-26",
+ "to": "2021-03-28",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171365_210722_160255.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김성녀",
+  "박완규",
+  "강현우",
+  "고애리",
+  "권은혜",
+  "김보나",
+  "김세환"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "조광화, 김주연, 정승호 등",
+ "producer": "(재) 국립극단",
+ "price": "R석 50,000원, S석 35,000원, A석 20,000원",
+ "schedule": "월요일(19:30), 토요일 ~ 일요일(15:00), HOL(15:00), 수요일 ~ 금요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171365_210223_0857170.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/256984"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000731"
+  }
+ ],
+ "updated": "2021-02-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -2,150 +2,6 @@
  "date": "2026-12-21",
  "sessions": [
   {
-   "id": "PF301852",
-   "title": "산타클로스와 브레멘음악대 [대구]",
-   "genre": "뮤지컬",
-   "venue": "대백프라자 (프라임홀)",
-   "time": "11:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF186819",
-   "title": "늘근도둑이야기 [대학로]",
-   "genre": "연극",
-   "venue": "아트포레스트 아트홀 (1관)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF150471",
-   "title": "빨간모자야 조심해! [청주, 세종]",
-   "genre": "뮤지컬",
-   "venue": "소극장 쇠내골 (소극장 쇠내골)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF237479",
-   "title": "페인터즈 [경향아트힐]",
-   "genre": "뮤지컬",
-   "venue": "경향아트힐 (1관)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF216355",
-   "title": "오마이갓 [전용관]",
-   "genre": "연극",
-   "venue": "오마이갓 전용관 (오마이갓 전용관)",
-   "time": "15:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF216355",
-   "title": "오마이갓 [전용관]",
-   "genre": "연극",
-   "venue": "오마이갓 전용관 (오마이갓 전용관)",
-   "time": "15:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF236460",
-   "title": "난타 [제주]",
-   "genre": "뮤지컬",
-   "venue": "제주난타극장 (제주난타극장)",
-   "time": "16:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF235543",
-   "title": "난타 [명동]",
-   "genre": "뮤지컬",
-   "venue": "명동난타극장 (명동난타극장)",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF236349",
-   "title": "난타 [홍대]",
-   "genre": "뮤지컬",
-   "venue": "홍대난타극장(구. 뮤직쇼웨딩 전용관) (홍대난타극장(구. 뮤직쇼웨딩 전용관))",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF186819",
-   "title": "늘근도둑이야기 [대학로]",
-   "genre": "연극",
-   "venue": "아트포레스트 아트홀 (1관)",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF295113",
-   "title": "멜로에 차질 [대학로]",
-   "genre": "연극",
-   "venue": "나인진홀 (구.청년극장) (나인진홀 2관)",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF216355",
-   "title": "오마이갓 [전용관]",
-   "genre": "연극",
-   "venue": "오마이갓 전용관 (오마이갓 전용관)",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF247938",
-   "title": "점프 JUMP",
-   "genre": "뮤지컬",
-   "venue": "명보아트홀 (가온홀 (B3F) )",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF237479",
-   "title": "페인터즈 [경향아트힐]",
-   "genre": "뮤지컬",
-   "venue": "경향아트힐 (1관)",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF242666",
-   "title": "페인터즈 [서대문전용관]",
-   "genre": "뮤지컬",
-   "venue": "NH아트홀 (NH아트홀)",
-   "time": "17:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF216355",
-   "title": "오마이갓 [전용관]",
-   "genre": "연극",
-   "venue": "오마이갓 전용관 (오마이갓 전용관)",
-   "time": "17:20",
-   "castSource": "none"
-  },
-  {
-   "id": "PF216355",
-   "title": "오마이갓 [전용관]",
-   "genre": "연극",
-   "venue": "오마이갓 전용관 (오마이갓 전용관)",
-   "time": "17:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF291833",
-   "title": "플러팅 [대학로]",
-   "genre": "연극",
-   "venue": "라온씨어터 (라온씨어터)",
-   "time": "19:00",
-   "castSource": "none"
-  },
-  {
    "id": "PF304705",
    "title": "국립극단, 안트로폴리스 Ⅴ: 안티고네/에필로그",
    "genre": "연극",
@@ -154,115 +10,19 @@
    "castSource": "none"
   },
   {
-   "id": "PF289294",
-   "title": "마트로시카 [서울 중구]",
-   "genre": "연극",
-   "venue": "명보아트홀 (라온홀 (3F) )",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF301826",
-   "title": "얼리버드",
-   "genre": "연극",
-   "venue": "소극장 도어  (소극장 도어 )",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF301593",
-   "title": "히든퍼즐 [대전]",
-   "genre": "연극",
-   "venue": "런던스테이지 [대전 중구] (런던스테이지(2F))",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF235543",
-   "title": "난타 [명동]",
-   "genre": "뮤지컬",
-   "venue": "명동난타극장 (명동난타극장)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF236460",
-   "title": "난타 [제주]",
-   "genre": "뮤지컬",
-   "venue": "제주난타극장 (제주난타극장)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF272938",
-   "title": "더 맨 얼라이브: 초이스",
-   "genre": "뮤지컬",
-   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304882",
-   "title": "설강화 [대학로]",
-   "genre": "연극",
-   "venue": "큐씨어터(구. 수상한흥신소전용관) (큐씨어터(구. 수상한흥신소전용관))",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305142",
-   "title": "인사이드 더 플레이 : 카지노X",
-   "genre": "뮤지컬",
-   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF304792",
-   "title": "타자기 치는 남자 [대학로]",
-   "genre": "연극",
-   "venue": "보라 아트홀(구. 지구인아트홀) (보라 아트홀(구. 지구인아트홀))",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
    "id": "PF304638",
-   "title": "투셰 [대학로]",
+   "title": "투셰",
    "genre": "연극",
-   "venue": "대학로 자유극장 (자유문화발전소) (대학로 자유극장 (자유문화발전소) )",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF237479",
-   "title": "페인터즈 [경향아트힐]",
-   "genre": "뮤지컬",
-   "venue": "경향아트힐 (1관)",
+   "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
    "castSource": "none"
   },
   {
    "id": "PF301308",
-   "title": "하트비트: 심폐소생일지 [대학로]",
+   "title": "하트비트: 심폐소생일지",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305142",
-   "title": "인사이드 더 플레이 : 카지노X",
-   "genre": "뮤지컬",
-   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
-   "time": "20:25",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305142",
-   "title": "인사이드 더 플레이 : 카지노X",
-   "genre": "뮤지컬",
-   "venue": "롯데시네마 에비뉴엘 [서울 중구] (롯데시네마 에비뉴엘)",
-   "time": "20:40",
    "castSource": "none"
   }
  ]

@@ -1,0 +1,47 @@
+{
+ "id": "PF262205",
+ "title": "킬링시저",
+ "genre": "연극",
+ "from": "2025-05-10",
+ "to": "2025-07-20",
+ "venue": "서강대 메리홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF262205_250401_102911.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김준원",
+  "손호준",
+  "양지원",
+  "유승호",
+  "서창호",
+  "남재영",
+  "손지미"
+ ],
+ "facilityId": "FC001216",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김윤경, 오세혁, 김정 등",
+ "producer": "(주) 토브씨어터컴퍼니",
+ "price": "R석 77,000원, S석 66,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF262205_250401_1029110.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1383544"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25004642"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=784544"
+  }
+ ],
+ "updated": "2025-11-20 16:37:04",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

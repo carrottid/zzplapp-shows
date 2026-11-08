@@ -1,0 +1,38 @@
+{
+ "id": "PF182595",
+ "title": "뮤지컬 온 스테이지",
+ "genre": "뮤지컬",
+ "from": "2021-12-08",
+ "to": "2021-12-08",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182595_211108_133606.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "차지연",
+  "마이클 리",
+  "배두훈",
+  "최영선"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "price": "VIP석 143,000원, R석 132,000원, S석 110,000원, A석 88,000원",
+ "schedule": "수요일(20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182595_211108_0136070.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010943"
+  },
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/258646"
+  }
+ ],
+ "updated": "2021-11-08 17:10:27",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

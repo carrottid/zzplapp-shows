@@ -1,0 +1,43 @@
+{
+ "id": "PF289415",
+ "title": "빵야",
+ "genre": "연극",
+ "from": "2026-06-13",
+ "to": "2026-06-14",
+ "venue": "화성아트홀 (화성아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF289415_260415_131815.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "김경수",
+  "원태민",
+  "전성민",
+  "박동욱",
+  "김현준",
+  "송상훈",
+  "이민규"
+ ],
+ "facilityId": "FC000613",
+ "runtime": "2시간 50분",
+ "age": "만 13세 이상",
+ "crew": "고강민, 김은성, 김태형 등",
+ "producer": "(주)쇼노트, (주)엠비제트컴퍼니",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "토요일 ~ 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF289415_202604150118159010.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13721"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26003938"
+  }
+ ],
+ "updated": "2026-06-12 15:20:05",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

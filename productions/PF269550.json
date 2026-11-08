@@ -1,0 +1,40 @@
+{
+ "id": "PF269550",
+ "title": "연극열전10, 웨이스티드 콘서트",
+ "genre": "뮤지컬",
+ "from": "2025-07-21",
+ "to": "2025-07-21",
+ "venue": "스케치홀 (구.소극장 선물 1관) (SA Hall (지하1층) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF269550_250716_130059.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정연",
+  "문진아",
+  "전성민",
+  "김지철",
+  "유현석",
+  "황순종",
+  "여은"
+ ],
+ "facilityId": "FC003462",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "박소영",
+ "producer": "(주)연극열전",
+ "price": "전석 50,000원",
+ "schedule": "월요일(20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF269550_202507160102217400.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF269550_202507160102217571.jpg"
+ ],
+ "links": [
+  {
+   "name": "연극열전",
+   "url": "https://www.thebestplay.co.kr/program/perf_view.asp?id=280116&pref_state=SALE"
+  }
+ ],
+ "updated": "2026-01-21 14:22:50",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

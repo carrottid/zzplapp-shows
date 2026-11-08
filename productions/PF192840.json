@@ -1,0 +1,38 @@
+{
+ "id": "PF192840",
+ "title": "추기경 김수환",
+ "genre": "연극",
+ "from": "2022-07-01",
+ "to": "2022-07-10",
+ "venue": "서강대 메리홀 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF192840_220615_102329.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "심우창",
+  "유태균",
+  "이승호",
+  "이인철",
+  "이윤표",
+  "최애숙",
+  "문지영"
+ ],
+ "facilityId": "FC001216",
+ "runtime": "1시간 40분",
+ "age": "만 9세 이상",
+ "crew": "최주봉, 박경희, 윤광진",
+ "price": "S석 30,000원, A석 15,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192840_220615_1023290.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1796"
+  }
+ ],
+ "updated": "2022-06-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

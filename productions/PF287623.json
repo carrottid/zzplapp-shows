@@ -1,0 +1,44 @@
+{
+ "id": "PF287623",
+ "title": "어쩌면 해피엔딩",
+ "genre": "뮤지컬",
+ "from": "2026-05-16",
+ "to": "2026-05-17",
+ "venue": "울산문화예술회관 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF287623_260320_135948.jpg",
+ "area": "울산광역시",
+ "state": "공연완료",
+ "cast": [
+  "신성민",
+  "전성우",
+  "전미도",
+  "최수진",
+  "박진주",
+  "이시안"
+ ],
+ "facilityId": "FC000081",
+ "runtime": "1시간 55분",
+ "age": "만 13세 이상",
+ "crew": "한경숙, 박천휴, 윌 애런슨 등",
+ "producer": "엔에이치엔링크(주)",
+ "price": "R석 90,000원, S석 80,000원",
+ "schedule": "토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF287623_202603200159485052.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF287623_202603200159484831.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF287623_202603200159484780.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/62209"
+  },
+  {
+   "name": "울산문화예술회관",
+   "url": "https://ucac.moonhwain.net:451/rsvc/rsv_pm.html?b_id=ucac&p_idx=6766"
+  }
+ ],
+ "updated": "2026-03-20 18:00:04.23292",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

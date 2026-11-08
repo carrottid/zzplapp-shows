@@ -1,0 +1,51 @@
+{
+ "id": "PF289341",
+ "title": "예외와 관습",
+ "genre": "연극",
+ "from": "2026-05-22",
+ "to": "2026-05-31",
+ "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF289341_260414_132707.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "남성진",
+  "공재민",
+  "송현섭",
+  "김진영",
+  "송지나",
+  "이가을",
+  "라태완"
+ ],
+ "facilityId": "FC004282",
+ "runtime": "1시간 20분",
+ "age": "만 7세 이상",
+ "crew": "김지은, 박진규, 양은숙",
+ "producer": "연극집단 반",
+ "price": "전석 40,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF289341_202604140127077580.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13699"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26005334"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1775094486"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7020"
+  }
+ ],
+ "updated": "2026-05-20 14:41:03",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

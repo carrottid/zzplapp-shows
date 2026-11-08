@@ -1,0 +1,39 @@
+{
+ "id": "PF185772",
+ "title": "면회",
+ "genre": "연극",
+ "from": "2022-01-18",
+ "to": "2022-01-30",
+ "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF185772_220114_135807.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송용식",
+  "김단율",
+  "정서호",
+  "안수현"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "이성권, 장윤호, 김장호 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일(16:00,19:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF185772_220114_0158070.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/636063"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013510"
+  }
+ ],
+ "updated": "2022-01-14 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,782 @@
+{
+ "id": "PF300941",
+ "source": "ticketlink",
+ "roles": {
+  "r:A": "A",
+  "r:B": "B"
+ },
+ "people": {},
+ "sessions": [
+  {
+   "date": "2026-11-09",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-10",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-11",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-12",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김찰리",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-13",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김담현",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-14",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-15",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-17",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-18",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-19",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-20",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-21",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "김담현",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-22",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김찰리",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-24",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-25",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-26",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김찰리",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-11-29",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김담현",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-01",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-02",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-03",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-04",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-05",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김찰리",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-05",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-06",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-06",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김담현",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-08",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김찰리",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-09",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김찰리",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-10",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-11",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-12",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김찰리",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-12",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-13",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-13",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김담현",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-17",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-18",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김담현",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김시유",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-19",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "이승준",
+     "roleId": "r:A"
+    },
+    {
+     "name": "김찰리",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-19",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "김이담",
+     "roleId": "r:A"
+    },
+    {
+     "name": "동현",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "송영미",
+     "roleId": "r:A"
+    },
+    {
+     "name": "이서영",
+     "roleId": "r:B"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "임찬민",
+     "roleId": "r:A"
+    },
+    {
+     "name": "전하영",
+     "roleId": "r:B"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-08T10:36:24"
+}

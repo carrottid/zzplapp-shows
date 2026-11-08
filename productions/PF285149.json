@@ -1,0 +1,47 @@
+{
+ "id": "PF285149",
+ "title": "몽유도원",
+ "genre": "뮤지컬",
+ "from": "2026-04-11",
+ "to": "2026-05-10",
+ "venue": "샤롯데씨어터 (샤롯데씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285149_260213_112119.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "민우혁",
+  "김주택",
+  "하윤주",
+  "유리아",
+  "이충주",
+  "김성식",
+  "서영주"
+ ],
+ "facilityId": "FC000012",
+ "runtime": "2시간 50분",
+ "age": "만 7세 이상",
+ "crew": "윤홍선, 윤호진, 안재승 등",
+ "producer": "(주) 에이콤(ACOM)",
+ "price": "VIP석 160,000원, R석 130,000원, S석 100,000원, A석 80,000원",
+ "schedule": "화요일(19:30), 수요일(14:30,19:30), 목요일(19:30), 금요일(14:30,19:30), 토요일(14:00,19:00), 일요일(14:00), HOL(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285149_202602191128042990.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/61334"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26002010"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79110"
+  }
+ ],
+ "updated": "2026-10-12 12:25:29",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

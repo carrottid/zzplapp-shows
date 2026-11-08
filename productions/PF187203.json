@@ -1,0 +1,56 @@
+{
+ "id": "PF187203",
+ "title": "빈센트 반 고흐",
+ "genre": "뮤지컬",
+ "from": "2022-03-27",
+ "to": "2022-06-26",
+ "venue": "충무아트센터 (중극장 블랙)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF187203_220224_094704.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박민성",
+  "김경수",
+  "박유덕",
+  "장지후",
+  "윤승우",
+  "황민수",
+  "윤은오"
+ ],
+ "facilityId": "FC000014",
+ "runtime": "1시간 50분",
+ "age": "만 11세 이상",
+ "crew": "한승원, 김종석, 최유선 등",
+ "producer": "(주)에이치제이컬쳐(HJ컬쳐)",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187203_220224_0947040.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187203_220224_0951122.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/266139"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/656926"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001888"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41497"
+  },
+  {
+   "name": "옥션",
+   "url": "http://ticket1.auction.co.kr/VIP/Item?IdPerf=39236"
+  }
+ ],
+ "updated": "2022-02-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

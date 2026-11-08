@@ -1,0 +1,51 @@
+{
+ "id": "PF250859",
+ "title": "이프덴",
+ "genre": "뮤지컬",
+ "from": "2024-12-03",
+ "to": "2025-03-02",
+ "venue": "홍익대 대학로 아트센터 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF250859_241010_114621.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정선아",
+  "김지현",
+  "송원근",
+  "박정원",
+  "최석진",
+  "신성민",
+  "진태화"
+ ],
+ "facilityId": "FC001208",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "성종완, 구소영, 이현정 등",
+ "producer": "(주)쇼노트",
+ "price": "VIP석 130,000원, R석 100,000원, S석 90,000원, A석 60,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250859_250121_1036111.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24014511"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=210471"
+  },
+  {
+   "name": "쇼노트",
+   "url": "http://www.shownote.com/Ticket/Performance/Details?performanceId=369"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78156"
+  }
+ ],
+ "updated": "2025-01-21 10:36:11",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

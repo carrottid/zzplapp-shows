@@ -1,0 +1,49 @@
+{
+ "id": "PF223347",
+ "title": "비더슈탄트",
+ "genre": "뮤지컬",
+ "from": "2023-09-12",
+ "to": "2023-11-26",
+ "venue": "링크아트센터드림 (드림 1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF223347_230804_113825.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송유택",
+  "안지환",
+  "황순종",
+  "정백선",
+  "김바다",
+  "김지온",
+  "동현"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "2시간 35분",
+ "age": "만 13세 이상",
+ "crew": "정은비, 최대명, 김태형 등",
+ "price": "R석 66,000원, S석 44,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일(19:30), 금요일(15:00,19:30), 토요일 ~ 일요일(14:00,18:30), HOL(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223347_230804_1138253.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223347_230804_1138252.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223347_230804_1138251.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223347_230804_1138250.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011864"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/46733"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010716"
+  }
+ ],
+ "updated": "2023-08-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

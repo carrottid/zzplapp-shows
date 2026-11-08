@@ -1,0 +1,51 @@
+{
+ "id": "PF226246",
+ "title": "시스터 액트",
+ "genre": "뮤지컬",
+ "from": "2023-11-04",
+ "to": "2023-11-11",
+ "venue": "소향씨어터 (우리은행홀 (구. 신한카드홀))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226246_230920_104306.jpg",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "니콜 바네사 올티즈",
+  "메리 굿지",
+  "김소향",
+  "캣 카필리",
+  "제나 로즈 휴슬리",
+  "샤넌 헤덕",
+  "크리스토퍼 스컬록"
+ ],
+ "facilityId": "FC001347",
+ "runtime": "2시간 30분",
+ "age": "만 7세 이상",
+ "crew": "김지원, 로버트 요한슨, 엄홍현 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 170,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(14:00,19:00), 토요일(14:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226246_230920_1043070.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/992077"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013262"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=208785"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47215"
+  }
+ ],
+ "updated": "2023-09-20 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

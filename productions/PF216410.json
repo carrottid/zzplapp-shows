@@ -1,0 +1,35 @@
+{
+ "id": "PF216410",
+ "title": "루드윅: 베토벤 더 피아노",
+ "genre": "뮤지컬",
+ "from": "2023-06-16",
+ "to": "2023-06-17",
+ "venue": "안산문화예술의전당 (해돋이극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF216410_230407_140853.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "백인태",
+  "김준영",
+  "인은율",
+  "박이든",
+  "조재철"
+ ],
+ "facilityId": "FC000018",
+ "runtime": "1시간 50분",
+ "age": "만 9세 이상",
+ "price": "R석 50,000원, S석 40,000원, A석 30,000원",
+ "schedule": "금요일(10:20,19:30), 토요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216410_230407_0208530.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004850"
+  }
+ ],
+ "updated": "2023-04-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

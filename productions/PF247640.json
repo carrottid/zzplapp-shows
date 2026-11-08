@@ -1,0 +1,46 @@
+{
+ "id": "PF247640",
+ "title": "국립극장, 마당놀이 모듬전",
+ "genre": "연극",
+ "from": "2024-11-29",
+ "to": "2025-01-30",
+ "venue": "국립극장 (하늘극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF247640_241106_123736.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "윤문식",
+  "김성녀",
+  "김종엽",
+  "민은경",
+  "송나영",
+  "이소연",
+  "백나현"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "배삼식, 손진책, 박범훈 등",
+ "price": "전석 70,000원",
+ "schedule": "화요일 ~ 목요일(15:00), 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF247640_241106_1237361.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21009&perfId=266788"
+  },
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12665"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24012128"
+  }
+ ],
+ "updated": "2025-04-04 16:17:16",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

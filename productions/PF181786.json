@@ -1,0 +1,52 @@
+{
+ "id": "PF181786",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2021-12-10",
+ "to": "2021-12-12",
+ "venue": "GS칼텍스 예울마루 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF181786_211027_092940.gif",
+ "area": "전남광주통합특별시",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "민경아",
+  "최재림",
+  "박건형",
+  "김영주",
+  "김경선"
+ ],
+ "facilityId": "FC000826",
+ "runtime": "2시간 25분",
+ "age": "만 14세 이상",
+ "crew": "김태훈, 노지현, 오민영 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "R석 140,000원, S석 120,000원, A석 90,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181786_211027_0930172.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181786_211027_0930171.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/265806"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/599821"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009548"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40483"
+  }
+ ],
+ "updated": "2021-10-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

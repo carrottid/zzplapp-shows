@@ -1,0 +1,40 @@
+{
+ "id": "PF257725",
+ "title": "임대아파트",
+ "genre": "연극",
+ "from": "2025-02-13",
+ "to": "2025-02-23",
+ "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF257725_250122_131157.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "석현",
+  "김일현",
+  "성혜민",
+  "김은수",
+  "백재아",
+  "김경태",
+  "김용준"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "김한길, 황춘하, 조경수 등",
+ "producer": "E&S 이앤에스엔터테인먼트",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF257725_250122_0111571.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF257725_250122_0111570.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25000738"
+  }
+ ],
+ "updated": "2025-01-22 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

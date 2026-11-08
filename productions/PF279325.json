@@ -1,0 +1,40 @@
+{
+ "id": "PF279325",
+ "title": "당신 좋을 대로",
+ "genre": "연극",
+ "from": "2026-05-28",
+ "to": "2026-05-31",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF279325_260407_171616.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [],
+ "facilityId": "FC000003",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "박지혜 등",
+ "producer": "국립극장",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF279325_202511190132431091.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF279325_202511190132431442.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/ntok/pm/prfmng/performanceDetail.do?mi=21008&perfId=267041"
+  },
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13713"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "https://tickets.interpark.com/goods/25016227"
+  }
+ ],
+ "updated": "2026-07-02 17:48:41",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

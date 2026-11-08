@@ -1,0 +1,33 @@
+{
+ "id": "PF236005",
+ "title": "피에타",
+ "genre": "뮤지컬",
+ "from": "2024-03-14",
+ "to": "2024-03-24",
+ "venue": "예술의전당 [서울] (자유소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF236005_240222_122034.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김시라"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 10분",
+ "age": "만 7세 이상",
+ "crew": "전병곤, 고재현, 정민영 등",
+ "producer": "약속의연극레퍼토리",
+ "price": "전석 50,000원",
+ "schedule": "화요일(19:30), 수요일(16:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,17:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF236005_240222_1220340.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002371"
+  }
+ ],
+ "updated": "2024-02-22 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

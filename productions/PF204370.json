@@ -1,0 +1,35 @@
+{
+ "id": "PF204370",
+ "title": "아트 (ART)",
+ "genre": "연극",
+ "from": "2023-01-27",
+ "to": "2023-01-28",
+ "venue": "세종예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF204370_221216_162551.gif",
+ "area": "세종특별자치시",
+ "state": "공연완료",
+ "cast": [
+  "이순재",
+  "노주현",
+  "백일섭"
+ ],
+ "facilityId": "FC002877",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "김수로, 신영섭, 성종완 등",
+ "producer": "(주)나인스토리, (주)더블케이 필름 앤 씨어터 (더블케이엔터테인먼트)",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "금요일(19:30), 토요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF204370_221216_0425510.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22017081"
+  }
+ ],
+ "updated": "2022-12-16 16:37:38",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

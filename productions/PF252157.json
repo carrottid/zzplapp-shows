@@ -1,0 +1,51 @@
+{
+ "id": "PF252157",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2024-12-14",
+ "to": "2024-12-22",
+ "venue": "부산시민회관 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF252157_241025_134448.gif",
+ "area": "부산광역시",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "정선아",
+  "민경아",
+  "박건형",
+  "최재림",
+  "김영주"
+ ],
+ "facilityId": "FC000497",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 160,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF252157_241025_0144481.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF252157_241025_0144480.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1255448"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015347"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=210540"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/51429"
+  }
+ ],
+ "updated": "2024-10-28 16:09:21",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

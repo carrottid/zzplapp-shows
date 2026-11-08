@@ -1,0 +1,46 @@
+{
+ "id": "PF216865",
+ "title": "허락",
+ "genre": "뮤지컬",
+ "from": "2023-05-05",
+ "to": "2023-06-04",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF216865_230417_120916.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김주경",
+  "이원석",
+  "박하은",
+  "김명희",
+  "문하연",
+  "정재헌",
+  "장경섭"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "2시간",
+ "age": "만 9세 이상",
+ "crew": "윤봉철, 김세홍, 민채 등",
+ "producer": "극단 예락",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(17:00), HOL(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216865_230417_1209163.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216865_230417_1209162.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216865_230417_1209161.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216865_230417_1209160.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005383"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5086"
+  }
+ ],
+ "updated": "2023-04-17 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "PF220945",
+ "title": "프리즌",
+ "genre": "뮤지컬",
+ "from": "2023-07-08",
+ "to": "2023-07-08",
+ "venue": "서귀포예술의전당 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF220945_230626_115046.jpg",
+ "area": "제주특별자치도",
+ "state": "공연완료",
+ "cast": [
+  "이승연",
+  "이정수",
+  "하준석",
+  "홍차민",
+  "박용재",
+  "조웅희",
+  "조용기"
+ ],
+ "facilityId": "FC001231",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "price": "1층석 10,000원, 2층석 5,000원",
+ "schedule": "토요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220945_230626_1150461.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220945_230626_1150460.png"
+ ],
+ "links": [
+  {
+   "name": "서귀포예술의전당",
+   "url": "https://eticket.seogwipo.go.kr/openos/concert/concertDetail.do?facilityGroupCode=7&productCode=C400001409"
+  }
+ ],
+ "updated": "2023-06-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

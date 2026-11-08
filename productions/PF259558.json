@@ -1,0 +1,39 @@
+{
+ "id": "PF259558",
+ "title": "중독",
+ "genre": "연극",
+ "from": "2025-03-07",
+ "to": "2025-03-09",
+ "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF259558_250224_104756.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김석",
+  "박명희",
+  "태보라",
+  "마수현",
+  "김진영",
+  "음현종",
+  "함태현"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 40분",
+ "age": "만 15세 이상",
+ "crew": "김성진, 정나현, 안현정 등",
+ "price": "전석 30,000원",
+ "schedule": "금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF259558_250224_1047561.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF259558_250224_1047560.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25002426"
+  }
+ ],
+ "updated": "2025-02-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,38 @@
+{
+ "id": "PF190802",
+ "title": "그날의 타이밍",
+ "genre": "연극",
+ "from": "2022-07-01",
+ "to": "2022-07-05",
+ "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190802_220510_105255.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "유상혁",
+  "김병윤",
+  "박준용",
+  "이시맥",
+  "구찬서",
+  "이규동",
+  "이제민"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 50분",
+ "age": "만 11세 이상",
+ "producer": "극단 우",
+ "price": "전석 35,000원",
+ "schedule": "월요일 ~ 화요일(16:00,20:00), 금요일(16:00,20:00), 토요일 ~ 일요일(14:00,17:00,20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190802_220510_1052550.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005471"
+  }
+ ],
+ "updated": "2022-05-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

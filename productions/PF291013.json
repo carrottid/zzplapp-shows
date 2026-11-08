@@ -1,0 +1,48 @@
+{
+ "id": "PF291013",
+ "title": "더 라스트맨 2차",
+ "genre": "뮤지컬",
+ "from": "2026-06-09",
+ "to": "2026-08-09",
+ "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF291013_260511_104240.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정민",
+  "주민진",
+  "김려원",
+  "홍나현"
+ ],
+ "facilityId": "FC004779",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "이헌재, 김지식, 김달중 등",
+ "producer": "(주)네오",
+ "price": "R석 70,000원, S석 55,000원",
+ "schedule": "화요일(20:00), 수요일 ~ 목요일(16:00,20:00), 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF291013_202606121040403230.png"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/63096"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/58333"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1779350804"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7181"
+  }
+ ],
+ "updated": "2026-07-20 11:41:48",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

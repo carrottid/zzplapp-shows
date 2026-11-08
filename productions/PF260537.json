@@ -1,0 +1,43 @@
+{
+ "id": "PF260537",
+ "title": "랑데부",
+ "genre": "연극",
+ "from": "2025-04-05",
+ "to": "2025-05-11",
+ "venue": "예술의전당 [서울] (자유소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF260537_250307_150639.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박성웅",
+  "박건형",
+  "최민호",
+  "이수경",
+  "범도하",
+  "김하리"
+ ],
+ "facilityId": "FC000001",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "오환민, 김경태, 김정한 등",
+ "producer": "(주) 더그레이트쇼(The Great Show), 예술의전당, 옐로밤",
+ "price": "전석 70,000원",
+ "schedule": "화요일(19:30), 수요일(15:00), 목요일(19:30), 금요일(15:00,19:30), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF260537_250307_0307472.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF260537_250307_0307471.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25002467"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/53050"
+  }
+ ],
+ "updated": "2025-03-10 15:54:46",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

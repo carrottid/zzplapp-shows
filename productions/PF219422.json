@@ -1,0 +1,43 @@
+{
+ "id": "PF219422",
+ "title": "다시, 동물원",
+ "genre": "뮤지컬",
+ "from": "2023-06-24",
+ "to": "2023-09-17",
+ "venue": "동덕여대공연예술센터 (코튼홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219422_230531_223711.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최승열",
+  "송유택",
+  "임호",
+  "임강성",
+  "강두",
+  "김바다",
+  "장민수"
+ ],
+ "facilityId": "FC000528",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "crew": "이홍철, 김영균, 최승열 등",
+ "producer": "(주)하트앤마인드, 쏠엔터테인먼트 (SSOL)",
+ "price": "R석 88,000원, S석 66,000원",
+ "schedule": "화요일 ~ 수요일(20:00), 목요일(16:00,20:00), 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219422_230531_1037110.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007536"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010179"
+  }
+ ],
+ "updated": "2023-06-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

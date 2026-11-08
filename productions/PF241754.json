@@ -1,0 +1,42 @@
+{
+ "id": "PF241754",
+ "title": "쾅!",
+ "genre": "연극",
+ "from": "2024-06-22",
+ "to": "2024-06-30",
+ "venue": "대학로예술극장 (대극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF241754_240527_111109.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김혜령",
+  "양지영",
+  "염진혁",
+  "오진민",
+  "최현승",
+  "이호",
+  "최이레"
+ ],
+ "facilityId": "FC002633",
+ "runtime": "1시간 10분",
+ "age": "만 7세 이상",
+ "crew": "나수민, 신진호, 김성혁 등",
+ "price": "전석 40,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF241754_240527_1111090.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24007154"
+  },
+  {
+   "name": "아르코대학로예술극장(한국문화예술위원회)",
+   "url": "https://theater.arko.or.kr/product/performance/258096"
+  }
+ ],
+ "updated": "2024-05-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

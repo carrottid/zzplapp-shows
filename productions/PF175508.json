@@ -1,0 +1,38 @@
+{
+ "id": "PF175508",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2021-07-31",
+ "to": "2021-08-01",
+ "venue": "춘천문화예술회관 (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF175508_210623_145241.jpg",
+ "area": "강원특별자치도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "민경아",
+  "최재림",
+  "박건형",
+  "김영주",
+  "김경선"
+ ],
+ "facilityId": "FC000371",
+ "runtime": "2시간 30분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 오민영 등",
+ "price": "VIP석 140,000원, R석 100,000원, S석 70,000원, A석 50,000원",
+ "schedule": "토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF175508_210623_0252410.jpg"
+ ],
+ "links": [
+  {
+   "name": "춘천문화예술회관2",
+   "url": "http://www.cccf.or.kr/designer/skin/performance/detailview.html?p_idx=1800"
+  }
+ ],
+ "updated": "2021-06-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

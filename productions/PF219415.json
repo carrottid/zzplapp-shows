@@ -1,0 +1,38 @@
+{
+ "id": "PF219415",
+ "title": "유리",
+ "genre": "연극",
+ "from": "2023-06-28",
+ "to": "2023-07-09",
+ "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219415_230531_214244.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김세용",
+  "김진주",
+  "여동윤",
+  "임윤경",
+  "신은아",
+  "홍성호"
+ ],
+ "facilityId": "FC000152",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "김광일, 박민규, 최지수 등",
+ "producer": "나는프로덕션, 플레이규컴퍼니(PLAY GYU COMPANY)",
+ "price": "전석 50,000원",
+ "schedule": "수요일 ~ 목요일(19:30), 금요일(16:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219415_230531_0942441.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007433"
+  }
+ ],
+ "updated": "2023-06-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

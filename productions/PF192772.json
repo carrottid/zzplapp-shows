@@ -1,0 +1,39 @@
+{
+ "id": "PF192772",
+ "title": "에쿠우스",
+ "genre": "연극",
+ "from": "2022-09-29",
+ "to": "2022-09-30",
+ "venue": "세종예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF192772_220614_103448.gif",
+ "area": "세종특별자치시",
+ "state": "공연완료",
+ "cast": [
+  "장두이",
+  "김시유",
+  "김예림",
+  "차유경",
+  "이양숙",
+  "서광일",
+  "은경균"
+ ],
+ "facilityId": "FC002877",
+ "runtime": "2시간",
+ "age": "만 16세 이상",
+ "crew": "이한승, 신종한, 김태근 등",
+ "producer": "극단 실험극장",
+ "price": "R석 30,000원, S석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192772_220622_0131570.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22006828"
+  }
+ ],
+ "updated": "2022-06-22 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

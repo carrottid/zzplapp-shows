@@ -1,0 +1,51 @@
+{
+ "id": "PF186076",
+ "title": "해시태그",
+ "genre": "연극",
+ "from": "2022-02-08",
+ "to": "2022-02-27",
+ "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186076_220125_093359.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "전예지",
+  "류인아",
+  "윤승우",
+  "홍승안",
+  "옥경민",
+  "이헤빈",
+  "심수영"
+ ],
+ "facilityId": "FC000833",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "방산, 김민정, 문소현 등",
+ "producer": "A.MOVE(에이무브)",
+ "price": "VIP석 60,000원, R석 40,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186076_220125_0933590.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/37229"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/644464"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22000719"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/9863270826"
+  }
+ ],
+ "updated": "2022-01-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

@@ -1,0 +1,51 @@
+{
+ "id": "PF247592",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2024-10-18",
+ "to": "2024-10-20",
+ "venue": "고양아람누리 (아람극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF247592_240823_142652.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "정선아",
+  "민경아",
+  "박건형",
+  "최재림",
+  "김영주"
+ ],
+ "facilityId": "FC000127",
+ "runtime": "2시간 25분",
+ "age": "만 13세 이상",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 160,000원, R석 140,000원, S석 110,000원, A석 80,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF247592_240823_0225301.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF247592_240823_0225300.jpg"
+ ],
+ "links": [
+  {
+   "name": "고양아람누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000007582"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1220537"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24012004"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/50785"
+  }
+ ],
+ "updated": "2024-08-26 13:24:54",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

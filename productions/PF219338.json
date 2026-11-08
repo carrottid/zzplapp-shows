@@ -1,0 +1,41 @@
+{
+ "id": "PF219338",
+ "title": "분장실",
+ "genre": "연극",
+ "from": "2023-09-09",
+ "to": "2023-09-10",
+ "venue": "고양어울림누리 (별모래극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219338_230531_101029.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "송옥숙",
+  "황석정",
+  "서영희",
+  "백현주",
+  "방주란",
+  "이일화 임강희"
+ ],
+ "facilityId": "FC000819",
+ "runtime": "1시간 40분",
+ "age": "만 14세 이상",
+ "crew": "윤서현, 신경수 김태형 등",
+ "price": "전석 45,000원",
+ "schedule": "토요일(14:00,17:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219338_230531_1010290.jpg"
+ ],
+ "links": [
+  {
+   "name": "고양어울림누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000007017"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007525"
+  }
+ ],
+ "updated": "2023-05-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

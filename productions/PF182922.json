@@ -1,0 +1,56 @@
+{
+ "id": "PF182922",
+ "title": "시카고",
+ "genre": "뮤지컬",
+ "from": "2021-12-31",
+ "to": "2022-01-02",
+ "venue": "고양아람누리 (아람극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182922_211112_094617.gif",
+ "area": "경기도",
+ "state": "공연완료",
+ "cast": [
+  "최정원",
+  "윤공주",
+  "민경아",
+  "박건형",
+  "최재림",
+  "김영주",
+  "김경선"
+ ],
+ "facilityId": "FC000127",
+ "runtime": "2시간 45분",
+ "age": "만 13세 이상",
+ "crew": "김태훈, 노지현, 오민영 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "VIP석 140,000원, R석 120,000원, S석 90,000원, A석 70,000원",
+ "schedule": "금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182922_211112_0946171.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182922_211112_0946170.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/265897"
+  },
+  {
+   "name": "고양아람누리(고양문화재단)",
+   "url": "http://www.artgy.or.kr/PF/PF0201V.aspx?showid=0000006492"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/608966"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011301"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/40734"
+  }
+ ],
+ "updated": "2021-11-12 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

@@ -1,0 +1,35 @@
+{
+ "id": "PF187132",
+ "title": "유엔젤보이스 뮤지컬콘서트",
+ "genre": "뮤지컬",
+ "from": "2022-03-03",
+ "to": "2022-03-03",
+ "venue": "롯데콘서트홀 (롯데콘서트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF187132_220223_105417.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "조현우",
+  "이기연",
+  "배지영",
+  "이한나",
+  "박동현"
+ ],
+ "facilityId": "FC001513",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "price": "R석 100,000원, S석 70,000원, A석 50,000원",
+ "schedule": "목요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187132_220223_1054170.jpg"
+ ],
+ "links": [
+  {
+   "name": "롯데콘서트홀",
+   "url": "http://www.lotteconcerthall.com/kor/Performance/ConcertDetails/259143"
+  }
+ ],
+ "updated": "2025-03-24 16:06:58",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

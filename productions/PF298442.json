@@ -1,0 +1,40 @@
+{
+ "id": "PF298442",
+ "title": "등등곡",
+ "genre": "뮤지컬",
+ "from": "2026-09-12",
+ "to": "2026-09-12",
+ "venue": "군산예술의전당 (대공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298442_260813_140847.jpg",
+ "area": "전북특별자치도",
+ "state": "공연완료",
+ "cast": [
+  "안재영",
+  "김바다",
+  "김서환",
+  "박주혁",
+  "임태현"
+ ],
+ "facilityId": "FC000447",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "producer": "군산예술의전당",
+ "price": "전석 20,000원",
+ "schedule": "토요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF298442_202608130208473060.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/64920"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1716279"
+  }
+ ],
+ "updated": "2026-08-13 15:00:00.084444",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

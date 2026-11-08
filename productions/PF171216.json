@@ -1,0 +1,38 @@
+{
+ "id": "PF171216",
+ "title": "고코로",
+ "genre": "뮤지컬",
+ "from": "2021-02-04",
+ "to": "2021-02-07",
+ "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171216_210126_103801.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박봉준",
+  "장원석",
+  "이은율",
+  "고태연",
+  "원미래",
+  "김대식",
+  "신석수"
+ ],
+ "facilityId": "FC001877",
+ "runtime": "1시간 10분",
+ "age": "전체 관람가",
+ "crew": "이규린, 이종석, 이나영 등",
+ "price": "전석 15,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171216_210804_0548241.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000359"
+  }
+ ],
+ "updated": "2021-01-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

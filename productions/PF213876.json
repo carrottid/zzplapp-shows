@@ -1,0 +1,56 @@
+{
+ "id": "PF213876",
+ "title": "라흐마니노프",
+ "genre": "뮤지컬",
+ "from": "2023-04-01",
+ "to": "2023-04-22",
+ "venue": "국립중앙박물관 극장 용 (국립중앙박물관 극장 용)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF213876_230224_094949.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박유덕",
+  "안재영",
+  "정욱진",
+  "유성재",
+  "정민",
+  "김경수",
+  "임병근",
+  "정동화"
+ ],
+ "facilityId": "FC000008",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "한승원, 김종석, 김유현 등",
+ "producer": "(재)국립박물관문화재단, (주)에이치제이컬쳐(HJ컬쳐)",
+ "price": "R석 77,000원, S석 55,000원, A석 44,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213876_230224_0949490.jpg"
+ ],
+ "links": [
+  {
+   "name": "11번가",
+   "url": "http://ticket.11st.co.kr/Product/Detail/267365"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/854804"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23002574"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45040"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77025"
+  }
+ ],
+ "updated": "2023-02-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

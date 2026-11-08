@@ -1,0 +1,37 @@
+{
+ "id": "PF214083",
+ "title": "6시 퇴근",
+ "genre": "뮤지컬",
+ "from": "2023-04-07",
+ "to": "2023-04-07",
+ "venue": "안동문화예술의전당 (웅부홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF214083_230227_142303.jpg",
+ "area": "경상북도",
+ "state": "공연완료",
+ "cast": [
+  "고유진",
+  "사현정",
+  "유환웅",
+  "신진경",
+  "이민재",
+  "박태성",
+  "정휘욱"
+ ],
+ "facilityId": "FC000537",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "price": "R석 30,000원, S석 20,000원, A석 10,000원",
+ "schedule": "금요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214083_230227_0223030.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/854774"
+  }
+ ],
+ "updated": "2023-02-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

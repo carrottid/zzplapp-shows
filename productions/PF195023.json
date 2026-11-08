@@ -1,0 +1,61 @@
+{
+ "id": "PF195023",
+ "title": "더 테이블 The Table",
+ "genre": "연극",
+ "from": "2022-08-19",
+ "to": "2022-08-28",
+ "venue": "국립극장 (달오름극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF195023_220721_134344.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이원종",
+  "정원조",
+  "안유진",
+  "김유진",
+  "구준모",
+  "이찬렬"
+ ],
+ "facilityId": "FC000003",
+ "runtime": "1시간 20분",
+ "age": "만 15세 이상",
+ "crew": "전용석, 권혁미, 한윤섭 등",
+ "price": "R석 55,000원, S석 44,000원, A석 33,000원",
+ "schedule": "화요일(19:30), 수요일(16:00,19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195023_220721_0143444.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195023_220721_0143443.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195023_220721_0143442.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195023_220721_0143441.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF195023_220721_0143440.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극장",
+   "url": "https://www.ntok.go.kr/kr/Ticket/Performance/Details?performanceId=266282"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/736309"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22009103"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/42944"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/12791646218"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000008136"
+  }
+ ],
+ "updated": "2022-07-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-08T00:13:05"
+}

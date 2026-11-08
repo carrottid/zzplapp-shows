@@ -1,0 +1,54 @@
+{
+ "id": "PF220051",
+ "title": "트레드밀",
+ "genre": "뮤지컬",
+ "from": "2023-07-02",
+ "to": "2023-09-17",
+ "venue": "링크아트센터드림 (드림 4관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF220051_230612_223733.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정동화",
+  "윤승우",
+  "반정모",
+  "김태형",
+  "유태율",
+  "김방언",
+  "김준영"
+ ],
+ "facilityId": "FC001528",
+ "runtime": "1시간 35분",
+ "age": "만 13세 이상",
+ "crew": "손효원, 박영신, 고야경 등",
+ "price": "워싱존석 65,000원, R석 65,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 목요일(20:00), 금요일(16:00,20:00), 토요일(15:00,19:00), 일요일(16:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220051_230612_1037330.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008025"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77328"
+  },
+  {
+   "name": "페이북",
+   "url": "-"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010234"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5218"
+  }
+ ],
+ "updated": "2023-06-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PF200097",
+ "title": "영웅",
+ "genre": "뮤지컬",
+ "from": "2022-12-03",
+ "to": "2022-12-10",
+ "venue": "계명아트센터 (계명아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF200097_221017_110803.gif",
+ "area": "대구광역시",
+ "state": "공연완료",
+ "cast": [
+  "정성화",
+  "양준모",
+  "민우혁",
+  "김도형",
+  "서영주",
+  "최민철",
+  "정재은"
+ ],
+ "facilityId": "FC001239",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "윤홍선, 윤호진, 윤금정 등",
+ "producer": "(주) 에이콤(ACOM)",
+ "price": "VIP석 150,000원, R석 130,000원, S석 110,000원, A석 90,000원, B석 70,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF200097_221017_1108030.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22013988"
+  }
+ ],
+ "updated": "2022-10-17 17:29:04",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T14:05:14"
+}

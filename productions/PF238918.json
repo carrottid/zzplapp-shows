@@ -1,0 +1,51 @@
+{
+ "id": "PF238918",
+ "title": "벤자민 버튼",
+ "genre": "뮤지컬",
+ "from": "2024-05-11",
+ "to": "2024-06-30",
+ "venue": "세종문화회관 (세종M씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF238918_240409_131105.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김재범",
+  "심창민",
+  "김성식",
+  "김소향",
+  "박은미",
+  "이아름솔",
+  "하은섬"
+ ],
+ "facilityId": "FC000020",
+ "runtime": "2시간 15분",
+ "age": "만 13세 이상",
+ "crew": "엄홍현, 김지원, 조광화 등",
+ "producer": "(주)EMK뮤지컬컴퍼니",
+ "price": "VIP석 120,000원, R석 100,000원, S석 70,000원, 시야제한R석 90,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일(19:30), 금요일(15:00,19:30), 토요일(15:00,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238918_240507_1046591.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=P0003839"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=209689"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/view.do?performIdx=35136&menuNo=200004"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/26876385830"
+  }
+ ],
+ "updated": "2024-04-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-07T13:16:04"
+}
