@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T08:39:32",
+ "updatedAt": "2026-11-09T09:08:33",
  "archives": [
   "2020",
   "2021",
@@ -715,6 +715,41 @@
    "castSource": "none"
   },
   {
+   "id": "PF305003",
+   "title": "소금빌레 리딩 쇼케이스",
+   "genre": "뮤지컬",
+   "from": "2026-11-27",
+   "to": "2026-11-29",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305003_261102_104207.jpg",
+   "cast": [
+    "정단비",
+    "전하영"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305175",
+   "title": "헤일러 리딩 쇼케이스",
+   "genre": "연극",
+   "from": "2026-11-27",
+   "to": "2026-11-28",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305175_261102_172720.jpg",
+   "cast": [
+    "조은정",
+    "신재휘",
+    "고주희",
+    "이서준",
+    "이정민",
+    "최기정",
+    "한수야"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
    "id": "PF304086",
    "title": "닥터 두리틀",
    "genre": "뮤지컬",
@@ -831,6 +866,23 @@
    ],
    "state": "공연예정",
    "castSource": "nol"
+  },
+  {
+   "id": "PF305375",
+   "title": "라떼는 커피다",
+   "genre": "연극",
+   "from": "2026-11-24",
+   "to": "2026-11-26",
+   "venue": "열린극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305375_261104_100900.gif",
+   "cast": [
+    "한병수",
+    "김도연",
+    "차세준",
+    "방준서"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
   },
   {
    "id": "PF304909",
@@ -1188,6 +1240,26 @@
    "castSource": "none"
   },
   {
+   "id": "PF305172",
+   "title": "김정민 & 성찬경 뮤지컬 콘서트: 정찬콘 Vol.1 쓰다, Day.3 발레뤼스",
+   "genre": "뮤지컬",
+   "from": "2026-11-14",
+   "to": "2026-11-14",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305172_261102_171539.jpg",
+   "cast": [
+    "김종구",
+    "김찬호",
+    "조성윤",
+    "김도하",
+    "박상준",
+    "성찬경",
+    "최서인"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
    "id": "PF282986",
    "title": "우카시 트바르코프스키 연출, 로스코",
    "genre": "연극",
@@ -1295,6 +1367,26 @@
    "castSource": "none"
   },
   {
+   "id": "PF305171",
+   "title": "김정민 & 성찬경 뮤지컬 콘서트: 정찬콘 Vol.1 쓰다, Day.2 여든여덟 개의 고통",
+   "genre": "뮤지컬",
+   "from": "2026-11-13",
+   "to": "2026-11-13",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305171_261102_171533.jpg",
+   "cast": [
+    "문경초",
+    "임준혁",
+    "윤승우",
+    "황민수",
+    "이휘종",
+    "성찬경",
+    "박병준"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
    "id": "PF304248",
    "title": "제16회 서울미래연극제, 시지프스는 무엇을 위해 돌을 굴렸나",
    "genre": "연극",
@@ -1330,6 +1422,26 @@
     "김용현",
     "신현희",
     "최우성"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305144",
+   "title": "김정민 & 성찬경 뮤지컬 콘서트 Day.1 정찬콘 vol.1 쓰다",
+   "genre": "뮤지컬",
+   "from": "2026-11-12",
+   "to": "2026-11-12",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305144_261102_161106.jpg",
+   "cast": [
+    "김대현",
+    "김준식",
+    "박선영",
+    "이아진",
+    "전하영",
+    "김정민",
+    "성찬경"
    ],
    "state": "공연예정",
    "castSource": "none"
