@@ -348,7 +348,8 @@
    "venue": "부산문화회관 (중극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217908_230504_123058.png",
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF228462",
@@ -646,7 +647,7 @@
     "이준우"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF222550",
@@ -1288,7 +1289,8 @@
     "박준면"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF222767",
@@ -1459,7 +1461,8 @@
     "양승리"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF226430",
@@ -1615,7 +1618,8 @@
     "크리스토퍼 스컬록"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF225274",
@@ -1778,7 +1782,8 @@
     "권동호"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF225166",
@@ -2023,7 +2028,8 @@
     "유낙원"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF226260",
@@ -2178,7 +2184,8 @@
     "임기홍"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF224796",
@@ -2514,7 +2521,8 @@
     "김경선"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF217346",
@@ -2704,7 +2712,8 @@
     "박준면"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF223601",
@@ -2843,7 +2852,8 @@
     "이일화 임강희"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF220078",
@@ -2894,7 +2904,8 @@
     "최태이"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF222931",
@@ -3480,7 +3491,8 @@
     "안지환"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF222031",
@@ -3888,7 +3900,8 @@
     "김리현"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF221929",
@@ -4374,7 +4387,8 @@
     "강은비"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF220051",
@@ -4854,7 +4868,8 @@
     "조재철"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF217472",
@@ -4874,7 +4889,8 @@
     "이동수"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF217835",
@@ -5070,7 +5086,8 @@
     "황민수"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF216465",
@@ -6510,7 +6527,8 @@
     "정휘욱"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF215557",
@@ -6593,7 +6611,8 @@
     "정동화"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF215230",
@@ -6785,7 +6804,8 @@
     "황건하"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "hidden": true
   },
   {
    "id": "PF213621",
