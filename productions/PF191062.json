@@ -51,5 +51,43 @@
  ],
  "updated": "2022-05-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "큰유진",
+   "name": "강지혜"
+  },
+  {
+   "role": "큰유진",
+   "name": "이상아"
+  },
+  {
+   "role": "큰유진",
+   "name": "홍나현"
+  },
+  {
+   "role": "큰유진",
+   "name": "이아진"
+  },
+  {
+   "role": "작은유진",
+   "name": "임찬민"
+  },
+  {
+   "role": "작은유진",
+   "name": "윤진솔"
+  },
+  {
+   "role": "작은유진",
+   "name": "정우연"
+  },
+  {
+   "role": "작은유진",
+   "name": "송영미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3105"
+ }
 }

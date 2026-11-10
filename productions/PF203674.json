@@ -50,5 +50,47 @@
  ],
  "updated": "2022-12-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "오영원",
+   "name": "김이담"
+  },
+  {
+   "role": "오영원",
+   "name": "정욱진"
+  },
+  {
+   "role": "오영원",
+   "name": "이휘종"
+  },
+  {
+   "role": "오영원",
+   "name": "김민성"
+  },
+  {
+   "role": "한아름",
+   "name": "랑연"
+  },
+  {
+   "role": "한아름",
+   "name": "김청아"
+  },
+  {
+   "role": "한아름",
+   "name": "임소윤"
+  },
+  {
+   "role": "김중길",
+   "name": "김승용"
+  },
+  {
+   "role": "김중길",
+   "name": "이기현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3116"
+ }
 }

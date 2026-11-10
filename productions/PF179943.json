@@ -43,5 +43,67 @@
  ],
  "updated": "2021-09-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "빅터",
+   "name": "민우혁"
+  },
+  {
+   "role": "빅터",
+   "name": "전동석"
+  },
+  {
+   "role": "빅터",
+   "name": "규현"
+  },
+  {
+   "role": "앙리",
+   "name": "박은태"
+  },
+  {
+   "role": "앙리",
+   "name": "카이"
+  },
+  {
+   "role": "앙리",
+   "name": "정택운(레오)"
+  },
+  {
+   "role": "줄리아",
+   "name": "이해나"
+  },
+  {
+   "role": "줄리아",
+   "name": "이봄소리"
+  },
+  {
+   "role": "엘렌",
+   "name": "서지영"
+  },
+  {
+   "role": "엘렌",
+   "name": "김지우"
+  },
+  {
+   "role": "슈테판",
+   "name": "이희정"
+  },
+  {
+   "role": "슈테판",
+   "name": "서현철"
+  },
+  {
+   "role": "룽게",
+   "name": "김대종"
+  },
+  {
+   "role": "룽게",
+   "name": "이정수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3201"
+ }
 }

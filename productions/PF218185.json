@@ -51,5 +51,55 @@
  ],
  "updated": "2023-05-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "한스",
+   "name": "박새힘"
+  },
+  {
+   "role": "한스",
+   "name": "주다온"
+  },
+  {
+   "role": "한스",
+   "name": "유소리"
+  },
+  {
+   "role": "하일러",
+   "name": "송영미"
+  },
+  {
+   "role": "하일러",
+   "name": "이서영"
+  },
+  {
+   "role": "하일러",
+   "name": "유낙원"
+  },
+  {
+   "role": "루치우스 외 목소리",
+   "name": "조은진"
+  },
+  {
+   "role": "루치우스 외 목소리",
+   "name": "전하영"
+  },
+  {
+   "role": "루치우스 외 목소리",
+   "name": "정단비"
+  },
+  {
+   "role": "교장 외 목소리",
+   "name": "박소리"
+  },
+  {
+   "role": "교장 외 목소리",
+   "name": "허순미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3154"
+ }
 }

@@ -43,5 +43,9 @@
  ],
  "updated": "2026-09-15 15:00:00.072101",
  "castSource": "ticketlink",
- "fetchedAt": "2026-11-07T10:52:32"
+ "fetchedAt": "2026-11-07T10:52:32",
+ "color": {
+  "bg": "#3A6FA8",
+  "fg": "#FFFFFF"
+ }
 }

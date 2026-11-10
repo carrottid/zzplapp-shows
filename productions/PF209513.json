@@ -38,5 +38,51 @@
  ],
  "updated": "2023-01-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "천천",
+   "name": "가람"
+  },
+  {
+   "role": "천천",
+   "name": "김민범"
+  },
+  {
+   "role": "천천",
+   "name": "박상혁"
+  },
+  {
+   "role": "비룡",
+   "name": "이준우"
+  },
+  {
+   "role": "비룡",
+   "name": "권익환"
+  },
+  {
+   "role": "비룡",
+   "name": "김제하"
+  },
+  {
+   "role": "취선 외",
+   "name": "유성재"
+  },
+  {
+   "role": "취선 외",
+   "name": "홍성원"
+  },
+  {
+   "role": "맹도 외",
+   "name": "이진혁"
+  },
+  {
+   "role": "맹도 외",
+   "name": "조성필"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3124"
+ }
 }

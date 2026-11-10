@@ -1,0 +1,421 @@
+{
+ "date": "2027-02-07",
+ "sessions": [
+  {
+   "id": "PF303043",
+   "title": "스위니토드 (SWEENEY TODD)",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "13:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1A1A",
+    "fg": "#D01F1F"
+   }
+  },
+  {
+   "id": "PF300974",
+   "title": "두 도시 이야기",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B2A4A",
+    "fg": "#E8B65A"
+   }
+  },
+  {
+   "id": "PF305728",
+   "title": "두 번째 아이",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302677",
+   "title": "미세스 다웃파이어",
+   "genre": "뮤지컬",
+   "venue": "GS아트센터",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1E5FB0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF303594",
+   "title": "브로큰 넘버스 (BROKEN NUMBERS)",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#151515",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF291533",
+   "title": "빨래: 32차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF302015",
+   "title": "시카고",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#D8262B"
+   }
+  },
+  {
+   "id": "PF305507",
+   "title": "아가사 AGATHA",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#7A1F1F",
+    "fg": "#F2E3C0"
+   }
+  },
+  {
+   "id": "PF304068",
+   "title": "앨런 튜링",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#9DB0C4",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF305850",
+   "title": "언더 문보우 (UNDER MOONBOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303673",
+   "title": "여신님이 보고 계셔",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E8FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF303908",
+   "title": "오픈 더 도어",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1A3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF304963",
+   "title": "윌리엄과 윌리엄의 윌리엄들",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A1E14",
+    "fg": "#F2C26B"
+   }
+  },
+  {
+   "id": "PF304574",
+   "title": "인간실격: 사양 편",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#D81E1E"
+   }
+  },
+  {
+   "id": "PF303133",
+   "title": "인트라 무로스 (INTRA MUROS)",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E7FA8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305499",
+   "title": "풍월주",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#14264B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305019",
+   "title": "피장파장의 오류",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2F8F4E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF292160",
+   "title": "겨울왕국",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B6FD0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF302516",
+   "title": "레베카",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0E1B3A",
+    "fg": "#F29A2E"
+   }
+  },
+  {
+   "id": "PF302744",
+   "title": "식스 더 뮤지컬 (SIX THE MUSICAL)",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#5B2A8C",
+    "fg": "#F2C94C"
+   }
+  },
+  {
+   "id": "PF302842",
+   "title": "오페라의 유령 40주년 스페셜 시즌",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B2A5A",
+    "fg": "#E0B25A"
+   }
+  },
+  {
+   "id": "PF305728",
+   "title": "두 번째 아이",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303594",
+   "title": "브로큰 넘버스 (BROKEN NUMBERS)",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#151515",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF303043",
+   "title": "스위니토드 (SWEENEY TODD)",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1A1A",
+    "fg": "#D01F1F"
+   }
+  },
+  {
+   "id": "PF304068",
+   "title": "앨런 튜링",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#9DB0C4",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF305850",
+   "title": "언더 문보우 (UNDER MOONBOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303673",
+   "title": "여신님이 보고 계셔",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E8FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF303908",
+   "title": "오픈 더 도어",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1A3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF304963",
+   "title": "윌리엄과 윌리엄의 윌리엄들",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A1E14",
+    "fg": "#F2C26B"
+   }
+  },
+  {
+   "id": "PF304574",
+   "title": "인간실격: 사양 편",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#D81E1E"
+   }
+  },
+  {
+   "id": "PF303133",
+   "title": "인트라 무로스 (INTRA MUROS)",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E7FA8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305499",
+   "title": "풍월주",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#14264B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305019",
+   "title": "피장파장의 오류",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2F8F4E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF291533",
+   "title": "빨래: 32차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "18:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF305507",
+   "title": "아가사 AGATHA",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "18:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#7A1F1F",
+    "fg": "#F2E3C0"
+   }
+  },
+  {
+   "id": "PF300974",
+   "title": "두 도시 이야기",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B2A4A",
+    "fg": "#E8B65A"
+   }
+  }
+ ]
+}

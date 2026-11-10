@@ -53,5 +53,59 @@
  ],
  "updated": "2023-02-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "아라곤",
+   "name": "손승연"
+  },
+  {
+   "role": "아라곤",
+   "name": "이아름솔"
+  },
+  {
+   "role": "불린",
+   "name": "김지우"
+  },
+  {
+   "role": "불린",
+   "name": "배수정"
+  },
+  {
+   "role": "시모어",
+   "name": "박혜나"
+  },
+  {
+   "role": "시모어",
+   "name": "박가람"
+  },
+  {
+   "role": "클레페",
+   "name": "김지선"
+  },
+  {
+   "role": "클레페",
+   "name": "최현선"
+  },
+  {
+   "role": "하워드",
+   "name": "김려원"
+  },
+  {
+   "role": "하워드",
+   "name": "솔지"
+  },
+  {
+   "role": "파",
+   "name": "유주혜"
+  },
+  {
+   "role": "파",
+   "name": "홍지희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3146"
+ }
 }

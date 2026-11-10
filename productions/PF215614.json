@@ -54,5 +54,47 @@
  ],
  "updated": "2023-03-24 15:00:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "엑스",
+   "name": "송유택"
+  },
+  {
+   "role": "엑스",
+   "name": "동현(보이프렌드)"
+  },
+  {
+   "role": "엑스",
+   "name": "김태형"
+  },
+  {
+   "role": "이든",
+   "name": "유태율"
+  },
+  {
+   "role": "이든",
+   "name": "조훈"
+  },
+  {
+   "role": "이든",
+   "name": "신혁수"
+  },
+  {
+   "role": "주피터",
+   "name": "최영준"
+  },
+  {
+   "role": "주피터",
+   "name": "정상윤"
+  },
+  {
+   "role": "주피터",
+   "name": "이진혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3157"
+ }
 }

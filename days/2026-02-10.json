@@ -1,0 +1,413 @@
+{
+ "date": "2026-02-10",
+ "sessions": [
+  {
+   "id": "PF277515",
+   "title": "벙커 트릴로지",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF271914",
+   "title": "내가 하면 로맨스",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF273019",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF280583",
+   "title": "노인의 꿈",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF283835",
+   "title": "님만헤민 게스트하우스",
+   "genre": "뮤지컬",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF279234",
+   "title": "더 드레서",
+   "genre": "연극",
+   "venue": "국립극장 (달오름극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF274745",
+   "title": "라이프 오브 파이 (LIFE OF PI)",
+   "genre": "연극",
+   "venue": "GS아트센터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF274238",
+   "title": "렌트",
+   "genre": "뮤지컬",
+   "venue": "코엑스아티움(Coex Artium)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF282953",
+   "title": "로드씨어터, 클럽 라틴",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF281142",
+   "title": "몽유도원",
+   "genre": "뮤지컬",
+   "venue": "국립극장 (해오름극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF274266",
+   "title": "물랑루즈!",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277515",
+   "title": "벙커 트릴로지",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277616",
+   "title": "보니 앤 클라이드",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF276168",
+   "title": "비틀쥬스",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF282567",
+   "title": "사의 찬미",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF281763",
+   "title": "살아있는 자를 수선하기",
+   "genre": "연극",
+   "venue": "국립정동극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277594",
+   "title": "센과 치히로의 행방불명 오리지널 투어 (SPIRITED AWAY)",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (오페라극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277092",
+   "title": "슈가 SUGAR",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF276697",
+   "title": "앤ANNE",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF280411",
+   "title": "위키드 내한 공연",
+   "genre": "뮤지컬",
+   "venue": "계명아트센터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF281676",
+   "title": "은밀하게 위대하게: THE LAST",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF282791",
+   "title": "창작산실, 멸종위기종",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF276569",
+   "title": "킹키부츠",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF278326",
+   "title": "타오르는 어둠 속에서",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF283521",
+   "title": "터치 (TOUCH)",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (1관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF281852",
+   "title": "튜링머신",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF276996",
+   "title": "팬레터",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF275178",
+   "title": "한복 입은 남자",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF281820",
+   "title": "A여고 사서의 영광과 비극",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF280227",
+   "title": "고요한, 미행",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF278358",
+   "title": "그때도 오늘2: 꽃신",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF281796",
+   "title": "긴긴밤",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF279586",
+   "title": "나르치스와 골드문트",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF275203",
+   "title": "난쟁이들",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF276238",
+   "title": "로빈",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF279460",
+   "title": "말리",
+   "genre": "뮤지컬",
+   "venue": "백암아트홀",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF278506",
+   "title": "미드나잇: 액터뮤지션",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF283613",
+   "title": "스톤",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF278912",
+   "title": "시지프스",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF283010",
+   "title": "언니들을 찾아서",
+   "genre": "연극",
+   "venue": "아르코예술극장 (소극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF278344",
+   "title": "엘리펀트 송",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF279784",
+   "title": "은하철도의 밤",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF279790",
+   "title": "이터니티",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF282311",
+   "title": "정의의 사람들",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF280129",
+   "title": "제임스 바이런 딘",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277013",
+   "title": "존 도우",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF282307",
+   "title": "초록",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF276992",
+   "title": "캐빈",
+   "genre": "뮤지컬",
+   "venue": "et theatre 1 (구. 눈빛극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277588",
+   "title": "트레이스 유",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF278333",
+   "title": "판",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277515",
+   "title": "벙커 트릴로지",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "21:10",
+   "castSource": "none"
+  }
+ ]
+}

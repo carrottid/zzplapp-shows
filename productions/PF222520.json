@@ -50,5 +50,55 @@
  ],
  "updated": "2023-07-21 14:38:59",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "유다 벤허",
+   "name": "박은태"
+  },
+  {
+   "role": "유다 벤허",
+   "name": "규현"
+  },
+  {
+   "role": "유다 벤허",
+   "name": "신성록"
+  },
+  {
+   "role": "메셀라",
+   "name": "이지훈"
+  },
+  {
+   "role": "메셀라",
+   "name": "박민성"
+  },
+  {
+   "role": "메셀라",
+   "name": "서경수"
+  },
+  {
+   "role": "에스더",
+   "name": "윤공주"
+  },
+  {
+   "role": "에스더",
+   "name": "이정화"
+  },
+  {
+   "role": "에스더",
+   "name": "최지혜"
+  },
+  {
+   "role": "앙상블",
+   "name": "김찬후"
+  },
+  {
+   "role": "앙상블",
+   "name": "이정윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3179"
+ }
 }

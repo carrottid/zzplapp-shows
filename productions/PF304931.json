@@ -36,5 +36,9 @@
  ],
  "updated": "2026-10-30 15:00:03.089931",
  "castSource": "yes24",
- "fetchedAt": "2026-11-07T10:52:32"
+ "fetchedAt": "2026-11-07T10:52:32",
+ "color": {
+  "bg": "#5C7DB5",
+  "fg": "#FFFFFF"
+ }
 }

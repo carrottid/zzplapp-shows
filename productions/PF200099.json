@@ -47,5 +47,75 @@
  ],
  "updated": "2022-10-17 17:29:04",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "엘리자베스",
+   "name": "정선아"
+  },
+  {
+   "role": "엘리자베스",
+   "name": "박혜나"
+  },
+  {
+   "role": "엘리자베스",
+   "name": "유리아"
+  },
+  {
+   "role": "루카스",
+   "name": "에녹"
+  },
+  {
+   "role": "루카스",
+   "name": "송원근"
+  },
+  {
+   "role": "조쉬",
+   "name": "조형균"
+  },
+  {
+   "role": "조쉬",
+   "name": "신성민"
+  },
+  {
+   "role": "조쉬",
+   "name": "윤소호"
+  },
+  {
+   "role": "케이트",
+   "name": "최현선"
+  },
+  {
+   "role": "케이트",
+   "name": "이아름솔"
+  },
+  {
+   "role": "스티븐",
+   "name": "조휘"
+  },
+  {
+   "role": "스티븐",
+   "name": "임별"
+  },
+  {
+   "role": "앤",
+   "name": "정영아"
+  },
+  {
+   "role": "데이빗",
+   "name": "박좌헌"
+  },
+  {
+   "role": "데이빗",
+   "name": "김찬종"
+  },
+  {
+   "role": "엘레나",
+   "name": "전해주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3035"
+ }
 }

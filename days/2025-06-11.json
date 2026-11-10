@@ -1,0 +1,357 @@
+{
+ "date": "2025-06-11",
+ "sessions": [
+  {
+   "id": "PF262644",
+   "title": "팬텀",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262683",
+   "title": "베어 더 뮤지컬",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258445",
+   "title": "연극열전10, 프라이드",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258711",
+   "title": "니진스키",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264647",
+   "title": "두 낫 디스터브",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264136",
+   "title": "디 이펙트 (THE EFFECT)",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258479",
+   "title": "라흐 헤스트",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263586",
+   "title": "머피",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260784",
+   "title": "소란스러운 나의 서림에서",
+   "genre": "뮤지컬",
+   "venue": "et theatre 1 (구. 눈빛극장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263396",
+   "title": "연극열전10, 킬 미 나우",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263222",
+   "title": "와일드 그레이",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260484",
+   "title": "이매지너리",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253995",
+   "title": "보이스 오브 햄릿",
+   "genre": "뮤지컬",
+   "venue": "국립극장 (하늘극장)",
+   "time": "16:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260441",
+   "title": "매디슨 카운티의 다리",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262683",
+   "title": "베어 더 뮤지컬",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253995",
+   "title": "보이스 오브 햄릿",
+   "genre": "뮤지컬",
+   "venue": "국립극장 (하늘극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259288",
+   "title": "빨래: 20년의 시간 30번째 무대",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261748",
+   "title": "사랑은 비를 타고",
+   "genre": "뮤지컬",
+   "venue": "백암아트홀",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257898",
+   "title": "서울시극단, 유령",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257897",
+   "title": "서울시뮤지컬단, 더 퍼스트 그레잇쇼",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248198",
+   "title": "알라딘",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258445",
+   "title": "연극열전10, 프라이드",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264299",
+   "title": "제46회 서울연극제, 은의 밤",
+   "genre": "연극",
+   "venue": "대학로예술극장 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264470",
+   "title": "제46회 서울연극제, 이상한 나라의, 사라",
+   "genre": "연극",
+   "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263635",
+   "title": "지킬앤하이드",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262644",
+   "title": "팬텀",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260395",
+   "title": "6시 퇴근",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261892",
+   "title": "구텐버그",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258711",
+   "title": "니진스키",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264647",
+   "title": "두 낫 디스터브",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264136",
+   "title": "디 이펙트 (THE EFFECT)",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258479",
+   "title": "라흐 헤스트",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263586",
+   "title": "머피",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264498",
+   "title": "무릎을 긁었는데 겨드랑이가 따끔하여",
+   "genre": "연극",
+   "venue": "아르코예술극장 (소극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261834",
+   "title": "백작",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260108",
+   "title": "붉은 정원",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260784",
+   "title": "소란스러운 나의 서림에서",
+   "genre": "뮤지컬",
+   "venue": "et theatre 1 (구. 눈빛극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263396",
+   "title": "연극열전10, 킬 미 나우",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263222",
+   "title": "와일드 그레이",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260484",
+   "title": "이매지너리",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263593",
+   "title": "차미",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259818",
+   "title": "컨택트",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262205",
+   "title": "킬링시저",
+   "genre": "연극",
+   "venue": "서강대 메리홀 (대극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263016",
+   "title": "태일",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

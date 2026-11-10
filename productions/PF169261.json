@@ -47,5 +47,87 @@
  ],
  "updated": "2020-11-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "비지터",
+   "name": "김찬호"
+  },
+  {
+   "role": "비지터",
+   "name": "이충주"
+  },
+  {
+   "role": "비지터",
+   "name": "이석준"
+  },
+  {
+   "role": "맨",
+   "name": "정동화"
+  },
+  {
+   "role": "맨",
+   "name": "배두훈"
+  },
+  {
+   "role": "맨",
+   "name": "현석준"
+  },
+  {
+   "role": "우먼",
+   "name": "김소향"
+  },
+  {
+   "role": "우먼",
+   "name": "최연우"
+  },
+  {
+   "role": "우먼",
+   "name": "김수연"
+  },
+  {
+   "role": "퍼커션",
+   "name": "김경민"
+  },
+  {
+   "role": "퍼커션",
+   "name": "박선영"
+  },
+  {
+   "role": "바이올린",
+   "name": "박신애"
+  },
+  {
+   "role": "바이올린",
+   "name": "고예일"
+  },
+  {
+   "role": "기타",
+   "name": "김문학"
+  },
+  {
+   "role": "기타",
+   "name": "최윤호"
+  },
+  {
+   "role": "콘트라베이스",
+   "name": "김동현"
+  },
+  {
+   "role": "콘트라베이스",
+   "name": "김병무"
+  },
+  {
+   "role": "피아노",
+   "name": "조재철"
+  },
+  {
+   "role": "피아노",
+   "name": "김동빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3028"
+ }
 }

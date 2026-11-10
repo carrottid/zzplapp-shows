@@ -1,0 +1,285 @@
+{
+ "date": "2024-11-07",
+ "sessions": [
+  {
+   "id": "PF249781",
+   "title": "꼼메디아 디 피노키오",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF249771",
+   "title": "DAC Artist 배해률, 시차",
+   "genre": "연극",
+   "venue": "두산아트센터 (Space111)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF247293",
+   "title": "광화문 연가",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233651",
+   "title": "김성녀의 뮤지컬모노드라마, 벽 속의 요정 (A Fairy in the Wall)",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF249282",
+   "title": "뜨거운 바다",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF245746",
+   "title": "리지 LIZZIE",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251618",
+   "title": "바울과 나",
+   "genre": "뮤지컬",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF247057",
+   "title": "부치하난",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF250428",
+   "title": "비 오는 날의 인터뷰",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240797",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF245380",
+   "title": "쓰릴 미",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF250694",
+   "title": "아르코 x 벽산, 하얀 밤을 보내고 있을 너에게",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF246342",
+   "title": "어서 오세요, 휴남동 서점입니다",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF247385",
+   "title": "조로: 액터뮤지션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232710",
+   "title": "조엘 폼므라, 이야기와 전설",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248689",
+   "title": "지저스 크라이스트 수퍼스타",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF245325",
+   "title": "킹키부츠",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF245145",
+   "title": "경종수정실록",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF245366",
+   "title": "고도를 기다리며를 기다리며",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251246",
+   "title": "글루미 선데이",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251635",
+   "title": "긴긴밤",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF249781",
+   "title": "꼼메디아 디 피노키오",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF247465",
+   "title": "나와 할아버지",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF246956",
+   "title": "드라이 플라워",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF246472",
+   "title": "랭보",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF245723",
+   "title": "룰렛",
+   "genre": "뮤지컬",
+   "venue": "연남장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248007",
+   "title": "방구석 뮤지컬",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248178",
+   "title": "보이즈 인 더 밴드",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF246403",
+   "title": "빈센트 반 고흐",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF246653",
+   "title": "연극열전10, 킬롤로지",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF246648",
+   "title": "이터니티 (ETERNITY)",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF249813",
+   "title": "쿠로이 저택엔 누가 살고 있을까?",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF250255",
+   "title": "클로버",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF250861",
+   "title": "해적",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF247062",
+   "title": "홀리 이노센트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

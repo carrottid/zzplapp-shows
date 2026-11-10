@@ -51,5 +51,75 @@
  ],
  "updated": "2023-01-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "리온",
+   "name": "유태율"
+  },
+  {
+   "role": "리온",
+   "name": "기세중"
+  },
+  {
+   "role": "리온",
+   "name": "노윤"
+  },
+  {
+   "role": "일라이",
+   "name": "배나라"
+  },
+  {
+   "role": "일라이",
+   "name": "홍승안"
+  },
+  {
+   "role": "일라이",
+   "name": "박좌헌"
+  },
+  {
+   "role": "소피",
+   "name": "이서영"
+  },
+  {
+   "role": "소피",
+   "name": "이지연"
+  },
+  {
+   "role": "앨리스",
+   "name": "임예진"
+  },
+  {
+   "role": "앨리스",
+   "name": "성민재"
+  },
+  {
+   "role": "율리아",
+   "name": "백예은"
+  },
+  {
+   "role": "율리아",
+   "name": "선유하"
+  },
+  {
+   "role": "저스틴",
+   "name": "신혁수"
+  },
+  {
+   "role": "저스틴",
+   "name": "홍기범"
+  },
+  {
+   "role": "교장",
+   "name": "정재헌"
+  },
+  {
+   "role": "교장",
+   "name": "변희상"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3132"
+ }
 }

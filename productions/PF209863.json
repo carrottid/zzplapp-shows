@@ -47,5 +47,75 @@
  ],
  "updated": "2023-01-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "보이체크",
+   "name": "정민"
+  },
+  {
+   "role": "보이체크",
+   "name": "강정우"
+  },
+  {
+   "role": "보이체크",
+   "name": "윤승우"
+  },
+  {
+   "role": "마리",
+   "name": "최우리"
+  },
+  {
+   "role": "마리",
+   "name": "신의정"
+  },
+  {
+   "role": "마리",
+   "name": "김이후"
+  },
+  {
+   "role": "카를",
+   "name": "조현우"
+  },
+  {
+   "role": "카를",
+   "name": "송광일"
+  },
+  {
+   "role": "대위",
+   "name": "정호준"
+  },
+  {
+   "role": "대위",
+   "name": "심수영"
+  },
+  {
+   "role": "군의관",
+   "name": "한상욱"
+  },
+  {
+   "role": "군의관",
+   "name": "성재"
+  },
+  {
+   "role": "마그레트",
+   "name": "송효원"
+  },
+  {
+   "role": "마그레트",
+   "name": "이동희"
+  },
+  {
+   "role": "안드레스",
+   "name": "한정우"
+  },
+  {
+   "role": "안드레스",
+   "name": "손우민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3121"
+ }
 }

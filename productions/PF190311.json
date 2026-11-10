@@ -39,5 +39,63 @@
  ],
  "updated": "2022-05-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "크뤼거",
+   "name": "이소정"
+  },
+  {
+   "role": "크뤼거",
+   "name": "이봉련"
+  },
+  {
+   "role": "제니",
+   "name": "한재아"
+  },
+  {
+   "role": "제니",
+   "name": "홍서영"
+  },
+  {
+   "role": "제니",
+   "name": "이동수"
+  },
+  {
+   "role": "뮈체",
+   "name": "류제윤"
+  },
+  {
+   "role": "뢰벤/교도소장",
+   "name": "조영태"
+  },
+  {
+   "role": "뢰벤/교도소장",
+   "name": "이승재"
+  },
+  {
+   "role": "한나",
+   "name": "양지원"
+  },
+  {
+   "role": "프랭키",
+   "name": "노지연"
+  },
+  {
+   "role": "아이즈",
+   "name": "김하연"
+  },
+  {
+   "role": "되르테",
+   "name": "안현아"
+  },
+  {
+   "role": "바릭",
+   "name": "김병영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3104"
+ }
 }

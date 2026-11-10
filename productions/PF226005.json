@@ -43,5 +43,79 @@
  ],
  "updated": "2023-09-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "나영",
+   "name": "강연정"
+  },
+  {
+   "role": "나영",
+   "name": "박은미"
+  },
+  {
+   "role": "나영",
+   "name": "장혜민"
+  },
+  {
+   "role": "솔롱고",
+   "name": "조상웅"
+  },
+  {
+   "role": "솔롱고",
+   "name": "문남권"
+  },
+  {
+   "role": "솔롱고",
+   "name": "강기헌"
+  },
+  {
+   "role": "주인할매",
+   "name": "최정화"
+  },
+  {
+   "role": "주인할매",
+   "name": "진미사"
+  },
+  {
+   "role": "주인할매",
+   "name": "조영임"
+  },
+  {
+   "role": "희정엄마",
+   "name": "양미경"
+  },
+  {
+   "role": "희정엄마",
+   "name": "백지예"
+  },
+  {
+   "role": "희정엄마",
+   "name": "김은지"
+  },
+  {
+   "role": "구씨",
+   "name": "장격수"
+  },
+  {
+   "role": "구씨",
+   "name": "이승헌"
+  },
+  {
+   "role": "구씨",
+   "name": "이강혁"
+  },
+  {
+   "role": "구씨",
+   "name": "김지훈"
+  },
+  {
+   "role": "빵",
+   "name": "심우성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3191"
+ }
 }

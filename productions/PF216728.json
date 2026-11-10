@@ -41,5 +41,35 @@
  ],
  "updated": "2025-11-04 16:46:24",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "존 윌리엄 폴리도리",
+   "name": "최석진"
+  },
+  {
+   "role": "존 윌리엄 폴리도리",
+   "name": "현석준"
+  },
+  {
+   "role": "존 윌리엄 폴리도리",
+   "name": "황순종"
+  },
+  {
+   "role": "조지 고든 바이런",
+   "name": "주민진"
+  },
+  {
+   "role": "조지 고든 바이런",
+   "name": "박정원"
+  },
+  {
+   "role": "조지 고든 바이런",
+   "name": "손유동"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3148"
+ }
 }

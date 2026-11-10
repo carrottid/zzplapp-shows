@@ -49,5 +49,43 @@
  ],
  "updated": "2021-02-16 11:00:14",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "김소현"
+  },
+  {
+   "role": "명성황후",
+   "name": "신영숙"
+  },
+  {
+   "role": "고종",
+   "name": "강필석"
+  },
+  {
+   "role": "고종",
+   "name": "손준호"
+  },
+  {
+   "role": "홍계훈",
+   "name": "박민성"
+  },
+  {
+   "role": "홍계훈",
+   "name": "윤형렬"
+  },
+  {
+   "role": "홍계훈",
+   "name": "이창섭"
+  },
+  {
+   "role": "앙상블",
+   "name": "김찬후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3203"
+ }
 }

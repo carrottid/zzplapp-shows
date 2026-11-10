@@ -54,5 +54,35 @@
  ],
  "updated": "2023-07-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "제이",
+   "name": "최연우"
+  },
+  {
+   "role": "제이",
+   "name": "김예원"
+  },
+  {
+   "role": "제이",
+   "name": "강지혜"
+  },
+  {
+   "role": "은기",
+   "name": "임준혁"
+  },
+  {
+   "role": "은기",
+   "name": "정휘"
+  },
+  {
+   "role": "은기",
+   "name": "황휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3165"
+ }
 }

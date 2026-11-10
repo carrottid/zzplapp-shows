@@ -51,5 +51,55 @@
  ],
  "updated": "2022-08-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "테레즈 라캥",
+   "name": "오소연"
+  },
+  {
+   "role": "테레즈 라캥",
+   "name": "최연우"
+  },
+  {
+   "role": "테레즈 라캥",
+   "name": "선민"
+  },
+  {
+   "role": "로랑",
+   "name": "정민"
+  },
+  {
+   "role": "로랑",
+   "name": "박정원"
+  },
+  {
+   "role": "로랑",
+   "name": "동현(보이프렌드)"
+  },
+  {
+   "role": "카미유 라캥",
+   "name": "이진우"
+  },
+  {
+   "role": "카미유 라캥",
+   "name": "김민강"
+  },
+  {
+   "role": "카미유 라캥",
+   "name": "곽다인"
+  },
+  {
+   "role": "라캥 부인",
+   "name": "이혜경"
+  },
+  {
+   "role": "라캥 부인",
+   "name": "오진영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3086"
+ }
 }

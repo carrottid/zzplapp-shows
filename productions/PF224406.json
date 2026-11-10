@@ -55,5 +55,71 @@
  ],
  "updated": "2023-08-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "이헌",
+   "name": "정상윤"
+  },
+  {
+   "role": "이헌",
+   "name": "성연"
+  },
+  {
+   "role": "이헌",
+   "name": "김진욱"
+  },
+  {
+   "role": "이헌",
+   "name": "김준호"
+  },
+  {
+   "role": "린",
+   "name": "소정화"
+  },
+  {
+   "role": "린",
+   "name": "박새힘"
+  },
+  {
+   "role": "린",
+   "name": "장보람"
+  },
+  {
+   "role": "린",
+   "name": "주다온"
+  },
+  {
+   "role": "용",
+   "name": "강찬"
+  },
+  {
+   "role": "용",
+   "name": "김리현"
+  },
+  {
+   "role": "용",
+   "name": "김지웅"
+  },
+  {
+   "role": "수연",
+   "name": "전민지"
+  },
+  {
+   "role": "수연",
+   "name": "조영화"
+  },
+  {
+   "role": "수연",
+   "name": "표바하"
+  },
+  {
+   "role": "수연",
+   "name": "이채원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3195"
+ }
 }

@@ -43,5 +43,59 @@
  ],
  "updated": "2020-11-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "초",
+   "name": "김재범"
+  },
+  {
+   "role": "초",
+   "name": "에녹"
+  },
+  {
+   "role": "초",
+   "name": "김경수"
+  },
+  {
+   "role": "초",
+   "name": "임병근"
+  },
+  {
+   "role": "초",
+   "name": "장지후"
+  },
+  {
+   "role": "해",
+   "name": "강찬"
+  },
+  {
+   "role": "해",
+   "name": "최민우"
+  },
+  {
+   "role": "해",
+   "name": "김태오"
+  },
+  {
+   "role": "해",
+   "name": "강은일"
+  },
+  {
+   "role": "홍",
+   "name": "장은아"
+  },
+  {
+   "role": "홍",
+   "name": "이정화"
+  },
+  {
+   "role": "홍",
+   "name": "허혜진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3029"
+ }
 }

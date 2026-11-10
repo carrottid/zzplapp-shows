@@ -45,5 +45,71 @@
  ],
  "updated": "2022-12-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "실비아",
+   "name": "주다온"
+  },
+  {
+   "role": "실비아",
+   "name": "박란주"
+  },
+  {
+   "role": "실비아",
+   "name": "이수정"
+  },
+  {
+   "role": "빅토리아",
+   "name": "이지숙"
+  },
+  {
+   "role": "빅토리아",
+   "name": "고은영"
+  },
+  {
+   "role": "빅토리아",
+   "name": "주다온"
+  },
+  {
+   "role": "테드",
+   "name": "문지수"
+  },
+  {
+   "role": "테드",
+   "name": "김세환"
+  },
+  {
+   "role": "테드",
+   "name": "이규현"
+  },
+  {
+   "role": "루이스 보셔 외",
+   "name": "김수정"
+  },
+  {
+   "role": "루이스 보셔 외",
+   "name": "전성혜"
+  },
+  {
+   "role": "알라베즈 외",
+   "name": "이민규"
+  },
+  {
+   "role": "알라베즈 외",
+   "name": "장두환"
+  },
+  {
+   "role": "그리고...",
+   "name": "고유니"
+  },
+  {
+   "role": "그리고...",
+   "name": "고쥬니"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3130"
+ }
 }

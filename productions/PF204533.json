@@ -35,5 +35,59 @@
  ],
  "updated": "2022-12-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "다이스",
+   "name": "황민수"
+  },
+  {
+   "role": "다이스",
+   "name": "황두현"
+  },
+  {
+   "role": "셀리나",
+   "name": "이상아"
+  },
+  {
+   "role": "셀리나",
+   "name": "효은"
+  },
+  {
+   "role": "아르콘",
+   "name": "안창용"
+  },
+  {
+   "role": "아르콘",
+   "name": "문경초"
+  },
+  {
+   "role": "시논",
+   "name": "김지훈"
+  },
+  {
+   "role": "시논",
+   "name": "김보근"
+  },
+  {
+   "role": "테베로",
+   "name": "장민수"
+  },
+  {
+   "role": "테베로",
+   "name": "하도빈"
+  },
+  {
+   "role": "피티아",
+   "name": "유희지"
+  },
+  {
+   "role": "피티아",
+   "name": "옥경민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3123"
+ }
 }

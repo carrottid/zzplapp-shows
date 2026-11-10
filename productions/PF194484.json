@@ -55,5 +55,83 @@
  ],
  "updated": "2022-09-01 17:03:08",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "차이코프스키",
+   "name": "에녹"
+  },
+  {
+   "role": "차이코프스키",
+   "name": "김경수"
+  },
+  {
+   "role": "차이코프스키",
+   "name": "박규원"
+  },
+  {
+   "role": "안나",
+   "name": "김소향"
+  },
+  {
+   "role": "안나",
+   "name": "최수진"
+  },
+  {
+   "role": "안나",
+   "name": "최서연"
+  },
+  {
+   "role": "세자르",
+   "name": "임병근"
+  },
+  {
+   "role": "세자르",
+   "name": "테이"
+  },
+  {
+   "role": "세자르",
+   "name": "안재영"
+  },
+  {
+   "role": "알료샤",
+   "name": "김지온"
+  },
+  {
+   "role": "알료샤",
+   "name": "정재환"
+  },
+  {
+   "role": "알료샤",
+   "name": "김리현"
+  },
+  {
+   "role": "오네긴",
+   "name": "송상훈"
+  },
+  {
+   "role": "타치아나",
+   "name": "조은진"
+  },
+  {
+   "role": "클라라",
+   "name": "곽나윤"
+  },
+  {
+   "role": "프리츠",
+   "name": "홍기범"
+  },
+  {
+   "role": "스윙",
+   "name": "장원석"
+  },
+  {
+   "role": "스윙",
+   "name": "손지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3081"
+ }
 }

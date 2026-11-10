@@ -55,5 +55,59 @@
  ],
  "updated": "2023-02-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "유진 킴",
+   "name": "정성일"
+  },
+  {
+   "role": "유진 킴",
+   "name": "정상윤"
+  },
+  {
+   "role": "유진 킴",
+   "name": "박영수"
+  },
+  {
+   "role": "유진 킴",
+   "name": "김지철"
+  },
+  {
+   "role": "싱클레어 고든",
+   "name": "최호승"
+  },
+  {
+   "role": "싱클레어 고든",
+   "name": "손유동"
+  },
+  {
+   "role": "싱클레어 고든",
+   "name": "현석준"
+  },
+  {
+   "role": "싱클레어 고든",
+   "name": "김리현"
+  },
+  {
+   "role": "조안 시니어",
+   "name": "박새힘"
+  },
+  {
+   "role": "조안 시니어",
+   "name": "조영화"
+  },
+  {
+   "role": "조안 시니어",
+   "name": "유소리"
+  },
+  {
+   "role": "조안 시니어",
+   "name": "문은수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3125"
+ }
 }

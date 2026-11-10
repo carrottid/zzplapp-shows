@@ -1,0 +1,453 @@
+{
+ "date": "2026-10-05",
+ "sessions": [
+  {
+   "id": "PF298385",
+   "title": "나와 할아버지",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "오용",
+     "personId": "1855"
+    },
+    {
+     "name": "신현수",
+     "personId": "35074"
+    },
+    {
+     "name": "정선아",
+     "personId": "1731"
+    },
+    {
+     "name": "윤석현",
+     "personId": "2341"
+    }
+   ],
+   "color": {
+    "bg": "#F2C400",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF296319",
+   "title": "다이브",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "14:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "박새힘"
+    },
+    {
+     "name": "조영화"
+    },
+    {
+     "name": "강찬"
+    },
+    {
+     "name": "이민규"
+    },
+    {
+     "name": "박주아"
+    }
+   ],
+   "color": {
+    "bg": "#1E7FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF296139",
+   "title": "미드나잇: 액터뮤지션 THE CHOICE",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김대현",
+     "personId": "48044"
+    },
+    {
+     "name": "김태형",
+     "personId": "51437"
+    },
+    {
+     "name": "박혜민",
+     "personId": "53026"
+    },
+    {
+     "name": "양정현",
+     "personId": "57541"
+    },
+    {
+     "name": "김소진",
+     "personId": "51932"
+    },
+    {
+     "name": "강현동",
+     "personId": "57110"
+    },
+    {
+     "name": "신은규",
+     "personId": "57543"
+    },
+    {
+     "name": "전현우",
+     "personId": "57115"
+    }
+   ],
+   "color": {
+    "bg": "#0E1018",
+    "fg": "#E8C86A"
+   }
+  },
+  {
+   "id": "PF299169",
+   "title": "미드나잇: 앤틀러스",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김려원",
+     "personId": "36044"
+    },
+    {
+     "name": "신수빈",
+     "personId": "45089"
+    },
+    {
+     "name": "여은",
+     "personId": "40132"
+    },
+    {
+     "name": "강대운",
+     "personId": "46682"
+    },
+    {
+     "name": "송정은",
+     "personId": "53201"
+    }
+   ],
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#D8312B"
+   }
+  },
+  {
+   "id": "PF297794",
+   "title": "엠. 버터플라이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "주민진",
+     "personId": "17709"
+    },
+    {
+     "name": "홍기범",
+     "personId": "51082"
+    },
+    {
+     "name": "장재웅",
+     "personId": "46344"
+    },
+    {
+     "name": "안상은",
+     "personId": "27632"
+    },
+    {
+     "name": "황만익",
+     "personId": "3729"
+    }
+   ],
+   "color": {
+    "bg": "#8E1B4E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF298171",
+   "title": "오셀로와 이아고",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "박규원",
+     "personId": "24832"
+    },
+    {
+     "name": "양지원",
+     "personId": "32898"
+    }
+   ],
+   "color": {
+    "bg": "#A3151B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF291886",
+   "title": "헬스키친",
+   "genre": "뮤지컬",
+   "venue": "GS아트센터",
+   "time": "15:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "박지원",
+     "personId": "57352"
+    },
+    {
+     "name": "최현선",
+     "personId": "8054"
+    },
+    {
+     "name": "김영주",
+     "personId": "3746"
+    },
+    {
+     "name": "케이윌",
+     "personId": "18552"
+    },
+    {
+     "name": "박광선",
+     "personId": "38116"
+    }
+   ],
+   "color": {
+    "bg": "#D98A1E",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF298385",
+   "title": "나와 할아버지",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "17:30",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "양경원",
+     "personId": "26227"
+    },
+    {
+     "name": "신현수",
+     "personId": "35074"
+    },
+    {
+     "name": "서예화",
+     "personId": "22005"
+    },
+    {
+     "name": "차용학",
+     "personId": "16549"
+    }
+   ],
+   "color": {
+    "bg": "#F2C400",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF296319",
+   "title": "다이브",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "18:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "박새힘"
+    },
+    {
+     "name": "조영화"
+    },
+    {
+     "name": "강찬"
+    },
+    {
+     "name": "이민규"
+    },
+    {
+     "name": "박주아"
+    }
+   ],
+   "color": {
+    "bg": "#1E7FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF296139",
+   "title": "미드나잇: 액터뮤지션 THE CHOICE",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김대현",
+     "personId": "48044"
+    },
+    {
+     "name": "한재원",
+     "personId": "48309"
+    },
+    {
+     "name": "박혜민",
+     "personId": "53026"
+    },
+    {
+     "name": "양정현",
+     "personId": "57541"
+    },
+    {
+     "name": "김소진",
+     "personId": "51932"
+    },
+    {
+     "name": "강현동",
+     "personId": "57110"
+    },
+    {
+     "name": "신은규",
+     "personId": "57543"
+    },
+    {
+     "name": "전현우",
+     "personId": "57115"
+    }
+   ],
+   "color": {
+    "bg": "#0E1018",
+    "fg": "#E8C86A"
+   }
+  },
+  {
+   "id": "PF299169",
+   "title": "미드나잇: 앤틀러스",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김종구",
+     "personId": "17507"
+    },
+    {
+     "name": "이창용",
+     "personId": "4202"
+    },
+    {
+     "name": "박시인",
+     "personId": "38821"
+    },
+    {
+     "name": "정종환",
+     "personId": "44988"
+    },
+    {
+     "name": "방가희",
+     "personId": "50922"
+    }
+   ],
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#D8312B"
+   }
+  },
+  {
+   "id": "PF297794",
+   "title": "엠. 버터플라이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "주민진",
+     "personId": "17709"
+    },
+    {
+     "name": "유태율",
+     "personId": "50232"
+    },
+    {
+     "name": "장재웅",
+     "personId": "46344"
+    },
+    {
+     "name": "안상은",
+     "personId": "27632"
+    },
+    {
+     "name": "황만익",
+     "personId": "3729"
+    }
+   ],
+   "color": {
+    "bg": "#8E1B4E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF298171",
+   "title": "오셀로와 이아고",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김지온",
+     "personId": "28458"
+    },
+    {
+     "name": "김경록",
+     "personId": "37813"
+    }
+   ],
+   "color": {
+    "bg": "#A3151B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF299807",
+   "title": "신부님. 신부님? 신부님!",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2118",
+    "fg": "#3FB8A8"
+   }
+  },
+  {
+   "id": "PF300366",
+   "title": "컴포터",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#F2B01E"
+   }
+  }
+ ]
+}

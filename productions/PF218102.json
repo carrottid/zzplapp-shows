@@ -55,5 +55,47 @@
  ],
  "updated": "2023-05-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "한스",
+   "name": "김이담"
+  },
+  {
+   "role": "한스",
+   "name": "유승우"
+  },
+  {
+   "role": "한스",
+   "name": "조용휘"
+  },
+  {
+   "role": "콜린",
+   "name": "김찬호"
+  },
+  {
+   "role": "콜린",
+   "name": "성연"
+  },
+  {
+   "role": "콜린",
+   "name": "이한솔"
+  },
+  {
+   "role": "소녀",
+   "name": "송영미"
+  },
+  {
+   "role": "소녀",
+   "name": "윤진솔"
+  },
+  {
+   "role": "소녀",
+   "name": "임소윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3149"
+ }
 }

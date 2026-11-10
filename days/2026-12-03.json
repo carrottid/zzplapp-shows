@@ -7,7 +7,11 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4B2E83",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF303036",
@@ -15,7 +19,11 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F5A3E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302270",
@@ -34,7 +42,11 @@
     {
      "name": "함태규"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2A2038",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304784",
@@ -42,7 +54,11 @@
    "genre": "연극",
    "venue": "동덕여대공연예술센터 (코튼홀)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8B4C0",
+    "fg": "#7A2E45"
+   }
   },
   {
    "id": "PF292160",
@@ -76,7 +92,11 @@
      "name": "정열",
      "personId": "33163"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B6FD0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304705",
@@ -84,7 +104,11 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E0245E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304181",
@@ -92,7 +116,11 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F3F9E",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF300616",
@@ -114,7 +142,11 @@
     {
      "name": "주수경"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304086",
@@ -151,7 +183,11 @@
     {
      "name": "이채영"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1F3D2B",
+    "fg": "#F2E3A0"
+   }
   },
   {
    "id": "PF300974",
@@ -181,7 +217,11 @@
      "name": "나유진",
      "personId": "12101"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B2A4A",
+    "fg": "#E8B65A"
+   }
   },
   {
    "id": "PF302516",
@@ -189,7 +229,11 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0E1B3A",
+    "fg": "#F29A2E"
+   }
   },
   {
    "id": "PF299346",
@@ -215,7 +259,11 @@
      "name": "박슬기",
      "personId": "46696"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#14183A",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF305670",
@@ -258,7 +306,11 @@
     {
      "name": "김명희"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#14204A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302677",
@@ -280,7 +332,11 @@
     {
      "name": "윤사봉"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1E5FB0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304765",
@@ -288,7 +344,11 @@
    "genre": "뮤지컬",
    "venue": "후암스테이지",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1D14",
+    "fg": "#F2C26B"
+   }
   },
   {
    "id": "PF291533",
@@ -296,7 +356,11 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF282162",
@@ -304,7 +368,11 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B3A4B",
+    "fg": "#F2E3C0"
+   }
   },
   {
    "id": "PF300790",
@@ -312,13 +380,29 @@
    "genre": "뮤지컬",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1B3D",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF298289",
    "title": "스타크로스드",
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#8E2A22",
+    "fg": "#F2E3C6"
+   }
+  },
+  {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "venue": "열린극장",
    "time": "19:30",
    "castSource": "none"
   },
@@ -328,7 +412,11 @@
    "genre": "연극",
    "venue": "소극장 혜화당 (구. 까망소극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A2F3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305450",
@@ -336,7 +424,11 @@
    "genre": "연극",
    "venue": "아르코 꿈밭극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3B1E4A",
+    "fg": "#F2D600"
+   }
   },
   {
    "id": "PF302437",
@@ -344,7 +436,11 @@
    "genre": "연극",
    "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E4FA8",
+    "fg": "#F28C28"
+   }
   },
   {
    "id": "PF304757",
@@ -352,7 +448,11 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D82B2B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301565",
@@ -371,7 +471,11 @@
     {
      "name": "조민호"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#0E1626",
+    "fg": "#C9B27C"
+   }
   },
   {
    "id": "PF302270",
@@ -390,7 +494,11 @@
     {
      "name": "이동연"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2A2038",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297684",
@@ -406,7 +514,11 @@
     {
      "name": "안지환"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#F2C400",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF301746",
@@ -434,7 +546,11 @@
     {
      "name": "박민주"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2A2350",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303594",
@@ -459,7 +575,11 @@
     {
      "name": "정호준"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#151515",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300941",
@@ -475,7 +595,11 @@
     {
      "name": "동현"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#3A6FA8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300598",
@@ -497,7 +621,11 @@
     {
      "name": "박소리"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#3A2A1E",
+    "fg": "#E8C88A"
+   }
   },
   {
    "id": "PF298593",
@@ -516,7 +644,11 @@
     {
      "name": "박준형"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#F2B51C",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF297794",
@@ -546,7 +678,11 @@
      "name": "황만익",
      "personId": "3729"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#8E1B4E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303673",
@@ -584,7 +720,11 @@
      "name": "최서연",
      "personId": "31844"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2E8FB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299855",
@@ -609,7 +749,11 @@
     {
      "name": "한비"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2FA39A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303133",
@@ -639,7 +783,11 @@
      "name": "한수림",
      "personId": "37450"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2E7FA8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301677",
@@ -653,7 +801,11 @@
      "name": "이동휘",
      "personId": "54766"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#E0A070",
+    "fg": "#1B2A4A"
+   }
   },
   {
    "id": "PF296104",
@@ -699,7 +851,11 @@
      "name": "강리운",
      "personId": "41811"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#3A2A20",
+    "fg": "#F2C14E"
+   }
   },
   {
    "id": "PF298745",
@@ -725,7 +881,11 @@
      "name": "소주연",
      "personId": "54969"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#B8284A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304638",
@@ -750,7 +910,11 @@
     {
      "name": "김기주"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#8CA3B8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF301208",
@@ -772,7 +936,11 @@
     {
      "name": "권슬아"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#F28C1E",
+    "fg": "#1B2A6B"
+   }
   },
   {
    "id": "PF301308",
@@ -780,7 +948,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

@@ -38,5 +38,47 @@
  ],
  "updated": "2023-03-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "신",
+   "name": "황한나"
+  },
+  {
+   "role": "신",
+   "name": "정다희"
+  },
+  {
+   "role": "악상",
+   "name": "임진섭"
+  },
+  {
+   "role": "악상",
+   "name": "장윤석"
+  },
+  {
+   "role": "악상",
+   "name": "류찬열"
+  },
+  {
+   "role": "영",
+   "name": "박새힘"
+  },
+  {
+   "role": "영",
+   "name": "전혜주"
+  },
+  {
+   "role": "호상",
+   "name": "심수영"
+  },
+  {
+   "role": "호상",
+   "name": "정찬호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3138"
+ }
 }

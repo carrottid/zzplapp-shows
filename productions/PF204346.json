@@ -38,5 +38,43 @@
  ],
  "updated": "2022-12-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "싱클레어&데미안",
+   "name": "유승현"
+  },
+  {
+   "role": "싱클레어&데미안",
+   "name": "임찬민"
+  },
+  {
+   "role": "싱클레어&데미안",
+   "name": "김현진"
+  },
+  {
+   "role": "싱클레어&데미안",
+   "name": "이한별"
+  },
+  {
+   "role": "싱클레어&데미안",
+   "name": "이규학"
+  },
+  {
+   "role": "싱클레어&데미안",
+   "name": "박새힘"
+  },
+  {
+   "role": "싱클레어&데미안",
+   "name": "홍나현"
+  },
+  {
+   "role": "싱클레어&데미안",
+   "name": "류동휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3119"
+ }
 }

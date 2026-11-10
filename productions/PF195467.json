@@ -47,5 +47,51 @@
  ],
  "updated": "2022-07-29 16:16:02",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "김향안",
+   "name": "이지숙"
+  },
+  {
+   "role": "김향안",
+   "name": "제이민"
+  },
+  {
+   "role": "김환기",
+   "name": "박영수"
+  },
+  {
+   "role": "김환기",
+   "name": "이준혁"
+  },
+  {
+   "role": "김환기",
+   "name": "양지원"
+  },
+  {
+   "role": "변동림",
+   "name": "임찬민"
+  },
+  {
+   "role": "변동림",
+   "name": "김주연"
+  },
+  {
+   "role": "변동림",
+   "name": "최지혜"
+  },
+  {
+   "role": "이상",
+   "name": "안지환"
+  },
+  {
+   "role": "이상",
+   "name": "임진섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3083"
+ }
 }

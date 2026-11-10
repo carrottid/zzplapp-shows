@@ -43,5 +43,51 @@
  ],
  "updated": "2023-05-31 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "준",
+   "name": "강찬"
+  },
+  {
+   "role": "준",
+   "name": "이승헌"
+  },
+  {
+   "role": "준",
+   "name": "황두현"
+  },
+  {
+   "role": "양철",
+   "name": "송유택"
+  },
+  {
+   "role": "양철",
+   "name": "윤은오"
+  },
+  {
+   "role": "양철",
+   "name": "홍성원"
+  },
+  {
+   "role": "맥스",
+   "name": "송상훈"
+  },
+  {
+   "role": "맥스",
+   "name": "송효원"
+  },
+  {
+   "role": "버튼",
+   "name": "정경훈"
+  },
+  {
+   "role": "버튼",
+   "name": "임태현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3163"
+ }
 }

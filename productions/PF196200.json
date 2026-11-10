@@ -42,5 +42,51 @@
  ],
  "updated": "2022-08-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "모딜리아니",
+   "name": "김준영"
+  },
+  {
+   "role": "모딜리아니",
+   "name": "윤승우"
+  },
+  {
+   "role": "모딜리아니",
+   "name": "황민수"
+  },
+  {
+   "role": "모딜리아니",
+   "name": "조성태"
+  },
+  {
+   "role": "잔",
+   "name": "이수정"
+  },
+  {
+   "role": "잔",
+   "name": "금조"
+  },
+  {
+   "role": "잔",
+   "name": "이채민"
+  },
+  {
+   "role": "싱어",
+   "name": "황두현"
+  },
+  {
+   "role": "싱어",
+   "name": "김방언"
+  },
+  {
+   "role": "싱어",
+   "name": "심수영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3088"
+ }
 }

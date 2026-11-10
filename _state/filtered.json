@@ -740,7 +740,7 @@
   "title": "자취",
   "genre": "연극",
   "from": "2020-02-28",
-  "to": "2026-10-31",
+  "to": "2026-11-30",
   "venue": "댕로홀",
   "area": "서울특별시",
   "openRun": true,
@@ -15019,7 +15019,7 @@
   "title": "죽여주는 이야기",
   "genre": "연극",
   "from": "2023-07-01",
-  "to": "2026-11-30",
+  "to": "2027-03-31",
   "venue": "지인시어터(구. 알과핵소극장)",
   "area": "서울특별시",
   "openRun": true,
@@ -25531,7 +25531,7 @@
   "title": "라이어 1탄 (1관)",
   "genre": "연극",
   "from": "2025-01-10",
-  "to": "2026-10-31",
+  "to": "2026-11-29",
   "venue": "상명아트홀",
   "area": "서울특별시",
   "openRun": true,
@@ -35553,7 +35553,7 @@
   "title": "크리미널 시즌5",
   "genre": "연극",
   "from": "2026-04-12",
-  "to": "2026-10-31",
+  "to": "2026-12-31",
   "venue": "봄날아트홀 (구. 아리랑소극장)",
   "area": "서울특별시",
   "openRun": true,
@@ -37737,7 +37737,7 @@
   "title": "수상한 룸메이트 (원작 비누향기)",
   "genre": "연극",
   "from": "2026-08-01",
-  "to": "2026-11-30",
+  "to": "2027-01-03",
   "venue": "서연아트홀 (구. 인아소극장)",
   "area": "서울특별시",
   "openRun": true,
@@ -41759,5 +41759,300 @@
    "venue_not_listed"
   ],
   "since": "2026-11-09"
+ },
+ "PF305700": {
+  "id": "PF305700",
+  "title": "폭풍우 치는 밤에",
+  "genre": "뮤지컬",
+  "from": "2027-01-02",
+  "to": "2027-07-03",
+  "venue": "올림픽공원",
+  "area": "서울특별시",
+  "age": "24개월 이상",
+  "hall": "올림픽공원 (뮤즈라이브)",
+  "facilityId": "FC001247",
+  "producer": "태극무대",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305718": {
+  "id": "PF305718",
+  "title": "살아있는 박물관 속 고인돌",
+  "genre": "연극",
+  "from": "2026-11-14",
+  "to": "2026-12-19",
+  "venue": "춘천인형극장",
+  "area": "강원특별자치도",
+  "age": "36개월 이상",
+  "hall": "춘천인형극장 (춘천인형극박물관)",
+  "facilityId": "FC000680",
+  "producer": "춘천시립인형극단",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305735": {
+  "id": "PF305735",
+  "title": "언제는 행복하지 않은 순간이 있었나요 (언행순)",
+  "genre": "뮤지컬",
+  "from": "2026-11-11",
+  "to": "2027-01-31",
+  "venue": "엠스테이지 (구.인사아트홀)",
+  "area": "서울특별시",
+  "age": "전체 관람가",
+  "hall": "엠스테이지 (구.인사아트홀) (2관)",
+  "facilityId": "FC001535",
+  "producer": "엠스테이지",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305746": {
+  "id": "PF305746",
+  "title": "아기돼지 삼형제",
+  "genre": "뮤지컬",
+  "from": "2026-11-21",
+  "to": "2026-11-29",
+  "venue": "아띠홀",
+  "area": "인천광역시",
+  "age": "전체 관람가",
+  "hall": "아띠홀 (아띠홀)",
+  "facilityId": "FC001927",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305758": {
+  "id": "PF305758",
+  "title": "1 + 1 = 3",
+  "genre": "연극",
+  "from": "2026-11-18",
+  "to": "2026-11-21",
+  "venue": "나다소극장",
+  "area": "부산광역시",
+  "age": "만 12세 이상",
+  "hall": "나다소극장 (나다소극장)",
+  "facilityId": "FC001287",
+  "producer": "극단 배우창고",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305800": {
+  "id": "PF305800",
+  "title": "보이지 않는 톱니바퀴는 계속 돌아간다",
+  "genre": "연극",
+  "from": "2026-12-03",
+  "to": "2026-12-06",
+  "venue": "더 씨어터",
+  "area": "서울특별시",
+  "age": "만 12세 이상",
+  "hall": "더 씨어터 (더 씨어터)",
+  "facilityId": "FC001249",
+  "producer": "극단 진",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305823": {
+  "id": "PF305823",
+  "title": "살벌한 형제",
+  "genre": "연극",
+  "from": "2027-01-15",
+  "to": "2027-03-07",
+  "venue": "아트플러스씨어터",
+  "area": "대구광역시",
+  "age": "만 10세 이상",
+  "hall": "아트플러스씨어터 (2관)",
+  "facilityId": "FC000298",
+  "producer": "(주)아트플러스씨어터",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305827": {
+  "id": "PF305827",
+  "title": "트라피스트-1e",
+  "genre": "연극",
+  "from": "2026-11-26",
+  "to": "2026-12-06",
+  "venue": "씨어터 쿰",
+  "area": "서울특별시",
+  "age": "만 14세 이상",
+  "hall": "씨어터 쿰 (씨어터 쿰)",
+  "facilityId": "FC002588",
+  "producer": "상상만발극장 2",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305831": {
+  "id": "PF305831",
+  "title": "핑크트럭",
+  "genre": "연극",
+  "from": "2026-11-28",
+  "to": "2027-03-01",
+  "venue": "대학로 스타릿홀",
+  "area": "서울특별시",
+  "detailed": false,
+  "reasons": [
+   "venue_blocked"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305833": {
+  "id": "PF305833",
+  "title": "딱 한 시간만",
+  "genre": "연극",
+  "from": "2026-12-03",
+  "to": "2026-12-13",
+  "venue": "공간아울",
+  "area": "서울특별시",
+  "age": "만 13세 이상",
+  "hall": "공간아울 (공간아울)",
+  "facilityId": "FC001209",
+  "producer": "극단 화동연우회",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305835": {
+  "id": "PF305835",
+  "title": "사과가 쿵!",
+  "genre": "뮤지컬",
+  "from": "2027-01-02",
+  "to": "2027-02-14",
+  "venue": "KBS 수원아트홀",
+  "area": "경기도",
+  "age": "24개월 이상",
+  "hall": "KBS 수원아트홀 (KBS 수원아트홀)",
+  "facilityId": "FC000926",
+  "producer": "극단 복주머니",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305847": {
+  "id": "PF305847",
+  "title": "엄마와 아들: 아들, 엄마도 처음이야!",
+  "genre": "연극",
+  "from": "2026-11-18",
+  "to": "2026-12-20",
+  "venue": "세우아트센터",
+  "area": "서울특별시",
+  "age": "만 11세 이상",
+  "hall": "세우아트센터 (2관)",
+  "facilityId": "FC000794",
+  "producer": "데이문",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305853": {
+  "id": "PF305853",
+  "title": "호두까기인형",
+  "genre": "뮤지컬",
+  "from": "2026-12-01",
+  "to": "2027-01-03",
+  "venue": "서연아트홀 (구. 인아소극장)",
+  "area": "서울특별시",
+  "detailed": false,
+  "reasons": [
+   "venue_blocked"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305869": {
+  "id": "PF305869",
+  "title": "우리는 지금 어디에 있을까",
+  "genre": "연극",
+  "from": "2026-11-25",
+  "to": "2026-11-29",
+  "venue": "나인진홀 (구.청년극장)",
+  "area": "서울특별시",
+  "age": "만 15세 이상",
+  "hall": "나인진홀 (구.청년극장) (나인진홀 3관(5F))",
+  "facilityId": "FC001121",
+  "producer": "극단 괴물",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305887": {
+  "id": "PF305887",
+  "title": "어림없는 청춘",
+  "genre": "뮤지컬",
+  "from": "2026-12-05",
+  "to": "2026-12-13",
+  "venue": "한예극장",
+  "area": "서울특별시",
+  "age": "만 13세 이상",
+  "hall": "한예극장 (한예극장)",
+  "facilityId": "FC003249",
+  "producer": "아트인셉션",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305898": {
+  "id": "PF305898",
+  "title": "던던던: 던져진, 던지는, 던져질",
+  "genre": "연극",
+  "from": "2026-11-26",
+  "to": "2026-11-29",
+  "venue": "갤러리 컬러미배드",
+  "area": "서울특별시",
+  "age": "전체 관람가",
+  "hall": "갤러리 컬러미배드 (컬러미배드(B1))",
+  "facilityId": "FC005183",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
+ },
+ "PF305900": {
+  "id": "PF305900",
+  "title": "들오리",
+  "genre": "연극",
+  "from": "2026-11-27",
+  "to": "2026-12-06",
+  "venue": "극장 PLOT",
+  "area": "서울특별시",
+  "age": "만 13세 이상",
+  "hall": "극장 PLOT (극장 PLOT)",
+  "facilityId": "FC003048",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-10"
  }
 }

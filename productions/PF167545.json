@@ -35,5 +35,39 @@
  ],
  "updated": "2020-09-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "아킬레스",
+   "name": "고훈정"
+  },
+  {
+   "role": "아킬레스",
+   "name": "양지원"
+  },
+  {
+   "role": "아킬레스",
+   "name": "이승현"
+  },
+  {
+   "role": "헥토르 외",
+   "name": "김이후"
+  },
+  {
+   "role": "헥토르 외",
+   "name": "홍미금"
+  },
+  {
+   "role": "파트로클로스 외",
+   "name": "서동진"
+  },
+  {
+   "role": "파트로클로스 외",
+   "name": "정선기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3009"
+ }
 }

@@ -36,5 +36,75 @@
  ],
  "updated": "2020-08-11 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "콰지모도",
+   "name": "안젤로 델 베키오(Angelo Del Vecchio)"
+  },
+  {
+   "role": "에스메랄다",
+   "name": "히바 타와지 (Hiba Tawaji)"
+  },
+  {
+   "role": "그랭구와르",
+   "name": "리샤르 샤레스트(Richard Charest)"
+  },
+  {
+   "role": "그랭구와르",
+   "name": "플로 칼리 (Flo Carli)"
+  },
+  {
+   "role": "프롤로",
+   "name": "다니엘 라부아 (Daniel Lavoie)"
+  },
+  {
+   "role": "프롤로",
+   "name": "로베르 마리엥(Robert Marien)"
+  },
+  {
+   "role": "클로팽",
+   "name": "제이 (Jay)"
+  },
+  {
+   "role": "클로팽",
+   "name": "아이작 엔지 (Isaac N'zi)"
+  },
+  {
+   "role": "페뷔스",
+   "name": "쟌 마르코 스키아레띠 (Gian Marco Schiaretti)"
+  },
+  {
+   "role": "페뷔스",
+   "name": "마틴 지로 (Martin Giroux)"
+  },
+  {
+   "role": "페뷔스",
+   "name": "플로 칼리 (Flo Carli)"
+  },
+  {
+   "role": "페뷔스",
+   "name": "이반 페노(Yvan Pedneault)"
+  },
+  {
+   "role": "페뷔스",
+   "name": "제레미 아믈랭(Jeremy Amelin)"
+  },
+  {
+   "role": "플뢰르 드 리스",
+   "name": "알리제 라랑드 (Alyzee Lalande)"
+  },
+  {
+   "role": "플뢰르 드 리스",
+   "name": "로미나 팔메리 (Romina Palmeri)"
+  },
+  {
+   "role": "플뢰르 드 리스",
+   "name": "엘하이다 다니 (ElHaida Dani)"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3001"
+ }
 }

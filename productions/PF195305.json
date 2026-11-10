@@ -58,5 +58,55 @@
  ],
  "updated": "2022-07-27 14:39:28",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "roleCast": [
+  {
+   "role": "버들",
+   "name": "홍지희"
+  },
+  {
+   "role": "버들",
+   "name": "이혜란"
+  },
+  {
+   "role": "홍주",
+   "name": "정은영"
+  },
+  {
+   "role": "홍주",
+   "name": "이수정"
+  },
+  {
+   "role": "송화",
+   "name": "임지영"
+  },
+  {
+   "role": "송화",
+   "name": "주다온"
+  },
+  {
+   "role": "태완",
+   "name": "박영수"
+  },
+  {
+   "role": "태완",
+   "name": "허도영"
+  },
+  {
+   "role": "준혁",
+   "name": "정동화"
+  },
+  {
+   "role": "준혁",
+   "name": "김범준"
+  },
+  {
+   "role": "펄",
+   "name": "이선주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3107"
+ }
 }

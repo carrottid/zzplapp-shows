@@ -67,5 +67,83 @@
  ],
  "updated": "2020-09-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "에바 호프",
+   "name": "김선영"
+  },
+  {
+   "role": "에바 호프",
+   "name": "김지현"
+  },
+  {
+   "role": "K(케이)",
+   "name": "김경수"
+  },
+  {
+   "role": "K(케이)",
+   "name": "고훈정"
+  },
+  {
+   "role": "K(케이)",
+   "name": "조형균"
+  },
+  {
+   "role": "마리",
+   "name": "최은실"
+  },
+  {
+   "role": "마리",
+   "name": "김려원"
+  },
+  {
+   "role": "과거 호프",
+   "name": "최서연"
+  },
+  {
+   "role": "과거 호프",
+   "name": "이예은"
+  },
+  {
+   "role": "과거 호프",
+   "name": "이윤하"
+  },
+  {
+   "role": "베르트",
+   "name": "지혜근"
+  },
+  {
+   "role": "베르트",
+   "name": "김순택"
+  },
+  {
+   "role": "카델",
+   "name": "진태화"
+  },
+  {
+   "role": "카델",
+   "name": "이승헌"
+  },
+  {
+   "role": "책갈피",
+   "name": "임하람"
+  },
+  {
+   "role": "책갈피",
+   "name": "박좌헌"
+  },
+  {
+   "role": "책갈피",
+   "name": "반정모"
+  },
+  {
+   "role": "책갈피",
+   "name": "조민호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3008"
+ }
 }

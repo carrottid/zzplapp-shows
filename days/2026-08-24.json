@@ -1,0 +1,61 @@
+{
+ "date": "2026-08-24",
+ "sessions": [
+  {
+   "id": "PF293924",
+   "title": "결혼전야",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#F2B7A8",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF296285",
+   "title": "면회",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#6E94B8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF292095",
+   "title": "브로크백 마운틴",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF294932",
+   "title": "쇄골에 천사가 잠들고 있다",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#14201F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF295815",
+   "title": "최애가 사라졌다",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#C95F9A",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

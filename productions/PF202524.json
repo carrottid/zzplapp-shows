@@ -42,5 +42,67 @@
  ],
  "updated": "2022-11-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "소크라테스",
+   "name": "양동근"
+  },
+  {
+   "role": "소크라테스",
+   "name": "유성재"
+  },
+  {
+   "role": "소크라테스",
+   "name": "정민"
+  },
+  {
+   "role": "멜레토스",
+   "name": "치타"
+  },
+  {
+   "role": "멜레토스",
+   "name": "황민수"
+  },
+  {
+   "role": "멜레토스",
+   "name": "아넌딜라이트"
+  },
+  {
+   "role": "코러스",
+   "name": "장현동"
+  },
+  {
+   "role": "코러스",
+   "name": "이여진"
+  },
+  {
+   "role": "코러스",
+   "name": "김하연"
+  },
+  {
+   "role": "코러스",
+   "name": "전우형"
+  },
+  {
+   "role": "코러스",
+   "name": "오수진"
+  },
+  {
+   "role": "코러스",
+   "name": "진선희"
+  },
+  {
+   "role": "코러스",
+   "name": "김지호"
+  },
+  {
+   "role": "코러스",
+   "name": "윤설현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3118"
+ }
 }

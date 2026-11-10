@@ -1,0 +1,111 @@
+{
+ "date": "2026-10-19",
+ "sessions": [
+  {
+   "id": "PF303376",
+   "title": "올 클리어 (ALL CLEAR)",
+   "genre": "연극",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (ABL생명홀)",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#E8302A"
+   }
+  },
+  {
+   "id": "PF301707",
+   "title": "제1회 ST-NOVA [일반 패키지]",
+   "genre": "연극",
+   "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B1B5E",
+    "fg": "#FF8A3D"
+   }
+  },
+  {
+   "id": "PF303376",
+   "title": "올 클리어 (ALL CLEAR)",
+   "genre": "연극",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (ABL생명홀)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#E8302A"
+   }
+  },
+  {
+   "id": "PF299807",
+   "title": "신부님. 신부님? 신부님!",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2118",
+    "fg": "#3FB8A8"
+   }
+  },
+  {
+   "id": "PF300890",
+   "title": "이상한 나라의 춘자씨",
+   "genre": "뮤지컬",
+   "venue": "더 줌 아트센터",
+   "time": "19:30",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "전국향",
+     "personId": "330"
+    },
+    {
+     "name": "박현철",
+     "personId": "28846"
+    },
+    {
+     "name": "전민준",
+     "personId": "4209"
+    },
+    {
+     "name": "강나리",
+     "personId": "16494"
+    },
+    {
+     "name": "양나은",
+     "personId": "53481"
+    }
+   ],
+   "color": {
+    "bg": "#7B4FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF302497",
+   "title": "비공식 클래스",
+   "genre": "연극",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (ABL생명홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A0A0A",
+    "fg": "#D8312B"
+   }
+  },
+  {
+   "id": "PF300366",
+   "title": "컴포터",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#F2B01E"
+   }
+  }
+ ]
+}

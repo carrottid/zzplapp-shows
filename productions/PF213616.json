@@ -50,5 +50,51 @@
  ],
  "updated": "2023-02-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "야가미 라이토",
+   "name": "홍광호"
+  },
+  {
+   "role": "야가미 라이토",
+   "name": "고은성"
+  },
+  {
+   "role": "엘(L)",
+   "name": "김준수"
+  },
+  {
+   "role": "엘(L)",
+   "name": "김성철"
+  },
+  {
+   "role": "렘",
+   "name": "이영미"
+  },
+  {
+   "role": "렘",
+   "name": "장은아"
+  },
+  {
+   "role": "류크",
+   "name": "서경수"
+  },
+  {
+   "role": "류크",
+   "name": "장지후"
+  },
+  {
+   "role": "아마네 미사",
+   "name": "류인아"
+  },
+  {
+   "role": "아마네 미사",
+   "name": "장민제"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3137"
+ }
 }

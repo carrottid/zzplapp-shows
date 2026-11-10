@@ -2,6 +2,14 @@
  "date": "2026-12-12",
  "sessions": [
   {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "12:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF292160",
    "title": "겨울왕국",
    "genre": "뮤지컬",
@@ -33,7 +41,11 @@
      "name": "임진웅",
      "personId": "43"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B6FD0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304181",
@@ -41,7 +53,11 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F3F9E",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF300616",
@@ -49,7 +65,11 @@
    "genre": "연극",
    "venue": "et theatre 1 (구. 눈빛극장)",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304086",
@@ -86,7 +106,11 @@
     {
      "name": "이채영"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1F3D2B",
+    "fg": "#F2E3A0"
+   }
   },
   {
    "id": "PF300974",
@@ -116,7 +140,11 @@
      "name": "최나래",
      "personId": "3594"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B2A4A",
+    "fg": "#E8B65A"
+   }
   },
   {
    "id": "PF303036",
@@ -124,7 +152,11 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F5A3E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302516",
@@ -132,7 +164,11 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0E1B3A",
+    "fg": "#F29A2E"
+   }
   },
   {
    "id": "PF305670",
@@ -175,7 +211,11 @@
     {
      "name": "장예원"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#14204A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299888",
@@ -183,7 +223,11 @@
    "genre": "뮤지컬",
    "venue": "포항문화예술회관 (대공연장)",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F6B4B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302677",
@@ -205,7 +249,11 @@
     {
      "name": "김연진"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1E5FB0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291533",
@@ -213,7 +261,11 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF300598",
@@ -221,7 +273,11 @@
    "genre": "뮤지컬",
    "venue": "SH아트홀",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A2A1E",
+    "fg": "#E8C88A"
+   }
   },
   {
    "id": "PF303043",
@@ -255,7 +311,11 @@
      "name": "장혜린",
      "personId": "52291"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1A1A1A",
+    "fg": "#D01F1F"
+   }
   },
   {
    "id": "PF302015",
@@ -280,7 +340,11 @@
     {
      "name": "S. J. Kim"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#000000",
+    "fg": "#D8262B"
+   }
   },
   {
    "id": "PF305507",
@@ -326,7 +390,19 @@
      "name": "이찬렬",
      "personId": "46030"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#7A1F1F",
+    "fg": "#F2E3C0"
+   }
+  },
+  {
+   "id": "PF305850",
+   "title": "언더 문보우 (UNDER MOONBOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "14:00",
+   "castSource": "none"
   },
   {
    "id": "PF303673",
@@ -364,7 +440,11 @@
      "name": "최서연",
      "personId": "31844"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2E8FB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303908",
@@ -386,7 +466,11 @@
      "name": "곽선영",
      "personId": "4009"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#0F1A3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305676",
@@ -394,7 +478,11 @@
    "genre": "뮤지컬",
    "venue": "연우소극장",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E1B3F",
+    "fg": "#F26B4F"
+   }
   },
   {
    "id": "PF296104",
@@ -440,7 +528,11 @@
      "name": "강리운",
      "personId": "41811"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#3A2A20",
+    "fg": "#F2C14E"
+   }
   },
   {
    "id": "PF304638",
@@ -465,7 +557,11 @@
     {
      "name": "김종현"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#8CA3B8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF301565",
@@ -484,7 +580,11 @@
     {
      "name": "이동수"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#0E1626",
+    "fg": "#C9B27C"
+   }
   },
   {
    "id": "PF302270",
@@ -492,7 +592,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2038",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304705",
@@ -500,7 +604,11 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E0245E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295977",
@@ -508,13 +616,29 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4B2E83",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF304785",
    "title": "나의 레논에게",
    "genre": "연극",
    "venue": "나온씨어터",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#E3A9A4",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF305728",
+   "title": "두 번째 아이",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
    "time": "15:00",
    "castSource": "none"
   },
@@ -542,7 +666,11 @@
      "name": "이수빈",
      "personId": "26432"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#14183A",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF301746",
@@ -550,7 +678,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2350",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303594",
@@ -575,7 +707,11 @@
     {
      "name": "이현재"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#151515",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300941",
@@ -591,7 +727,11 @@
     {
      "name": "김찰리"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#3A6FA8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF282162",
@@ -599,7 +739,11 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B3A4B",
+    "fg": "#F2E3C0"
+   }
   },
   {
    "id": "PF300790",
@@ -607,7 +751,11 @@
    "genre": "뮤지컬",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1B3D",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF298289",
@@ -615,7 +763,11 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#8E2A22",
+    "fg": "#F2E3C6"
+   }
   },
   {
    "id": "PF297794",
@@ -645,7 +797,19 @@
      "name": "김승용",
      "personId": "21118"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#8E1B4E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "15:00",
+   "castSource": "none"
   },
   {
    "id": "PF304963",
@@ -664,7 +828,11 @@
     {
      "name": "이세헌"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2A1E14",
+    "fg": "#F2C26B"
+   }
   },
   {
    "id": "PF299855",
@@ -689,7 +857,11 @@
     {
      "name": "한비"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2FA39A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303133",
@@ -719,7 +891,19 @@
      "name": "이서현",
      "personId": "46951"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2E7FA8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305824",
+   "title": "존X 무의미해",
+   "genre": "연극",
+   "venue": "아르코예술극장 (소극장)",
+   "time": "15:00",
+   "castSource": "none"
   },
   {
    "id": "PF305450",
@@ -727,7 +911,11 @@
    "genre": "연극",
    "venue": "아르코 꿈밭극장",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3B1E4A",
+    "fg": "#F2D600"
+   }
   },
   {
    "id": "PF305029",
@@ -735,7 +923,11 @@
    "genre": "연극",
    "venue": "서강대 메리홀 (대극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B86A2A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305499",
@@ -766,7 +958,11 @@
     {
      "name": "이소연"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#14264B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305019",
@@ -788,7 +984,11 @@
     {
      "name": "도정연"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2F8F4E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301308",
@@ -796,7 +996,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304757",
@@ -804,7 +1008,11 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D82B2B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304931",
@@ -817,7 +1025,11 @@
     {
      "name": "최민석"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#5C7DB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305282",
@@ -825,7 +1037,11 @@
    "genre": "연극",
    "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
    "time": "16:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF300616",
@@ -833,7 +1049,11 @@
    "genre": "연극",
    "venue": "et theatre 1 (구. 눈빛극장)",
    "time": "17:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305676",
@@ -841,7 +1061,11 @@
    "genre": "뮤지컬",
    "venue": "연우소극장",
    "time": "17:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E1B3F",
+    "fg": "#F26B4F"
+   }
   },
   {
    "id": "PF304181",
@@ -849,7 +1073,11 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F3F9E",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF304086",
@@ -886,7 +1114,11 @@
     {
      "name": "이채영"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1F3D2B",
+    "fg": "#F2E3A0"
+   }
   },
   {
    "id": "PF303036",
@@ -894,13 +1126,29 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F5A3E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300598",
    "title": "수레바퀴 아래서",
    "genre": "뮤지컬",
    "venue": "SH아트홀",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A2A1E",
+    "fg": "#E8C88A"
+   }
+  },
+  {
+   "id": "PF305850",
+   "title": "언더 문보우 (UNDER MOONBOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
    "time": "18:00",
    "castSource": "none"
   },
@@ -940,7 +1188,19 @@
      "name": "최서연",
      "personId": "31844"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2E8FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "18:00",
+   "castSource": "none"
   },
   {
    "id": "PF303908",
@@ -962,7 +1222,11 @@
      "name": "곽선영",
      "personId": "4009"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#0F1A3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF296104",
@@ -1008,7 +1272,11 @@
      "name": "강리운",
      "personId": "41811"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#3A2A20",
+    "fg": "#F2C14E"
+   }
   },
   {
    "id": "PF304638",
@@ -1033,7 +1301,11 @@
     {
      "name": "김기주"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#8CA3B8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305670",
@@ -1076,7 +1348,11 @@
     {
      "name": "장예원"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#14204A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291533",
@@ -1084,7 +1360,11 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "18:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF302015",
@@ -1109,7 +1389,11 @@
     {
      "name": "S. J. Kim"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#000000",
+    "fg": "#D8262B"
+   }
   },
   {
    "id": "PF305507",
@@ -1155,7 +1439,11 @@
      "name": "이찬렬",
      "personId": "46030"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#7A1F1F",
+    "fg": "#F2E3C0"
+   }
   },
   {
    "id": "PF301565",
@@ -1174,7 +1462,11 @@
     {
      "name": "조민호"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#0E1626",
+    "fg": "#C9B27C"
+   }
   },
   {
    "id": "PF302270",
@@ -1182,7 +1474,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2038",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292160",
@@ -1216,7 +1512,11 @@
      "name": "임진웅",
      "personId": "43"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B6FD0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304785",
@@ -1224,7 +1524,11 @@
    "genre": "연극",
    "venue": "나온씨어터",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E3A9A4",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF300974",
@@ -1254,7 +1558,19 @@
      "name": "최나래",
      "personId": "3594"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B2A4A",
+    "fg": "#E8B65A"
+   }
+  },
+  {
+   "id": "PF305728",
+   "title": "두 번째 아이",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "19:00",
+   "castSource": "none"
   },
   {
    "id": "PF302516",
@@ -1262,7 +1578,11 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0E1B3A",
+    "fg": "#F29A2E"
+   }
   },
   {
    "id": "PF299346",
@@ -1288,7 +1608,11 @@
      "name": "이수빈",
      "personId": "26432"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#14183A",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF301746",
@@ -1296,7 +1620,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2350",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302677",
@@ -1318,7 +1646,11 @@
     {
      "name": "김연진"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1E5FB0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303594",
@@ -1343,7 +1675,11 @@
     {
      "name": "정호준"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#151515",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300941",
@@ -1359,7 +1695,11 @@
     {
      "name": "동현"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#3A6FA8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF282162",
@@ -1367,7 +1707,11 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B3A4B",
+    "fg": "#F2E3C0"
+   }
   },
   {
    "id": "PF300790",
@@ -1375,7 +1719,11 @@
    "genre": "뮤지컬",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1B3D",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF303043",
@@ -1409,7 +1757,11 @@
      "name": "장혜린",
      "personId": "52291"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1A1A1A",
+    "fg": "#D01F1F"
+   }
   },
   {
    "id": "PF298289",
@@ -1417,7 +1769,11 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#8E2A22",
+    "fg": "#F2E3C6"
+   }
   },
   {
    "id": "PF297794",
@@ -1447,7 +1803,11 @@
      "name": "김승용",
      "personId": "21118"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#8E1B4E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304963",
@@ -1466,7 +1826,11 @@
     {
      "name": "박상혁"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2A1E14",
+    "fg": "#F2C26B"
+   }
   },
   {
    "id": "PF299855",
@@ -1491,7 +1855,11 @@
     {
      "name": "한비"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2FA39A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304574",
@@ -1510,7 +1878,11 @@
     {
      "name": "손유동"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#111111",
+    "fg": "#D81E1E"
+   }
   },
   {
    "id": "PF303133",
@@ -1540,7 +1912,11 @@
      "name": "한수림",
      "personId": "37450"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2E7FA8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305450",
@@ -1548,7 +1924,11 @@
    "genre": "연극",
    "venue": "아르코 꿈밭극장",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3B1E4A",
+    "fg": "#F2D600"
+   }
   },
   {
    "id": "PF305499",
@@ -1579,7 +1959,11 @@
     {
      "name": "이소연"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#14264B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305019",
@@ -1601,7 +1985,11 @@
     {
      "name": "백찬혁"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#2F8F4E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301308",
@@ -1609,7 +1997,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

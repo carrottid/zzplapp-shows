@@ -50,5 +50,35 @@
  ],
  "updated": "2023-06-21 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "더그",
+   "name": "정민"
+  },
+  {
+   "role": "더그",
+   "name": "최호승"
+  },
+  {
+   "role": "더그",
+   "name": "정욱진"
+  },
+  {
+   "role": "버드",
+   "name": "기세중"
+  },
+  {
+   "role": "버드",
+   "name": "선한국"
+  },
+  {
+   "role": "버드",
+   "name": "정휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3167"
+ }
 }

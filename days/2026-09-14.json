@@ -1,0 +1,41 @@
+{
+ "date": "2026-09-14",
+ "sessions": [
+  {
+   "id": "PF296285",
+   "title": "면회",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#6E94B8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF295017",
+   "title": "푸른점의 진주",
+   "genre": "연극",
+   "venue": "서강대 메리홀 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2A78",
+    "fg": "#E8C4F0"
+   }
+  },
+  {
+   "id": "PF294932",
+   "title": "쇄골에 천사가 잠들고 있다",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#14201F",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

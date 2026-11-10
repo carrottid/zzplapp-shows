@@ -35,5 +35,47 @@
  ],
  "updated": "2022-08-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "샬럿",
+   "name": "강지혜"
+  },
+  {
+   "role": "샬럿",
+   "name": "이봄소리"
+  },
+  {
+   "role": "샬럿",
+   "name": "허혜진"
+  },
+  {
+   "role": "에밀리",
+   "name": "김려원"
+  },
+  {
+   "role": "에밀리",
+   "name": "이아름솔"
+  },
+  {
+   "role": "에밀리",
+   "name": "김이후"
+  },
+  {
+   "role": "앤",
+   "name": "이휴"
+  },
+  {
+   "role": "앤",
+   "name": "송영미"
+  },
+  {
+   "role": "앤",
+   "name": "이아진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3078"
+ }
 }

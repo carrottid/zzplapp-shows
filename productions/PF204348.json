@@ -51,5 +51,67 @@
  ],
  "updated": "2022-12-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "비지터",
+   "name": "에녹"
+  },
+  {
+   "role": "비지터",
+   "name": "고상호"
+  },
+  {
+   "role": "비지터",
+   "name": "박민성"
+  },
+  {
+   "role": "비지터",
+   "name": "김려원"
+  },
+  {
+   "role": "맨",
+   "name": "류제윤"
+  },
+  {
+   "role": "맨",
+   "name": "정욱진"
+  },
+  {
+   "role": "맨",
+   "name": "노희찬"
+  },
+  {
+   "role": "우먼",
+   "name": "전성민(김유영)"
+  },
+  {
+   "role": "우먼",
+   "name": "정우연"
+  },
+  {
+   "role": "우먼",
+   "name": "김수"
+  },
+  {
+   "role": "멀티 플레이어",
+   "name": "이선"
+  },
+  {
+   "role": "멀티 플레이어",
+   "name": "이미주"
+  },
+  {
+   "role": "멀티 플레이어",
+   "name": "정종환"
+  },
+  {
+   "role": "멀티 플레이어",
+   "name": "방가희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3129"
+ }
 }

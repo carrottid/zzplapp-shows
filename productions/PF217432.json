@@ -48,5 +48,51 @@
  ],
  "updated": "2023-04-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "잭",
+   "name": "동현(보이프렌드)"
+  },
+  {
+   "role": "잭",
+   "name": "현석준"
+  },
+  {
+   "role": "잭",
+   "name": "정지우"
+  },
+  {
+   "role": "제드/A(에이)",
+   "name": "김현진"
+  },
+  {
+   "role": "제드/A(에이)",
+   "name": "곽다인"
+  },
+  {
+   "role": "제드/A(에이)",
+   "name": "정찬호"
+  },
+  {
+   "role": "크리스",
+   "name": "김방언"
+  },
+  {
+   "role": "크리스",
+   "name": "이동수"
+  },
+  {
+   "role": "테리",
+   "name": "황만익"
+  },
+  {
+   "role": "테리",
+   "name": "김태한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3145"
+ }
 }

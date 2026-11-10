@@ -1,0 +1,541 @@
+{
+ "date": "2024-07-21",
+ "sessions": [
+  {
+   "id": "PF238541",
+   "title": "15주년 기념공연, 영웅",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF238280",
+   "title": "6시 퇴근",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240327",
+   "title": "꽃, 별이 지나",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241050",
+   "title": "등등곡",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242403",
+   "title": "디어 에반 핸슨 (Dear Evan Hansen)",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241105",
+   "title": "맥베스",
+   "genre": "연극",
+   "venue": "국립극장 (해오름극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240716",
+   "title": "메노포즈",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF238876",
+   "title": "무인도 탈출기",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239896",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241898",
+   "title": "바스커빌: 셜록홈즈 미스터리 Chapter2",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242395",
+   "title": "박열",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF238514",
+   "title": "베어 더 뮤지컬",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240797",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240332",
+   "title": "빵야",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242396",
+   "title": "사의찬미",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241421",
+   "title": "살리에르",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240567",
+   "title": "새벽의 입구에서",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239123",
+   "title": "시카고",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240973",
+   "title": "어쩌면 해피엔딩",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240388",
+   "title": "에밀",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243081",
+   "title": "유진과 유진",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240789",
+   "title": "이블데드",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240510",
+   "title": "일리아드",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243362",
+   "title": "접변",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241497",
+   "title": "젠틀맨스 가이드: 사랑과 살인편",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241277",
+   "title": "카르밀라",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240597",
+   "title": "클럽 드바이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243342",
+   "title": "트루스토리",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239885",
+   "title": "햄릿",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241368",
+   "title": "4월은 너의 거짓말",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF244417",
+   "title": "Haters에게 바치는 체조",
+   "genre": "연극",
+   "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243532",
+   "title": "당연한 바깥",
+   "genre": "연극",
+   "venue": "두산아트센터 (Space111)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242052",
+   "title": "베르사유의 장미",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256890",
+   "title": "쇄골에 천사가 잠들고 있다",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241225",
+   "title": "싱크넥스트24, 블라인드 러너",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242914",
+   "title": "창작공감: 연출, 전기 없는 마을",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240002",
+   "title": "프랑켄슈타인",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241301",
+   "title": "하데스타운",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241908",
+   "title": "아시테지 국제여름축제, 문제적 핑크",
+   "genre": "연극",
+   "venue": "대학로예술극장 (대극장)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240327",
+   "title": "꽃, 별이 지나",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "17:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF238280",
+   "title": "6시 퇴근",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF244050",
+   "title": "Behind the Moon 쇼케이스",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241050",
+   "title": "등등곡",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240716",
+   "title": "메노포즈",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF238876",
+   "title": "무인도 탈출기",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239896",
+   "title": "미오 프라텔로",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241898",
+   "title": "바스커빌: 셜록홈즈 미스터리 Chapter2",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242395",
+   "title": "박열",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242396",
+   "title": "사의찬미",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240567",
+   "title": "새벽의 입구에서",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240973",
+   "title": "어쩌면 해피엔딩",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240388",
+   "title": "에밀",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243081",
+   "title": "유진과 유진",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240510",
+   "title": "일리아드",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243362",
+   "title": "접변",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241277",
+   "title": "카르밀라",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240597",
+   "title": "클럽 드바이",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243342",
+   "title": "트루스토리",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF238541",
+   "title": "15주년 기념공연, 영웅",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF238514",
+   "title": "베어 더 뮤지컬",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240797",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240332",
+   "title": "빵야",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241421",
+   "title": "살리에르",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239123",
+   "title": "시카고",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240789",
+   "title": "이블데드",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF241497",
+   "title": "젠틀맨스 가이드: 사랑과 살인편",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242403",
+   "title": "디어 에반 핸슨 (Dear Evan Hansen)",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "19:00",
+   "castSource": "none"
+  }
+ ]
+}

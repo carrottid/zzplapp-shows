@@ -34,5 +34,35 @@
  ],
  "updated": "2022-12-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "루카",
+   "name": "현석준"
+  },
+  {
+   "role": "루카",
+   "name": "윤재호"
+  },
+  {
+   "role": "루카",
+   "name": "반정모"
+  },
+  {
+   "role": "발렌티노",
+   "name": "양지원"
+  },
+  {
+   "role": "발렌티노",
+   "name": "강찬"
+  },
+  {
+   "role": "발렌티노",
+   "name": "이진우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3126"
+ }
 }

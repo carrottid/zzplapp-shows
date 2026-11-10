@@ -55,5 +55,59 @@
  ],
  "updated": "2023-08-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "X-BLACK",
+   "name": "김찬호"
+  },
+  {
+   "role": "X-BLACK",
+   "name": "조형균"
+  },
+  {
+   "role": "X-BLACK",
+   "name": "김준영"
+  },
+  {
+   "role": "X-WHITE",
+   "name": "정동화"
+  },
+  {
+   "role": "X-WHITE",
+   "name": "박규원"
+  },
+  {
+   "role": "X-WHITE",
+   "name": "백인태"
+  },
+  {
+   "role": "에덴",
+   "name": "여은"
+  },
+  {
+   "role": "에덴",
+   "name": "이지연"
+  },
+  {
+   "role": "에덴",
+   "name": "이재림"
+  },
+  {
+   "role": "레브",
+   "name": "이기현"
+  },
+  {
+   "role": "레브",
+   "name": "반정모"
+  },
+  {
+   "role": "레브",
+   "name": "김우성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3184"
+ }
 }

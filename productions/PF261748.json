@@ -51,5 +51,55 @@
  ],
  "updated": "2025-05-22 11:48:32",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "동욱",
+   "name": "홍경수"
+  },
+  {
+   "role": "동욱",
+   "name": "이영호"
+  },
+  {
+   "role": "동욱",
+   "name": "김성수"
+  },
+  {
+   "role": "동욱",
+   "name": "박세웅"
+  },
+  {
+   "role": "동현",
+   "name": "박준후(박영필)"
+  },
+  {
+   "role": "동현",
+   "name": "김지휘"
+  },
+  {
+   "role": "동현",
+   "name": "김주왕"
+  },
+  {
+   "role": "동현",
+   "name": "이동화"
+  },
+  {
+   "role": "미리",
+   "name": "박경진"
+  },
+  {
+   "role": "미리",
+   "name": "김민영"
+  },
+  {
+   "role": "미리",
+   "name": "서은교"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2935"
+ }
 }

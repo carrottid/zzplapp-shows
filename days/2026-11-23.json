@@ -7,7 +7,11 @@
    "genre": "연극",
    "venue": "연극실험실 혜화동1번지",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2433",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303871",
@@ -15,7 +19,11 @@
    "genre": "연극",
    "venue": "연우소극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8907E",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304909",
@@ -23,7 +31,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E7B5AE",
+    "fg": "#8A2B2B"
+   }
   },
   {
    "id": "PF304765",
@@ -31,7 +43,11 @@
    "genre": "뮤지컬",
    "venue": "후암스테이지",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1D14",
+    "fg": "#F2C26B"
+   }
   },
   {
    "id": "PF304394",
@@ -39,7 +55,11 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F0287F",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303379",
@@ -77,7 +97,11 @@
      "name": "조수빈",
      "personId": "45072"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#111111",
+    "fg": "#D01F1F"
+   }
   },
   {
    "id": "PF301308",
@@ -96,7 +120,11 @@
     {
      "name": "이채원"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

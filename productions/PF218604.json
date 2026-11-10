@@ -51,5 +51,71 @@
  ],
  "updated": "2023-05-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "중림",
+   "name": "박민성"
+  },
+  {
+   "role": "중림",
+   "name": "조성윤"
+  },
+  {
+   "role": "중림",
+   "name": "고상호"
+  },
+  {
+   "role": "천수",
+   "name": "최재웅"
+  },
+  {
+   "role": "천수",
+   "name": "김민성"
+  },
+  {
+   "role": "천수",
+   "name": "이석준"
+  },
+  {
+   "role": "연화",
+   "name": "안유진"
+  },
+  {
+   "role": "연화",
+   "name": "김청아"
+  },
+  {
+   "role": "강구",
+   "name": "강동우"
+  },
+  {
+   "role": "강구",
+   "name": "구준모"
+  },
+  {
+   "role": "강구",
+   "name": "이기현"
+  },
+  {
+   "role": "멸화군",
+   "name": "신준석"
+  },
+  {
+   "role": "멸화군",
+   "name": "이홍섭"
+  },
+  {
+   "role": "멸화군",
+   "name": "이지명"
+  },
+  {
+   "role": "흑립",
+   "name": "신채림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3161"
+ }
 }

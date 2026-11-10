@@ -42,5 +42,47 @@
  ],
  "updated": "2023-01-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "윌리엄 사무엘 아일랜드",
+   "name": "김수용"
+  },
+  {
+   "role": "윌리엄 사무엘 아일랜드",
+   "name": "원종환"
+  },
+  {
+   "role": "윌리엄 사무엘 아일랜드",
+   "name": "이경수"
+  },
+  {
+   "role": "H",
+   "name": "주민진"
+  },
+  {
+   "role": "H",
+   "name": "김지철"
+  },
+  {
+   "role": "H",
+   "name": "황휘"
+  },
+  {
+   "role": "윌리엄 헨리 아일랜드",
+   "name": "임규형"
+  },
+  {
+   "role": "윌리엄 헨리 아일랜드",
+   "name": "황순종"
+  },
+  {
+   "role": "윌리엄 헨리 아일랜드",
+   "name": "김지웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3131"
+ }
 }

@@ -1,0 +1,613 @@
+{
+ "date": "2025-02-16",
+ "sessions": [
+  {
+   "id": "PF254216",
+   "title": "고스트 베이커리",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256402",
+   "title": "광화문 연가",
+   "genre": "뮤지컬",
+   "venue": "고양아람누리 (아람극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255845",
+   "title": "그해 여름",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256083",
+   "title": "꽃의 비밀",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256471",
+   "title": "넬리블라이",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF252520",
+   "title": "더 픽션",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF252979",
+   "title": "뜨거운 여름",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256202",
+   "title": "라파치니의 정원",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253358",
+   "title": "로미오 앤 줄리",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254852",
+   "title": "명성황후",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256416",
+   "title": "무명, 준희",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253515",
+   "title": "미아 파밀리아",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251998",
+   "title": "바스커빌: 셜록홈즈 미스터리",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256411",
+   "title": "배니싱",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254765",
+   "title": "베르테르",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254005",
+   "title": "붉은 낙엽",
+   "genre": "연극",
+   "venue": "국립극장 (달오름극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251930",
+   "title": "블러디 러브",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240797",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255222",
+   "title": "세일즈맨의 죽음",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253362",
+   "title": "스타크로스드",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251358",
+   "title": "시라노",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251242",
+   "title": "시지프스",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255771",
+   "title": "아나키스트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248198",
+   "title": "알라딘",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251340",
+   "title": "여신님이 보고 계셔",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256076",
+   "title": "오지게 재밌는 가시나들",
+   "genre": "뮤지컬",
+   "venue": "국립극장 (하늘극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF250859",
+   "title": "이프덴",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254030",
+   "title": "종의 기원",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF250136",
+   "title": "지킬앤하이드",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253136",
+   "title": "카포네 밀크",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255397",
+   "title": "퍼스트 맨: 카뮈가 남긴 마지막 이야기",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257337",
+   "title": "폴: 이제 우리도 행복해질 수 있겠지?",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251902",
+   "title": "마타하리",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255969",
+   "title": "바닷마을 다이어리",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248198",
+   "title": "알라딘",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256428",
+   "title": "애나엑스",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251607",
+   "title": "연극열전10, 톡톡",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254693",
+   "title": "웃는 남자",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (오페라극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257187",
+   "title": "월드다방",
+   "genre": "연극",
+   "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256074",
+   "title": "이상한 나라의 춘자씨",
+   "genre": "뮤지컬",
+   "venue": "더 줌 아트센터",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257725",
+   "title": "임대아파트",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257022",
+   "title": "창작산실, 동백당: 빵집의 사람들",
+   "genre": "연극",
+   "venue": "아르코예술극장 (대극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256785",
+   "title": "창작산실, 저수지의 인어",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255966",
+   "title": "플레이위드 햄릿",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251998",
+   "title": "바스커빌: 셜록홈즈 미스터리",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257337",
+   "title": "폴: 이제 우리도 행복해질 수 있겠지?",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "17:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254216",
+   "title": "고스트 베이커리",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255845",
+   "title": "그해 여름",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256083",
+   "title": "꽃의 비밀",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256471",
+   "title": "넬리블라이",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF252520",
+   "title": "더 픽션",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF252979",
+   "title": "뜨거운 여름",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256202",
+   "title": "라파치니의 정원",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253358",
+   "title": "로미오 앤 줄리",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256416",
+   "title": "무명, 준희",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253515",
+   "title": "미아 파밀리아",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256411",
+   "title": "배니싱",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251930",
+   "title": "블러디 러브",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253362",
+   "title": "스타크로스드",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251242",
+   "title": "시지프스",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255771",
+   "title": "아나키스트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251340",
+   "title": "여신님이 보고 계셔",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254030",
+   "title": "종의 기원",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253136",
+   "title": "카포네 밀크",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254765",
+   "title": "베르테르",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF254005",
+   "title": "붉은 낙엽",
+   "genre": "연극",
+   "venue": "국립극장 (달오름극장)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF251930",
+   "title": "블러디 러브",
+   "genre": "뮤지컬",
+   "venue": "한전아트센터",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240797",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256428",
+   "title": "애나엑스",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256402",
+   "title": "광화문 연가",
+   "genre": "뮤지컬",
+   "venue": "고양아람누리 (아람극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248198",
+   "title": "알라딘",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257187",
+   "title": "월드다방",
+   "genre": "연극",
+   "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF250859",
+   "title": "이프덴",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257725",
+   "title": "임대아파트",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF250136",
+   "title": "지킬앤하이드",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255969",
+   "title": "바닷마을 다이어리",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  }
+ ]
+}

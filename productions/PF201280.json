@@ -43,5 +43,47 @@
  ],
  "updated": "2022-11-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "샬롯 브론테",
+   "name": "정연"
+  },
+  {
+   "role": "샬롯 브론테",
+   "name": "백은혜"
+  },
+  {
+   "role": "샬롯 브론테",
+   "name": "유주혜"
+  },
+  {
+   "role": "브랜웰 브론테",
+   "name": "김지철"
+  },
+  {
+   "role": "브랜웰 브론테",
+   "name": "황순종"
+  },
+  {
+   "role": "에밀리 브론테",
+   "name": "김수연"
+  },
+  {
+   "role": "에밀리 브론테",
+   "name": "홍서영"
+  },
+  {
+   "role": "앤 브론테",
+   "name": "임예진"
+  },
+  {
+   "role": "앤 브론테",
+   "name": "장민제"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3077"
+ }
 }

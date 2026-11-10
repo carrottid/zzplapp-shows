@@ -39,5 +39,47 @@
  ],
  "updated": "2022-09-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "신숙주",
+   "name": "유승현"
+  },
+  {
+   "role": "신숙주",
+   "name": "안재영"
+  },
+  {
+   "role": "신숙주",
+   "name": "임별"
+  },
+  {
+   "role": "성삼문",
+   "name": "최호승"
+  },
+  {
+   "role": "성삼문",
+   "name": "강찬"
+  },
+  {
+   "role": "성삼문",
+   "name": "박좌헌"
+  },
+  {
+   "role": "수양",
+   "name": "박시원"
+  },
+  {
+   "role": "수양",
+   "name": "김대현"
+  },
+  {
+   "role": "수양",
+   "name": "박건"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3079"
+ }
 }

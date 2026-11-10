@@ -7,7 +7,11 @@
    "genre": "뮤지컬",
    "venue": "후암스테이지",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1D14",
+    "fg": "#F2C26B"
+   }
   },
   {
    "id": "PF304638",
@@ -32,7 +36,11 @@
     {
      "name": "김종현"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#8CA3B8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF301308",
@@ -40,7 +48,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

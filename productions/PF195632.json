@@ -39,5 +39,47 @@
  ],
  "updated": "2022-08-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "케이",
+   "name": "김종구"
+  },
+  {
+   "role": "케이",
+   "name": "주민진"
+  },
+  {
+   "role": "케이",
+   "name": "노윤"
+  },
+  {
+   "role": "의신",
+   "name": "정민"
+  },
+  {
+   "role": "의신",
+   "name": "박규원"
+  },
+  {
+   "role": "의신",
+   "name": "유승현"
+  },
+  {
+   "role": "명렬",
+   "name": "박좌헌"
+  },
+  {
+   "role": "명렬",
+   "name": "김찬종"
+  },
+  {
+   "role": "명렬",
+   "name": "조훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3085"
+ }
 }

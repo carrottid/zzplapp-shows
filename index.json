@@ -1,6 +1,32 @@
 {
- "updatedAt": "2026-11-09T09:08:33",
+ "updatedAt": "2026-11-10T11:00:43",
  "archives": [
+  "1994",
+  "1995",
+  "1996",
+  "1997",
+  "1998",
+  "1999",
+  "2000",
+  "2001",
+  "2002",
+  "2003",
+  "2004",
+  "2005",
+  "2006",
+  "2007",
+  "2008",
+  "2009",
+  "2010",
+  "2011",
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
   "2020",
   "2021",
   "2022",
@@ -28,7 +54,11 @@
     "주희중"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F6B9B2",
+    "fg": "#B3171E"
+   }
   },
   {
    "id": "PF302129",
@@ -48,7 +78,11 @@
     "이원섭"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D62828",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303434",
@@ -68,7 +102,11 @@
     "신슬기"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F2B600",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF302842",
@@ -88,7 +126,11 @@
     "김성식"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1B2A5A",
+    "fg": "#E0B25A"
+   }
   },
   {
    "id": "PF291313",
@@ -108,7 +150,11 @@
     "고준혁"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F6B9B2",
+    "fg": "#B3171E"
+   }
   },
   {
    "id": "PF301152",
@@ -119,7 +165,11 @@
    "venue": "계명아트센터",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301152_260917_103752.gif",
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF303052",
@@ -139,7 +189,11 @@
     "금보미"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F6B4B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295951",
@@ -150,7 +204,11 @@
    "venue": "국립극장 (달오름극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295951_260713_153016.jpg",
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#12304A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305155",
@@ -170,7 +228,11 @@
     "허원준"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D2403A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303566",
@@ -189,7 +251,11 @@
     "윤진성"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B3261E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304068",
@@ -209,7 +275,11 @@
     "곽민수"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#9DB0C4",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF302744",
@@ -229,7 +299,31 @@
     "김지선"
    ],
    "state": "공연예정",
-   "castSource": "yes24"
+   "castSource": "yes24",
+   "color": {
+    "bg": "#5B2A8C",
+    "fg": "#F2C94C"
+   }
+  },
+  {
+   "id": "PF305850",
+   "title": "언더 문보우 (UNDER MOONBOW)",
+   "genre": "뮤지컬",
+   "from": "2026-12-12",
+   "to": "2027-02-28",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305850_261109_160302.gif",
+   "cast": [
+    "윤지성",
+    "이창엽",
+    "이주순",
+    "김우석",
+    "곽용환",
+    "강찬",
+    "이진혁"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
   },
   {
    "id": "PF299888",
@@ -249,7 +343,11 @@
     "박영빈"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F6B4B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304574",
@@ -269,7 +367,11 @@
     "강정우"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#111111",
+    "fg": "#D81E1E"
+   }
   },
   {
    "id": "PF305029",
@@ -289,7 +391,11 @@
     "이설현"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B86A2A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305499",
@@ -309,7 +415,11 @@
     "송문선"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#14264B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305507",
@@ -329,7 +439,11 @@
     "원형훈"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#7A1F1F",
+    "fg": "#F2E3C0"
+   }
   },
   {
    "id": "PF304963",
@@ -349,7 +463,11 @@
     "이진우"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#2A1E14",
+    "fg": "#F2C26B"
+   }
   },
   {
    "id": "PF305019",
@@ -369,7 +487,43 @@
     "김동준"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#2F8F4E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305728",
+   "title": "두 번째 아이",
+   "genre": "연극",
+   "from": "2026-12-08",
+   "to": "2027-03-28",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305728_261109_114350.gif",
+   "cast": [
+    "김지온",
+    "손우현",
+    "정택운"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305855",
+   "title": "창작ing, 멜로드라마 열차",
+   "genre": "연극",
+   "from": "2026-12-06",
+   "to": "2026-12-20",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305855_261109_161609.gif",
+   "cast": [
+    "박지윤",
+    "이래인",
+    "정대진"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
   },
   {
    "id": "PF300084",
@@ -389,7 +543,11 @@
     "지강혁"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F4C6CF",
+    "fg": "#B5304A"
+   }
   },
   {
    "id": "PF302015",
@@ -409,7 +567,11 @@
     "박건형"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#000000",
+    "fg": "#D8262B"
+   }
   },
   {
    "id": "PF303908",
@@ -429,7 +591,31 @@
     "곽선영"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#0F1A3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305824",
+   "title": "존X 무의미해",
+   "genre": "연극",
+   "from": "2026-12-05",
+   "to": "2026-12-13",
+   "venue": "아르코예술극장 (소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305824_261109_151421.gif",
+   "cast": [
+    "김해솔",
+    "백승연",
+    "이상훈",
+    "이연실",
+    "유지원",
+    "신유승",
+    "심안나"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
   },
   {
    "id": "PF299874",
@@ -440,7 +626,11 @@
    "venue": "안동문화예술의전당 (웅부홀)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299874_260902_112928.jpg",
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F2A900",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF303043",
@@ -460,7 +650,11 @@
     "서영주"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1A1A1A",
+    "fg": "#D01F1F"
+   }
   },
   {
    "id": "PF304785",
@@ -474,7 +668,11 @@
     "김석"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E3A9A4",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304931",
@@ -491,7 +689,11 @@
     "최민석"
    ],
    "state": "공연예정",
-   "castSource": "yes24"
+   "castSource": "yes24",
+   "color": {
+    "bg": "#5C7DB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305282",
@@ -511,7 +713,11 @@
     "최현진"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF305676",
@@ -525,7 +731,11 @@
     "윤석원"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E1B3F",
+    "fg": "#F26B4F"
+   }
   },
   {
    "id": "PF302677",
@@ -545,7 +755,31 @@
     "김다현"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#1E5FB0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "from": "2026-12-03",
+   "to": "2027-01-03",
+   "venue": "열린극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305851_261109_160657.jpg",
+   "cast": [
+    "이준혁",
+    "도연우",
+    "김승현",
+    "이주희",
+    "서태인",
+    "조윤슬",
+    "정지환"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
   },
   {
    "id": "PF282162",
@@ -556,7 +790,11 @@
    "venue": "세종문화회관 (세종M씨어터)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF282162_251224_140222.png",
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B3A4B",
+    "fg": "#F2E3C0"
+   }
   },
   {
    "id": "PF304181",
@@ -576,7 +814,11 @@
     "이혁"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F3F9E",
+    "fg": "#F2C500"
+   }
   },
   {
    "id": "PF304479",
@@ -595,7 +837,11 @@
     "이준우"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A2F3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304705",
@@ -615,7 +861,11 @@
     "조승연"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E0245E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304784",
@@ -635,7 +885,11 @@
     "김민서"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8B4C0",
+    "fg": "#7A2E45"
+   }
   },
   {
    "id": "PF305450",
@@ -652,7 +906,11 @@
     "이서도"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3B1E4A",
+    "fg": "#F2D600"
+   }
   },
   {
    "id": "PF305670",
@@ -672,7 +930,11 @@
     "김수"
    ],
    "state": "공연예정",
-   "castSource": "yes24"
+   "castSource": "yes24",
+   "color": {
+    "bg": "#14204A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304638",
@@ -692,7 +954,11 @@
     "이예준"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#8CA3B8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF295977",
@@ -710,6 +976,28 @@
     "김율희",
     "김나니",
     "홍승희"
+   ],
+   "state": "공연예정",
+   "castSource": "none",
+   "color": {
+    "bg": "#4B2E83",
+    "fg": "#F2C500"
+   }
+  },
+  {
+   "id": "PF302414",
+   "title": "봄 작가, 겨울 무대: 프리다이빙",
+   "genre": "연극",
+   "from": "2026-11-27",
+   "to": "2026-11-29",
+   "venue": "대학로예술극장 (소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302414_261109_175536.gif",
+   "cast": [
+    "이지현",
+    "박정민",
+    "박은경",
+    "류원준",
+    "최현조"
    ],
    "state": "공연예정",
    "castSource": "none"
@@ -767,7 +1055,11 @@
     "전대현"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#1F3D2B",
+    "fg": "#F2E3A0"
+   }
   },
   {
    "id": "PF305009",
@@ -785,6 +1077,24 @@
     "이지혜",
     "사혜진",
     "김태양"
+   ],
+   "state": "공연예정",
+   "castSource": "none",
+   "color": {
+    "bg": "#2F4D8F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF305799",
+   "title": "제16회 서울미래연극제, 자소서_찐최종_복구됨",
+   "genre": "연극",
+   "from": "2026-11-26",
+   "to": "2026-11-29",
+   "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305799_261109_143259.jpg",
+   "cast": [
+    "한경수"
    ],
    "state": "공연예정",
    "castSource": "none"
@@ -807,7 +1117,11 @@
     "이윤성"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5B9BD5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304757",
@@ -825,7 +1139,11 @@
     "박하늘"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D82B2B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302516",
@@ -845,7 +1163,11 @@
     "김다혜"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#0E1B3A",
+    "fg": "#F29A2E"
+   }
   },
   {
    "id": "PF303673",
@@ -865,7 +1187,11 @@
     "홍기범"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#2E8FB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305375",
@@ -902,7 +1228,11 @@
     "이현진"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E7B5AE",
+    "fg": "#8A2B2B"
+   }
   },
   {
    "id": "PF298550",
@@ -922,7 +1252,11 @@
     "강혜인"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#7A5A3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301233",
@@ -941,7 +1275,11 @@
     "손다연"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C8602E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301665",
@@ -961,7 +1299,11 @@
     "박영빈"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F6B4B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300537",
@@ -977,7 +1319,11 @@
     "양종욱"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8D3A8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF302442",
@@ -993,7 +1339,11 @@
     "김민하"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F8AD8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304415",
@@ -1013,7 +1363,11 @@
     "신미교"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3F78C2",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304591",
@@ -1029,7 +1383,11 @@
     "김민혜"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2D2A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303871",
@@ -1045,7 +1403,11 @@
     "신해인"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8907E",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304585",
@@ -1065,7 +1427,11 @@
     "황의정"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E0A88F",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304868",
@@ -1082,7 +1448,11 @@
     "선민희"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D98A3A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304877",
@@ -1102,7 +1472,11 @@
     "이채윤"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C9423A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303594",
@@ -1122,7 +1496,11 @@
     "문진아"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#151515",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303127",
@@ -1142,7 +1520,11 @@
     "장두환"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#111111",
+    "fg": "#F2D600"
+   }
   },
   {
    "id": "PF304824",
@@ -1162,7 +1544,11 @@
     "정현섭"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C48A2C",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305235",
@@ -1177,7 +1563,11 @@
     "김시락"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2433",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295981",
@@ -1197,7 +1587,11 @@
     "금승훈"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299603",
@@ -1217,7 +1611,11 @@
     "지강혁"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F4B6C2",
+    "fg": "#8A2640"
+   }
   },
   {
    "id": "PF302437",
@@ -1237,7 +1635,11 @@
     "박민이"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E4FA8",
+    "fg": "#F28C28"
+   }
   },
   {
    "id": "PF305172",
@@ -1268,7 +1670,11 @@
    "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF282986_260126_161758.jpg",
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#A8232B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299962",
@@ -1288,7 +1694,11 @@
     "김보현"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#7A5A3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300372",
@@ -1304,7 +1714,11 @@
     "김재범"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A4A58",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302392",
@@ -1324,7 +1738,11 @@
     "곽정화"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1530",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303432",
@@ -1344,7 +1762,11 @@
     "김정호"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D62828",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304394",
@@ -1364,7 +1786,11 @@
     "탁승빈"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F0287F",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305171",
@@ -1387,6 +1813,26 @@
    "castSource": "none"
   },
   {
+   "id": "PF305738",
+   "title": "베르나르다 알바의 집",
+   "genre": "연극",
+   "from": "2026-11-13",
+   "to": "2026-11-15",
+   "venue": "나온씨어터",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305738_261109_123809.gif",
+   "cast": [
+    "김한솔",
+    "박혜빈",
+    "김혜은",
+    "진해서",
+    "감채현",
+    "주이연",
+    "이현주"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
    "id": "PF304248",
    "title": "제16회 서울미래연극제, 시지프스는 무엇을 위해 돌을 굴렸나",
    "genre": "연극",
@@ -1404,7 +1850,11 @@
     "채수룡"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1D3FA0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304765",
@@ -1424,7 +1874,11 @@
     "최우성"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1D14",
+    "fg": "#F2C26B"
+   }
   },
   {
    "id": "PF305144",
@@ -1464,7 +1918,11 @@
     "이선민"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1B2A4A",
+    "fg": "#E8B65A"
+   }
   },
   {
    "id": "PF302033",
@@ -1481,7 +1939,11 @@
     "이선재"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#2CC9B0"
+   }
   },
   {
    "id": "PF303379",
@@ -1501,7 +1963,11 @@
     "홍수주"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#111111",
+    "fg": "#D01F1F"
+   }
   },
   {
    "id": "PF302792",
@@ -1518,7 +1984,11 @@
     "신효범"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5A1F26",
+    "fg": "#F2E3C0"
+   }
   },
   {
    "id": "PF303133",
@@ -1538,7 +2008,11 @@
     "홍나현"
    ],
    "state": "공연예정",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#2E7FA8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304783",
@@ -1558,27 +2032,11 @@
     "안승균"
    ],
    "state": "공연예정",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305119",
-   "title": "연출가 故김태수 1주기 추모연극제, 금관의 예수",
-   "genre": "연극",
-   "from": "2026-11-10",
-   "to": "2026-11-15",
-   "venue": "열린극장",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305119_261102_151835.jpg",
-   "cast": [
-    "박화진",
-    "이현화",
-    "김현종",
-    "신상민",
-    "전소현",
-    "민상철",
-    "안승균"
-   ],
-   "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#E8C030"
+   }
   },
   {
    "id": "PF300941",
@@ -1598,7 +2056,11 @@
     "김시유"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#3A6FA8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304259",
@@ -1618,7 +2080,11 @@
     "최희진"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#E8B84A"
+   }
   },
   {
    "id": "PF291262",
@@ -1638,7 +2104,11 @@
     "고준혁"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E26A6A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298908",
@@ -1658,7 +2128,11 @@
     "이봄소리"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#8C6A48",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299009",
@@ -1678,7 +2152,11 @@
     "진윤정"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2C4A6E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302846",
@@ -1693,7 +2171,11 @@
     "김예은"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F26B1D",
+    "fg": "#1B2A6B"
+   }
   },
   {
    "id": "PF304678",
@@ -1709,7 +2191,11 @@
     "이호연"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8332A",
+    "fg": "#F2D600"
+   }
   },
   {
    "id": "PF293918",
@@ -1720,7 +2206,11 @@
    "venue": "부산시민회관 (대극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF293918_260617_112749.jpg",
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D8312B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300790",
@@ -1740,7 +2230,11 @@
     "예하나"
    ],
    "state": "공연중",
-   "castSource": "yes24"
+   "castSource": "yes24",
+   "color": {
+    "bg": "#0F1B3D",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF301712",
@@ -1756,7 +2250,11 @@
     "라우라 우이제 판 뫼르스"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B1B5E",
+    "fg": "#FF8A3D"
+   }
   },
   {
    "id": "PF303036",
@@ -1771,7 +2269,11 @@
     "하희라"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F5A3E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303061",
@@ -1790,7 +2292,11 @@
     "박미숙"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4C8FC4",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303661",
@@ -1806,7 +2312,11 @@
     "강이담"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1C1F22",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303685",
@@ -1823,7 +2333,11 @@
     "전혜인"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C8322B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304195",
@@ -1843,7 +2357,11 @@
     "조성주"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F4E7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300936",
@@ -1862,7 +2380,11 @@
     "김태윤"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0D1B3A",
+    "fg": "#3EE0A0"
+   }
   },
   {
    "id": "PF301565",
@@ -1882,7 +2404,11 @@
     "이동수"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#0E1626",
+    "fg": "#C9B27C"
+   }
   },
   {
    "id": "PF301746",
@@ -1902,7 +2428,11 @@
     "온주완"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#2A2350",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301634",
@@ -1922,7 +2452,11 @@
     "정혜은"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#EE7F96",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302755",
@@ -1942,7 +2476,11 @@
     "윤성진"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#2F7BFF"
+   }
   },
   {
    "id": "PF298984",
@@ -1962,7 +2500,11 @@
     "이혜미"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1A1A",
+    "fg": "#F2D600"
+   }
   },
   {
    "id": "PF301301",
@@ -1981,7 +2523,11 @@
     "나키가와 타이시"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1A1A",
+    "fg": "#D8312B"
+   }
   },
   {
    "id": "PF301538",
@@ -2001,7 +2547,11 @@
     "김지인"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3F4A44",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF302405",
@@ -2021,7 +2571,11 @@
     "조정아"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8452C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302519",
@@ -2041,7 +2595,11 @@
     "이승혁"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#7A1F1F",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298280",
@@ -2061,7 +2619,11 @@
     "이형훈"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#8C6A48",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303268",
@@ -2081,7 +2643,11 @@
     "김보현"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B8B6A8",
+    "fg": "#1E2A3A"
+   }
   },
   {
    "id": "PF300582",
@@ -2101,7 +2667,11 @@
     "전지후"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B4C6F",
+    "fg": "#F2A33A"
+   }
   },
   {
    "id": "PF301323",
@@ -2121,7 +2691,11 @@
     "정성태"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D8312B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301963",
@@ -2140,7 +2714,11 @@
     "우미화"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#6E6E72",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302020",
@@ -2160,7 +2738,11 @@
     "김시영"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C98AA0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299287",
@@ -2180,7 +2762,11 @@
     "임정모"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1830",
+    "fg": "#D9A441"
+   }
   },
   {
    "id": "PF301208",
@@ -2200,7 +2786,11 @@
     "김유진"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#F28C1E",
+    "fg": "#1B2A6B"
+   }
   },
   {
    "id": "PF301522",
@@ -2220,7 +2810,11 @@
     "박세은"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5B7FA6",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301677",
@@ -2235,7 +2829,11 @@
     "이동휘"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#E0A070",
+    "fg": "#1B2A4A"
+   }
   },
   {
    "id": "PF301912",
@@ -2255,7 +2853,11 @@
     "양승리"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#F2B705",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF303874",
@@ -2275,7 +2877,11 @@
     "장유정"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D8312B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF282157",
@@ -2286,7 +2892,11 @@
    "venue": "세종문화회관 (세종M씨어터)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF282157_251224_135418.png",
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298732",
@@ -2300,7 +2910,11 @@
     "말리초 바카 발렌수엘라"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F6F73",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291887",
@@ -2320,7 +2934,11 @@
     "박정표"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#8C6A48",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF296163",
@@ -2340,7 +2958,11 @@
     "권주영"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1A2A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300291",
@@ -2359,7 +2981,11 @@
     "이연"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1B10",
+    "fg": "#E8B84A"
+   }
   },
   {
    "id": "PF301098",
@@ -2379,7 +3005,11 @@
     "이종영"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1F3A2E",
+    "fg": "#E8452C"
+   }
   },
   {
    "id": "PF301705",
@@ -2398,7 +3028,11 @@
     "장진양"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B1B5E",
+    "fg": "#FF8A3D"
+   }
   },
   {
    "id": "PF302270",
@@ -2418,7 +3052,11 @@
     "공현비"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#2A2038",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302922",
@@ -2434,7 +3072,11 @@
     "전진모"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F26B3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300800",
@@ -2449,7 +3091,11 @@
     "송해진"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E1A1A",
+    "fg": "#E8A33D"
+   }
   },
   {
    "id": "PF301308",
@@ -2469,7 +3115,11 @@
     "임기희"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302497",
@@ -2489,7 +3139,11 @@
     "김관주"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A0A0A",
+    "fg": "#D8312B"
+   }
   },
   {
    "id": "PF303376",
@@ -2506,7 +3160,11 @@
     "김이선"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#E8302A"
+   }
   },
   {
    "id": "PF303771",
@@ -2522,7 +3180,11 @@
     "정연진"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E1812",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298502",
@@ -2542,7 +3204,11 @@
     "권세인"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1C130D",
+    "fg": "#E8B84A"
+   }
   },
   {
    "id": "PF301256",
@@ -2558,7 +3224,11 @@
     "노재원"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#E8B93A",
+    "fg": "#1B2A6B"
+   }
   },
   {
    "id": "PF297704",
@@ -2578,7 +3248,11 @@
     "이정환"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D1A46A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF298740",
@@ -2598,7 +3272,11 @@
     "신치 천"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D8312B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300890",
@@ -2618,7 +3296,11 @@
     "양나은"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#7B4FB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301698",
@@ -2633,7 +3315,11 @@
     "무라야마 아라타"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B1B5E",
+    "fg": "#FF8A3D"
+   }
   },
   {
    "id": "PF301706",
@@ -2644,7 +3330,11 @@
    "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301706_260923_143212.jpg",
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B1B5E",
+    "fg": "#FF8A3D"
+   }
   },
   {
    "id": "PF301707",
@@ -2655,7 +3345,11 @@
    "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301707_260923_143257.jpg",
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B1B5E",
+    "fg": "#FF8A3D"
+   }
   },
   {
    "id": "PF298779",
@@ -2666,7 +3360,11 @@
    "venue": "아르코예술극장 (소극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298779_260818_175201.jpg",
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F3A33",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300598",
@@ -2686,7 +3384,11 @@
     "김이진"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#3A2A1E",
+    "fg": "#E8C88A"
+   }
   },
   {
    "id": "PF301937",
@@ -2705,7 +3407,11 @@
     "김대웅"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5A9AD6",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297742",
@@ -2725,7 +3431,11 @@
     "이지수"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF300846",
@@ -2740,7 +3450,11 @@
     "이혜영"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A1E14",
+    "fg": "#F2A33A"
+   }
   },
   {
    "id": "PF300616",
@@ -2760,7 +3474,11 @@
     "홍성민"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298751",
@@ -2775,7 +3493,11 @@
     "아다마 디오프"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B5651D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299346",
@@ -2795,7 +3517,11 @@
     "김지현"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#14183A",
+    "fg": "#F2C94C"
+   }
   },
   {
    "id": "PF299169",
@@ -2815,7 +3541,11 @@
     "신수빈"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#D8312B"
+   }
   },
   {
    "id": "PF294169",
@@ -2835,7 +3565,11 @@
     "김수연"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8648C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297739",
@@ -2855,7 +3589,11 @@
     "이지수"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF293863",
@@ -2875,7 +3613,11 @@
     "박주성"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A0A0A",
+    "fg": "#D8312B"
+   }
   },
   {
    "id": "PF300992",
@@ -2895,7 +3637,11 @@
     "박강원"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3F8FD8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298880",
@@ -2915,7 +3661,11 @@
     "정아인"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2FA39A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299500",
@@ -2932,7 +3682,11 @@
     "김정호"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0A0A0A",
+    "fg": "#FF4FA0"
+   }
   },
   {
    "id": "PF299855",
@@ -2952,7 +3706,11 @@
     "정욱진"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#2FA39A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299869",
@@ -2972,7 +3730,11 @@
     "김시헌"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F0F14",
+    "fg": "#D8312B"
+   }
   },
   {
    "id": "PF299807",
@@ -2991,7 +3753,11 @@
     "고승수"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2118",
+    "fg": "#3FB8A8"
+   }
   },
   {
    "id": "PF301368",
@@ -3011,7 +3777,11 @@
     "김준식"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D8232A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295956",
@@ -3026,7 +3796,11 @@
     "틴 프리먼"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#24403A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295913",
@@ -3046,7 +3820,11 @@
     "이지수"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C8A27A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF295965",
@@ -3066,7 +3844,11 @@
     "알리야 오도핀"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C9A27E",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF299601",
@@ -3085,7 +3867,11 @@
     "서율"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E7B9C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF295994",
@@ -3096,7 +3882,11 @@
    "venue": "국립극장 (해오름극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295994_260713_172643.gif",
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F6B5E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297794",
@@ -3116,7 +3906,11 @@
     "장재웅"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#8E1B4E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298289",
@@ -3136,7 +3930,11 @@
     "정상윤"
    ],
    "state": "공연중",
-   "castSource": "yes24"
+   "castSource": "yes24",
+   "color": {
+    "bg": "#8E2A22",
+    "fg": "#F2E3C6"
+   }
   },
   {
    "id": "PF298792",
@@ -3156,7 +3954,11 @@
     "김리현"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5F8F96",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300366",
@@ -3175,7 +3977,11 @@
     "서원"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#F2B01E"
+   }
   },
   {
    "id": "PF300948",
@@ -3195,7 +4001,11 @@
     "서동진"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B2347",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297976",
@@ -3215,7 +4025,11 @@
     "최나라"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2E7D3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298801",
@@ -3235,7 +4049,11 @@
     "조은샘"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B1612",
+    "fg": "#E8B04A"
+   }
   },
   {
    "id": "PF299494",
@@ -3255,7 +4073,11 @@
     "강하"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E3F7A",
+    "fg": "#F5C518"
+   }
   },
   {
    "id": "PF300088",
@@ -3273,7 +4095,11 @@
     "엄혜린"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1C1F3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300194",
@@ -3292,7 +4118,11 @@
     "추교담"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A5D7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295702",
@@ -3312,7 +4142,11 @@
     "안창용"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#8A6F52",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF296104",
@@ -3332,7 +4166,11 @@
     "강윤석"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#3A2A20",
+    "fg": "#F2C14E"
+   }
   },
   {
    "id": "PF296713",
@@ -3352,7 +4190,11 @@
     "박태성"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F2B233",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF296942",
@@ -3372,7 +4214,11 @@
     "곽다인"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#C8372D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298163",
@@ -3392,7 +4238,11 @@
     "이동수"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1E3A5A",
+    "fg": "#F5E27A"
+   }
   },
   {
    "id": "PF297912",
@@ -3412,7 +4262,11 @@
     "김재범"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#222222",
+    "fg": "#D63C3C"
+   }
   },
   {
    "id": "PF298593",
@@ -3432,7 +4286,11 @@
     "박좌헌"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#F2B51C",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF298596",
@@ -3450,7 +4308,11 @@
     "최민우"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1F5C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298745",
@@ -3470,7 +4332,11 @@
     "강영석"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#B8284A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF282153",
@@ -3481,7 +4347,11 @@
    "venue": "세종문화회관 (세종M씨어터)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF282153_251224_134705.png",
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3532",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295017",
@@ -3501,7 +4371,11 @@
     "송현섭"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2A78",
+    "fg": "#E8C4F0"
+   }
   },
   {
    "id": "PF297978",
@@ -3521,7 +4395,11 @@
     "박하선"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#F6C500",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF298442",
@@ -3539,7 +4417,11 @@
     "임태현"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5E7FA6",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295935",
@@ -3559,7 +4441,11 @@
     "박새힘"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C8A27A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF298200",
@@ -3578,7 +4464,11 @@
     "정찬호"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F6FC0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298385",
@@ -3598,7 +4488,11 @@
     "유지연"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#F2C400",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF296148",
@@ -3618,7 +4512,11 @@
     "이종석"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#111111",
+    "fg": "#8BE000"
+   }
   },
   {
    "id": "PF299330",
@@ -3638,7 +4536,11 @@
     "전인기"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D6202B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297484",
@@ -3658,7 +4560,11 @@
     "김기민"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D6202B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297712",
@@ -3678,7 +4584,11 @@
     "한보라"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#2B1F4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298032",
@@ -3697,7 +4607,11 @@
     "김기택"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#A8161B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298171",
@@ -3716,7 +4630,11 @@
     "곽민수"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#A3151B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF298497",
@@ -3736,7 +4654,11 @@
     "최재웅"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4C6B78",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295552",
@@ -3756,7 +4678,11 @@
     "민선예"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#7A4F8E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297295",
@@ -3775,7 +4701,11 @@
     "손지윤"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1F3A3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF296598",
@@ -3792,7 +4722,11 @@
     "남명렬"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C47A4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297458",
@@ -3808,7 +4742,11 @@
     "이강민"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D8451F",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297877",
@@ -3828,7 +4766,11 @@
     "김미령"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F2B30",
+    "fg": "#9BE86A"
+   }
   },
   {
    "id": "PF297783",
@@ -3847,7 +4789,11 @@
     "조하석"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#9A958C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297684",
@@ -3867,7 +4813,11 @@
     "안지환"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#F2C400",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF296266",
@@ -3887,7 +4837,11 @@
     "박재은"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F4E79",
+    "fg": "#F4C95D"
+   }
   },
   {
    "id": "PF296319",
@@ -3907,7 +4861,11 @@
     "임찬민"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#1E7FB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF294946",
@@ -3927,7 +4885,11 @@
     "박은태"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1A1A1A",
+    "fg": "#E8D8B0"
+   }
   },
   {
    "id": "PF292160",
@@ -3947,7 +4909,11 @@
     "차윤해"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1B6FD0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295611",
@@ -3967,7 +4933,11 @@
     "박란주"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#6F9ACB",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF296139",
@@ -3987,7 +4957,11 @@
     "조현우"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#0E1018",
+    "fg": "#E8C86A"
+   }
   },
   {
    "id": "PF296312",
@@ -4007,7 +4981,11 @@
     "김유권"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E0242B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF296285",
@@ -4027,7 +5005,11 @@
     "서예슬"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#6E94B8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF294425",
@@ -4046,7 +5028,11 @@
     "김재한"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A0A08",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292306",
@@ -4066,7 +5052,11 @@
     "김수호"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F6FB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF294244",
@@ -4086,7 +5076,11 @@
     "이주찬"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4C9A3C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF294932",
@@ -4106,7 +5100,11 @@
     "임찬민"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#14201F",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF295815",
@@ -4126,7 +5124,11 @@
     "김세진"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C95F9A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF294747",
@@ -4146,7 +5148,11 @@
     "김이담"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D8CDB6",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF291886",
@@ -4166,7 +5172,11 @@
     "김영주"
    ],
    "state": "공연중",
-   "castSource": "nol"
+   "castSource": "nol",
+   "color": {
+    "bg": "#D98A1E",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF294163",
@@ -4186,7 +5196,11 @@
     "김도현"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B9A58A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF292943",
@@ -4206,7 +5220,11 @@
     "박슬기"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F5E8C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF293269",
@@ -4225,7 +5243,11 @@
     "박좌헌"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF290257",
@@ -4245,7 +5267,11 @@
     "김태균"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E0A83A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF291461",
@@ -4265,7 +5291,11 @@
     "김환희"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0A1020",
+    "fg": "#D8324A"
+   }
   },
   {
    "id": "PF292342",
@@ -4285,7 +5315,11 @@
     "김국희"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A4743",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF293924",
@@ -4305,7 +5339,11 @@
     "고한민"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F2B7A8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF292137",
@@ -4325,7 +5363,11 @@
     "김도빈"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B83A22",
+    "fg": "#F5E3B0"
+   }
   },
   {
    "id": "PF292296",
@@ -4345,7 +5387,11 @@
     "김수현"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C8262C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291333",
@@ -4361,11 +5407,14 @@
     "임준혁",
     "박선영",
     "양지원",
-    "서영택",
-    "박선영"
+    "서영택"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C8D0D4",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF292433",
@@ -4385,7 +5434,11 @@
     "윤재호"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1C3A6E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291233",
@@ -4405,7 +5458,11 @@
     "신은총"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0B1B3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291533",
@@ -4425,7 +5482,11 @@
     "서나영"
    ],
    "state": "공연중",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF290797",
@@ -4445,7 +5506,11 @@
     "박혜원"
    ],
    "state": "공연중",
-   "castSource": "ticketlink"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#1A0A1A",
+    "fg": "#FF4F7A"
+   }
   }
  ]
 }

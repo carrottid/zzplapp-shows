@@ -1,0 +1,33 @@
+{
+ "date": "2026-07-20",
+ "sessions": [
+  {
+   "id": "PF293924",
+   "title": "결혼전야",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#F2B7A8",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF292602",
+   "title": "입국심사",
+   "genre": "연극",
+   "venue": "서강대 메리홀 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF292095",
+   "title": "브로크백 마운틴",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

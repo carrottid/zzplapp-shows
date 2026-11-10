@@ -59,5 +59,103 @@
  ],
  "updated": "2023-05-10 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "정학",
+   "name": "유준상"
+  },
+  {
+   "role": "정학",
+   "name": "이건명"
+  },
+  {
+   "role": "정학",
+   "name": "오만석"
+  },
+  {
+   "role": "정학",
+   "name": "엄기준"
+  },
+  {
+   "role": "무영",
+   "name": "오종혁"
+  },
+  {
+   "role": "무영",
+   "name": "지창욱"
+  },
+  {
+   "role": "무영",
+   "name": "김건우"
+  },
+  {
+   "role": "무영",
+   "name": "영재"
+  },
+  {
+   "role": "그녀",
+   "name": "김지현"
+  },
+  {
+   "role": "그녀",
+   "name": "최서연"
+  },
+  {
+   "role": "그녀",
+   "name": "제이민"
+  },
+  {
+   "role": "운영관",
+   "name": "서현철"
+  },
+  {
+   "role": "운영관",
+   "name": "이정열"
+  },
+  {
+   "role": "운영관",
+   "name": "고창석"
+  },
+  {
+   "role": "사서",
+   "name": "이진희"
+  },
+  {
+   "role": "사서",
+   "name": "김보정"
+  },
+  {
+   "role": "대식",
+   "name": "최지호"
+  },
+  {
+   "role": "대식",
+   "name": "김산호"
+  },
+  {
+   "role": "상구",
+   "name": "박정표"
+  },
+  {
+   "role": "상구",
+   "name": "손우민"
+  },
+  {
+   "role": "하나",
+   "name": "곽나윤"
+  },
+  {
+   "role": "수지",
+   "name": "홍유정"
+  },
+  {
+   "role": "수지",
+   "name": "이자영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3158"
+ }
 }

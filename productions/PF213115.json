@@ -55,5 +55,43 @@
  ],
  "updated": "2023-02-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "루이스/앤",
+   "name": "정동화"
+  },
+  {
+   "role": "루이스/앤",
+   "name": "최석진"
+  },
+  {
+   "role": "루이스/앤",
+   "name": "김이후"
+  },
+  {
+   "role": "루이스/앤",
+   "name": "김수연"
+  },
+  {
+   "role": "잭/메리",
+   "name": "정연"
+  },
+  {
+   "role": "잭/메리",
+   "name": "김대현"
+  },
+  {
+   "role": "잭/메리",
+   "name": "주민진"
+  },
+  {
+   "role": "잭/메리",
+   "name": "김려원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3122"
+ }
 }

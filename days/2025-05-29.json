@@ -1,0 +1,349 @@
+{
+ "date": "2025-05-29",
+ "sessions": [
+  {
+   "id": "PF261834",
+   "title": "백작",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257735",
+   "title": "카포네 트릴로지",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263296",
+   "title": "달빛, 한스푼",
+   "genre": "뮤지컬",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258698",
+   "title": "도리안 그레이",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263544",
+   "title": "두산인문극장: 지역, 엔들링스 Endlings",
+   "genre": "연극",
+   "venue": "두산아트센터 (Space111)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260441",
+   "title": "매디슨 카운티의 다리",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253995",
+   "title": "보이스 오브 햄릿",
+   "genre": "뮤지컬",
+   "venue": "국립극장 (하늘극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259288",
+   "title": "빨래: 20년의 시간 30번째 무대",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261748",
+   "title": "사랑은 비를 타고",
+   "genre": "뮤지컬",
+   "venue": "백암아트홀",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257897",
+   "title": "서울시뮤지컬단, 더 퍼스트 그레잇쇼",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260564",
+   "title": "쇼뮤지컬 어게인, 드림하이",
+   "genre": "뮤지컬",
+   "venue": "올림픽공원 (우리금융아트홀(역도경기장))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248198",
+   "title": "알라딘",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258445",
+   "title": "연극열전10, 프라이드",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF255956",
+   "title": "원스",
+   "genre": "뮤지컬",
+   "venue": "코엑스아티움(Coex Artium)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF256074",
+   "title": "이상한 나라의 춘자씨",
+   "genre": "뮤지컬",
+   "venue": "더 줌 아트센터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259587",
+   "title": "인화",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263727",
+   "title": "제46회 서울연극제, 원칙",
+   "genre": "연극",
+   "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263638",
+   "title": "제46회 서울연극제, 카르타고",
+   "genre": "연극",
+   "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262549",
+   "title": "지킬앤하이드",
+   "genre": "뮤지컬",
+   "venue": "계명아트센터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257735",
+   "title": "카포네 트릴로지",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259883",
+   "title": "헤다 가블러",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260395",
+   "title": "6시 퇴근",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261892",
+   "title": "구텐버그",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259301",
+   "title": "너의 결혼식",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258804",
+   "title": "노베첸토",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258711",
+   "title": "니진스키",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258479",
+   "title": "라흐 헤스트",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261834",
+   "title": "백작",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260108",
+   "title": "붉은 정원",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263679",
+   "title": "선택",
+   "genre": "연극",
+   "venue": "SH아트홀",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260784",
+   "title": "소란스러운 나의 서림에서",
+   "genre": "뮤지컬",
+   "venue": "et theatre 1 (구. 눈빛극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263222",
+   "title": "와일드 그레이",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260484",
+   "title": "이매지너리",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF260115",
+   "title": "이솝이야기",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263593",
+   "title": "차미",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259818",
+   "title": "컨택트",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262205",
+   "title": "킬링시저",
+   "genre": "연극",
+   "venue": "서강대 메리홀 (대극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263016",
+   "title": "태일",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF258002",
+   "title": "하트셉수트",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261502",
+   "title": "홍련",
+   "genre": "뮤지컬",
+   "venue": "열린극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259581",
+   "title": "삼색도",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "21:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259587",
+   "title": "인화",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "21:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF257735",
+   "title": "카포네 트릴로지",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "21:00",
+   "castSource": "none"
+  }
+ ]
+}

@@ -7,7 +7,11 @@
    "genre": "연극",
    "venue": "HD아트센터(구 현대예술관) (소공연장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B4C6F",
+    "fg": "#F2A33A"
+   }
   },
   {
    "id": "PF303685",
@@ -15,7 +19,11 @@
    "genre": "연극",
    "venue": "연우소극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C8322B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302020",
@@ -23,7 +31,11 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C98AA0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301522",
@@ -31,7 +43,11 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5B7FA6",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300890",
@@ -61,7 +77,11 @@
      "name": "양나은",
      "personId": "53481"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#7B4FB5",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304259",
@@ -69,7 +89,11 @@
    "genre": "연극",
    "venue": "연극실험실 혜화동1번지",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#111111",
+    "fg": "#E8B84A"
+   }
   },
   {
    "id": "PF300941",
@@ -85,7 +109,11 @@
     {
      "name": "김시유"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#3A6FA8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301677",
@@ -99,7 +127,11 @@
      "name": "윤나무",
      "personId": "25911"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#E0A070",
+    "fg": "#1B2A4A"
+   }
   },
   {
    "id": "PF301308",
@@ -118,7 +150,11 @@
     {
      "name": "전민지"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

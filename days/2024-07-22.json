@@ -1,0 +1,45 @@
+{
+ "date": "2024-07-22",
+ "sessions": [
+  {
+   "id": "PF242456",
+   "title": "아이위시",
+   "genre": "뮤지컬",
+   "venue": "연남장",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242455",
+   "title": "연남장 캬바레, 오늘 처음 만드는 뮤지컬",
+   "genre": "뮤지컬",
+   "venue": "연남장",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF244050",
+   "title": "Behind the Moon 쇼케이스",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243081",
+   "title": "유진과 유진",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF244127",
+   "title": "이쇼 with 연남장 캬바레",
+   "genre": "뮤지컬",
+   "venue": "연남장",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

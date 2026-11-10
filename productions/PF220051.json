@@ -50,5 +50,43 @@
  ],
  "updated": "2023-06-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "A",
+   "name": "정동화"
+  },
+  {
+   "role": "A",
+   "name": "윤승우"
+  },
+  {
+   "role": "A",
+   "name": "반정모"
+  },
+  {
+   "role": "A",
+   "name": "김태형"
+  },
+  {
+   "role": "B",
+   "name": "유태율"
+  },
+  {
+   "role": "B",
+   "name": "김방언"
+  },
+  {
+   "role": "B",
+   "name": "김준영"
+  },
+  {
+   "role": "B",
+   "name": "신혁수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3186"
+ }
 }

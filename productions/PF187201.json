@@ -62,5 +62,35 @@
  ],
  "updated": "2022-02-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "roleCast": [
+  {
+   "role": "테비예",
+   "name": "박성훈"
+  },
+  {
+   "role": "테비예",
+   "name": "양준모"
+  },
+  {
+   "role": "골데",
+   "name": "권명현"
+  },
+  {
+   "role": "골데",
+   "name": "유미"
+  },
+  {
+   "role": "피들러",
+   "name": "KoN(이일근)"
+  },
+  {
+   "role": "앙상블",
+   "name": "김찬후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3204"
+ }
 }

@@ -7,7 +7,11 @@
    "genre": "연극",
    "venue": "연극실험실 혜화동1번지",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2433",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304765",
@@ -15,7 +19,11 @@
    "genre": "뮤지컬",
    "venue": "후암스테이지",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1D14",
+    "fg": "#F2C26B"
+   }
   },
   {
    "id": "PF302020",
@@ -23,7 +31,11 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C98AA0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304394",
@@ -31,7 +43,11 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F0287F",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303379",
@@ -69,7 +85,11 @@
      "name": "조수빈",
      "personId": "45072"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#111111",
+    "fg": "#D01F1F"
+   }
   },
   {
    "id": "PF301308",
@@ -88,7 +108,11 @@
     {
      "name": "이채원"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

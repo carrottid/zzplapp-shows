@@ -39,5 +39,59 @@
  ],
  "updated": "2023-07-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "셰익스피어",
+   "name": "원종환"
+  },
+  {
+   "role": "셰익스피어",
+   "name": "최호중"
+  },
+  {
+   "role": "셰익스피어",
+   "name": "김아영"
+  },
+  {
+   "role": "햄릿",
+   "name": "임준혁"
+  },
+  {
+   "role": "햄릿",
+   "name": "임진섭"
+  },
+  {
+   "role": "햄릿",
+   "name": "정지우"
+  },
+  {
+   "role": "줄리엣",
+   "name": "이아름솔"
+  },
+  {
+   "role": "줄리엣",
+   "name": "김이후"
+  },
+  {
+   "role": "줄리엣",
+   "name": "김수연"
+  },
+  {
+   "role": "로미오",
+   "name": "주민진"
+  },
+  {
+   "role": "로미오",
+   "name": "유태율"
+  },
+  {
+   "role": "로미오",
+   "name": "최민우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3178"
+ }
 }

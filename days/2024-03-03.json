@@ -1,0 +1,495 @@
+{
+ "date": "2024-03-03",
+ "sessions": [
+  {
+   "id": "PF234327",
+   "title": "10주년 기념공연, 레베카",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232946",
+   "title": "거미여인의 키스",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232760",
+   "title": "너를 위한 글자",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF230511",
+   "title": "노트르담 드 파리",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF228643",
+   "title": "더데빌: 파우스트",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF227003",
+   "title": "드라큘라",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF231831",
+   "title": "라스트 파이브 이어스",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF225531",
+   "title": "레미제라블",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234507",
+   "title": "마리 퀴리",
+   "genre": "뮤지컬",
+   "venue": "전남광주통합특별시 예술의전당 (구. 광주예술의전당) (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF230065",
+   "title": "메리셸리",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF228061",
+   "title": "모딜리아니",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234207",
+   "title": "비클래스",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF226005",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232060",
+   "title": "살아있는 자를 수선하기",
+   "genre": "연극",
+   "venue": "국립정동극장",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF229313",
+   "title": "아가사 AGATHA",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "백은혜"
+    },
+    {
+     "name": "고상호"
+    },
+    {
+     "name": "홍기범"
+    },
+    {
+     "name": "이진혁"
+    },
+    {
+     "name": "장재웅"
+    },
+    {
+     "name": "무현"
+    },
+    {
+     "name": "하미미"
+    },
+    {
+     "name": "채서연"
+    },
+    {
+     "name": "강인대"
+    }
+   ]
+  },
+  {
+   "id": "PF232863",
+   "title": "여기, 피화당",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233951",
+   "title": "연극 아트",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234505",
+   "title": "오즈",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF230200",
+   "title": "은하철도의 밤",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233138",
+   "title": "이상한 나라의 아빠",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234201",
+   "title": "이솝이야기",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232654",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233790",
+   "title": "마리 앙투아네트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234203",
+   "title": "비 Bea",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF230093",
+   "title": "스쿨 오브 락 월드투어",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (오페라극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233951",
+   "title": "연극 아트",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236263",
+   "title": "육포 살인사건",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234178",
+   "title": "이상한 나라의, 사라",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233941",
+   "title": "정동진",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF228192",
+   "title": "에곤 실레",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "15:20",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232946",
+   "title": "거미여인의 키스",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232760",
+   "title": "너를 위한 글자",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF228643",
+   "title": "더데빌: 파우스트",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF231831",
+   "title": "라스트 파이브 이어스",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF230065",
+   "title": "메리셸리",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF228061",
+   "title": "모딜리아니",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234207",
+   "title": "비클래스",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232060",
+   "title": "살아있는 자를 수선하기",
+   "genre": "연극",
+   "venue": "국립정동극장",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232863",
+   "title": "여기, 피화당",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233951",
+   "title": "연극 아트",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234505",
+   "title": "오즈",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF230200",
+   "title": "은하철도의 밤",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233138",
+   "title": "이상한 나라의 아빠",
+   "genre": "뮤지컬",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234201",
+   "title": "이솝이야기",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232654",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234507",
+   "title": "마리 퀴리",
+   "genre": "뮤지컬",
+   "venue": "전남광주통합특별시 예술의전당 (구. 광주예술의전당) (대극장)",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF226005",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF229313",
+   "title": "아가사 AGATHA",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "18:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수진"
+    },
+    {
+     "name": "김재범"
+    },
+    {
+     "name": "정지우"
+    },
+    {
+     "name": "이진혁"
+    },
+    {
+     "name": "장재웅"
+    },
+    {
+     "name": "무현"
+    },
+    {
+     "name": "하미미"
+    },
+    {
+     "name": "채서연"
+    },
+    {
+     "name": "강인대"
+    }
+   ]
+  },
+  {
+   "id": "PF234327",
+   "title": "10주년 기념공연, 레베카",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF227003",
+   "title": "드라큘라",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF225531",
+   "title": "레미제라블",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234203",
+   "title": "비 Bea",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233941",
+   "title": "정동진",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF228192",
+   "title": "에곤 실레",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "19:20",
+   "castSource": "none"
+  }
+ ]
+}

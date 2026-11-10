@@ -54,5 +54,47 @@
  ],
  "updated": "2022-05-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "테오",
+   "name": "원호"
+  },
+  {
+   "role": "테오",
+   "name": "이현석"
+  },
+  {
+   "role": "테오",
+   "name": "강승식"
+  },
+  {
+   "role": "테오",
+   "name": "경윤"
+  },
+  {
+   "role": "니콜라",
+   "name": "김경록"
+  },
+  {
+   "role": "니콜라",
+   "name": "임세준"
+  },
+  {
+   "role": "니콜라",
+   "name": "신혁수"
+  },
+  {
+   "role": "니콜라",
+   "name": "김종형"
+  },
+  {
+   "role": "니콜라",
+   "name": "홍주찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3112"
+ }
 }

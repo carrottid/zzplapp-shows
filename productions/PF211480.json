@@ -51,5 +51,47 @@
  ],
  "updated": "2023-01-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "생텍쥐베리",
+   "name": "정동화"
+  },
+  {
+   "role": "생텍쥐베리",
+   "name": "안재영"
+  },
+  {
+   "role": "생텍쥐베리",
+   "name": "동현(보이프렌드)"
+  },
+  {
+   "role": "어린왕자",
+   "name": "이우종"
+  },
+  {
+   "role": "어린왕자",
+   "name": "황민수"
+  },
+  {
+   "role": "어린왕자",
+   "name": "정지우"
+  },
+  {
+   "role": "나",
+   "name": "송영미"
+  },
+  {
+   "role": "나",
+   "name": "정우연"
+  },
+  {
+   "role": "나",
+   "name": "주다온"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3140"
+ }
 }

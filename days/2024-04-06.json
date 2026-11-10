@@ -1,0 +1,621 @@
+{
+ "date": "2024-04-06",
+ "sessions": [
+  {
+   "id": "PF234734",
+   "title": "10주년 기념공연, 레베카",
+   "genre": "뮤지컬",
+   "venue": "한국소리문화의전당 (모악당)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236886",
+   "title": "FOOD",
+   "genre": "연극",
+   "venue": "강동아트센터 (대극장 한강)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234851",
+   "title": "그레이트 코멧",
+   "genre": "뮤지컬",
+   "venue": "유니버설아트센터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235381",
+   "title": "낭만별곡",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235388",
+   "title": "더 라스트맨",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235174",
+   "title": "드라큘라",
+   "genre": "뮤지컬",
+   "venue": "부산문화회관 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234451",
+   "title": "디어 에반 핸슨 (Dear Evan Hansen)",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF231831",
+   "title": "라스트 파이브 이어스",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235946",
+   "title": "러브레터",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233973",
+   "title": "레미제라블",
+   "genre": "뮤지컬",
+   "venue": "계명아트센터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233790",
+   "title": "마리 앙투아네트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236881",
+   "title": "바스커빌: 셜록홈즈 미스터리",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF226005",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234572",
+   "title": "엠. 버터플라이",
+   "genre": "연극",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235670",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236190",
+   "title": "일 테노레",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234453",
+   "title": "초선의원",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234672",
+   "title": "헤드윅",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234384",
+   "title": "Via Air Mail (비아 에어 메일)",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235580",
+   "title": "광염 소나타",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236664",
+   "title": "국립극단, 천 개의 파랑",
+   "genre": "연극",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235586",
+   "title": "그때도 오늘",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235085",
+   "title": "난설",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234256",
+   "title": "넥스트 투 노멀",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233982",
+   "title": "디아길레프",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235679",
+   "title": "미스트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235212",
+   "title": "브론테",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234207",
+   "title": "비클래스",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233688",
+   "title": "서울시극단, 욘 (John)",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235493",
+   "title": "실수하지 않는 법",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232863",
+   "title": "여기, 피화당",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233951",
+   "title": "연극 아트",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236527",
+   "title": "연극 커튼",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234505",
+   "title": "오즈",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234201",
+   "title": "이솝이야기",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235117",
+   "title": "이프아이월유 (IF I WERE YOU)",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236394",
+   "title": "제33회 대한민국 신춘문예 페스티벌, 구덩이 & 독백이라 생각하기 쉽다",
+   "genre": "연극",
+   "venue": "아르코예술극장 (소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236985",
+   "title": "케이멘즈 랩소디",
+   "genre": "연극",
+   "venue": "두산아트센터 (Space111)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234262",
+   "title": "파과: 뭉그러진 과일",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232654",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235946",
+   "title": "러브레터",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236431",
+   "title": "제33회 대한민국 신춘문예 페스티벌, 묘전: 무덤전쟁, 위대한 무사고",
+   "genre": "연극",
+   "venue": "아르코예술극장 (소극장)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235586",
+   "title": "그때도 오늘",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235381",
+   "title": "낭만별곡",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235388",
+   "title": "더 라스트맨",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF231831",
+   "title": "라스트 파이브 이어스",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종S씨어터)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235946",
+   "title": "러브레터",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236881",
+   "title": "바스커빌: 셜록홈즈 미스터리",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235493",
+   "title": "실수하지 않는 법",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234572",
+   "title": "엠. 버터플라이",
+   "genre": "연극",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234453",
+   "title": "초선의원",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234851",
+   "title": "그레이트 코멧",
+   "genre": "뮤지컬",
+   "venue": "유니버설아트센터",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF226005",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235670",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234672",
+   "title": "헤드윅",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "18:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234734",
+   "title": "10주년 기념공연, 레베카",
+   "genre": "뮤지컬",
+   "venue": "한국소리문화의전당 (모악당)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234384",
+   "title": "Via Air Mail (비아 에어 메일)",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235580",
+   "title": "광염 소나타",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235085",
+   "title": "난설",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234256",
+   "title": "넥스트 투 노멀",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235174",
+   "title": "드라큘라",
+   "genre": "뮤지컬",
+   "venue": "부산문화회관 (대극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233982",
+   "title": "디아길레프",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234451",
+   "title": "디어 에반 핸슨 (Dear Evan Hansen)",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233973",
+   "title": "레미제라블",
+   "genre": "뮤지컬",
+   "venue": "계명아트센터",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233790",
+   "title": "마리 앙투아네트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235679",
+   "title": "미스트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235212",
+   "title": "브론테",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234207",
+   "title": "비클래스",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232863",
+   "title": "여기, 피화당",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF233951",
+   "title": "연극 아트",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234505",
+   "title": "오즈",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234201",
+   "title": "이솝이야기",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF235117",
+   "title": "이프아이월유 (IF I WERE YOU)",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236190",
+   "title": "일 테노레",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF234262",
+   "title": "파과: 뭉그러진 과일",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF232654",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236886",
+   "title": "FOOD",
+   "genre": "연극",
+   "venue": "강동아트센터 (대극장 한강)",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

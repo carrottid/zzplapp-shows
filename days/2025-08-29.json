@@ -1,0 +1,397 @@
+{
+ "date": "2025-08-29",
+ "sessions": [
+  {
+   "id": "PF263441",
+   "title": "멤피스",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263426",
+   "title": "알라딘",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263972",
+   "title": "위키드 내한 공연",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF266928",
+   "title": "맘마미아!",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF270765",
+   "title": "여름, 낭독시즌: 창작산실 대본공모 낭독공연",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264336",
+   "title": "더 크리처",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF270020",
+   "title": "국립극단, 위험한 놀이터",
+   "genre": "연극",
+   "venue": "국립극장 (하늘극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF269126",
+   "title": "나의 아저씨",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF266915",
+   "title": "마리 퀴리",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF266928",
+   "title": "맘마미아!",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263441",
+   "title": "멤피스",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262683",
+   "title": "베어 더 뮤지컬",
+   "genre": "뮤지컬",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF265828",
+   "title": "브로드웨이 42번가",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF259288",
+   "title": "빨래: 20년의 시간 30번째 무대",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264815",
+   "title": "사랑해, 엄마",
+   "genre": "연극",
+   "venue": "수성아트피아 (대극장 (대공연장) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF265925",
+   "title": "셰익스피어 인 러브",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (CJ 토월극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF265849",
+   "title": "쇼맨: 어느 독재자의 네 번째 대역배우",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264240",
+   "title": "스웨그에이지 외쳐, 조선!",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263426",
+   "title": "알라딘",
+   "genre": "뮤지컬",
+   "venue": "드림씨어터 [부산]",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF270765",
+   "title": "여름, 낭독시즌: 창작산실 대본공모 낭독공연",
+   "genre": "연극",
+   "venue": "대학로예술극장 (소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF265491",
+   "title": "위대한 개츠비 (The Great Gatsby)",
+   "genre": "뮤지컬",
+   "venue": "GS아트센터",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263972",
+   "title": "위키드 내한 공연",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF266788",
+   "title": "지킬 앤 하이드",
+   "genre": "뮤지컬",
+   "venue": "천안예술의전당 (대공연장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF270742",
+   "title": "초록빛 목소리",
+   "genre": "연극",
+   "venue": "아르코예술극장 (소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF263886",
+   "title": "프리다",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF270287",
+   "title": "프리마 파시",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF268919",
+   "title": "관부연락선",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF267506",
+   "title": "낙원",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF265533",
+   "title": "다시, 동물원",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264336",
+   "title": "더 크리처",
+   "genre": "뮤지컬",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264647",
+   "title": "두 낫 디스터브",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF265486",
+   "title": "등등곡",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264136",
+   "title": "디 이펙트 (THE EFFECT)",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF268553",
+   "title": "르 마스크",
+   "genre": "뮤지컬",
+   "venue": "et theatre 1 (구. 눈빛극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264519",
+   "title": "리틀잭",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF265743",
+   "title": "마하고니",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF270688",
+   "title": "물의 소리",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264961",
+   "title": "미러",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264194",
+   "title": "민들레 피리",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF266205",
+   "title": "번 더 위치",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264212",
+   "title": "베이컨",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF270130",
+   "title": "보이즈 인 더 밴드",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF270047",
+   "title": "살롱 드 캬바레, 잔 다르크: 트라이아웃",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF267040",
+   "title": "스트라빈스키",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF267683",
+   "title": "연극열전10, 웨이스티드",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF267130",
+   "title": "올랜도 in 버지니아",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF267527",
+   "title": "트레드밀",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF269075",
+   "title": "펑크",
+   "genre": "뮤지컬",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF265397",
+   "title": "플레임즈",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

@@ -43,5 +43,47 @@
  ],
  "updated": "2022-05-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "리차드",
+   "name": "김도빈"
+  },
+  {
+   "role": "리차드",
+   "name": "황민수"
+  },
+  {
+   "role": "리차드",
+   "name": "김찬종"
+  },
+  {
+   "role": "오스카",
+   "name": "조풍래"
+  },
+  {
+   "role": "오스카",
+   "name": "최호승"
+  },
+  {
+   "role": "오스카",
+   "name": "장민수"
+  },
+  {
+   "role": "스티비",
+   "name": "박영수"
+  },
+  {
+   "role": "스티비",
+   "name": "문경초"
+  },
+  {
+   "role": "스티비",
+   "name": "박좌헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3106"
+ }
 }

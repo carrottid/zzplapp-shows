@@ -1,0 +1,111 @@
+{
+ "date": "2026-11-02",
+ "sessions": [
+  {
+   "id": "PF301707",
+   "title": "제1회 ST-NOVA [일반 패키지]",
+   "genre": "연극",
+   "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B1B5E",
+    "fg": "#FF8A3D"
+   }
+  },
+  {
+   "id": "PF300582",
+   "title": "보물찾기",
+   "genre": "연극",
+   "venue": "HD아트센터(구 현대예술관) (소공연장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2B4C6F",
+    "fg": "#F2A33A"
+   }
+  },
+  {
+   "id": "PF302020",
+   "title": "안트로폴리스 Ⅳ, 이오카스테",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#C98AA0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF301522",
+   "title": "에너미",
+   "genre": "연극",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#5B7FA6",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF300890",
+   "title": "이상한 나라의 춘자씨",
+   "genre": "뮤지컬",
+   "venue": "더 줌 아트센터",
+   "time": "19:30",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "백현주",
+     "personId": "2353"
+    },
+    {
+     "name": "박현철",
+     "personId": "28846"
+    },
+    {
+     "name": "전민준",
+     "personId": "4209"
+    },
+    {
+     "name": "강나리",
+     "personId": "16494"
+    },
+    {
+     "name": "양나은",
+     "personId": "53481"
+    }
+   ],
+   "color": {
+    "bg": "#7B4FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF300366",
+   "title": "컴포터",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#F2B01E"
+   }
+  },
+  {
+   "id": "PF301308",
+   "title": "하트비트: 심폐소생일지",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#C0392B",
+    "fg": "#FFFFFF"
+   }
+  }
+ ]
+}

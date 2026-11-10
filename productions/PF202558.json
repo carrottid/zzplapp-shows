@@ -47,5 +47,47 @@
  ],
  "updated": "2022-11-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "로빈",
+   "name": "최재웅"
+  },
+  {
+   "role": "로빈",
+   "name": "김종구"
+  },
+  {
+   "role": "로빈",
+   "name": "정상윤"
+  },
+  {
+   "role": "루나",
+   "name": "최미소"
+  },
+  {
+   "role": "루나",
+   "name": "연지현"
+  },
+  {
+   "role": "루나",
+   "name": "정현지"
+  },
+  {
+   "role": "레온",
+   "name": "조성태"
+  },
+  {
+   "role": "레온",
+   "name": "윤현선"
+  },
+  {
+   "role": "레온",
+   "name": "박상준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3110"
+ }
 }

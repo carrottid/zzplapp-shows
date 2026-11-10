@@ -51,5 +51,107 @@
  ],
  "updated": "2020-10-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "정학",
+   "name": "유준상"
+  },
+  {
+   "role": "정학",
+   "name": "이건명"
+  },
+  {
+   "role": "정학",
+   "name": "정성화"
+  },
+  {
+   "role": "정학",
+   "name": "민우혁"
+  },
+  {
+   "role": "무영",
+   "name": "온주완"
+  },
+  {
+   "role": "무영",
+   "name": "조형균"
+  },
+  {
+   "role": "무영",
+   "name": "양요섭"
+  },
+  {
+   "role": "무영",
+   "name": "인성"
+  },
+  {
+   "role": "그녀",
+   "name": "루나"
+  },
+  {
+   "role": "그녀",
+   "name": "방민아"
+  },
+  {
+   "role": "그녀",
+   "name": "효은"
+  },
+  {
+   "role": "운영관",
+   "name": "서현철"
+  },
+  {
+   "role": "운영관",
+   "name": "이정열"
+  },
+  {
+   "role": "운영관",
+   "name": "고창석"
+  },
+  {
+   "role": "대식",
+   "name": "최지호"
+  },
+  {
+   "role": "대식",
+   "name": "김산호"
+  },
+  {
+   "role": "상구",
+   "name": "박정표"
+  },
+  {
+   "role": "상구",
+   "name": "김호창"
+  },
+  {
+   "role": "사서",
+   "name": "임진아"
+  },
+  {
+   "role": "사서",
+   "name": "김보정"
+  },
+  {
+   "role": "하나",
+   "name": "이휴"
+  },
+  {
+   "role": "하나",
+   "name": "이아진"
+  },
+  {
+   "role": "수지",
+   "name": "박도연"
+  },
+  {
+   "role": "수지",
+   "name": "이자영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3024"
+ }
 }

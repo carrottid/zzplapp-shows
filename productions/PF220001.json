@@ -39,5 +39,63 @@
  ],
  "updated": "2023-06-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "프리다",
+   "name": "김소향"
+  },
+  {
+   "role": "프리다",
+   "name": "알리"
+  },
+  {
+   "role": "프리다",
+   "name": "김히어라"
+  },
+  {
+   "role": "레플레하",
+   "name": "전수미"
+  },
+  {
+   "role": "레플레하",
+   "name": "리사"
+  },
+  {
+   "role": "레플레하",
+   "name": "스테파니"
+  },
+  {
+   "role": "데스티노",
+   "name": "임정희"
+  },
+  {
+   "role": "데스티노",
+   "name": "정영아"
+  },
+  {
+   "role": "데스티노",
+   "name": "이아름솔"
+  },
+  {
+   "role": "메모리아",
+   "name": "최서연"
+  },
+  {
+   "role": "메모리아",
+   "name": "박시인"
+  },
+  {
+   "role": "메모리아",
+   "name": "허혜진"
+  },
+  {
+   "role": "메모리아",
+   "name": "황우림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3169"
+ }
 }

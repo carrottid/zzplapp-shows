@@ -60,5 +60,67 @@
  ],
  "updated": "2022-06-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "서말리",
+   "name": "이서영"
+  },
+  {
+   "role": "서말리",
+   "name": "임소라"
+  },
+  {
+   "role": "어린 서말리",
+   "name": "박설아"
+  },
+  {
+   "role": "어린 서말리",
+   "name": "이서현"
+  },
+  {
+   "role": "더기",
+   "name": "강은일"
+  },
+  {
+   "role": "더기",
+   "name": "조용휘"
+  },
+  {
+   "role": "아빠",
+   "name": "심건우"
+  },
+  {
+   "role": "아빠",
+   "name": "정휘욱"
+  },
+  {
+   "role": "엄마",
+   "name": "박채원"
+  },
+  {
+   "role": "엄마",
+   "name": "윤데보라"
+  },
+  {
+   "role": "멀티 (여)",
+   "name": "박찬양"
+  },
+  {
+   "role": "멀티 (여)",
+   "name": "이랑서"
+  },
+  {
+   "role": "멀티 (남)",
+   "name": "김보근"
+  },
+  {
+   "role": "멀티 (남)",
+   "name": "안재준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3098"
+ }
 }

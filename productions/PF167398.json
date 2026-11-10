@@ -34,5 +34,51 @@
  ],
  "updated": "2020-09-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "버논",
+   "name": "박건형"
+  },
+  {
+   "role": "버논",
+   "name": "박영수"
+  },
+  {
+   "role": "소냐",
+   "name": "문진아"
+  },
+  {
+   "role": "소냐",
+   "name": "제이민"
+  },
+  {
+   "role": "BOYS",
+   "name": "정철호"
+  },
+  {
+   "role": "BOYS",
+   "name": "차정현"
+  },
+  {
+   "role": "BOYS",
+   "name": "유철호"
+  },
+  {
+   "role": "GIRLS",
+   "name": "하유진"
+  },
+  {
+   "role": "GIRLS",
+   "name": "지새롬"
+  },
+  {
+   "role": "GIRLS",
+   "name": "도율희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3006"
+ }
 }

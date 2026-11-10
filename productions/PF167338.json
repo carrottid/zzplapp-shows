@@ -43,5 +43,47 @@
  ],
  "updated": "2020-09-08 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "치치",
+   "name": "이승현"
+  },
+  {
+   "role": "치치",
+   "name": "김대현"
+  },
+  {
+   "role": "치치",
+   "name": "최석진"
+  },
+  {
+   "role": "스티비",
+   "name": "김순택"
+  },
+  {
+   "role": "스티비",
+   "name": "최호승"
+  },
+  {
+   "role": "스티비",
+   "name": "백기범"
+  },
+  {
+   "role": "써니보이",
+   "name": "정성일"
+  },
+  {
+   "role": "써니보이",
+   "name": "김이담"
+  },
+  {
+   "role": "써니보이",
+   "name": "김지온"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=2996"
+ }
 }

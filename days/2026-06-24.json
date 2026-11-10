@@ -1,0 +1,549 @@
+{
+ "date": "2026-06-24",
+ "sessions": [
+  {
+   "id": "PF290251",
+   "title": "신과 함께: 저승편",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
+   "time": "14:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290432",
+   "title": "눈이 부시게",
+   "genre": "연극",
+   "venue": "백암아트홀",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF289927",
+   "title": "다정한 배웅",
+   "genre": "연극",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF287941",
+   "title": "오지게 재밌는 가시나들",
+   "genre": "뮤지컬",
+   "venue": "국립극장 (하늘극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290329",
+   "title": "피리 부는 사나이",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288366",
+   "title": "6시 퇴근",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290322",
+   "title": "MAD HATTER 매드해터: 미친 모자장수 이야기",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290676",
+   "title": "댄포스가 옳았다",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291013",
+   "title": "더 라스트맨 2차",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286437",
+   "title": "더 펜",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF287675",
+   "title": "미드나잇: 액터뮤지션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF287874",
+   "title": "브라더스 까라마조프",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF292095",
+   "title": "브로크백 마운틴",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290595",
+   "title": "블랙메리포핀스",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291272",
+   "title": "사의찬미",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290879",
+   "title": "어둑시니",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291279",
+   "title": "언체인",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF289063",
+   "title": "연극열전10, 렁스",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288567",
+   "title": "오즈",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291233",
+   "title": "종의 기원",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0B1B3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF285980",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288803",
+   "title": "그날들",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290432",
+   "title": "눈이 부시게",
+   "genre": "연극",
+   "venue": "백암아트홀",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF289927",
+   "title": "다정한 배웅",
+   "genre": "연극",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF292316",
+   "title": "두산인문극장, 신분류학: 나는 나의 아내다",
+   "genre": "연극",
+   "venue": "두산아트센터 (Space111)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291308",
+   "title": "리어의 역",
+   "genre": "연극",
+   "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291601",
+   "title": "모린",
+   "genre": "연극",
+   "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF289313",
+   "title": "베토벤",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF284081",
+   "title": "빌리 엘리어트",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288986",
+   "title": "빨래",
+   "genre": "뮤지컬",
+   "venue": "소향씨어터 (우리은행홀 (구. 신한카드홀))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291533",
+   "title": "빨래: 32차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF282128",
+   "title": "서울시뮤지컬단, 더 트라이브",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286493",
+   "title": "서편제",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF283935",
+   "title": "스윙 데이즈_암호명 A",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290251",
+   "title": "신과 함께: 저승편",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF287941",
+   "title": "오지게 재밌는 가시나들",
+   "genre": "뮤지컬",
+   "venue": "국립극장 (하늘극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291890",
+   "title": "왝왝이가 그곳에 있었다",
+   "genre": "연극",
+   "venue": "아르코예술극장 (소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291619",
+   "title": "임대아파트",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290148",
+   "title": "제47회 서울연극제, 당신은 아들을 모른다",
+   "genre": "연극",
+   "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290718",
+   "title": "제47회 서울연극제, 사소한 것들",
+   "genre": "연극",
+   "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290498",
+   "title": "파가니니",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290329",
+   "title": "피리 부는 사나이",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288366",
+   "title": "6시 퇴근",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290797",
+   "title": "Club 설화",
+   "genre": "뮤지컬",
+   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A0A1A",
+    "fg": "#FF4F7A"
+   }
+  },
+  {
+   "id": "PF290322",
+   "title": "MAD HATTER 매드해터: 미친 모자장수 이야기",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291501",
+   "title": "공명",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291582",
+   "title": "꽃, 별이 지나",
+   "genre": "연극",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291013",
+   "title": "더 라스트맨 2차",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286437",
+   "title": "더 펜",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF287675",
+   "title": "미드나잇: 액터뮤지션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291152",
+   "title": "박열",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF287874",
+   "title": "브라더스 까라마조프",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF292095",
+   "title": "브로크백 마운틴",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290595",
+   "title": "블랙메리포핀스",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291272",
+   "title": "사의찬미",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290741",
+   "title": "시데레우스",
+   "genre": "뮤지컬",
+   "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF289630",
+   "title": "아웃캐스트",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290879",
+   "title": "어둑시니",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291279",
+   "title": "언체인",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF289063",
+   "title": "연극열전10, 렁스",
+   "genre": "연극",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288567",
+   "title": "오즈",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291576",
+   "title": "이올라오스",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF291233",
+   "title": "종의 기원",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0B1B3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF292810",
+   "title": "지킬 앤 하이드",
+   "genre": "연극",
+   "venue": "링크더스페이스(LINK THE SPACE) (2관)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF290504",
+   "title": "플리백 (Fleabag)",
+   "genre": "연극",
+   "venue": "두산아트센터 (연강홀)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF285980",
+   "title": "헤르츠클란",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "20:00",
+   "castSource": "none"
+  }
+ ]
+}

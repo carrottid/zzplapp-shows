@@ -58,5 +58,71 @@
  ],
  "updated": "2023-06-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "roleCast": [
+  {
+   "role": "오페라의 유령",
+   "name": "조승우"
+  },
+  {
+   "role": "오페라의 유령",
+   "name": "최재림"
+  },
+  {
+   "role": "오페라의 유령",
+   "name": "김주택"
+  },
+  {
+   "role": "오페라의 유령",
+   "name": "전동석"
+  },
+  {
+   "role": "크리스틴",
+   "name": "손지수"
+  },
+  {
+   "role": "크리스틴",
+   "name": "송은혜"
+  },
+  {
+   "role": "라울",
+   "name": "송원근"
+  },
+  {
+   "role": "라울",
+   "name": "황건하"
+  },
+  {
+   "role": "무슈 앙드레",
+   "name": "윤영석"
+  },
+  {
+   "role": "무슈 피르맹",
+   "name": "이상준"
+  },
+  {
+   "role": "마담 지리",
+   "name": "김아선"
+  },
+  {
+   "role": "칼롯타",
+   "name": "이지영"
+  },
+  {
+   "role": "칼롯타",
+   "name": "한보라"
+  },
+  {
+   "role": "피앙지",
+   "name": "박회림"
+  },
+  {
+   "role": "멕 지리",
+   "name": "조하린"
+  }
+ ],
+ "roleCastSource": {
+  "name": "더뮤지컬",
+  "url": "https://www.themusical.co.kr/Musical/Detail?num=3159"
+ }
 }
