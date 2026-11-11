@@ -1,6 +1,29 @@
 {
  "productions": [
   {
+   "id": "PF298200",
+   "title": "전설의 리틀 농구단",
+   "genre": "뮤지컬",
+   "from": "2026-09-11",
+   "to": "2026-09-11",
+   "venue": "경주예술의전당 (대공연장(화랑홀))",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298200_260811_112424.jpg",
+   "cast": [
+    "박재윤",
+    "송유택",
+    "신창주",
+    "구준모",
+    "장두환",
+    "정찬호"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#2F6FC0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF291291",
    "title": "사랑해 엄마",
    "genre": "연극",

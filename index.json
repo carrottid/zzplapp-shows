@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-10T11:00:43",
+ "updatedAt": "2026-11-11T09:00:02",
  "archives": [
   "1994",
   "1995",
@@ -107,6 +107,26 @@
     "bg": "#F2B600",
     "fg": "#111111"
    }
+  },
+  {
+   "id": "PF305999",
+   "title": "얼음나무 숲",
+   "genre": "뮤지컬",
+   "from": "2026-12-23",
+   "to": "2027-03-14",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305999_261110_150237.jpg",
+   "cast": [
+    "김종구",
+    "기세중",
+    "홍승안",
+    "정민",
+    "박선영",
+    "박정혁",
+    "노희찬"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
   },
   {
    "id": "PF302842",
@@ -505,6 +525,46 @@
     "김지온",
     "손우현",
     "정택운"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305949",
+   "title": "고통 2부작, 넉손이 X 살인의 밤",
+   "genre": "연극",
+   "from": "2026-12-08",
+   "to": "2026-12-13",
+   "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305949_261110_124200.gif",
+   "cast": [
+    "공아름",
+    "김민형",
+    "김예진",
+    "박지영",
+    "백혜리",
+    "윤동성",
+    "이유진"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305968",
+   "title": "슛 더 크로우 (Shoot the Crow)",
+   "genre": "연극",
+   "from": "2026-12-08",
+   "to": "2027-03-07",
+   "venue": "링크아트센터 (벅스홀)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305968_261110_134826.jpg",
+   "cast": [
+    "임하룡",
+    "박지일",
+    "김승욱",
+    "송종호",
+    "김도현",
+    "최재웅",
+    "오용"
    ],
    "state": "공연예정",
    "castSource": "none"
@@ -937,6 +997,26 @@
    }
   },
   {
+   "id": "PF305951",
+   "title": "제11회 한국뮤지컬어워즈, 뮤이어 (MU: YEAR) 콘서트",
+   "genre": "뮤지컬",
+   "from": "2026-11-30",
+   "to": "2026-11-30",
+   "venue": "이화여자대학교 삼성홀",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305951_261110_130104.jpg",
+   "cast": [
+    "김서연",
+    "김푸름",
+    "박영수",
+    "백형훈",
+    "송용진",
+    "윤도영",
+    "윤은오"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
    "id": "PF304638",
    "title": "투셰",
    "genre": "연극",
@@ -1095,6 +1175,26 @@
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305799_261109_143259.jpg",
    "cast": [
     "한경수"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
+   "id": "PF305906",
+   "title": "마녀는 아이돌을 좋아해",
+   "genre": "뮤지컬",
+   "from": "2026-11-26",
+   "to": "2026-11-26",
+   "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305906_261110_095946.gif",
+   "cast": [
+    "김지혜",
+    "강찬",
+    "이효은",
+    "신의정",
+    "천관우",
+    "류정연",
+    "장지민"
    ],
    "state": "공연예정",
    "castSource": "none"
@@ -4445,29 +4545,6 @@
    "color": {
     "bg": "#C8A27A",
     "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF298200",
-   "title": "전설의 리틀 농구단",
-   "genre": "뮤지컬",
-   "from": "2026-09-11",
-   "to": "2026-09-11",
-   "venue": "경주예술의전당 (대공연장(화랑홀))",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298200_260811_112424.jpg",
-   "cast": [
-    "박재윤",
-    "송유택",
-    "신창주",
-    "구준모",
-    "장두환",
-    "정찬호"
-   ],
-   "state": "공연완료",
-   "castSource": "none",
-   "color": {
-    "bg": "#2F6FC0",
-    "fg": "#FFFFFF"
    }
   },
   {

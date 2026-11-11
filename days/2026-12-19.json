@@ -626,6 +626,14 @@
    }
   },
   {
+   "id": "PF305968",
+   "title": "슛 더 크로우 (Shoot the Crow)",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF304068",
    "title": "앨런 튜링",
    "genre": "뮤지컬",
@@ -1411,6 +1419,14 @@
     "bg": "#0F1B3D",
     "fg": "#F2C94C"
    }
+  },
+  {
+   "id": "PF305968",
+   "title": "슛 더 크로우 (Shoot the Crow)",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "19:00",
+   "castSource": "none"
   },
   {
    "id": "PF303043",
