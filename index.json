@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-11T09:00:02",
+ "updatedAt": "2026-11-12T10:29:11",
  "archives": [
   "1994",
   "1995",
@@ -36,6 +36,26 @@
   "2026"
  ],
  "productions": [
+  {
+   "id": "PF306119",
+   "title": "해밀턴 내한공연 (Musical HAMILTON)",
+   "genre": "뮤지컬",
+   "from": "2027-01-21",
+   "to": "2027-03-20",
+   "venue": "세종문화회관 (세종대극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306119_261111_144716.png",
+   "cast": [
+    "마크 앤더슨",
+    "제이슨 애로우",
+    "조던 캐슬",
+    "존 데버로",
+    "니콜라 에스파야르도",
+    "제이크 할시-존스",
+    "조렐 하비에르"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
   {
    "id": "PF287489",
    "title": "사랑해 엄마",
@@ -4498,52 +4518,6 @@
    "castSource": "nol",
    "color": {
     "bg": "#F6C500",
-    "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF298442",
-   "title": "등등곡",
-   "genre": "뮤지컬",
-   "from": "2026-09-12",
-   "to": "2026-09-12",
-   "venue": "군산예술의전당 (대공연장)",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298442_260813_140847.jpg",
-   "cast": [
-    "안재영",
-    "김바다",
-    "김서환",
-    "박주혁",
-    "임태현"
-   ],
-   "state": "공연완료",
-   "castSource": "none",
-   "color": {
-    "bg": "#5E7FA6",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF295935",
-   "title": "그날들",
-   "genre": "뮤지컬",
-   "from": "2026-09-11",
-   "to": "2026-09-12",
-   "venue": "용인포은아트홀",
-   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295935_260713_150131.gif",
-   "cast": [
-    "엄기준",
-    "류수영",
-    "최진혁",
-    "박규원",
-    "유선호",
-    "윤시윤",
-    "박새힘"
-   ],
-   "state": "공연완료",
-   "castSource": "none",
-   "color": {
-    "bg": "#C8A27A",
     "fg": "#111111"
    }
   },

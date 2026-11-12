@@ -255,6 +255,14 @@
    }
   },
   {
+   "id": "PF306119",
+   "title": "해밀턴 내한공연 (Musical HAMILTON)",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF292160",
    "title": "겨울왕국",
    "genre": "뮤지컬",
@@ -531,6 +539,14 @@
     "bg": "#1B2A4A",
     "fg": "#E8B65A"
    }
+  },
+  {
+   "id": "PF306119",
+   "title": "해밀턴 내한공연 (Musical HAMILTON)",
+   "genre": "뮤지컬",
+   "venue": "세종문화회관 (세종대극장)",
+   "time": "19:00",
+   "castSource": "none"
   }
  ]
 }

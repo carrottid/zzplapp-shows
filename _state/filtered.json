@@ -42073,6 +42073,23 @@
   ],
   "since": "2026-11-11"
  },
+ "PF305916": {
+  "id": "PF305916",
+  "title": "오즈의 마법사",
+  "genre": "뮤지컬",
+  "from": "2026-12-30",
+  "to": "2027-01-31",
+  "venue": "한국방송회관 코바코홀 (구. 브로드홀)",
+  "area": "서울특별시",
+  "age": "전체 관람가",
+  "hall": "한국방송회관 코바코홀 (구. 브로드홀) (한국방송회관 코바코홀 (구. 브로드홀))",
+  "facilityId": "FC001107",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-12"
+ },
  "PF305931": {
   "id": "PF305931",
   "title": "오펀스",
@@ -42161,5 +42178,77 @@
    "venue_not_listed"
   ],
   "since": "2026-11-11"
+ },
+ "PF306094": {
+  "id": "PF306094",
+  "title": "저수지의 인어",
+  "genre": "연극",
+  "from": "2026-12-10",
+  "to": "2026-12-13",
+  "venue": "광화문아트홀",
+  "area": "서울특별시",
+  "age": "만 7세 이상",
+  "hall": "광화문아트홀 (광화문아트홀)",
+  "facilityId": "FC001177",
+  "producer": "달팽이주파수",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-12"
+ },
+ "PF306141": {
+  "id": "PF306141",
+  "title": "수상한PT샵",
+  "genre": "연극",
+  "from": "2026-12-29",
+  "to": "2027-01-03",
+  "venue": "한해랑아트홀",
+  "area": "전북특별자치도",
+  "age": "만 19세 이상",
+  "hall": "한해랑아트홀 (한해랑아트홀)",
+  "facilityId": "FC001365",
+  "producer": "(주)골든제이 엔터테인먼트(Golden J Entertainment)",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-12"
+ },
+ "PF306161": {
+  "id": "PF306161",
+  "title": "지하 생활자의 수기",
+  "genre": "연극",
+  "from": "2026-12-23",
+  "to": "2027-01-03",
+  "venue": "공간 서론",
+  "area": "서울특별시",
+  "age": "만 15세 이상",
+  "hall": "공간 서론 (공간 서론)",
+  "facilityId": "FC004799",
+  "producer": "와이엘프로덕션(yl production)",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-12"
+ },
+ "PF306164": {
+  "id": "PF306164",
+  "title": "꿈깨",
+  "genre": "연극",
+  "from": "2026-11-24",
+  "to": "2026-11-29",
+  "venue": "달밤엔씨어터",
+  "area": "서울특별시",
+  "age": "만 13세 이상",
+  "hall": "달밤엔씨어터 (달밤엔씨어터)",
+  "facilityId": "FC001884",
+  "producer": "바나나껍질",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-12"
  }
 }

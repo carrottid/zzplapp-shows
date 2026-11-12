@@ -1,6 +1,52 @@
 {
  "productions": [
   {
+   "id": "PF298442",
+   "title": "등등곡",
+   "genre": "뮤지컬",
+   "from": "2026-09-12",
+   "to": "2026-09-12",
+   "venue": "군산예술의전당 (대공연장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298442_260813_140847.jpg",
+   "cast": [
+    "안재영",
+    "김바다",
+    "김서환",
+    "박주혁",
+    "임태현"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#5E7FA6",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF295935",
+   "title": "그날들",
+   "genre": "뮤지컬",
+   "from": "2026-09-11",
+   "to": "2026-09-12",
+   "venue": "용인포은아트홀",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295935_260713_150131.gif",
+   "cast": [
+    "엄기준",
+    "류수영",
+    "최진혁",
+    "박규원",
+    "유선호",
+    "윤시윤",
+    "박새힘"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C8A27A",
+    "fg": "#111111"
+   }
+  },
+  {
    "id": "PF298200",
    "title": "전설의 리틀 농구단",
    "genre": "뮤지컬",
