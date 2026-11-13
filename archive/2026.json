@@ -70,6 +70,54 @@
    }
   },
   {
+   "id": "PF299330",
+   "title": "제9회 프로젝트 10minutes, 2주차",
+   "genre": "연극",
+   "from": "2026-09-10",
+   "to": "2026-09-13",
+   "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299330_260825_132238.jpg",
+   "cast": [
+    "장예슬",
+    "박소희",
+    "방준식",
+    "전영준",
+    "유성곤",
+    "임희정",
+    "전인기"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#D6202B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF297484",
+   "title": "쿼드, 연극의 질문들: 김아라, The sound of Macbeth",
+   "genre": "연극",
+   "from": "2026-09-08",
+   "to": "2026-09-13",
+   "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297484_260803_113622.gif",
+   "cast": [
+    "김성녀",
+    "정동환",
+    "송용진",
+    "박효빈",
+    "장재승",
+    "임소영",
+    "김기민"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#D6202B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF291291",
    "title": "사랑해 엄마",
    "genre": "연극",
@@ -108,6 +156,71 @@
    ],
    "state": "공연완료",
    "castSource": "none"
+  },
+  {
+   "id": "PF296598",
+   "title": "늙지 않는 마음",
+   "genre": "연극",
+   "from": "2026-09-04",
+   "to": "2026-09-13",
+   "venue": "아르코예술극장 (소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296598_260722_114231.gif",
+   "cast": [
+    "경지은",
+    "권지숙",
+    "김하람",
+    "남명렬"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C47A4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF297458",
+   "title": "외경",
+   "genre": "연극",
+   "from": "2026-09-04",
+   "to": "2026-09-13",
+   "venue": "대학로예술극장 (소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297458_260803_104502.gif",
+   "cast": [
+    "김영민",
+    "곽성은",
+    "이강민"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#D8451F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF297877",
+   "title": "카프카의 소송",
+   "genre": "연극",
+   "from": "2026-09-04",
+   "to": "2026-09-13",
+   "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF297877_260806_135252.gif",
+   "cast": [
+    "구본혁",
+    "성원",
+    "이지선",
+    "이상일",
+    "김현민",
+    "이승우",
+    "김미령"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#0F2B30",
+    "fg": "#9BE86A"
+   }
   },
   {
    "id": "PF295984",
@@ -267,6 +380,30 @@
    ],
    "state": "공연완료",
    "castSource": "none"
+  },
+  {
+   "id": "PF296266",
+   "title": "청사초롱 불 밝혀라",
+   "genre": "뮤지컬",
+   "from": "2026-08-22",
+   "to": "2026-09-13",
+   "venue": "국립정동극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296266_260716_140704.gif",
+   "cast": [
+    "이기완",
+    "이한수",
+    "김건혜",
+    "고석진",
+    "안재홍",
+    "윤태호",
+    "박재은"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F4E79",
+    "fg": "#F4C95D"
+   }
   },
   {
    "id": "PF292067",
@@ -592,6 +729,30 @@
    "castSource": "none"
   },
   {
+   "id": "PF295815",
+   "title": "최애가 사라졌다",
+   "genre": "뮤지컬",
+   "from": "2026-07-29",
+   "to": "2026-09-13",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295815_260710_142312.jpg",
+   "cast": [
+    "도희원",
+    "서지우",
+    "정아인",
+    "김보라",
+    "정지은",
+    "장희원",
+    "김세진"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C95F9A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF294868",
    "title": "송화가루",
    "genre": "연극",
@@ -732,6 +893,30 @@
    ],
    "state": "공연완료",
    "castSource": "none"
+  },
+  {
+   "id": "PF290257",
+   "title": "죽은 시인의 사회",
+   "genre": "연극",
+   "from": "2026-07-18",
+   "to": "2026-09-13",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF290257_260529_101937.gif",
+   "cast": [
+    "차인표",
+    "오만석",
+    "연정훈",
+    "김락현",
+    "이재환",
+    "강찬희",
+    "김태균"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#E0A83A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF292602",
@@ -959,6 +1144,30 @@
    "castSource": "none"
   },
   {
+   "id": "PF293924",
+   "title": "결혼전야",
+   "genre": "연극",
+   "from": "2026-07-09",
+   "to": "2026-09-13",
+   "venue": "후암스테이지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF293924_260617_124938.gif",
+   "cast": [
+    "심소영",
+    "김미란",
+    "서은지",
+    "박준혁",
+    "고훈목",
+    "차승호",
+    "고한민"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#F2B7A8",
+    "fg": "#111111"
+   }
+  },
+  {
    "id": "PF294231",
    "title": "제13회 대한민국신진연출가전, 정욱현: 스미소니언",
    "genre": "연극",
@@ -1153,6 +1362,30 @@
    "castSource": "none"
   },
   {
+   "id": "PF292296",
+   "title": "타인의 삶",
+   "genre": "연극",
+   "from": "2026-07-01",
+   "to": "2026-09-13",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292296_260527_104801.gif",
+   "cast": [
+    "윤나무",
+    "이동휘",
+    "정승길",
+    "장승조",
+    "우정원",
+    "임수향",
+    "김수현"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C8262C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF290422",
    "title": "유미의 세포들",
    "genre": "뮤지컬",
@@ -1171,6 +1404,29 @@
    ],
    "state": "공연완료",
    "castSource": "none"
+  },
+  {
+   "id": "PF291333",
+   "title": "스트라빈스키",
+   "genre": "뮤지컬",
+   "from": "2026-06-30",
+   "to": "2026-09-13",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF291333_260722_144354.gif",
+   "cast": [
+    "성태준",
+    "문경초",
+    "임준혁",
+    "박선영",
+    "양지원",
+    "서영택"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#C8D0D4",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF293102",
@@ -1246,6 +1502,30 @@
    ],
    "state": "공연완료",
    "castSource": "none"
+  },
+  {
+   "id": "PF292433",
+   "title": "해몽가",
+   "genre": "뮤지컬",
+   "from": "2026-06-25",
+   "to": "2026-09-13",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292433_260528_132346.gif",
+   "cast": [
+    "김정민",
+    "김도빈",
+    "박유덕",
+    "황두현",
+    "김지온",
+    "윤은오",
+    "윤재호"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1C3A6E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF288986",
