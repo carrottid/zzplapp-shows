@@ -1,0 +1,88 @@
+{
+ "id": "PF177368",
+ "title": "데칼코마니",
+ "genre": "연극",
+ "from": "2021-08-16",
+ "to": "2021-08-22",
+ "venue": "미마지아트센터 (눈빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF177368_210719_101549.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최보경",
+  "강희준",
+  "이하나",
+  "박준우",
+  "정의갑",
+  "송영숙",
+  "이진리"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "이순재, 이재성, 최한석 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF177368_210719_1015490.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21006042"
+  }
+ ],
+ "updated": "2021-07-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "강인범",
+   "name": "최보경"
+  },
+  {
+   "role": "강인범",
+   "name": "강희준"
+  },
+  {
+   "role": "민지숙",
+   "name": "이하나"
+  },
+  {
+   "role": "천사",
+   "name": "박준우"
+  },
+  {
+   "role": "천사",
+   "name": "최주헌"
+  },
+  {
+   "role": "주형사",
+   "name": "정의갑"
+  },
+  {
+   "role": "부산댁",
+   "name": "송영숙"
+  },
+  {
+   "role": "주신영",
+   "name": "이예원"
+  },
+  {
+   "role": "주신영",
+   "name": "이진리"
+  },
+  {
+   "role": "",
+   "name": "김종학"
+  },
+  {
+   "role": "",
+   "name": "위다나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711025906/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166552"
+ }
+}

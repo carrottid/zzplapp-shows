@@ -7,7 +7,7 @@
  "venue": "브릭스씨어터 (구. 콘텐츠 그라운드) (브릭스씨어터 (구. 콘텐츠 그라운드))",
  "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305144_261102_161106.jpg",
  "area": "서울특별시",
- "state": "공연예정",
+ "state": "공연중",
  "cast": [
   "김대현",
   "김준식",
@@ -35,5 +35,9 @@
  ],
  "updated": "2026-11-02 18:00:03.123264",
  "castSource": "none",
- "fetchedAt": "2026-11-09T09:08:33"
+ "fetchedAt": "2026-11-12T12:08:20",
+ "color": {
+  "bg": "#2E2A7A",
+  "fg": "#FFFFFF"
+ }
 }

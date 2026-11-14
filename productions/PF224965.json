@@ -51,5 +51,55 @@
  ],
  "updated": "2023-08-31 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4F4B4B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "포우",
+   "name": "서동진"
+  },
+  {
+   "role": "포우",
+   "name": "조현우"
+  },
+  {
+   "role": "도일",
+   "name": "이무현"
+  },
+  {
+   "role": "도일",
+   "name": "차이도"
+  },
+  {
+   "role": "아가사",
+   "name": "진소연"
+  },
+  {
+   "role": "아가사",
+   "name": "이수정"
+  },
+  {
+   "role": "프라이드",
+   "name": "이민규"
+  },
+  {
+   "role": "러스트",
+   "name": "정재헌"
+  },
+  {
+   "role": "엔비",
+   "name": "이예빈"
+  },
+  {
+   "role": "",
+   "name": "가희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250208100546/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192884"
+ }
 }

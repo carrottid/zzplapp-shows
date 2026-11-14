@@ -14,7 +14,7 @@
   "김준영",
   "황민수",
   "한서윤",
-  "윤진솔",
+  "박세미",
   "이한별"
  ],
  "facilityId": "FC001877",
@@ -39,5 +39,51 @@
  ],
  "updated": "2021-05-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#459FA1",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "잭 피셔",
+   "name": "정민"
+  },
+  {
+   "role": "잭 피셔",
+   "name": "박규원"
+  },
+  {
+   "role": "잭 피셔",
+   "name": "김지철"
+  },
+  {
+   "role": "잭 피셔",
+   "name": "황민수"
+  },
+  {
+   "role": "",
+   "name": "김준영"
+  },
+  {
+   "role": "줄리 해리슨",
+   "name": "한서윤"
+  },
+  {
+   "role": "줄리 해리슨",
+   "name": "랑연"
+  },
+  {
+   "role": "줄리 해리슨",
+   "name": "박세미"
+  },
+  {
+   "role": "줄리 해리슨",
+   "name": "이한별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221207140439/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175174"
+ }
 }

@@ -47,5 +47,71 @@
  ],
  "updated": "2023-02-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A1A1A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "표도르",
+   "name": "김주호"
+  },
+  {
+   "role": "표도르",
+   "name": "심재현"
+  },
+  {
+   "role": "드미트리",
+   "name": "양승리"
+  },
+  {
+   "role": "드미트리",
+   "name": "이형훈"
+  },
+  {
+   "role": "드미트리",
+   "name": "최호승"
+  },
+  {
+   "role": "이반",
+   "name": "김재범"
+  },
+  {
+   "role": "이반",
+   "name": "오종혁"
+  },
+  {
+   "role": "이반",
+   "name": "강정우"
+  },
+  {
+   "role": "알료샤",
+   "name": "동현"
+  },
+  {
+   "role": "알료샤",
+   "name": "정재환"
+  },
+  {
+   "role": "알료샤",
+   "name": "박상혁"
+  },
+  {
+   "role": "스메르쟈코",
+   "name": "박좌헌"
+  },
+  {
+   "role": "스메르쟈코",
+   "name": "김리현"
+  },
+  {
+   "role": "스메르쟈코",
+   "name": "이준우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260512084351/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185427"
+ }
 }

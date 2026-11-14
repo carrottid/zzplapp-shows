@@ -47,5 +47,95 @@
  ],
  "updated": "2022-08-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#435C77",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김은수",
+   "name": "박시환"
+  },
+  {
+   "role": "김은수",
+   "name": "세븐"
+  },
+  {
+   "role": "김은수",
+   "name": "승호"
+  },
+  {
+   "role": "정채은",
+   "name": "배다솜"
+  },
+  {
+   "role": "정채은",
+   "name": "오아랜"
+  },
+  {
+   "role": "정채은",
+   "name": "조정민"
+  },
+  {
+   "role": "구상만",
+   "name": "김종서"
+  },
+  {
+   "role": "구상만",
+   "name": "홍경민"
+  },
+  {
+   "role": "구상만",
+   "name": "이세준"
+  },
+  {
+   "role": "구상만",
+   "name": "배기성"
+  },
+  {
+   "role": "타미김",
+   "name": "정모"
+  },
+  {
+   "role": "타미김",
+   "name": "임에녹"
+  },
+  {
+   "role": "강철봉",
+   "name": "강민석"
+  },
+  {
+   "role": "강철봉",
+   "name": "신지"
+  },
+  {
+   "role": "배이수",
+   "name": "김성수"
+  },
+  {
+   "role": "배이수",
+   "name": "김진환"
+  },
+  {
+   "role": "",
+   "name": "맹상열"
+  },
+  {
+   "role": "",
+   "name": "강성호"
+  },
+  {
+   "role": "",
+   "name": "조혜연"
+  },
+  {
+   "role": "",
+   "name": "채시현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251016201332/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=177852"
+ }
 }

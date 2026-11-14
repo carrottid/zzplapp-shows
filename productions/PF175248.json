@@ -50,5 +50,39 @@
  ],
  "updated": "2021-05-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#796C7A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "소피",
+   "name": "송영미"
+  },
+  {
+   "role": "소피",
+   "name": "홍미금"
+  },
+  {
+   "role": "소피",
+   "name": "전해주"
+  },
+  {
+   "role": "한스",
+   "name": "유현석"
+  },
+  {
+   "role": "한스",
+   "name": "서동진"
+  },
+  {
+   "role": "한스",
+   "name": "강은일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230327235045/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165497"
+ }
 }

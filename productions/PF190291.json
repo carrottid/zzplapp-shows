@@ -1,0 +1,69 @@
+{
+ "id": "PF190291",
+ "title": "페스트",
+ "genre": "연극",
+ "from": "2022-05-17",
+ "to": "2022-05-22",
+ "venue": "삼일로창고극장 (삼일로창고극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190291_220429_112827.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "조흠",
+  "유도겸",
+  "정서희",
+  "최현미",
+  "김춘식",
+  "홍성희",
+  "송나영"
+ ],
+ "facilityId": "FC000248",
+ "runtime": "1시간 10분",
+ "age": "만 7세 이상",
+ "crew": "최현미, 박기태, 오세혁 등",
+ "producer": "극단 걸판, 지피뮤지컬",
+ "price": "전석 35,000원",
+ "schedule": "화요일 ~ 목요일(20:00), 금요일(16:00,20:00), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190291_220429_1128270.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004964"
+  }
+ ],
+ "updated": "2022-04-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "청년 타루",
+   "name": "유도겸"
+  },
+  {
+   "role": "기자 랑베르",
+   "name": "정서희"
+  },
+  {
+   "role": "공무원 그랑",
+   "name": "최현미"
+  },
+  {
+   "role": "배우",
+   "name": "송나영"
+  },
+  {
+   "role": "배우",
+   "name": "홍성희"
+  },
+  {
+   "role": "배우",
+   "name": "조혜령"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240913143205/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193881"
+ }
+}

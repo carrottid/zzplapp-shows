@@ -2,12 +2,32 @@
  "date": "2025-11-10",
  "sessions": [
   {
+   "id": "PF274915",
+   "title": "국립극단, 안트로폴리스 Ⅱ: 라이오스",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF275415",
+   "title": "창작ing, 밤에 먹는 무화과",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF276343",
    "title": "코리아타임스 창간75주년 기념, 뮤지컬 갈라 콘서트: The Musical",
    "genre": "뮤지컬",
    "venue": "롯데콘서트홀",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C71F7C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF270364",
@@ -15,7 +35,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FF5A5F"
+   }
   },
   {
    "id": "PF274339",
@@ -23,7 +47,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2D4F",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

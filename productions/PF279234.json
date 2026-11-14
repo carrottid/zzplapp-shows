@@ -47,5 +47,59 @@
  ],
  "updated": "2026-02-02 11:35:04",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A3038",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "선생님",
+   "name": "박근형"
+  },
+  {
+   "role": "선생님",
+   "name": "정동환"
+  },
+  {
+   "role": "노먼",
+   "name": "송승환"
+  },
+  {
+   "role": "노먼",
+   "name": "오만석"
+  },
+  {
+   "role": "사모님",
+   "name": "송옥숙"
+  },
+  {
+   "role": "사모님",
+   "name": "정재은"
+  },
+  {
+   "role": "제프리",
+   "name": "송영재"
+  },
+  {
+   "role": "제프리",
+   "name": "유병훈"
+  },
+  {
+   "role": "맷지",
+   "name": "이주원"
+  },
+  {
+   "role": "옥슨비",
+   "name": "임영우"
+  },
+  {
+   "role": "옥슨비",
+   "name": "한기장"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260103190640/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=224706"
+ }
 }

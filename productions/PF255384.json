@@ -43,5 +43,39 @@
  ],
  "updated": "2025-07-03 08:24:55",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0F1B37",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이정익",
+   "name": "성태준"
+  },
+  {
+   "role": "사언희",
+   "name": "한수림"
+  },
+  {
+   "role": "박우혁",
+   "name": "김우혁"
+  },
+  {
+   "role": "유키치",
+   "name": "김진철"
+  },
+  {
+   "role": "한희수",
+   "name": "고운지"
+  },
+  {
+   "role": "독립군",
+   "name": "백종민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250812003521/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211345"
+ }
 }

@@ -2,12 +2,24 @@
  "date": "2024-08-12",
  "sessions": [
   {
+   "id": "PF246384",
+   "title": "제5회 3인3색 페스티벌, 전쟁터의 피크닉 (골드팀: 송훈상 연출)",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF242456",
    "title": "아이위시",
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1605",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF242455",
@@ -15,7 +27,11 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1606",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF244530",
@@ -23,6 +39,34 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3F1908",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF246386",
+   "title": "제5회 3인3색 페스티벌, 전쟁터의 피크닉 (블루팀: 정재호 연출)",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF244769",
+   "title": "메리골드",
+   "genre": "뮤지컬",
+   "venue": "열린극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF244003",
+   "title": "세 여자, 세 남자",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -31,7 +75,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A2B18",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF242869",
@@ -39,13 +87,29 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DA120B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF244127",
    "title": "이쇼 with 연남장 캬바레",
    "genre": "뮤지컬",
    "venue": "연남장",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#B45F32",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF246385",
+   "title": "제5회 3인3색 페스티벌, 전쟁터의 피크닉 (레드팀: 권혁우 연출)",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
    "time": "20:00",
    "castSource": "none"
   }

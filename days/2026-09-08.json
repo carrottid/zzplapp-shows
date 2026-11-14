@@ -2,6 +2,14 @@
  "date": "2026-09-08",
  "sessions": [
   {
+   "id": "PF298806",
+   "title": "제11회 청소년을 위한 공연 예술 축제: 소년, 문턱에 서서",
+   "genre": "연극",
+   "venue": "아르코 꿈밭극장",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF297783",
    "title": "DAC Artist 본주 신작, 갱更",
    "genre": "연극",
@@ -19,7 +27,27 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "민경아"
+    },
+    {
+     "name": "최지혜"
+    },
+    {
+     "name": "신재범"
+    },
+    {
+     "name": "김원빈"
+    },
+    {
+     "name": "이창호"
+    },
+    {
+     "name": "정열"
+    }
+   ],
    "color": {
     "bg": "#1B6FD0",
     "fg": "#FFFFFF"
@@ -43,7 +71,30 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "이석훈"
+    },
+    {
+     "name": "에녹"
+    },
+    {
+     "name": "선예"
+    },
+    {
+     "name": "문진아"
+    },
+    {
+     "name": "박희준"
+    },
+    {
+     "name": "이은정"
+    },
+    {
+     "name": "김민수"
+    }
+   ],
    "color": {
     "bg": "#7A4F8E",
     "fg": "#FFFFFF"
@@ -134,12 +185,46 @@
    }
   },
   {
+   "id": "PF298769",
+   "title": "서울어텀페스타, 당신의 손",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF294946",
    "title": "엘리자벳",
    "genre": "뮤지컬",
    "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "이지수"
+    },
+    {
+     "name": "카이"
+    },
+    {
+     "name": "박은태"
+    },
+    {
+     "name": "박민성"
+    },
+    {
+     "name": "서지영"
+    },
+    {
+     "name": "김우성"
+    },
+    {
+     "name": "김대호"
+    },
+    {
+     "name": "장예원"
+    }
+   ],
    "color": {
     "bg": "#1A1A1A",
     "fg": "#E8D8B0"
@@ -170,6 +255,22 @@
    }
   },
   {
+   "id": "PF296274",
+   "title": "장군슈퍼",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF298328",
+   "title": "창작ing, 고쳐서 나가는 곳",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF296266",
    "title": "청사초롱 불 밝혀라",
    "genre": "뮤지컬",
@@ -180,6 +281,14 @@
     "bg": "#1F4E79",
     "fg": "#F4C95D"
    }
+  },
+  {
+   "id": "PF298817",
+   "title": "체온",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "19:30",
+   "castSource": "none"
   },
   {
    "id": "PF297877",
@@ -230,12 +339,37 @@
    }
   },
   {
+   "id": "PF300089",
+   "title": "해부되지 않은 것들",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF291886",
    "title": "헬스키친",
    "genre": "뮤지컬",
    "venue": "GS아트센터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "손승연"
+    },
+    {
+     "name": "최현선"
+    },
+    {
+     "name": "김영주"
+    },
+    {
+     "name": "테이"
+    },
+    {
+     "name": "박광선"
+    }
+   ],
    "color": {
     "bg": "#D98A1E",
     "fg": "#111111"
@@ -247,7 +381,21 @@
    "genre": "뮤지컬",
    "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "안현석"
+    },
+    {
+     "name": "신동해"
+    },
+    {
+     "name": "신석수"
+    },
+    {
+     "name": "이태이"
+    }
+   ],
    "color": {
     "bg": "#1A0A1A",
     "fg": "#FF4F7A"
@@ -259,11 +407,27 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "임태현"
+    },
+    {
+     "name": "송유택"
+    }
+   ],
    "color": {
     "bg": "#F2C400",
     "fg": "#111111"
    }
+  },
+  {
+   "id": "PF298355",
+   "title": "까라마조프의 자매들",
+   "genre": "뮤지컬",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "time": "20:00",
+   "castSource": "none"
   },
   {
    "id": "PF298032",
@@ -271,7 +435,15 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "손유동"
+    },
+    {
+     "name": "최석진"
+    }
+   ],
    "color": {
     "bg": "#A8161B",
     "fg": "#FFFFFF"
@@ -283,7 +455,24 @@
    "genre": "뮤지컬",
    "venue": "링크더스페이스(LINK THE SPACE) (1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "박새힘"
+    },
+    {
+     "name": "조영화"
+    },
+    {
+     "name": "강찬"
+    },
+    {
+     "name": "유동훈"
+    },
+    {
+     "name": "금보미"
+    }
+   ],
    "color": {
     "bg": "#1E7FB5",
     "fg": "#FFFFFF"
@@ -295,7 +484,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "장보람"
+    },
+    {
+     "name": "한재원"
+    },
+    {
+     "name": "이상아"
+    },
+    {
+     "name": "양정현"
+    },
+    {
+     "name": "정우림"
+    },
+    {
+     "name": "강현동"
+    },
+    {
+     "name": "신은규"
+    },
+    {
+     "name": "전현우"
+    }
+   ],
    "color": {
     "bg": "#0E1018",
     "fg": "#E8C86A"
@@ -307,7 +522,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "주민진"
+    },
+    {
+     "name": "김려원"
+    },
+    {
+     "name": "김재범"
+    }
+   ],
    "color": {
     "bg": "#4C6B78",
     "fg": "#FFFFFF"
@@ -324,6 +550,14 @@
     "bg": "#1A0A08",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF298717",
+   "title": "산울림 고전극장, 쿠쉬나메: 끝나지 않는 이야기",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
   },
   {
    "id": "PF294747",
@@ -355,7 +589,15 @@
    "genre": "연극",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "정휘"
+    },
+    {
+     "name": "김정민"
+    }
+   ],
    "color": {
     "bg": "#1F3A3A",
     "fg": "#FFFFFF"
@@ -367,7 +609,15 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "양지원"
+    }
+   ],
    "color": {
     "bg": "#A3151B",
     "fg": "#FFFFFF"
@@ -379,7 +629,27 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "신의정"
+    },
+    {
+     "name": "김초하"
+    },
+    {
+     "name": "한보라"
+    },
+    {
+     "name": "서동진"
+    },
+    {
+     "name": "박세훈"
+    },
+    {
+     "name": "김현기"
+    }
+   ],
    "color": {
     "bg": "#2B1F4A",
     "fg": "#FFFFFF"
@@ -432,6 +702,14 @@
     "bg": "#1F5E8C",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF297163",
+   "title": "쿠쉬나메: 끝나지 않는 이야기",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
   },
   {
    "id": "PF294244",

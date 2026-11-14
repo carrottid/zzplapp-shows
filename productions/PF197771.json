@@ -63,5 +63,95 @@
  ],
  "updated": "2022-09-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#215A2F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "다카유키",
+   "name": "김우진"
+  },
+  {
+   "role": "다카유키",
+   "name": "민진웅"
+  },
+  {
+   "role": "다카유키",
+   "name": "최정헌"
+  },
+  {
+   "role": "도모미",
+   "name": "한다미"
+  },
+  {
+   "role": "도모미",
+   "name": "유지안"
+  },
+  {
+   "role": "유키에",
+   "name": "반소영"
+  },
+  {
+   "role": "유키에",
+   "name": "정여원"
+  },
+  {
+   "role": "노부히코",
+   "name": "이원종"
+  },
+  {
+   "role": "노부히코",
+   "name": "정희태"
+  },
+  {
+   "role": "아츠코",
+   "name": "신혜경"
+  },
+  {
+   "role": "아츠코",
+   "name": "유보영"
+  },
+  {
+   "role": "도시아키",
+   "name": "원승재"
+  },
+  {
+   "role": "도시아키",
+   "name": "윤민구"
+  },
+  {
+   "role": "",
+   "name": "강나리"
+  },
+  {
+   "role": "",
+   "name": "도율희"
+  },
+  {
+   "role": "",
+   "name": "문혁"
+  },
+  {
+   "role": "",
+   "name": "박기원"
+  },
+  {
+   "role": "",
+   "name": "정보름"
+  },
+  {
+   "role": "",
+   "name": "황선희"
+  },
+  {
+   "role": "",
+   "name": "탁성준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251008105230/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178396"
+ }
 }

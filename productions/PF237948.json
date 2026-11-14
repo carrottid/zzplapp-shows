@@ -47,5 +47,71 @@
  ],
  "updated": "2024-03-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0B0B0D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "유진",
+   "name": "권미나"
+  },
+  {
+   "role": "나래",
+   "name": "김주빈"
+  },
+  {
+   "role": "리차드",
+   "name": "김형균"
+  },
+  {
+   "role": "철호",
+   "name": "박신후"
+  },
+  {
+   "role": "민수",
+   "name": "유영욱"
+  },
+  {
+   "role": "마이클정",
+   "name": "전정욱"
+  },
+  {
+   "role": "",
+   "name": "곽소영"
+  },
+  {
+   "role": "",
+   "name": "김도하"
+  },
+  {
+   "role": "",
+   "name": "고민재"
+  },
+  {
+   "role": "",
+   "name": "주선옥"
+  },
+  {
+   "role": "",
+   "name": "권승구"
+  },
+  {
+   "role": "",
+   "name": "한아름"
+  },
+  {
+   "role": "",
+   "name": "정찬희"
+  },
+  {
+   "role": "",
+   "name": "박서안"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240806083912/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200867"
+ }
 }

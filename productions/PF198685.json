@@ -1,0 +1,39 @@
+{
+ "id": "PF198685",
+ "title": "경매(AUCTION)",
+ "genre": "연극",
+ "from": "2022-09-21",
+ "to": "2022-09-25",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF198685_220923_130758.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "윤준호",
+  "김세정",
+  "장지수",
+  "문시현",
+  "김유림",
+  "이서현",
+  "한미래"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "김현호, 최영환, 신황철 등",
+ "producer": "예술공동체 길",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198685_220923_0107580.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011756"
+  }
+ ],
+ "updated": "2022-09-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

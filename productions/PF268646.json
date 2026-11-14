@@ -39,5 +39,63 @@
  ],
  "updated": "2025-07-10 09:40:07",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1F3D2B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "레이디 크룸",
+   "name": "강애심"
+  },
+  {
+   "role": "버나드",
+   "name": "정승길"
+  },
+  {
+   "role": "브라이스",
+   "name": "정원조"
+  },
+  {
+   "role": "한나",
+   "name": "김소진"
+  },
+  {
+   "role": "발렌타인",
+   "name": "권일"
+  },
+  {
+   "role": "녹스",
+   "name": "서요한"
+  },
+  {
+   "role": "",
+   "name": "김규도"
+  },
+  {
+   "role": "",
+   "name": "김민하"
+  },
+  {
+   "role": "",
+   "name": "박희정"
+  },
+  {
+   "role": "",
+   "name": "강유성"
+  },
+  {
+   "role": "",
+   "name": "김세원"
+  },
+  {
+   "role": "",
+   "name": "권형준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260306181519/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=218764"
+ }
 }

@@ -46,5 +46,47 @@
  ],
  "updated": "2021-03-19 11:51:34",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#5D7389",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아만다",
+   "name": "양서빈"
+  },
+  {
+   "role": "아만다",
+   "name": "김정민"
+  },
+  {
+   "role": "톰",
+   "name": "이휘종"
+  },
+  {
+   "role": "톰",
+   "name": "홍준기"
+  },
+  {
+   "role": "로라",
+   "name": "김이후"
+  },
+  {
+   "role": "로라",
+   "name": "이서현"
+  },
+  {
+   "role": "짐",
+   "name": "김이담"
+  },
+  {
+   "role": "짐",
+   "name": "임진구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612151845/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163621"
+ }
 }

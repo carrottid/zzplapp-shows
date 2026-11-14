@@ -1,0 +1,45 @@
+{
+ "id": "PF285145",
+ "title": "키리에",
+ "genre": "연극",
+ "from": "2026-03-19",
+ "to": "2026-04-15",
+ "venue": "국립정동극장 세실 (구.세실극장) (국립정동극장 세실 (구.세실극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285145_260213_110211.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최희진",
+  "유은숙",
+  "백성철",
+  "조어진",
+  "윤경"
+ ],
+ "facilityId": "FC001125",
+ "runtime": "2시간",
+ "age": "만 12세 이상",
+ "crew": "장영, 베일리 홍, 전인철 등",
+ "producer": "극단 돌파구",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285145_202602131102110650.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13513"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26001965"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79097"
+  }
+ ],
+ "updated": "2026-04-29 14:24:10",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

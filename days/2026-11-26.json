@@ -2,12 +2,32 @@
  "date": "2026-11-26",
  "sessions": [
   {
+   "id": "PF297978",
+   "title": "꽃의 비밀",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#F6C500",
+    "fg": "#111111"
+   }
+  },
+  {
    "id": "PF303036",
    "title": "러브레터",
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -22,10 +42,10 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이승준"
+     "name": "박경호"
     },
     {
-     "name": "박경호"
+     "name": "이승준"
     },
     {
      "name": "함태규"
@@ -155,16 +175,16 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "강민석"
+     "name": "임주환"
     },
     {
      "name": "태항호"
     },
     {
-     "name": "임주환"
+     "name": "임주은"
     },
     {
-     "name": "임주은"
+     "name": "강민석"
     }
    ],
    "color": {
@@ -355,7 +375,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "이진우"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "김은지"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "서인권"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -423,7 +469,11 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5A6B7D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305799",
@@ -431,7 +481,11 @@
    "genre": "연극",
    "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E84A8A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305009",
@@ -451,7 +505,54 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유희제"
+    },
+    {
+     "name": "오현서"
+    },
+    {
+     "name": "장태민"
+    },
+    {
+     "name": "정명군"
+    },
+    {
+     "name": "김동준"
+    },
+    {
+     "name": "도예준"
+    },
+    {
+     "name": "탁승빈"
+    },
+    {
+     "name": "김보정"
+    },
+    {
+     "name": "김수정"
+    },
+    {
+     "name": "박초록"
+    },
+    {
+     "name": "이정현"
+    },
+    {
+     "name": "심우성"
+    },
+    {
+     "name": "윤상호"
+    },
+    {
+     "name": "고태진"
+    },
+    {
+     "name": "이세호"
+    }
+   ],
    "color": {
     "bg": "#F0287F",
     "fg": "#FFFFFF"
@@ -567,10 +668,10 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이홍섭"
+     "name": "박희수"
     },
     {
-     "name": "박희수"
+     "name": "이홍섭"
     },
     {
      "name": "이후림"
@@ -596,10 +697,10 @@
      "name": "박규원"
     },
     {
-     "name": "김재한"
+     "name": "조민호"
     },
     {
-     "name": "조민호"
+     "name": "김재한"
     }
    ],
    "color": {
@@ -619,10 +720,10 @@
      "name": "랑연"
     },
     {
-     "name": "정단비"
+     "name": "공현비"
     },
     {
-     "name": "공현비"
+     "name": "정단비"
     }
    ],
    "color": {
@@ -708,7 +809,40 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김이후"
+    },
+    {
+     "name": "강찬"
+    },
+    {
+     "name": "효은"
+    },
+    {
+     "name": "신의정"
+    },
+    {
+     "name": "천관우"
+    },
+    {
+     "name": "류정연"
+    },
+    {
+     "name": "장지민"
+    },
+    {
+     "name": "김민성"
+    },
+    {
+     "name": "신예림"
+    }
+   ],
+   "color": {
+    "bg": "#4B2A7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301746",
@@ -718,9 +852,6 @@
    "time": "20:00",
    "castSource": "ticketlink",
    "cast": [
-    {
-     "name": "선한국"
-    },
     {
      "name": "정민"
     },
@@ -735,6 +866,9 @@
     },
     {
      "name": "박민주"
+    },
+    {
+     "name": "선한국"
     }
    ],
    "color": {
@@ -823,13 +957,15 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "임찬민"
+     "name": "임찬민",
+     "personId": "30495"
     },
     {
-     "name": "전하영"
+     "name": "전하영",
+     "personId": "49554"
     }
    ],
    "color": {
@@ -868,16 +1004,16 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "홍성원"
-    },
-    {
      "name": "한상훈"
     },
     {
-     "name": "신은호"
+     "name": "황만익"
     },
     {
-     "name": "황만익"
+     "name": "홍성원"
+    },
+    {
+     "name": "신은호"
     }
    ],
    "color": {
@@ -894,13 +1030,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이지연"
-    },
-    {
      "name": "정우연"
     },
     {
      "name": "홍나현"
+    },
+    {
+     "name": "이지연"
     }
    ],
    "color": {
@@ -1053,10 +1189,10 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "홍승안"
+     "name": "강연정"
     },
     {
-     "name": "강연정"
+     "name": "홍승안"
     },
     {
      "name": "이한솔"
@@ -1116,22 +1252,22 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "주다온"
-    },
-    {
      "name": "김초하"
     },
     {
      "name": "한보라"
     },
     {
-     "name": "김이담"
-    },
-    {
      "name": "박세훈"
     },
     {
      "name": "김현기"
+    },
+    {
+     "name": "주다온"
+    },
+    {
+     "name": "김이담"
     }
    ],
    "color": {

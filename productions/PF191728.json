@@ -50,5 +50,91 @@
  ],
  "updated": "2026-05-14 17:47:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "야가미 라이토",
+   "name": "홍광호"
+  },
+  {
+   "role": "야가미 라이토",
+   "name": "고은성"
+  },
+  {
+   "role": "엘(L)",
+   "name": "김준수"
+  },
+  {
+   "role": "엘(L)",
+   "name": "김성철"
+  },
+  {
+   "role": "렘",
+   "name": "김선영"
+  },
+  {
+   "role": "렘",
+   "name": "장은아"
+  },
+  {
+   "role": "류크",
+   "name": "강홍석"
+  },
+  {
+   "role": "류크",
+   "name": "서경수"
+  },
+  {
+   "role": "아마네 미사",
+   "name": "케이"
+  },
+  {
+   "role": "아마네 미사",
+   "name": "장민제"
+  },
+  {
+   "role": "야가미 소이치로",
+   "name": "서범석"
+  },
+  {
+   "role": "",
+   "name": "류인아"
+  },
+  {
+   "role": "",
+   "name": "서만석"
+  },
+  {
+   "role": "",
+   "name": "맹원태"
+  },
+  {
+   "role": "",
+   "name": "주홍균"
+  },
+  {
+   "role": "",
+   "name": "최희재"
+  },
+  {
+   "role": "",
+   "name": "서재홍"
+  },
+  {
+   "role": "",
+   "name": "김서안"
+  },
+  {
+   "role": "",
+   "name": "박영빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251012112316/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175141"
+ }
 }

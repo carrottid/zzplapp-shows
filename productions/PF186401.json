@@ -11,7 +11,8 @@
  "cast": [
   "박시원",
   "박시환",
-  "고유진 윤형렬",
+  "고유진",
+  "윤형렬",
   "윤진웅",
   "간미연",
   "권미희"
@@ -60,5 +61,95 @@
  ],
  "updated": "2022-02-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E6BE00",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "싯다르타",
+   "name": "신유"
+  },
+  {
+   "role": "싯다르타",
+   "name": "박시원"
+  },
+  {
+   "role": "싯다르타",
+   "name": "박시환"
+  },
+  {
+   "role": "마라",
+   "name": "고유진"
+  },
+  {
+   "role": "마라",
+   "name": "윤형렬"
+  },
+  {
+   "role": "마라",
+   "name": "윤진웅"
+  },
+  {
+   "role": "야소다라",
+   "name": "간미연"
+  },
+  {
+   "role": "야소다라",
+   "name": "권미희"
+  },
+  {
+   "role": "야소다라",
+   "name": "박혜민"
+  },
+  {
+   "role": "슈도다나",
+   "name": "박태성"
+  },
+  {
+   "role": "슈도다나",
+   "name": "유기호"
+  },
+  {
+   "role": "찬나",
+   "name": "한상욱"
+  },
+  {
+   "role": "찬나",
+   "name": "정휘욱"
+  },
+  {
+   "role": "우팔라",
+   "name": "안지현"
+  },
+  {
+   "role": "우팔라",
+   "name": "최고운"
+  },
+  {
+   "role": "",
+   "name": "정시윤"
+  },
+  {
+   "role": "",
+   "name": "원소영"
+  },
+  {
+   "role": "",
+   "name": "사현정"
+  },
+  {
+   "role": "",
+   "name": "홍준영"
+  },
+  {
+   "role": "",
+   "name": "이도희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908024937/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172135"
+ }
 }

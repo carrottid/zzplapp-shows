@@ -12,7 +12,7 @@
   "이해준",
   "유회승",
   "김희재",
-  "허혜진",
+  "허윤슬",
   "황우림",
   "민영기",
   "서범석"
@@ -76,7 +76,7 @@
   },
   {
    "role": "콘스탄체 베버",
-   "name": "허혜진"
+   "name": "허윤슬"
   },
   {
    "role": "콘스탄체 베버",
@@ -142,5 +142,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3164"
+ },
+ "color": {
+  "bg": "#471D1B",
+  "fg": "#FFFFFF"
  }
 }

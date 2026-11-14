@@ -47,5 +47,91 @@
  ],
  "updated": "2023-10-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0F1C23",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "드라큘라",
+   "name": "김준수"
+  },
+  {
+   "role": "드라큘라",
+   "name": "전동석"
+  },
+  {
+   "role": "드라큘라",
+   "name": "신성록"
+  },
+  {
+   "role": "미나",
+   "name": "임혜영"
+  },
+  {
+   "role": "미나",
+   "name": "정선아"
+  },
+  {
+   "role": "미나",
+   "name": "아이비"
+  },
+  {
+   "role": "반헬싱",
+   "name": "손준호"
+  },
+  {
+   "role": "반헬싱",
+   "name": "박재윤"
+  },
+  {
+   "role": "조나단",
+   "name": "진태화"
+  },
+  {
+   "role": "조나단",
+   "name": "임준혁"
+  },
+  {
+   "role": "루시",
+   "name": "이예은"
+  },
+  {
+   "role": "루시",
+   "name": "최서연"
+  },
+  {
+   "role": "렌필드",
+   "name": "김도현"
+  },
+  {
+   "role": "렌필드",
+   "name": "김도하"
+  },
+  {
+   "role": "",
+   "name": "이재현"
+  },
+  {
+   "role": "",
+   "name": "정재희"
+  },
+  {
+   "role": "",
+   "name": "윤재성"
+  },
+  {
+   "role": "",
+   "name": "이승현"
+  },
+  {
+   "role": "",
+   "name": "도해"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250617200250/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193988"
+ }
 }

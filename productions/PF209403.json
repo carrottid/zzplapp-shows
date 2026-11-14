@@ -51,5 +51,67 @@
  ],
  "updated": "2023-01-06 14:48:58",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#14110E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "안토니오 살리에리",
+   "name": "김재범"
+  },
+  {
+   "role": "안토니오 살리에리",
+   "name": "김종구"
+  },
+  {
+   "role": "안토니오 살리에리",
+   "name": "차지연"
+  },
+  {
+   "role": "안토니오 살리에리",
+   "name": "문유강"
+  },
+  {
+   "role": "볼프강 아마데우스 모차르트",
+   "name": "전성우"
+  },
+  {
+   "role": "볼프강 아마데우스 모차르트",
+   "name": "이재균"
+  },
+  {
+   "role": "볼프강 아마데우스 모차르트",
+   "name": "최우혁"
+  },
+  {
+   "role": "콘스탄체 베버",
+   "name": "김벼리"
+  },
+  {
+   "role": "콘스탄체 베버",
+   "name": "유유진"
+  },
+  {
+   "role": "카테리나 카발리에리",
+   "name": "손의완"
+  },
+  {
+   "role": "요제프 황제",
+   "name": "도유안"
+  },
+  {
+   "role": "작은 바람들",
+   "name": "김우성"
+  },
+  {
+   "role": "",
+   "name": "강현성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622151325/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=183338"
+ }
 }

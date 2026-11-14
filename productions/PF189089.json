@@ -62,5 +62,71 @@
  ],
  "updated": "2022-04-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#7C5195",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "다이애나",
+   "name": "박칼린"
+  },
+  {
+   "role": "다이애나",
+   "name": "최정원"
+  },
+  {
+   "role": "댄",
+   "name": "남경주"
+  },
+  {
+   "role": "댄",
+   "name": "이건명"
+  },
+  {
+   "role": "게이브",
+   "name": "양희준"
+  },
+  {
+   "role": "게이브",
+   "name": "노윤"
+  },
+  {
+   "role": "게이브",
+   "name": "이석준"
+  },
+  {
+   "role": "나탈리",
+   "name": "이아진"
+  },
+  {
+   "role": "나탈리",
+   "name": "이서영"
+  },
+  {
+   "role": "나탈리",
+   "name": "이정화"
+  },
+  {
+   "role": "헨리",
+   "name": "김현진"
+  },
+  {
+   "role": "헨리",
+   "name": "최재웅"
+  },
+  {
+   "role": "의사",
+   "name": "윤석원"
+  },
+  {
+   "role": "의사",
+   "name": "박인배"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250523202718/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173393"
+ }
 }

@@ -51,5 +51,83 @@
  ],
  "updated": "2025-08-19 12:49:43",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#475568",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김영운",
+   "name": "김재범"
+  },
+  {
+   "role": "김영운",
+   "name": "고상호"
+  },
+  {
+   "role": "김영운",
+   "name": "안재영"
+  },
+  {
+   "role": "김영운",
+   "name": "김지철"
+  },
+  {
+   "role": "최윤",
+   "name": "김바다"
+  },
+  {
+   "role": "최윤",
+   "name": "임준혁"
+  },
+  {
+   "role": "최윤",
+   "name": "정재환"
+  },
+  {
+   "role": "최윤",
+   "name": "안지환"
+  },
+  {
+   "role": "초",
+   "name": "강찬"
+  },
+  {
+   "role": "초",
+   "name": "김서환"
+  },
+  {
+   "role": "초",
+   "name": "박상혁"
+  },
+  {
+   "role": "정진명",
+   "name": "박선영"
+  },
+  {
+   "role": "정진명",
+   "name": "정서안"
+  },
+  {
+   "role": "정진명",
+   "name": "박주혁"
+  },
+  {
+   "role": "이경신",
+   "name": "황두현"
+  },
+  {
+   "role": "이경신",
+   "name": "김준식"
+  },
+  {
+   "role": "이경신",
+   "name": "임태현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250811211617/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=217147"
+ }
 }

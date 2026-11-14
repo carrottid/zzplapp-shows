@@ -1,0 +1,88 @@
+{
+ "id": "PF275415",
+ "title": "창작ing, 밤에 먹는 무화과",
+ "genre": "연극",
+ "from": "2025-10-27",
+ "to": "2025-11-11",
+ "venue": "국립정동극장 세실 (구.세실극장) (국립정동극장 세실 (구.세실극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF275415_251001_105321.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "경지은",
+  "김의태",
+  "남동진",
+  "류경인",
+  "백소정",
+  "백현주",
+  "송민규"
+ ],
+ "facilityId": "FC001125",
+ "runtime": "1시간 20분",
+ "age": "만 6세 이상",
+ "crew": "신효진, 이래은, 김민솔 등",
+ "price": "전석 20,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF275415_202510011053211360.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13256"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25014121"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=78820"
+  }
+ ],
+ "updated": "2026-01-21 16:49:57",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "윤",
+   "name": "경지은"
+  },
+  {
+   "role": "남자",
+   "name": "김의태"
+  },
+  {
+   "role": "중년 남자",
+   "name": "남동진"
+  },
+  {
+   "role": "교인",
+   "name": "류경인"
+  },
+  {
+   "role": "김",
+   "name": "백소정"
+  },
+  {
+   "role": "윤숙",
+   "name": "백현주"
+  },
+  {
+   "role": "",
+   "name": "송민규"
+  },
+  {
+   "role": "",
+   "name": "양대은"
+  },
+  {
+   "role": "",
+   "name": "이미라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251116115028/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=222834"
+ }
+}

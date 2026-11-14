@@ -38,5 +38,43 @@
  ],
  "updated": "2022-04-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#51474B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "닷지",
+   "name": "손병호"
+  },
+  {
+   "role": "핼리",
+   "name": "성여진"
+  },
+  {
+   "role": "틸든",
+   "name": "윤재웅"
+  },
+  {
+   "role": "브래들리",
+   "name": "정다운"
+  },
+  {
+   "role": "빈스",
+   "name": "황성연"
+  },
+  {
+   "role": "셸리",
+   "name": "정지영"
+  },
+  {
+   "role": "",
+   "name": "한범희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240622094634/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174247"
+ }
 }

@@ -1,0 +1,38 @@
+{
+ "id": "PF201652",
+ "title": "베이스 노트",
+ "genre": "연극",
+ "from": "2022-11-18",
+ "to": "2022-11-20",
+ "venue": "KT&G 상상마당 대치아트홀 (KT&G 상상마당 대치아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF201652_221108_113344.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이명선",
+  "이진아",
+  "박해성",
+  "임준혁",
+  "강정민",
+  "이찬미",
+  "김영현"
+ ],
+ "facilityId": "FC000052",
+ "runtime": "1시간 20분",
+ "age": "만 7세 이상",
+ "crew": "임일, 윤소희, 임준혁 등",
+ "price": "전석 10,000원",
+ "schedule": "금요일(20:00), 토요일(14:00,17:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201652_221108_1133440.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22015267"
+  }
+ ],
+ "updated": "2022-11-08 11:56:54",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

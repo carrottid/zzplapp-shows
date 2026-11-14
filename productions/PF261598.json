@@ -1,0 +1,68 @@
+{
+ "id": "PF261598",
+ "title": "씨네낭독극, 지상의 사랑",
+ "genre": "연극",
+ "from": "2025-04-30",
+ "to": "2025-05-04",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF261598_250321_132115.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김화영",
+  "남명렬",
+  "정아미",
+  "김진근",
+  "추헌엽",
+  "이소영"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "crew": "강봉자, 김수미, 어일선 등",
+ "producer": "공연배달 탄탄",
+ "price": "전석 10,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF261598_250321_0121150.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25003981"
+  }
+ ],
+ "updated": "2025-03-21 15:00:03",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "배진옥",
+   "name": "김화영"
+  },
+  {
+   "role": "이정식",
+   "name": "남명렬"
+  },
+  {
+   "role": "라난이",
+   "name": "정아미"
+  },
+  {
+   "role": "유희균",
+   "name": "김진근"
+  },
+  {
+   "role": "임형원",
+   "name": "추헌엽"
+  },
+  {
+   "role": "강수지",
+   "name": "이소영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251217041444/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=215084"
+ }
+}

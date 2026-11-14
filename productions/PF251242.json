@@ -39,5 +39,63 @@
  ],
  "updated": "2025-07-03 08:14:50",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3B2A1E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "언노운",
+   "name": "이형훈"
+  },
+  {
+   "role": "언노운",
+   "name": "송유택"
+  },
+  {
+   "role": "언노운",
+   "name": "조환지"
+  },
+  {
+   "role": "포엣",
+   "name": "정다희"
+  },
+  {
+   "role": "포엣",
+   "name": "박선영"
+  },
+  {
+   "role": "포엣",
+   "name": "윤지우"
+  },
+  {
+   "role": "클라운",
+   "name": "정민"
+  },
+  {
+   "role": "클라운",
+   "name": "임강성"
+  },
+  {
+   "role": "클라운",
+   "name": "김대곤"
+  },
+  {
+   "role": "아스트로",
+   "name": "이후림"
+  },
+  {
+   "role": "아스트로",
+   "name": "김태오"
+  },
+  {
+   "role": "아스트로",
+   "name": "이선우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250316063032/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209279"
+ }
 }

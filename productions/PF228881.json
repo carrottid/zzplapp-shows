@@ -1,0 +1,39 @@
+{
+ "id": "PF228881",
+ "title": "삼류배우",
+ "genre": "연극",
+ "from": "2023-11-09",
+ "to": "2023-11-12",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228881_231030_144313.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "배준형",
+  "윤상우",
+  "임세민",
+  "김민수",
+  "박지인",
+  "윤시은",
+  "김용휘"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "김세진, 양효석, 최지원 등",
+ "producer": "카타르디엠",
+ "price": "전석 10,000원",
+ "schedule": "목요일 ~ 금요일(19:00), 토요일 ~ 일요일(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228881_231030_0243130.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015740"
+  }
+ ],
+ "updated": "2023-10-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

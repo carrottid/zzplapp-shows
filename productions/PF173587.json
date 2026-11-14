@@ -36,5 +36,35 @@
  ],
  "updated": "2021-04-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#536277",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아버지 김만복",
+   "name": "김진태"
+  },
+  {
+   "role": "어머니 정이분",
+   "name": "김계선"
+  },
+  {
+   "role": "큰딸 정임",
+   "name": "이효윤"
+  },
+  {
+   "role": "아들 경원",
+   "name": "안재완"
+  },
+  {
+   "role": "작은딸 정연",
+   "name": "안수현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220519205654/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164390"
+ }
 }

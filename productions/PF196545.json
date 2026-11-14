@@ -55,5 +55,59 @@
  ],
  "updated": "2022-08-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#7B6A6E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마크",
+   "name": "이순재"
+  },
+  {
+   "role": "마크",
+   "name": "김재범"
+  },
+  {
+   "role": "마크",
+   "name": "조풍래"
+  },
+  {
+   "role": "마크",
+   "name": "박은석"
+  },
+  {
+   "role": "세르주",
+   "name": "노주현"
+  },
+  {
+   "role": "세르주",
+   "name": "최재웅"
+  },
+  {
+   "role": "세르주",
+   "name": "최영준"
+  },
+  {
+   "role": "세르주",
+   "name": "김도빈"
+  },
+  {
+   "role": "이반",
+   "name": "백일섭"
+  },
+  {
+   "role": "이반",
+   "name": "박영수"
+  },
+  {
+   "role": "이반",
+   "name": "박정복"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230715130354/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=177934"
+ }
 }

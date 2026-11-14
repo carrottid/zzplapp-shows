@@ -39,5 +39,63 @@
  ],
  "updated": "2024-02-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#231712",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "싱클레어",
+   "name": "조풍래"
+  },
+  {
+   "role": "싱클레어",
+   "name": "이형훈"
+  },
+  {
+   "role": "싱클레어",
+   "name": "임찬민"
+  },
+  {
+   "role": "싱클레어",
+   "name": "김현진"
+  },
+  {
+   "role": "",
+   "name": "정우연"
+  },
+  {
+   "role": "",
+   "name": "이한별"
+  },
+  {
+   "role": "",
+   "name": "홍나현"
+  },
+  {
+   "role": "",
+   "name": "류동휘"
+  },
+  {
+   "role": "데미안",
+   "name": "조풍래"
+  },
+  {
+   "role": "데미안",
+   "name": "이형훈"
+  },
+  {
+   "role": "데미안",
+   "name": "임찬민"
+  },
+  {
+   "role": "데미안",
+   "name": "김현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516224430/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199750"
+ }
 }

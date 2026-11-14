@@ -11,7 +11,7 @@
  "cast": [
   "이건명",
   "고영빈",
-  "박은석",
+  "박재윤",
   "송유택",
   "장지후",
   "강승호",
@@ -71,5 +71,51 @@
  ],
  "updated": "2021-08-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#252733",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "올드맨",
+   "name": "이건명"
+  },
+  {
+   "role": "올드맨",
+   "name": "고영빈"
+  },
+  {
+   "role": "올드맨",
+   "name": "박재윤"
+  },
+  {
+   "role": "영맨",
+   "name": "송유택"
+  },
+  {
+   "role": "영맨",
+   "name": "장지후"
+  },
+  {
+   "role": "영맨",
+   "name": "강승호"
+  },
+  {
+   "role": "레이디",
+   "name": "홍륜희"
+  },
+  {
+   "role": "레이디",
+   "name": "소정화"
+  },
+  {
+   "role": "레이디",
+   "name": "박가은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250115052231/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166831"
+ }
 }

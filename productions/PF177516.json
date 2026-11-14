@@ -46,5 +46,95 @@
  ],
  "updated": "2021-07-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#161618",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김선달",
+   "name": "허도영"
+  },
+  {
+   "role": "홍경래",
+   "name": "한일경"
+  },
+  {
+   "role": "조진수",
+   "name": "김범준"
+  },
+  {
+   "role": "조득영",
+   "name": "박성훈"
+  },
+  {
+   "role": "박대성",
+   "name": "이경준"
+  },
+  {
+   "role": "",
+   "name": "김광표"
+  },
+  {
+   "role": "",
+   "name": "주성중"
+  },
+  {
+   "role": "",
+   "name": "박선옥"
+  },
+  {
+   "role": "",
+   "name": "이연경"
+  },
+  {
+   "role": "",
+   "name": "권명현"
+  },
+  {
+   "role": "",
+   "name": "고준식"
+  },
+  {
+   "role": "",
+   "name": "정선영"
+  },
+  {
+   "role": "",
+   "name": "박원진"
+  },
+  {
+   "role": "",
+   "name": "박정아"
+  },
+  {
+   "role": "",
+   "name": "오성림"
+  },
+  {
+   "role": "",
+   "name": "임승연"
+  },
+  {
+   "role": "",
+   "name": "이신미"
+  },
+  {
+   "role": "",
+   "name": "이승재"
+  },
+  {
+   "role": "",
+   "name": "이혜란"
+  },
+  {
+   "role": "",
+   "name": "정은영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251110124944/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167105"
+ }
 }

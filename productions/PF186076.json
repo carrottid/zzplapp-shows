@@ -15,7 +15,7 @@
   "홍승안",
   "옥경민",
   "이헤빈",
-  "심수영"
+  "심수호"
  ],
  "facilityId": "FC000833",
  "runtime": "1시간 30분",
@@ -47,5 +47,55 @@
  ],
  "updated": "2022-01-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1D072E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "수진",
+   "name": "전예지"
+  },
+  {
+   "role": "수진",
+   "name": "류인아"
+  },
+  {
+   "role": "찬영",
+   "name": "윤승우"
+  },
+  {
+   "role": "찬영",
+   "name": "홍승안"
+  },
+  {
+   "role": "현아",
+   "name": "옥경민"
+  },
+  {
+   "role": "현아",
+   "name": "이혜빈"
+  },
+  {
+   "role": "지훈",
+   "name": "심수호"
+  },
+  {
+   "role": "지훈",
+   "name": "이봉준"
+  },
+  {
+   "role": "승우",
+   "name": "조현우"
+  },
+  {
+   "role": "승우",
+   "name": "윤은오"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250805044217/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171595"
+ }
 }

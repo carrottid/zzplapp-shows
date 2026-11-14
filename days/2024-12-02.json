@@ -7,6 +7,18 @@
    "genre": "연극",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0A598C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF253244",
+   "title": "면면면",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -15,7 +27,11 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DBDF01",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF248007",
@@ -23,7 +39,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C39222",
+    "fg": "#111111"
+   }
   }
  ]
 }

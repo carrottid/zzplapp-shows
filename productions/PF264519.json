@@ -47,5 +47,47 @@
  ],
  "updated": "2025-06-02 15:12:07",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#459EA0",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "잭 피셔",
+   "name": "박규원"
+  },
+  {
+   "role": "잭 피셔",
+   "name": "유승현"
+  },
+  {
+   "role": "잭 피셔",
+   "name": "김준영"
+  },
+  {
+   "role": "잭 피셔",
+   "name": "황민수"
+  },
+  {
+   "role": "줄리 해리슨",
+   "name": "박세미"
+  },
+  {
+   "role": "줄리 해리슨",
+   "name": "유주연"
+  },
+  {
+   "role": "줄리 해리슨",
+   "name": "박소현"
+  },
+  {
+   "role": "줄리 해리슨",
+   "name": "이재림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250811225205/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216732"
+ }
 }

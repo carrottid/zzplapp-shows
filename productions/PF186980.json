@@ -14,7 +14,7 @@
   "김효진",
   "이인표",
   "이승준",
-  "윤진솔",
+  "박세미",
   "표바하"
  ],
  "facilityId": "FC000011",
@@ -47,5 +47,79 @@
  ],
  "updated": "2022-02-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1C2740",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "라만",
+   "name": "박찬열"
+  },
+  {
+   "role": "연준석",
+   "name": "장기용"
+  },
+  {
+   "role": "윤선호",
+   "name": "김효진"
+  },
+  {
+   "role": "이정혁",
+   "name": "이인표"
+  },
+  {
+   "role": "이정혁",
+   "name": "승준"
+  },
+  {
+   "role": "서은아",
+   "name": "박세미"
+  },
+  {
+   "role": "서은아",
+   "name": "표바하"
+  },
+  {
+   "role": "어린라만",
+   "name": "김리안"
+  },
+  {
+   "role": "",
+   "name": "최수현"
+  },
+  {
+   "role": "",
+   "name": "김주안"
+  },
+  {
+   "role": "",
+   "name": "권다빈"
+  },
+  {
+   "role": "",
+   "name": "권강민"
+  },
+  {
+   "role": "",
+   "name": "박종찬"
+  },
+  {
+   "role": "",
+   "name": "이호"
+  },
+  {
+   "role": "",
+   "name": "문상욱"
+  },
+  {
+   "role": "",
+   "name": "차규민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251122011304/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172521"
+ }
 }

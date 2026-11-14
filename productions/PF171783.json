@@ -1,0 +1,59 @@
+{
+ "id": "PF171783",
+ "title": "굿나잇, 케플러",
+ "genre": "연극",
+ "from": "2021-02-27",
+ "to": "2021-03-14",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171783_210223_100752.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최정만",
+  "홍동하",
+  "정경화",
+  "곽정환",
+  "정지원"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "손지형, 김나은, 고태현 등",
+ "producer": "극단 거북이걸음",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171783_210223_1007520.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000976"
+  }
+ ],
+ "updated": "2021-02-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "김연수",
+   "name": "홍동하"
+  },
+  {
+   "role": "엄마/아나운서",
+   "name": "정경화"
+  },
+  {
+   "role": "의사/전문가",
+   "name": "곽정환"
+  },
+  {
+   "role": "환자",
+   "name": "정지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240305035607/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163241"
+ }
+}

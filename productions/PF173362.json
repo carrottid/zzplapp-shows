@@ -1,0 +1,81 @@
+{
+ "id": "PF173362",
+ "title": "코리올라누스",
+ "genre": "연극",
+ "from": "2021-07-03",
+ "to": "2021-07-15",
+ "venue": "구. LG아트센터 (구. LG아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF173362_210623_170109.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "남윤호",
+  "김도완",
+  "김은희",
+  "김리나",
+  "한윤춘",
+  "김대진",
+  "한상훈"
+ ],
+ "facilityId": "FC000002",
+ "runtime": "3시간 30분",
+ "age": "만 15세 이상",
+ "crew": "양정웅, 임일진, 장영규 등",
+ "producer": "LG아트센터, 경남문화예술회관",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(17:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF173362_210623_0501091.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "http://www.lgart.com/UIPage/Perform/Calender_view.aspx?seq=252601"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21002143"
+  }
+ ],
+ "updated": "2021-04-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "코리올라누스",
+   "name": "남윤호"
+  },
+  {
+   "role": "볼룸니아",
+   "name": "김은희"
+  },
+  {
+   "role": "버질리아",
+   "name": "김리나"
+  },
+  {
+   "role": "메니니우스",
+   "name": "한윤춘"
+  },
+  {
+   "role": "오피디우스",
+   "name": "김도완"
+  },
+  {
+   "role": "씨시니우스",
+   "name": "한상훈"
+  },
+  {
+   "role": "",
+   "name": "김진곤"
+  },
+  {
+   "role": "",
+   "name": "한인수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240813143319/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164101"
+ }
+}

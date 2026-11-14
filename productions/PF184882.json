@@ -48,5 +48,91 @@
  ],
  "updated": "2021-12-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1D2230",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아더",
+   "name": "김준수"
+  },
+  {
+   "role": "아더",
+   "name": "김성규"
+  },
+  {
+   "role": "아더",
+   "name": "이재환"
+  },
+  {
+   "role": "렌슬럿",
+   "name": "이지훈"
+  },
+  {
+   "role": "렌슬럿",
+   "name": "에녹"
+  },
+  {
+   "role": "렌슬럿",
+   "name": "강태을"
+  },
+  {
+   "role": "모르가나",
+   "name": "신영숙"
+  },
+  {
+   "role": "모르가나",
+   "name": "장은아"
+  },
+  {
+   "role": "멀린",
+   "name": "민영기"
+  },
+  {
+   "role": "멀린",
+   "name": "손준호"
+  },
+  {
+   "role": "기네비어",
+   "name": "김소향"
+  },
+  {
+   "role": "기네비어",
+   "name": "최서연"
+  },
+  {
+   "role": "기네비어",
+   "name": "케이"
+  },
+  {
+   "role": "울프스탄",
+   "name": "이상준"
+  },
+  {
+   "role": "울프스탄",
+   "name": "이종영"
+  },
+  {
+   "role": "",
+   "name": "이종문"
+  },
+  {
+   "role": "",
+   "name": "홍경수"
+  },
+  {
+   "role": "",
+   "name": "주호"
+  },
+  {
+   "role": "",
+   "name": "김연준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516231034/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170816"
+ }
 }

@@ -7,13 +7,29 @@
    "genre": "연극",
    "venue": "선돌극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#626D84",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF232946",
    "title": "거미여인의 키스",
    "genre": "연극",
    "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#955050",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF234960",
+   "title": "만그루",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
    "time": "20:00",
    "castSource": "none"
   }

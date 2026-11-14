@@ -47,5 +47,67 @@
  ],
  "updated": "2022-04-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "주인남자",
+   "name": "강성진"
+  },
+  {
+   "role": "주인남자",
+   "name": "박정철"
+  },
+  {
+   "role": "청년",
+   "name": "김수로"
+  },
+  {
+   "role": "청년",
+   "name": "정상훈"
+  },
+  {
+   "role": "여선생",
+   "name": "이아현"
+  },
+  {
+   "role": "여선생",
+   "name": "홍은희"
+  },
+  {
+   "role": "할머니",
+   "name": "김곽경희"
+  },
+  {
+   "role": "할머니",
+   "name": "유안"
+  },
+  {
+   "role": "스님",
+   "name": "최영준"
+  },
+  {
+   "role": "스님",
+   "name": "리우진"
+  },
+  {
+   "role": "신여사",
+   "name": "진태연"
+  },
+  {
+   "role": "",
+   "name": "안두호"
+  },
+  {
+   "role": "",
+   "name": "김민성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424041042/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173655"
+ }
 }

@@ -56,5 +56,43 @@
  ],
  "updated": "2023-02-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1B1A1B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "레프 톨스토이",
+   "name": "정동환"
+  },
+  {
+   "role": "안나 카레니나",
+   "name": "정수영"
+  },
+  {
+   "role": "브론스키",
+   "name": "주영호"
+  },
+  {
+   "role": "안나의 생각",
+   "name": "박채희"
+  },
+  {
+   "role": "알렉산드라",
+   "name": "강정민"
+  },
+  {
+   "role": "알렉산드라",
+   "name": "안예진"
+  },
+  {
+   "role": "피아노",
+   "name": "서화영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260212060015/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=184976"
+ }
 }

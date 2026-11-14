@@ -1,0 +1,109 @@
+{
+ "id": "PF222933",
+ "title": "어느택시",
+ "genre": "연극",
+ "from": "2023-08-11",
+ "to": "2023-08-27",
+ "venue": "예그린씨어터 (예그린씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF222933_230728_121334.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김준회",
+  "남기형",
+  "전청일",
+  "권형준",
+  "박소희",
+  "장예슬",
+  "김해율"
+ ],
+ "facilityId": "FC001212",
+ "runtime": "1시간 10분",
+ "age": "만 15세 이상",
+ "crew": "이규, 이정환, 최서라 등",
+ "producer": "극단 바라",
+ "price": "전석 40,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:30,18:00), HOL(15:30,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF222933_230728_1213340.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/45134"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/956296"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23010565"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/46716"
+  },
+  {
+   "name": "쿠팡",
+   "url": "https://trip.coupang.com/tp/products/30000002673311"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77350"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000010307"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/21795954674"
+  },
+  {
+   "name": "페이북",
+   "url": "https://paybooc.co.kr/app/paybooc/Culture.do?mFocus=Culture&returnURL=https://ticket.paybooc.co.kr:447/Play/PlayDetail?playNum=70694"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5207"
+  }
+ ],
+ "updated": "2023-08-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "키오",
+   "name": "김준희"
+  },
+  {
+   "role": "키오",
+   "name": "남기형"
+  },
+  {
+   "role": "키오",
+   "name": "전청일"
+  },
+  {
+   "role": "키오",
+   "name": "권형준"
+  },
+  {
+   "role": "소나",
+   "name": "박소희"
+  },
+  {
+   "role": "소나",
+   "name": "장예슬"
+  },
+  {
+   "role": "소나",
+   "name": "김해율"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250623162749/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=191443"
+ }
+}

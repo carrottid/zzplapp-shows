@@ -33,5 +33,35 @@
  ],
  "updated": "2022-02-03 16:06:47",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#9D5C48",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "소년",
+   "name": "류이재"
+  },
+  {
+   "role": "",
+   "name": "선명균"
+  },
+  {
+   "role": "",
+   "name": "김훈만"
+  },
+  {
+   "role": "",
+   "name": "성여진"
+  },
+  {
+   "role": "",
+   "name": "신사랑"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240414074801/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172046"
+ }
 }

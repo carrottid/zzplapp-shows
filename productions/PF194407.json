@@ -35,5 +35,39 @@
  ],
  "updated": "2022-07-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#051427",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "채즈 포르티",
+   "name": "최정헌"
+  },
+  {
+   "role": "스탠리 포르티",
+   "name": "강은일"
+  },
+  {
+   "role": "도넌",
+   "name": "유성재"
+  },
+  {
+   "role": "잭 린트",
+   "name": "최연석"
+  },
+  {
+   "role": "화이트 스완레이크",
+   "name": "우가은"
+  },
+  {
+   "role": "에밀리아 네햄킨",
+   "name": "오민경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220810051459/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176354"
+ }
 }

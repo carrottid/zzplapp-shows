@@ -33,6 +33,10 @@
    "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26015952"
   },
   {
+   "name": "멜론티켓",
+   "url": "https://ticket.melon.com/performance/index.htm?prodId=214256"
+  },
+  {
    "name": "예스24",
    "url": "https://ticket.yes24.com/Perf/61021"
   },
@@ -41,7 +45,11 @@
    "url": "https://timeticket.co.kr/product/7530"
   }
  ],
- "updated": "2026-11-09 18:00:03.153048",
- "castSource": "none",
- "fetchedAt": "2026-11-10T11:00:02"
+ "updated": "2026-11-10 11:02:52",
+ "castSource": "plapp",
+ "fetchedAt": "2026-11-12T12:08:20",
+ "color": {
+  "bg": "#E9A6C0",
+  "fg": "#111111"
+ }
 }

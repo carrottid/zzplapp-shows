@@ -33,5 +33,47 @@
  ],
  "updated": "2022-11-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#D8820E",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "김만석",
+   "name": "권재원"
+  },
+  {
+   "role": "장정실",
+   "name": "정은영"
+  },
+  {
+   "role": "김민규",
+   "name": "안창현"
+  },
+  {
+   "role": "황혁찬",
+   "name": "성원"
+  },
+  {
+   "role": "유혜종",
+   "name": "이정은"
+  },
+  {
+   "role": "무대감독",
+   "name": "구본혁"
+  },
+  {
+   "role": "",
+   "name": "윤진희"
+  },
+  {
+   "role": "",
+   "name": "이상일"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240919013149/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181989"
+ }
 }

@@ -39,5 +39,75 @@
  ],
  "updated": "2021-02-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#000000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "파우스트",
+   "name": "김성녀"
+  },
+  {
+   "role": "메피스토",
+   "name": "박완규"
+  },
+  {
+   "role": "약장수 외",
+   "name": "강현우"
+  },
+  {
+   "role": "바우키스 외",
+   "name": "고애리"
+  },
+  {
+   "role": "마르테 외",
+   "name": "권은혜"
+  },
+  {
+   "role": "헬레나 외",
+   "name": "김보나"
+  },
+  {
+   "role": "",
+   "name": "김세환"
+  },
+  {
+   "role": "",
+   "name": "박경주"
+  },
+  {
+   "role": "",
+   "name": "박용환"
+  },
+  {
+   "role": "",
+   "name": "신사랑"
+  },
+  {
+   "role": "",
+   "name": "이원준"
+  },
+  {
+   "role": "",
+   "name": "장재호"
+  },
+  {
+   "role": "",
+   "name": "변상문"
+  },
+  {
+   "role": "",
+   "name": "전주일"
+  },
+  {
+   "role": "",
+   "name": "이종혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260422141459/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163135"
+ }
 }

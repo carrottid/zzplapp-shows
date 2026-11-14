@@ -51,5 +51,59 @@
  ],
  "updated": "2023-01-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#4A3A2C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "빵야",
+   "name": "하성광"
+  },
+  {
+   "role": "빵야",
+   "name": "문태유"
+  },
+  {
+   "role": "나나",
+   "name": "이진희"
+  },
+  {
+   "role": "나나",
+   "name": "정운선"
+  },
+  {
+   "role": "기무라/무근 외",
+   "name": "오대석"
+  },
+  {
+   "role": "소품할아버지/동식 외",
+   "name": "이상은"
+  },
+  {
+   "role": "원교/제작자 외",
+   "name": "김세환"
+  },
+  {
+   "role": "아미/영이 외",
+   "name": "김지혜"
+  },
+  {
+   "role": "",
+   "name": "진초록"
+  },
+  {
+   "role": "",
+   "name": "송영미"
+  },
+  {
+   "role": "",
+   "name": "최정우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618115547/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=183243"
+ }
 }

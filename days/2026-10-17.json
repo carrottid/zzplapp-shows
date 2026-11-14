@@ -2,18 +2,6 @@
  "date": "2026-10-17",
  "sessions": [
   {
-   "id": "PF290797",
-   "title": "Club 설화",
-   "genre": "뮤지컬",
-   "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
-   "time": "00:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A0A1A",
-    "fg": "#FF4F7A"
-   }
-  },
-  {
    "id": "PF298740",
    "title": "제26회 SPAF, 블러: 경계가 흐려질 때: PHI 스튜디오, 리버베드 시어터, 오나시스 컬쳐",
    "genre": "연극",
@@ -24,6 +12,14 @@
     "bg": "#D8312B",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF302143",
+   "title": "21일: 엔딩을 정하는 중입니다",
+   "genre": "연극",
+   "venue": "삼일로창고극장",
+   "time": "14:00",
+   "castSource": "none"
   },
   {
    "id": "PF292160",
@@ -209,7 +205,21 @@
    "genre": "연극",
    "venue": "et theatre 1 (구. 눈빛극장)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "황성준"
+    },
+    {
+     "name": "강민석"
+    },
+    {
+     "name": "태항호"
+    },
+    {
+     "name": "설윤희"
+    }
+   ],
    "color": {
     "bg": "#0A0A0A",
     "fg": "#FFFFFF"
@@ -269,7 +279,30 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이진우"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "한우열"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "최현희"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -281,7 +314,45 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "백은혜"
+    },
+    {
+     "name": "이지숙"
+    },
+    {
+     "name": "고철순"
+    },
+    {
+     "name": "김대웅"
+    },
+    {
+     "name": "임진섭"
+    },
+    {
+     "name": "김성수"
+    },
+    {
+     "name": "이예지"
+    },
+    {
+     "name": "하미미"
+    },
+    {
+     "name": "신창주"
+    },
+    {
+     "name": "안리나"
+    },
+    {
+     "name": "임별"
+    },
+    {
+     "name": "윤데보라"
+    }
+   ],
    "color": {
     "bg": "#5F8F96",
     "fg": "#FFFFFF"
@@ -315,7 +386,21 @@
    "genre": "뮤지컬",
    "venue": "SH아트홀",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "홍성원"
+    },
+    {
+     "name": "황건우"
+    },
+    {
+     "name": "신은호"
+    },
+    {
+     "name": "황만익"
+    }
+   ],
    "color": {
     "bg": "#3A2A1E",
     "fg": "#E8C88A"
@@ -387,7 +472,27 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "주다온"
+    },
+    {
+     "name": "표바하"
+    },
+    {
+     "name": "신진경"
+    },
+    {
+     "name": "선한국"
+    },
+    {
+     "name": "박세훈"
+    },
+    {
+     "name": "김현기"
+    }
+   ],
    "color": {
     "bg": "#2B1F4A",
     "fg": "#FFFFFF"
@@ -502,12 +607,28 @@
    }
   },
   {
+   "id": "PF302306",
+   "title": "2인실 x 무간도",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF297684",
    "title": "VL",
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "허영손"
+    },
+    {
+     "name": "조현우"
+    }
+   ],
    "color": {
     "bg": "#F2C400",
     "fg": "#111111"
@@ -546,6 +667,14 @@
     "bg": "#222222",
     "fg": "#D63C3C"
    }
+  },
+  {
+   "id": "PF298964",
+   "title": "국립극단, 안트로폴리스 Ⅲ: 오이디푸스",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "15:00",
+   "castSource": "none"
   },
   {
    "id": "PF301256",
@@ -593,6 +722,14 @@
     "bg": "#1E7FB5",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF301542",
+   "title": "더 스톤즈: 소년이 그랬다",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "15:00",
+   "castSource": "none"
   },
   {
    "id": "PF299346",
@@ -734,7 +871,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김종구"
+    },
+    {
+     "name": "김려원"
+    },
+    {
+     "name": "최재웅"
+    }
+   ],
    "color": {
     "bg": "#4C6B78",
     "fg": "#FFFFFF"
@@ -751,6 +899,14 @@
     "bg": "#1A0A08",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF302264",
+   "title": "선돌, 정반합: 싸롱 닐바나",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "15:00",
+   "castSource": "none"
   },
   {
    "id": "PF294747",
@@ -770,7 +926,18 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "yes24",
+   "cast": [
+    {
+     "name": "이서준"
+    },
+    {
+     "name": "이선우"
+    },
+    {
+     "name": "정상윤"
+    }
+   ],
    "color": {
     "bg": "#8E2A22",
     "fg": "#F2E3C6"
@@ -794,7 +961,18 @@
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김도빈"
+    },
+    {
+     "name": "김재한"
+    },
+    {
+     "name": "박주혁"
+    }
+   ],
    "color": {
     "bg": "#F2B51C",
     "fg": "#111111"
@@ -922,7 +1100,24 @@
    "genre": "뮤지컬",
    "venue": "백암아트홀",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "강연정"
+    },
+    {
+     "name": "이한솔"
+    },
+    {
+     "name": "정다예"
+    },
+    {
+     "name": "윤지우"
+    }
+   ],
    "color": {
     "bg": "#2FA39A",
     "fg": "#FFFFFF"
@@ -963,6 +1158,14 @@
    }
   },
   {
+   "id": "PF302077",
+   "title": "제11회 SF연극제, 에필로그: 인간",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF301706",
    "title": "제1회 ST-NOVA [서울연극협회원 패키지]",
    "genre": "연극",
@@ -999,6 +1202,14 @@
    }
   },
   {
+   "id": "PF300889",
+   "title": "제6회 여주인공 페스티벌, 희재",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF298596",
    "title": "제임스 바이런 딘: 디 오리지널",
    "genre": "뮤지컬",
@@ -1016,7 +1227,18 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김한결"
+    },
+    {
+     "name": "박한들"
+    },
+    {
+     "name": "김보미"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#F2B01E"
@@ -1063,6 +1285,22 @@
     "bg": "#D8312B",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF300416",
+   "title": "굿모닝? 체홉: 그 많던 갈매기는 누가 다 죽였을까",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301881",
+   "title": "태국GL드라마가 한 퀴어 여성에게 미치는 영향",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "16:00",
+   "castSource": "none"
   },
   {
    "id": "PF298740",
@@ -1112,11 +1350,33 @@
    "genre": "연극",
    "venue": "et theatre 1 (구. 눈빛극장)",
    "time": "17:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "황성준"
+    },
+    {
+     "name": "강민석"
+    },
+    {
+     "name": "태항호"
+    },
+    {
+     "name": "설윤희"
+    }
+   ],
    "color": {
     "bg": "#0A0A0A",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF302143",
+   "title": "21일: 엔딩을 정하는 중입니다",
+   "genre": "연극",
+   "venue": "삼일로창고극장",
+   "time": "18:00",
+   "castSource": "none"
   },
   {
    "id": "PF297978",
@@ -1202,7 +1462,45 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "백은혜"
+    },
+    {
+     "name": "이지숙"
+    },
+    {
+     "name": "고철순"
+    },
+    {
+     "name": "김대웅"
+    },
+    {
+     "name": "임진섭"
+    },
+    {
+     "name": "김성수"
+    },
+    {
+     "name": "이예지"
+    },
+    {
+     "name": "하미미"
+    },
+    {
+     "name": "신창주"
+    },
+    {
+     "name": "안리나"
+    },
+    {
+     "name": "임별"
+    },
+    {
+     "name": "윤데보라"
+    }
+   ],
    "color": {
     "bg": "#5F8F96",
     "fg": "#FFFFFF"
@@ -1236,7 +1534,21 @@
    "genre": "뮤지컬",
    "venue": "SH아트홀",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김서환"
+    },
+    {
+     "name": "한상훈"
+    },
+    {
+     "name": "신은호"
+    },
+    {
+     "name": "황만익"
+    }
+   ],
    "color": {
     "bg": "#3A2A1E",
     "fg": "#E8C88A"
@@ -1292,11 +1604,39 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "주다온"
+    },
+    {
+     "name": "김초하"
+    },
+    {
+     "name": "신진경"
+    },
+    {
+     "name": "선한국"
+    },
+    {
+     "name": "박세훈"
+    },
+    {
+     "name": "김현기"
+    }
+   ],
    "color": {
     "bg": "#2B1F4A",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF302077",
+   "title": "제11회 SF연극제, 에필로그: 인간",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "18:00",
+   "castSource": "none"
   },
   {
    "id": "PF296104",
@@ -1354,7 +1694,15 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "임태현"
+    },
+    {
+     "name": "조현우"
+    }
+   ],
    "color": {
     "bg": "#F2C400",
     "fg": "#111111"
@@ -1404,7 +1752,30 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이진우"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "한우열"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "최현희"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -1512,6 +1883,14 @@
     "bg": "#1E7FB5",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF301542",
+   "title": "더 스톤즈: 소년이 그랬다",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "19:00",
+   "castSource": "none"
   },
   {
    "id": "PF291461",
@@ -1701,7 +2080,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍승안"
+    },
+    {
+     "name": "최수진"
+    },
+    {
+     "name": "최재웅"
+    }
+   ],
    "color": {
     "bg": "#4C6B78",
     "fg": "#FFFFFF"
@@ -1737,7 +2127,18 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "yes24",
+   "cast": [
+    {
+     "name": "이서준"
+    },
+    {
+     "name": "신주협"
+    },
+    {
+     "name": "정상윤"
+    }
+   ],
    "color": {
     "bg": "#8E2A22",
     "fg": "#F2E3C6"
@@ -1749,7 +2150,18 @@
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "이진혁"
+    },
+    {
+     "name": "김재한"
+    },
+    {
+     "name": "박주혁"
+    }
+   ],
    "color": {
     "bg": "#F2B51C",
     "fg": "#111111"
@@ -1893,7 +2305,24 @@
    "genre": "뮤지컬",
    "venue": "백암아트홀",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "송유택"
+    },
+    {
+     "name": "전혜주"
+    },
+    {
+     "name": "이한솔"
+    },
+    {
+     "name": "이혜진"
+    },
+    {
+     "name": "윤지우"
+    }
+   ],
    "color": {
     "bg": "#2FA39A",
     "fg": "#FFFFFF"
@@ -1917,7 +2346,18 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김한결"
+    },
+    {
+     "name": "박한들"
+    },
+    {
+     "name": "서원"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#F2B01E"
@@ -1993,7 +2433,21 @@
    "genre": "뮤지컬",
    "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김무호"
+    },
+    {
+     "name": "전찬욱"
+    },
+    {
+     "name": "이후림"
+    },
+    {
+     "name": "도은우"
+    }
+   ],
    "color": {
     "bg": "#1A0A1A",
     "fg": "#FF4F7A"
@@ -2088,6 +2542,14 @@
    }
   },
   {
+   "id": "PF301881",
+   "title": "태국GL드라마가 한 퀴어 여성에게 미치는 영향",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF298740",
    "title": "제26회 SPAF, 블러: 경계가 흐려질 때: PHI 스튜디오, 리버베드 시어터, 오나시스 컬쳐",
    "genre": "연극",
@@ -2105,7 +2567,21 @@
    "genre": "뮤지컬",
    "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
    "time": "21:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김무호"
+    },
+    {
+     "name": "전찬욱"
+    },
+    {
+     "name": "이후림"
+    },
+    {
+     "name": "도은우"
+    }
+   ],
    "color": {
     "bg": "#1A0A1A",
     "fg": "#FF4F7A"
@@ -2117,7 +2593,21 @@
    "genre": "뮤지컬",
    "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
    "time": "23:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김무호"
+    },
+    {
+     "name": "전찬욱"
+    },
+    {
+     "name": "이후림"
+    },
+    {
+     "name": "도은우"
+    }
+   ],
    "color": {
     "bg": "#1A0A1A",
     "fg": "#FF4F7A"

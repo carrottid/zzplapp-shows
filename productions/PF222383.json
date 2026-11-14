@@ -45,36 +45,10 @@
   }
  ],
  "updated": "2023-07-19 15:00:00",
- "castSource": "none",
+ "castSource": "plapp",
  "fetchedAt": "2026-11-07T13:16:04",
- "roleCast": [
-  {
-   "role": "박열",
-   "name": "유승현"
-  },
-  {
-   "role": "박열",
-   "name": "양지원"
-  },
-  {
-   "role": "박열",
-   "name": "켄(이재환)"
-  },
-  {
-   "role": "가네코 후미코",
-   "name": "최수진"
-  },
-  {
-   "role": "가네코 후미코",
-   "name": "강혜인"
-  },
-  {
-   "role": "가네코 후미코",
-   "name": "홍나현"
-  }
- ],
- "roleCastSource": {
-  "name": "더뮤지컬",
-  "url": "https://www.themusical.co.kr/Musical/Detail?num=3166"
+ "color": {
+  "bg": "#0D0D0D",
+  "fg": "#FFFFFF"
  }
 }

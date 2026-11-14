@@ -39,5 +39,95 @@
  ],
  "updated": "2020-12-10 17:06:30",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#435AA2",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "랜디/데이브",
+   "name": "표지훈"
+  },
+  {
+   "role": "랜디/데이브",
+   "name": "이한솔"
+  },
+  {
+   "role": "피트/맨",
+   "name": "강은일"
+  },
+  {
+   "role": "피트/맨",
+   "name": "이준현"
+  },
+  {
+   "role": "지미/채드",
+   "name": "최현성"
+  },
+  {
+   "role": "지미/채드",
+   "name": "조용석"
+  },
+  {
+   "role": "스티브/필",
+   "name": "이충호"
+  },
+  {
+   "role": "스티브/필",
+   "name": "금동호"
+  },
+  {
+   "role": "이스트/렌달",
+   "name": "김기주"
+  },
+  {
+   "role": "이스트/렌달",
+   "name": "주도하"
+  },
+  {
+   "role": "이스트/렌달",
+   "name": "박준석"
+  },
+  {
+   "role": "지네트/웨이트리스/게일",
+   "name": "김다윤"
+  },
+  {
+   "role": "지네트/웨이트리스/게일",
+   "name": "이다빈"
+  },
+  {
+   "role": "지네트/웨이트리스/게일",
+   "name": "변하늬"
+  },
+  {
+   "role": "",
+   "name": "조가은"
+  },
+  {
+   "role": "",
+   "name": "문수아"
+  },
+  {
+   "role": "",
+   "name": "방유인"
+  },
+  {
+   "role": "",
+   "name": "하유원"
+  },
+  {
+   "role": "",
+   "name": "이수정"
+  },
+  {
+   "role": "",
+   "name": "이현아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210507191142/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=161576"
+ }
 }

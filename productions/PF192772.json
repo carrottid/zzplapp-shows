@@ -35,5 +35,23 @@
  ],
  "updated": "2022-06-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#1F323A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "다이사트",
+   "name": "장두이"
+  },
+  {
+   "role": "알런 스트랑",
+   "name": "김시유"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250805041714/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175662"
+ }
 }

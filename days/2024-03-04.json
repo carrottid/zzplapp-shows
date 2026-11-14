@@ -7,7 +7,34 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#955050",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF235212",
+   "title": "브론테",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이봄소리"
+    },
+    {
+     "name": "전성민"
+    },
+    {
+     "name": "송영미"
+    }
+   ],
+   "color": {
+    "bg": "#593323",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234505",
@@ -15,7 +42,25 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "문성일"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "송상훈"
+    },
+    {
+     "name": "정경훈"
+    }
+   ],
+   "color": {
+    "bg": "#E6BC00",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF235821",
@@ -23,7 +68,11 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#717571",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

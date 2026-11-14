@@ -7,6 +7,26 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#C8243A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF291114",
+   "title": "십분: 닿을 수 없는",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF293306",
+   "title": "갈라진 마음들",
+   "genre": "연극",
+   "venue": "더 줌 아트센터",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -15,7 +35,11 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292095",
@@ -23,7 +47,11 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4E5B3C",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

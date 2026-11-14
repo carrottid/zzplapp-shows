@@ -35,5 +35,47 @@
  ],
  "updated": "2021-10-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#746A62",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "최북",
+   "name": "박규원"
+  },
+  {
+   "role": "최북",
+   "name": "안재영"
+  },
+  {
+   "role": "최북",
+   "name": "김준영"
+  },
+  {
+   "role": "무명",
+   "name": "조상웅"
+  },
+  {
+   "role": "무명",
+   "name": "유승현"
+  },
+  {
+   "role": "무명",
+   "name": "송유택"
+  },
+  {
+   "role": "원준",
+   "name": "김주호"
+  },
+  {
+   "role": "원준",
+   "name": "이시안"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221208133919/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168972"
+ }
 }

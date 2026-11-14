@@ -1,0 +1,89 @@
+{
+ "id": "PF229198",
+ "title": "제6회 종로문화다양성연극제, 나를 잊지 말아요",
+ "genre": "연극",
+ "from": "2023-11-22",
+ "to": "2023-12-03",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF229198_231102_133940.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김담희",
+  "고인배",
+  "정성호",
+  "성노진",
+  "정소영",
+  "박소윤",
+  "장서현"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 30분",
+ "age": "만 5세 이상",
+ "crew": "신성우, 문삼화, 원종철 등",
+ "producer": "극단 행복한사람들",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229198_231102_0139400.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015870"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD24115"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2725"
+  }
+ ],
+ "updated": "2023-11-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "금옥(엄마)",
+   "name": "김담희"
+  },
+  {
+   "role": "병관(아빠)",
+   "name": "고인배"
+  },
+  {
+   "role": "병관(아빠)",
+   "name": "정성호"
+  },
+  {
+   "role": "경희(딸)",
+   "name": "정소영"
+  },
+  {
+   "role": "경희(딸)",
+   "name": "박소윤"
+  },
+  {
+   "role": "경수(아들)",
+   "name": "성노진"
+  },
+  {
+   "role": "경수(아들)",
+   "name": "서신우"
+  },
+  {
+   "role": "수연(이웃집여자)",
+   "name": "장서현"
+  },
+  {
+   "role": "수연(이웃집여자)",
+   "name": "유정은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250208010603/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195285"
+ }
+}

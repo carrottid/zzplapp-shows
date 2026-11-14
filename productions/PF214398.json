@@ -70,7 +70,7 @@
   },
   {
    "role": "호상",
-   "name": "심수영"
+   "name": "심수호"
   },
   {
    "role": "호상",
@@ -80,5 +80,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3138"
+ },
+ "color": {
+  "bg": "#52938D",
+  "fg": "#111111"
  }
 }

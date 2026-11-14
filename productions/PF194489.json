@@ -36,5 +36,43 @@
  ],
  "updated": "2022-07-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#139FD2",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "합",
+   "name": "이성민"
+  },
+  {
+   "role": "체",
+   "name": "박정혁"
+  },
+  {
+   "role": "지니",
+   "name": "정다희"
+  },
+  {
+   "role": "계도사",
+   "name": "라준"
+  },
+  {
+   "role": "아빠",
+   "name": "김범진"
+  },
+  {
+   "role": "엄마",
+   "name": "김혜정"
+  },
+  {
+   "role": "",
+   "name": "정경훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241105191123/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176815"
+ }
 }

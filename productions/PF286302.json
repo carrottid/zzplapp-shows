@@ -35,5 +35,43 @@
  ],
  "updated": "2026-03-04 18:00:04.103256",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3F2E8C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "한들호",
+   "name": "이정주"
+  },
+  {
+   "role": "최래민",
+   "name": "구도균"
+  },
+  {
+   "role": "정가람",
+   "name": "조한"
+  },
+  {
+   "role": "고보슬",
+   "name": "임지영"
+  },
+  {
+   "role": "대",
+   "name": "김지민"
+  },
+  {
+   "role": "댓",
+   "name": "임지은"
+  },
+  {
+   "role": "",
+   "name": "송예준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260421131136/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=227743"
+ }
 }

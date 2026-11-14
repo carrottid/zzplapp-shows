@@ -63,5 +63,83 @@
  ],
  "updated": "2022-02-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#8E1B22",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "배우2",
+   "name": "강신구"
+  },
+  {
+   "role": "무대감독/소품팀장/유튜버 다중우주/조연출",
+   "name": "김신기"
+  },
+  {
+   "role": "배우5",
+   "name": "주성환"
+  },
+  {
+   "role": "배우14",
+   "name": "최나라"
+  },
+  {
+   "role": "배우3",
+   "name": "강일"
+  },
+  {
+   "role": "연출",
+   "name": "곽성은"
+  },
+  {
+   "role": "",
+   "name": "조영규"
+  },
+  {
+   "role": "",
+   "name": "김태완"
+  },
+  {
+   "role": "",
+   "name": "오우철"
+  },
+  {
+   "role": "",
+   "name": "홍성호"
+  },
+  {
+   "role": "",
+   "name": "유다온"
+  },
+  {
+   "role": "",
+   "name": "김기붕"
+  },
+  {
+   "role": "",
+   "name": "주은주"
+  },
+  {
+   "role": "",
+   "name": "신근호"
+  },
+  {
+   "role": "",
+   "name": "정홍구"
+  },
+  {
+   "role": "",
+   "name": "채지성"
+  },
+  {
+   "role": "",
+   "name": "최준서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803111624/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172575"
+ }
 }

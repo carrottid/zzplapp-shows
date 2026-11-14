@@ -1,0 +1,52 @@
+{
+ "id": "PF181748",
+ "title": "이야기로 만든 □",
+ "genre": "연극",
+ "from": "2021-11-11",
+ "to": "2021-11-21",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF181748_211026_103705.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최한",
+  "이다일",
+  "김별"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "crew": "이호웅, 이세연, 최원주 등",
+ "price": "전석 15,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181748_211026_1037050.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010281"
+  }
+ ],
+ "updated": "2021-10-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "형",
+   "name": "최한"
+  },
+  {
+   "role": "동생",
+   "name": "이다일"
+  },
+  {
+   "role": "청년",
+   "name": "김별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241015212207/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171709"
+ }
+}

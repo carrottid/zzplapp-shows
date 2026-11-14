@@ -51,5 +51,71 @@
  ],
  "updated": "2026-05-14 17:48:50",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#A69540",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "김수미"
+  },
+  {
+   "role": "엄마",
+   "name": "정경순"
+  },
+  {
+   "role": "엄마",
+   "name": "김서라"
+  },
+  {
+   "role": "딸(미영)",
+   "name": "별"
+  },
+  {
+   "role": "딸(미영)",
+   "name": "현쥬니"
+  },
+  {
+   "role": "딸(미영)",
+   "name": "신이현"
+  },
+  {
+   "role": "남편(사위)",
+   "name": "김형준"
+  },
+  {
+   "role": "남편(사위)",
+   "name": "이시강"
+  },
+  {
+   "role": "남편(사위)",
+   "name": "김도현"
+  },
+  {
+   "role": "",
+   "name": "정재은"
+  },
+  {
+   "role": "",
+   "name": "박솔하"
+  },
+  {
+   "role": "",
+   "name": "유민혜"
+  },
+  {
+   "role": "",
+   "name": "남수현"
+  },
+  {
+   "role": "",
+   "name": "김세진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251017105108/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=184923"
+ }
 }

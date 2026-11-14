@@ -1,0 +1,117 @@
+{
+ "id": "PF184855",
+ "title": "물고기 남자",
+ "genre": "연극",
+ "from": "2022-01-12",
+ "to": "2022-01-30",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF184855_211215_122514.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "선욱현",
+  "허동수",
+  "전정욱",
+  "박신후",
+  "윤대성",
+  "오문강",
+  "류지훈"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "김성진, 김유정, 임숙균 등",
+ "producer": "극단 몽중자각, 극단 요지경",
+ "price": "전석 40,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF184855_211215_1225140.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/629023"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012845"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41026"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1680"
+  }
+ ],
+ "updated": "2021-12-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "이영복",
+   "name": "선욱현"
+  },
+  {
+   "role": "이영복",
+   "name": "허동수"
+  },
+  {
+   "role": "이영복",
+   "name": "전정욱"
+  },
+  {
+   "role": "김진만",
+   "name": "박신후"
+  },
+  {
+   "role": "김진만",
+   "name": "윤대성"
+  },
+  {
+   "role": "김진만",
+   "name": "오문강"
+  },
+  {
+   "role": "브로커",
+   "name": "류지훈"
+  },
+  {
+   "role": "브로커",
+   "name": "김관장"
+  },
+  {
+   "role": "브로커",
+   "name": "명인호"
+  },
+  {
+   "role": "남자",
+   "name": "윤관우"
+  },
+  {
+   "role": "남자",
+   "name": "이진샘"
+  },
+  {
+   "role": "남자",
+   "name": "이한"
+  },
+  {
+   "role": "여자",
+   "name": "오수윤"
+  },
+  {
+   "role": "여자",
+   "name": "이주희"
+  },
+  {
+   "role": "여자",
+   "name": "이보라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240718025513/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170979"
+ }
+}

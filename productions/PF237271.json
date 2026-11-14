@@ -1,0 +1,101 @@
+{
+ "id": "PF237271",
+ "title": "내가 날씨에 따라 변할 사람같소?",
+ "genre": "연극",
+ "from": "2024-04-02",
+ "to": "2024-04-07",
+ "venue": "미마지아트센터 (눈빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF237271_240313_120756.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김재건",
+  "기정수",
+  "이인철",
+  "김화영",
+  "고인배",
+  "정태화",
+  "최용민"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "이강백, 채윤일, 이자순 등",
+ "producer": "공연배달 탄탄",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF237271_240313_1207560.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003581"
+  }
+ ],
+ "updated": "2024-03-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "전당포 영감",
+   "name": "김재건"
+  },
+  {
+   "role": "땜장이",
+   "name": "기정수"
+  },
+  {
+   "role": "분장사",
+   "name": "이인철"
+  },
+  {
+   "role": "하숙집 여주인",
+   "name": "김화영"
+  },
+  {
+   "role": "퇴역장군",
+   "name": "고인배"
+  },
+  {
+   "role": "신사",
+   "name": "정태화"
+  },
+  {
+   "role": "",
+   "name": "최용민"
+  },
+  {
+   "role": "",
+   "name": "신황철"
+  },
+  {
+   "role": "",
+   "name": "노윤정"
+  },
+  {
+   "role": "",
+   "name": "이란희"
+  },
+  {
+   "role": "",
+   "name": "박상협"
+  },
+  {
+   "role": "",
+   "name": "신정은"
+  },
+  {
+   "role": "",
+   "name": "이진샘"
+  },
+  {
+   "role": "",
+   "name": "김혜주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260512084931/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200459"
+ }
+}

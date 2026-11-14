@@ -41,5 +41,67 @@
  ],
  "updated": "2021-01-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#06050A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "히드클리프",
+   "name": "문경초"
+  },
+  {
+   "role": "캐시",
+   "name": "이지수"
+  },
+  {
+   "role": "에드거",
+   "name": "문성일"
+  },
+  {
+   "role": "힌들리",
+   "name": "박병훈"
+  },
+  {
+   "role": "이사벨라",
+   "name": "주다온"
+  },
+  {
+   "role": "넬리",
+   "name": "최영화"
+  },
+  {
+   "role": "",
+   "name": "김도완"
+  },
+  {
+   "role": "",
+   "name": "이재현"
+  },
+  {
+   "role": "",
+   "name": "신우석"
+  },
+  {
+   "role": "",
+   "name": "배명숙"
+  },
+  {
+   "role": "",
+   "name": "박지은"
+  },
+  {
+   "role": "",
+   "name": "정다예"
+  },
+  {
+   "role": "",
+   "name": "양병철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010210406/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162282"
+ }
 }

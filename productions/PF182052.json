@@ -14,7 +14,7 @@
   "백형훈",
   "문성일",
   "박준휘",
-  "김진욱",
+  "차윤해",
   "소정화"
  ],
  "facilityId": "FC004560",
@@ -43,5 +43,99 @@
  ],
  "updated": "2021-10-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4C3E3A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김해진",
+   "name": "김경수"
+  },
+  {
+   "role": "김해진",
+   "name": "이규형"
+  },
+  {
+   "role": "김해진",
+   "name": "윤나무"
+  },
+  {
+   "role": "김해진",
+   "name": "백형훈"
+  },
+  {
+   "role": "정세훈",
+   "name": "려욱"
+  },
+  {
+   "role": "정세훈",
+   "name": "문성일"
+  },
+  {
+   "role": "정세훈",
+   "name": "윤소호"
+  },
+  {
+   "role": "정세훈",
+   "name": "박준휘"
+  },
+  {
+   "role": "",
+   "name": "차윤해"
+  },
+  {
+   "role": "히카루",
+   "name": "소정화"
+  },
+  {
+   "role": "히카루",
+   "name": "강혜인"
+  },
+  {
+   "role": "히카루",
+   "name": "허윤슬"
+  },
+  {
+   "role": "이 윤",
+   "name": "박정표"
+  },
+  {
+   "role": "이 윤",
+   "name": "이형훈"
+  },
+  {
+   "role": "이 윤",
+   "name": "김지철"
+  },
+  {
+   "role": "이태준",
+   "name": "양승리"
+  },
+  {
+   "role": "이태준",
+   "name": "윤석현"
+  },
+  {
+   "role": "이태준",
+   "name": "임별"
+  },
+  {
+   "role": "김수남",
+   "name": "이승현"
+  },
+  {
+   "role": "김수남",
+   "name": "장민수"
+  },
+  {
+   "role": "김수남",
+   "name": "김태인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241110120830/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168729"
+ }
 }

@@ -43,5 +43,63 @@
  ],
  "updated": "2024-10-02 10:32:41",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#AE0000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조로/디에고",
+   "name": "최민우"
+  },
+  {
+   "role": "조로/디에고",
+   "name": "MJ"
+  },
+  {
+   "role": "조로/디에고",
+   "name": "민규"
+  },
+  {
+   "role": "라몬",
+   "name": "김승대"
+  },
+  {
+   "role": "라몬",
+   "name": "최세용"
+  },
+  {
+   "role": "이네즈",
+   "name": "홍륜희"
+  },
+  {
+   "role": "이네즈",
+   "name": "배수정"
+  },
+  {
+   "role": "루이자",
+   "name": "전나영"
+  },
+  {
+   "role": "루이자",
+   "name": "서채이"
+  },
+  {
+   "role": "가르시아",
+   "name": "김효성"
+  },
+  {
+   "role": "가르시아",
+   "name": "조성린"
+  },
+  {
+   "role": "스토리텔러/돈 알레한드로",
+   "name": "심건우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250719093821/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207009"
+ }
 }

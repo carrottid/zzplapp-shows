@@ -47,5 +47,63 @@
  ],
  "updated": "2025-02-10 16:14:32",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2B1D14",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "리차드",
+   "name": "황민수"
+  },
+  {
+   "role": "리차드",
+   "name": "이종석"
+  },
+  {
+   "role": "리차드",
+   "name": "이진우"
+  },
+  {
+   "role": "리차드",
+   "name": "김서환"
+  },
+  {
+   "role": "오스카",
+   "name": "장민수"
+  },
+  {
+   "role": "오스카",
+   "name": "선한국"
+  },
+  {
+   "role": "오스카",
+   "name": "임태현"
+  },
+  {
+   "role": "오스카",
+   "name": "조성태"
+  },
+  {
+   "role": "스티비",
+   "name": "서동진"
+  },
+  {
+   "role": "스티비",
+   "name": "변희상"
+  },
+  {
+   "role": "스티비",
+   "name": "문경초"
+  },
+  {
+   "role": "스티비",
+   "name": "박좌헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521020853/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=210586"
+ }
 }

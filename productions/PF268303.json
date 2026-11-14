@@ -1,0 +1,85 @@
+{
+ "id": "PF268303",
+ "title": "창작ing, 커튼",
+ "genre": "연극",
+ "from": "2025-07-22",
+ "to": "2025-08-04",
+ "venue": "국립정동극장 세실 (구.세실극장) (국립정동극장 세실 (구.세실극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF268303_250630_103606.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정대진",
+  "백소정",
+  "김섬",
+  "신윤지",
+  "정다함",
+  "박은호",
+  "신지원"
+ ],
+ "facilityId": "FC001125",
+ "runtime": "1시간 35분",
+ "age": "만 14세 이상",
+ "crew": "전서아, 이시은, 이지혜 등",
+ "producer": "프로젝트 하자",
+ "price": "전석 20,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF268303_250630_1036060.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13048"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25009023"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1751531760"
+  }
+ ],
+ "updated": "2026-01-21 16:41:08",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "미정",
+   "name": "정대진"
+  },
+  {
+   "role": "미정",
+   "name": "백소정"
+  },
+  {
+   "role": "수정",
+   "name": "김섬"
+  },
+  {
+   "role": "수정",
+   "name": "신윤지"
+  },
+  {
+   "role": "나정",
+   "name": "정다함"
+  },
+  {
+   "role": "나정",
+   "name": "박은호"
+  },
+  {
+   "role": "의정",
+   "name": "신지원"
+  },
+  {
+   "role": "의정",
+   "name": "강윤민지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250811205307/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=218777"
+ }
+}

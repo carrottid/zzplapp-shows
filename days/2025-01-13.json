@@ -7,6 +7,18 @@
    "genre": "뮤지컬",
    "venue": "유니버설아트센터",
    "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF256371",
+   "title": "보고싶습니다 (앵콜)",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -15,7 +27,11 @@
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5F5E5C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF257033",
@@ -23,7 +39,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5A6A74",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF255397",
@@ -31,7 +51,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#49403D",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

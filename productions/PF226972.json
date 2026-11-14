@@ -1,0 +1,61 @@
+{
+ "id": "PF226972",
+ "title": "대성당",
+ "genre": "연극",
+ "from": "2023-10-19",
+ "to": "2023-10-22",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226972_231004_161108.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이정근",
+  "이태용",
+  "문수아"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "55분",
+ "age": "만 11세 이상",
+ "crew": "변진영, 조은겨레, 신민경 등",
+ "producer": "극단 랍다",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226972_231004_0411080.png"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/997243"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2591"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&page_no=1&start=0&p_idx=11817"
+  }
+ ],
+ "updated": "2023-10-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "이태용"
+  },
+  {
+   "role": "로버트",
+   "name": "이정근"
+  },
+  {
+   "role": "여자",
+   "name": "문수아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250421120046/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=194432"
+ }
+}

@@ -43,5 +43,59 @@
  ],
  "updated": "2024-02-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A1E14",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "J",
+   "name": "양지원"
+  },
+  {
+   "role": "J",
+   "name": "김지철"
+  },
+  {
+   "role": "J",
+   "name": "현석준"
+  },
+  {
+   "role": "J",
+   "name": "박준휘"
+  },
+  {
+   "role": "S",
+   "name": "김경수"
+  },
+  {
+   "role": "S",
+   "name": "유승현"
+  },
+  {
+   "role": "S",
+   "name": "유태율"
+  },
+  {
+   "role": "S",
+   "name": "김준영"
+  },
+  {
+   "role": "K",
+   "name": "이시안"
+  },
+  {
+   "role": "K",
+   "name": "임병근"
+  },
+  {
+   "role": "K",
+   "name": "이현재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814051435/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201106"
+ }
 }

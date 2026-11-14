@@ -36,5 +36,9 @@
  ],
  "updated": "2025-04-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4A3B5C",
+  "fg": "#FFFFFF"
+ }
 }

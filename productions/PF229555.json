@@ -1,0 +1,36 @@
+{
+ "id": "PF229555",
+ "title": "다른 부영",
+ "genre": "연극",
+ "from": "2023-11-30",
+ "to": "2023-12-03",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF229555_231108_111535.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "백혜경",
+  "이세준",
+  "이영주",
+  "장샘이"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "김진희, 도은, 신효진 등",
+ "producer": "페미씨어터",
+ "price": "전석 35,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229555_231108_1115350.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016242"
+  }
+ ],
+ "updated": "2025-05-12 17:35:06",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

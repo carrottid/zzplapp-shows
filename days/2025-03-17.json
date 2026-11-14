@@ -2,12 +2,24 @@
  "date": "2025-03-17",
  "sessions": [
   {
+   "id": "PF258755",
+   "title": "국립극단, 만선",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF258705",
    "title": "굿모닝 홍콩",
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#27180B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF255397",
@@ -15,7 +27,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#49403D",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

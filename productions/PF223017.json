@@ -34,5 +34,31 @@
  ],
  "updated": "2023-07-31 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#925853",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "재석",
+   "name": "김성태"
+  },
+  {
+   "role": "현주",
+   "name": "최주현"
+  },
+  {
+   "role": "미모",
+   "name": "김보나"
+  },
+  {
+   "role": "재민",
+   "name": "박성민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240415100914/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=197593"
+ }
 }

@@ -35,5 +35,51 @@
  ],
  "updated": "2023-04-06 16:13:48",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E600A1",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "마에브/루크엄마/소피아엄마",
+   "name": "홍윤희"
+  },
+  {
+   "role": "코니/마에브엄마",
+   "name": "이미라"
+  },
+  {
+   "role": "아미나",
+   "name": "윤현길"
+  },
+  {
+   "role": "패트",
+   "name": "마두영"
+  },
+  {
+   "role": "소피아",
+   "name": "황미영"
+  },
+  {
+   "role": "루크",
+   "name": "백우람"
+  },
+  {
+   "role": "",
+   "name": "강보람"
+  },
+  {
+   "role": "",
+   "name": "부진서"
+  },
+  {
+   "role": "",
+   "name": "장호인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711030146/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186846"
+ }
 }

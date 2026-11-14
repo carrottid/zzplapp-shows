@@ -59,5 +59,95 @@
  ],
  "updated": "2021-07-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8B795A",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "현재 이준혁",
+   "name": "조장혁"
+  },
+  {
+   "role": "현재 이준혁",
+   "name": "정세훈"
+  },
+  {
+   "role": "현재 이준혁",
+   "name": "성기윤"
+  },
+  {
+   "role": "과거 이준혁",
+   "name": "고유진"
+  },
+  {
+   "role": "과거 이준혁",
+   "name": "홍경인"
+  },
+  {
+   "role": "과거 이준혁",
+   "name": "김용진"
+  },
+  {
+   "role": "윤기철",
+   "name": "세븐"
+  },
+  {
+   "role": "윤기철",
+   "name": "강승식"
+  },
+  {
+   "role": "윤기철",
+   "name": "박정혁"
+  },
+  {
+   "role": "윤기철",
+   "name": "선율"
+  },
+  {
+   "role": "김은주",
+   "name": "신고은"
+  },
+  {
+   "role": "김은주",
+   "name": "박규리"
+  },
+  {
+   "role": "김은주",
+   "name": "임나영"
+  },
+  {
+   "role": "안호준",
+   "name": "위양호"
+  },
+  {
+   "role": "안호준",
+   "name": "고혜성"
+  },
+  {
+   "role": "최미애",
+   "name": "김미려"
+  },
+  {
+   "role": "최미애",
+   "name": "김나희"
+  },
+  {
+   "role": "최미애",
+   "name": "서은혜"
+  },
+  {
+   "role": "",
+   "name": "정진욱"
+  },
+  {
+   "role": "",
+   "name": "류성훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250915195232/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166404"
+ }
 }

@@ -1,0 +1,68 @@
+{
+ "id": "PF216165",
+ "title": "어느 여름날의 오후",
+ "genre": "연극",
+ "from": "2023-04-27",
+ "to": "2023-04-30",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF216165_230404_135022.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박현우",
+  "김정범",
+  "차세인",
+  "이상은",
+  "임경훈",
+  "한인덕",
+  "엄윤지"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 20분",
+ "age": "만 15세 이상",
+ "crew": "서지혜 등",
+ "price": "전석 15,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216165_230404_0150220.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/861014"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23004808"
+  }
+ ],
+ "updated": "2023-04-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "재필",
+   "name": "박현우"
+  },
+  {
+   "role": "재필",
+   "name": "김정범"
+  },
+  {
+   "role": "지수",
+   "name": "차세인"
+  },
+  {
+   "role": "상준",
+   "name": "한인덕"
+  },
+  {
+   "role": "써니",
+   "name": "엄윤지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231129053503/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186810"
+ }
+}

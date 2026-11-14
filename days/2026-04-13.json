@@ -2,11 +2,71 @@
  "date": "2026-04-13",
  "sessions": [
   {
+   "id": "PF288219",
+   "title": "네오 유니버스, 세 (3) 젤귀: 선한국, 김찬종, 박정혁",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF287795",
+   "title": "안전 연극제, 면역력: 서비스직 근로자의 안전 관리 매뉴얼 만들기",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF282148",
    "title": "서울시극단, 빅 마더",
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2C2F3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF285145",
+   "title": "키리에",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286355",
+   "title": "괴담낭독클럽",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF288219",
+   "title": "네오 유니버스, 세 (3) 젤귀: 선한국, 김찬종, 박정혁",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286669",
+   "title": "로미오와 줄리엣 The Clown",
+   "genre": "연극",
+   "venue": "더 줌 아트센터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF287767",
+   "title": "안전 연극제: 면역력, 각방프로젝트: n개의 균",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -15,7 +75,11 @@
    "genre": "연극",
    "venue": "산울림소극장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A2F28",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

@@ -34,5 +34,23 @@
  ],
  "updated": "2021-08-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#605646",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "노지훈",
+   "name": "박성원"
+  },
+  {
+   "role": "신유진",
+   "name": "신선영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240222114926/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167485"
+ }
 }

@@ -35,5 +35,47 @@
  ],
  "updated": "2025-10-28 10:10:03",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5A00E6",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조킹박사",
+   "name": "김승언"
+  },
+  {
+   "role": "에이프릴",
+   "name": "최희진"
+  },
+  {
+   "role": "메이",
+   "name": "황은후"
+  },
+  {
+   "role": "사회자",
+   "name": "전선우"
+  },
+  {
+   "role": "악토버",
+   "name": "김준우"
+  },
+  {
+   "role": "벨보이",
+   "name": "권은혜"
+  },
+  {
+   "role": "",
+   "name": "김정화"
+  },
+  {
+   "role": "",
+   "name": "유다예"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516230414/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188838"
+ }
 }

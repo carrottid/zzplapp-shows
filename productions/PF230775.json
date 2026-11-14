@@ -55,5 +55,75 @@
  ],
  "updated": "2025-04-04 10:03:22",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1F2A44",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조조",
+   "name": "손병호"
+  },
+  {
+   "role": "양수",
+   "name": "이형훈"
+  },
+  {
+   "role": "공손함",
+   "name": "임형택"
+  },
+  {
+   "role": "천낭",
+   "name": "김정은"
+  },
+  {
+   "role": "생황연주",
+   "name": "김효영"
+  },
+  {
+   "role": "율기연주",
+   "name": "박승원"
+  },
+  {
+   "role": "",
+   "name": "송경근"
+  },
+  {
+   "role": "",
+   "name": "이소영"
+  },
+  {
+   "role": "",
+   "name": "권겸민"
+  },
+  {
+   "role": "",
+   "name": "우범진"
+  },
+  {
+   "role": "",
+   "name": "이승현"
+  },
+  {
+   "role": "",
+   "name": "이원준"
+  },
+  {
+   "role": "",
+   "name": "이정근"
+  },
+  {
+   "role": "",
+   "name": "채승혜"
+  },
+  {
+   "role": "",
+   "name": "이예빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250316194541/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196302"
+ }
 }

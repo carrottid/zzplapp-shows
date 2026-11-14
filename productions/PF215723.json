@@ -34,5 +34,95 @@
  ],
  "updated": "2023-03-27 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#262727",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "1번 배심원",
+   "name": "김애진"
+  },
+  {
+   "role": "1번 배심원",
+   "name": "이지혜"
+  },
+  {
+   "role": "2번 배심원",
+   "name": "박시유"
+  },
+  {
+   "role": "2번 배심원",
+   "name": "이현경"
+  },
+  {
+   "role": "3번 배심원",
+   "name": "남동진"
+  },
+  {
+   "role": "3번 배심원",
+   "name": "오재균"
+  },
+  {
+   "role": "4번 배심원",
+   "name": "신용진"
+  },
+  {
+   "role": "4번 배심원",
+   "name": "방기범"
+  },
+  {
+   "role": "5번 배심원",
+   "name": "김도완"
+  },
+  {
+   "role": "5번 배심원",
+   "name": "홍성호"
+  },
+  {
+   "role": "6번 배심원",
+   "name": "홍현택"
+  },
+  {
+   "role": "6번 배심원",
+   "name": "김용식"
+  },
+  {
+   "role": "",
+   "name": "강진휘"
+  },
+  {
+   "role": "",
+   "name": "이재인"
+  },
+  {
+   "role": "",
+   "name": "김신영"
+  },
+  {
+   "role": "",
+   "name": "한상훈"
+  },
+  {
+   "role": "",
+   "name": "허준호"
+  },
+  {
+   "role": "",
+   "name": "오일영"
+  },
+  {
+   "role": "",
+   "name": "서유덕"
+  },
+  {
+   "role": "",
+   "name": "민병욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814104725/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186600"
+ }
 }

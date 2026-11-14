@@ -2,11 +2,39 @@
  "date": "2026-03-16",
  "sessions": [
   {
+   "id": "PF284314",
+   "title": "국립극단, 삼매경",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286389",
+   "title": "체인지 로그인",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF283521",
    "title": "터치 (TOUCH)",
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (1관)",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#7A5C4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF286210",
+   "title": "네오 유니버스, MAHAGÖNNY: THE 5 CARDS",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
    "castSource": "none"
   }
  ]

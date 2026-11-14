@@ -59,5 +59,59 @@
  ],
  "updated": "2021-02-19 11:59:45",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김해진",
+   "name": "김재범"
+  },
+  {
+   "role": "김해진",
+   "name": "김종구"
+  },
+  {
+   "role": "김해진",
+   "name": "이규형"
+  },
+  {
+   "role": "정세훈",
+   "name": "문성일"
+  },
+  {
+   "role": "정세훈",
+   "name": "백형훈"
+  },
+  {
+   "role": "히카루",
+   "name": "소정화"
+  },
+  {
+   "role": "히카루",
+   "name": "김수연"
+  },
+  {
+   "role": "이윤",
+   "name": "박정표"
+  },
+  {
+   "role": "이태준",
+   "name": "양승리"
+  },
+  {
+   "role": "김수남",
+   "name": "이승현"
+  },
+  {
+   "role": "",
+   "name": "안창용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230308055156/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163145"
+ }
 }

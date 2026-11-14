@@ -1,0 +1,85 @@
+{
+ "id": "PF224805",
+ "title": "맥베스 오브 레이디",
+ "genre": "연극",
+ "from": "2023-09-21",
+ "to": "2023-09-24",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224805_230829_123856.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최강현",
+  "김진영",
+  "남수현",
+  "박세은",
+  "김관식",
+  "문하나",
+  "이중윤"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "이준영, 이상호, 라성연 등",
+ "producer": "극단 놀땅",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224805_230829_1238560.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011800"
+  }
+ ],
+ "updated": "2023-08-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "맥베스",
+   "name": "최강현"
+  },
+  {
+   "role": "맥베스부인",
+   "name": "김진영"
+  },
+  {
+   "role": "덩컨",
+   "name": "최영도"
+  },
+  {
+   "role": "멜컴",
+   "name": "황재성"
+  },
+  {
+   "role": "뱅코우",
+   "name": "남수현"
+  },
+  {
+   "role": "맥더프",
+   "name": "김관식"
+  },
+  {
+   "role": "",
+   "name": "문하나"
+  },
+  {
+   "role": "",
+   "name": "이중윤"
+  },
+  {
+   "role": "",
+   "name": "박다미"
+  },
+  {
+   "role": "",
+   "name": "이서한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908031450/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192446"
+ }
+}

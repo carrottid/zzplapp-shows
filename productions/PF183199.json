@@ -63,5 +63,95 @@
  ],
  "updated": "2021-11-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#CB1A20",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "닉 바텀",
+   "name": "강필석"
+  },
+  {
+   "role": "닉 바텀",
+   "name": "김동완"
+  },
+  {
+   "role": "닉 바텀",
+   "name": "이충주"
+  },
+  {
+   "role": "닉 바텀",
+   "name": "양요섭"
+  },
+  {
+   "role": "셰익스피어",
+   "name": "최재림"
+  },
+  {
+   "role": "셰익스피어",
+   "name": "서경수"
+  },
+  {
+   "role": "셰익스피어",
+   "name": "윤지성"
+  },
+  {
+   "role": "나이젤 바텀",
+   "name": "임규형"
+  },
+  {
+   "role": "나이젤 바텀",
+   "name": "황순종"
+  },
+  {
+   "role": "비아",
+   "name": "이영미"
+  },
+  {
+   "role": "비아",
+   "name": "안유진"
+  },
+  {
+   "role": "비아",
+   "name": "이채민"
+  },
+  {
+   "role": "포샤",
+   "name": "이지수"
+  },
+  {
+   "role": "포샤",
+   "name": "이아진"
+  },
+  {
+   "role": "포샤",
+   "name": "장민제"
+  },
+  {
+   "role": "노스트라다무스",
+   "name": "남경주"
+  },
+  {
+   "role": "노스트라다무스",
+   "name": "정원영"
+  },
+  {
+   "role": "",
+   "name": "육현욱"
+  },
+  {
+   "role": "",
+   "name": "이한밀"
+  },
+  {
+   "role": "",
+   "name": "이성훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620111638/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170074"
+ }
 }

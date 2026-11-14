@@ -39,5 +39,51 @@
  ],
  "updated": "2021-02-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2B2B28",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "만국(차남)",
+   "name": "이대연"
+  },
+  {
+   "role": "성국(장남)",
+   "name": "김문식"
+  },
+  {
+   "role": "엄마",
+   "name": "전국향"
+  },
+  {
+   "role": "당숙부",
+   "name": "김승환"
+  },
+  {
+   "role": "당숙모",
+   "name": "곽성은"
+  },
+  {
+   "role": "언년",
+   "name": "이태린"
+  },
+  {
+   "role": "",
+   "name": "김기연"
+  },
+  {
+   "role": "",
+   "name": "심원석"
+  },
+  {
+   "role": "",
+   "name": "이정주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251012115516/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163243"
+ }
 }

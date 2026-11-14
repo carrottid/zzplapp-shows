@@ -47,5 +47,63 @@
  ],
  "updated": "2022-06-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#525256",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤정호",
+   "name": "박성일"
+  },
+  {
+   "role": "윤정호",
+   "name": "동현배"
+  },
+  {
+   "role": "윤정현",
+   "name": "고은민"
+  },
+  {
+   "role": "윤정현",
+   "name": "김소라"
+  },
+  {
+   "role": "윤정수",
+   "name": "한서준"
+  },
+  {
+   "role": "윤정수",
+   "name": "심태영"
+  },
+  {
+   "role": "홍재생",
+   "name": "이정연"
+  },
+  {
+   "role": "홍재생",
+   "name": "양대혁"
+  },
+  {
+   "role": "유까",
+   "name": "김소이"
+  },
+  {
+   "role": "유까",
+   "name": "박소희"
+  },
+  {
+   "role": "선영",
+   "name": "공현지"
+  },
+  {
+   "role": "선영",
+   "name": "안예인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240804200438/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175604"
+ }
 }

@@ -43,5 +43,55 @@
  ],
  "updated": "2021-10-20 17:26:21",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1197A8",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "이광수",
+   "name": "김수현"
+  },
+  {
+   "role": "허영숙",
+   "name": "성여진"
+  },
+  {
+   "role": "최남선",
+   "name": "황건"
+  },
+  {
+   "role": "관음/월례/노파",
+   "name": "김정은"
+  },
+  {
+   "role": "용선/모례 외",
+   "name": "김영준"
+  },
+  {
+   "role": "조신",
+   "name": "한승엽"
+  },
+  {
+   "role": "",
+   "name": "김석영"
+  },
+  {
+   "role": "",
+   "name": "장하란"
+  },
+  {
+   "role": "",
+   "name": "최강현"
+  },
+  {
+   "role": "",
+   "name": "이수진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250616125549/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168368"
+ }
 }

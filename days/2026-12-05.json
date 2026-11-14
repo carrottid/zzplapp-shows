@@ -7,7 +7,43 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "12:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "이주희"
+    },
+    {
+     "name": "정지환"
+    },
+    {
+     "name": "나르샤"
+    },
+    {
+     "name": "이호준"
+    },
+    {
+     "name": "김서희"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF292160",
+   "title": "겨울왕국",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B6FD0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304181",
@@ -128,7 +164,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -225,7 +269,30 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "민하늘"
+    },
+    {
+     "name": "정형석"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "김은지"
+    },
+    {
+     "name": "한우열"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "박존정민"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -651,7 +718,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김도하"
+    },
+    {
+     "name": "김솔"
+    },
+    {
+     "name": "이상아"
+    },
+    {
+     "name": "정우림"
+    },
+    {
+     "name": "박영훈"
+    },
+    {
+     "name": "신은규"
+    },
+    {
+     "name": "김동빈"
+    },
+    {
+     "name": "박선영"
+    }
+   ]
   },
   {
    "id": "PF304765",
@@ -700,7 +793,7 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "15:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
      "name": "이승준"
@@ -813,7 +906,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "이주희"
+    },
+    {
+     "name": "선우현"
+    },
+    {
+     "name": "엄선영"
+    },
+    {
+     "name": "이호준"
+    },
+    {
+     "name": "김지후"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF299855",
@@ -902,7 +1019,11 @@
    "genre": "연극",
    "venue": "아르코예술극장 (소극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3C5A7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305450",
@@ -990,7 +1111,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "최수진"
+    },
+    {
+     "name": "임예진"
+    },
+    {
+     "name": "이한별"
+    }
+   ],
    "color": {
     "bg": "#C0392B",
     "fg": "#FFFFFF"
@@ -1170,7 +1302,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -1262,7 +1402,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "도연우"
+    },
+    {
+     "name": "조윤슬"
+    },
+    {
+     "name": "최찬이"
+    },
+    {
+     "name": "엄선영"
+    },
+    {
+     "name": "이호준"
+    },
+    {
+     "name": "김지후"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF303908",
@@ -1454,7 +1618,30 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "민하늘"
+    },
+    {
+     "name": "정형석"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "김은지"
+    },
+    {
+     "name": "한우열"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "박존정민"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -1699,7 +1886,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김솔"
+    },
+    {
+     "name": "이상아"
+    },
+    {
+     "name": "정우림"
+    },
+    {
+     "name": "박영훈"
+    },
+    {
+     "name": "신은규"
+    },
+    {
+     "name": "김동빈"
+    },
+    {
+     "name": "박선영"
+    },
+    {
+     "name": "김태형"
+    }
+   ]
   },
   {
    "id": "PF302677",
@@ -1762,7 +1975,7 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "19:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
      "name": "김이담"
@@ -2062,7 +2275,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "임예진"
+    },
+    {
+     "name": "김이후"
+    },
+    {
+     "name": "효은"
+    }
+   ],
    "color": {
     "bg": "#C0392B",
     "fg": "#FFFFFF"

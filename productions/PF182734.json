@@ -47,5 +47,51 @@
  ],
  "updated": "2021-11-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1B2B4D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "사내",
+   "name": "원종환"
+  },
+  {
+   "role": "사내",
+   "name": "윤석원"
+  },
+  {
+   "role": "사내",
+   "name": "최호중"
+  },
+  {
+   "role": "남자",
+   "name": "김도빈"
+  },
+  {
+   "role": "남자",
+   "name": "주민진"
+  },
+  {
+   "role": "남자",
+   "name": "손유동"
+  },
+  {
+   "role": "소년",
+   "name": "송광일"
+  },
+  {
+   "role": "소년",
+   "name": "임진섭"
+  },
+  {
+   "role": "소년",
+   "name": "신재범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250317205749/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168859"
+ }
 }

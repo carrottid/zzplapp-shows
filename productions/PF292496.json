@@ -1,0 +1,42 @@
+{
+ "id": "PF292496",
+ "title": "제34회 젊은연극제, 사천의 선인 (경복대)",
+ "genre": "연극",
+ "from": "2026-06-17",
+ "to": "2026-06-18",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292496_260529_104932.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김나현",
+  "윤진서",
+  "김민국",
+  "박창우",
+  "심현정",
+  "추지민",
+  "라하은"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "박찬국, 김민창, 윤지빈 등",
+ "price": "전석 5,000원",
+ "schedule": "수요일(19:00), 목요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF292496_202605291049325250.png"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26007700"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=4299"
+  }
+ ],
+ "updated": "2026-05-29 17:34:24",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

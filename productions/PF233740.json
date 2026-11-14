@@ -49,5 +49,95 @@
  ],
  "updated": "2025-01-02 09:44:31",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5000E6",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "노최척",
+   "name": "이호재"
+  },
+  {
+   "role": "옥영",
+   "name": "정새별"
+  },
+  {
+   "role": "최척",
+   "name": "박영민"
+  },
+  {
+   "role": "심씨 외",
+   "name": "장연익"
+  },
+  {
+   "role": "최숙 외",
+   "name": "강신구"
+  },
+  {
+   "role": "정생원 외",
+   "name": "김신기"
+  },
+  {
+   "role": "",
+   "name": "류주연"
+  },
+  {
+   "role": "",
+   "name": "오현우"
+  },
+  {
+   "role": "",
+   "name": "최나라"
+  },
+  {
+   "role": "",
+   "name": "이원희"
+  },
+  {
+   "role": "",
+   "name": "전재형"
+  },
+  {
+   "role": "",
+   "name": "박장면"
+  },
+  {
+   "role": "",
+   "name": "이승우"
+  },
+  {
+   "role": "",
+   "name": "민경석"
+  },
+  {
+   "role": "",
+   "name": "윤준호"
+  },
+  {
+   "role": "",
+   "name": "김용준"
+  },
+  {
+   "role": "",
+   "name": "최아론"
+  },
+  {
+   "role": "",
+   "name": "최민혁"
+  },
+  {
+   "role": "",
+   "name": "박예리"
+  },
+  {
+   "role": "",
+   "name": "이석중"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241202145026/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198434"
+ }
 }

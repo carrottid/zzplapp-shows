@@ -1,0 +1,36 @@
+{
+ "id": "PF201700",
+ "title": "공의 기원",
+ "genre": "연극",
+ "from": "2022-12-07",
+ "to": "2022-12-11",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF201700_221108_141914.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김명섭",
+  "김민하",
+  "정다함",
+  "허솔",
+  "황성현"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 10분",
+ "age": "만 13세 이상",
+ "crew": "김유림, 유태희, 유보민 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201700_221108_0219140.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22015358"
+  }
+ ],
+ "updated": "2022-11-25 14:57:19",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

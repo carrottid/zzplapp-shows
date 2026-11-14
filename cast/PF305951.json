@@ -1,0 +1,53 @@
+{
+ "id": "PF305951",
+ "source": "plapp",
+ "roles": {
+  "r:게스트": "게스트"
+ },
+ "people": {},
+ "sessions": [
+  {
+   "date": "2026-11-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "김서연",
+     "roleId": "r:게스트"
+    },
+    {
+     "name": "김푸름",
+     "roleId": "r:게스트"
+    },
+    {
+     "name": "박영수",
+     "roleId": "r:게스트"
+    },
+    {
+     "name": "백형훈",
+     "roleId": "r:게스트"
+    },
+    {
+     "name": "송용진",
+     "roleId": "r:게스트"
+    },
+    {
+     "name": "윤도영",
+     "roleId": "r:게스트"
+    },
+    {
+     "name": "윤은오",
+     "roleId": "r:게스트"
+    },
+    {
+     "name": "윤태호",
+     "roleId": "r:게스트"
+    },
+    {
+     "name": "윤형렬",
+     "roleId": "r:게스트"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-13T10:04:32"
+}

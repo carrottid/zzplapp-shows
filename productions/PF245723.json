@@ -11,7 +11,7 @@
  "cast": [
   "서동진",
   "조현우",
-  "심수영",
+  "심수호",
   "이무현",
   "차이도",
   "박주혁",
@@ -47,5 +47,83 @@
  ],
  "updated": "2024-11-18 10:28:06",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#504F4C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "포우",
+   "name": "서동진"
+  },
+  {
+   "role": "포우",
+   "name": "조현우"
+  },
+  {
+   "role": "포우",
+   "name": "심수호"
+  },
+  {
+   "role": "도일",
+   "name": "이무현"
+  },
+  {
+   "role": "도일",
+   "name": "차이도"
+  },
+  {
+   "role": "도일",
+   "name": "박주혁"
+  },
+  {
+   "role": "아가사",
+   "name": "진소연"
+  },
+  {
+   "role": "아가사",
+   "name": "이수정"
+  },
+  {
+   "role": "아가사",
+   "name": "장보람"
+  },
+  {
+   "role": "프라이드",
+   "name": "이민규"
+  },
+  {
+   "role": "프라이드",
+   "name": "윤제원"
+  },
+  {
+   "role": "러스트",
+   "name": "정인지"
+  },
+  {
+   "role": "러스트",
+   "name": "이한울"
+  },
+  {
+   "role": "엔비",
+   "name": "이예빈"
+  },
+  {
+   "role": "엔비",
+   "name": "박지홍"
+  },
+  {
+   "role": "",
+   "name": "김아영"
+  },
+  {
+   "role": "",
+   "name": "이유리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103130501/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=205805"
+ }
 }

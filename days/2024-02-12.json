@@ -2,6 +2,96 @@
  "date": "2024-02-12",
  "sessions": [
   {
+   "id": "PF232760",
+   "title": "너를 위한 글자",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김지온"
+    },
+    {
+     "name": "박새힘"
+    },
+    {
+     "name": "송상훈"
+    }
+   ],
+   "color": {
+    "bg": "#7F7067",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF228643",
+   "title": "더데빌: 파우스트",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조형균"
+    },
+    {
+     "name": "배해선"
+    },
+    {
+     "name": "반정모"
+    },
+    {
+     "name": "정우연"
+    }
+   ],
+   "color": {
+    "bg": "#767070",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF225531",
+   "title": "레미제라블",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "민우혁"
+    },
+    {
+     "name": "카이"
+    },
+    {
+     "name": "린아"
+    },
+    {
+     "name": "육현욱"
+    },
+    {
+     "name": "박준면"
+    },
+    {
+     "name": "차윤해"
+    },
+    {
+     "name": "루미나"
+    },
+    {
+     "name": "김경록"
+    },
+    {
+     "name": "류인아"
+    }
+   ],
+   "color": {
+    "bg": "#19548C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF229313",
    "title": "아가사 AGATHA",
    "genre": "뮤지컬",
@@ -36,7 +126,152 @@
     {
      "name": "강인대"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#5A2A22",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF228235",
+   "title": "엘리펀트 송",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "이석준"
+    },
+    {
+     "name": "이현진"
+    }
+   ],
+   "color": {
+    "bg": "#826D63",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF230200",
+   "title": "은하철도의 밤",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정지우"
+    },
+    {
+     "name": "정상윤"
+    }
+   ],
+   "color": {
+    "bg": "#22223B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF228708",
+   "title": "홀연했던 사나이",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박민성"
+    },
+    {
+     "name": "손유동"
+    },
+    {
+     "name": "김리"
+    },
+    {
+     "name": "류경환"
+    },
+    {
+     "name": "조은진"
+    },
+    {
+     "name": "박근식"
+    }
+   ],
+   "color": {
+    "bg": "#CC9F1A",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF228235",
+   "title": "엘리펀트 송",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "17:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "고영빈"
+    },
+    {
+     "name": "고수희"
+    }
+   ],
+   "color": {
+    "bg": "#826D63",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF232760",
+   "title": "너를 위한 글자",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이진우"
+    },
+    {
+     "name": "주다온"
+    },
+    {
+     "name": "송상훈"
+    }
+   ],
+   "color": {
+    "bg": "#7F7067",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF230200",
+   "title": "은하철도의 밤",
+   "genre": "뮤지컬",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박정원"
+    },
+    {
+     "name": "박좌헌"
+    }
+   ],
+   "color": {
+    "bg": "#22223B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF229313",
@@ -73,7 +308,11 @@
     {
      "name": "강인대"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#5A2A22",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF233941",
@@ -81,6 +320,18 @@
    "genre": "연극",
    "venue": "선돌극장",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#626D84",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF234462",
+   "title": "DIE",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -89,7 +340,11 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#955050",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

@@ -138,16 +138,16 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "강민석"
-    },
-    {
      "name": "신승환"
     },
     {
-     "name": "김흥수"
+     "name": "임주은"
     },
     {
-     "name": "임주은"
+     "name": "강민석"
+    },
+    {
+     "name": "김흥수"
     }
    ],
    "color": {
@@ -202,7 +202,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -238,7 +246,30 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "이진우"
+    },
+    {
+     "name": "허순미"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "서인권"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -278,13 +309,13 @@
      "name": "김서환"
     },
     {
+     "name": "황만익"
+    },
+    {
      "name": "황건우"
     },
     {
      "name": "임재윤"
-    },
-    {
-     "name": "황만익"
     }
    ],
    "color": {
@@ -483,13 +514,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이승준"
-    },
-    {
      "name": "박경호"
     },
     {
      "name": "이동연"
+    },
+    {
+     "name": "이승준"
     }
    ],
    "color": {
@@ -614,12 +645,6 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이진혁"
-    },
-    {
-     "name": "이종석"
-    },
-    {
      "name": "김한결"
     },
     {
@@ -630,6 +655,12 @@
     },
     {
      "name": "박민주"
+    },
+    {
+     "name": "이진혁"
+    },
+    {
+     "name": "이종석"
     }
    ],
    "color": {
@@ -713,7 +744,11 @@
    "genre": "연극",
    "venue": "대학로예술극장 (소극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1D4A5A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304765",
@@ -762,13 +797,15 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "15:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "송영미"
+     "name": "송영미",
+     "personId": "40909"
     },
     {
-     "name": "이서영"
+     "name": "이서영",
+     "personId": "44123"
     }
    ],
    "color": {
@@ -1036,7 +1073,11 @@
    "genre": "연극",
    "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E84A8A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305009",
@@ -1127,13 +1168,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이한별"
-    },
-    {
      "name": "최수진"
     },
     {
      "name": "임예진"
+    },
+    {
+     "name": "이한별"
     }
    ],
    "color": {
@@ -1198,10 +1239,10 @@
      "name": "신승환"
     },
     {
-     "name": "김흥수"
+     "name": "임주은"
     },
     {
-     "name": "임주은"
+     "name": "김흥수"
     }
    ],
    "color": {
@@ -1316,7 +1357,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -1353,16 +1402,16 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "홍성원"
-    },
-    {
      "name": "한상훈"
     },
     {
-     "name": "임재윤"
+     "name": "황만익"
     },
     {
-     "name": "황만익"
+     "name": "홍성원"
+    },
+    {
+     "name": "임재윤"
     }
    ],
    "color": {
@@ -1573,7 +1622,30 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "이진우"
+    },
+    {
+     "name": "허순미"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "서인권"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -1588,13 +1660,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "이동수"
+    },
+    {
      "name": "박준형"
     },
     {
      "name": "김재한"
-    },
-    {
-     "name": "이동수"
     }
    ],
    "color": {
@@ -1614,10 +1686,10 @@
      "name": "랑연"
     },
     {
-     "name": "정단비"
+     "name": "공현비"
     },
     {
-     "name": "공현비"
+     "name": "정단비"
     }
    ],
    "color": {
@@ -1751,9 +1823,6 @@
      "name": "최재웅"
     },
     {
-     "name": "이율"
-    },
-    {
      "name": "김한결"
     },
     {
@@ -1764,6 +1833,9 @@
     },
     {
      "name": "박민주"
+    },
+    {
+     "name": "이율"
     }
    ],
    "color": {
@@ -1852,13 +1924,15 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "19:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "임찬민"
+     "name": "임찬민",
+     "personId": "30495"
     },
     {
-     "name": "이서영"
+     "name": "이서영",
+     "personId": "44123"
     }
    ],
    "color": {
@@ -2117,13 +2191,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "김별"
+    },
+    {
      "name": "제이민"
     },
     {
      "name": "고은영"
-    },
-    {
-     "name": "김별"
     },
     {
      "name": "이아진"
@@ -2143,13 +2217,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "임예진"
+    },
+    {
      "name": "김이후"
     },
     {
      "name": "효은"
-    },
-    {
-     "name": "임예진"
     }
    ],
    "color": {
@@ -2223,7 +2297,11 @@
    "genre": "연극",
    "venue": "대학로예술극장 (소극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1D4A5A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF296942",
@@ -2261,7 +2339,25 @@
    "genre": "연극",
    "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신재휘"
+    },
+    {
+     "name": "이서준"
+    },
+    {
+     "name": "최기정"
+    },
+    {
+     "name": "정태영"
+    }
+   ],
+   "color": {
+    "bg": "#7A6A55",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305235",

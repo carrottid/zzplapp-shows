@@ -47,5 +47,47 @@
  ],
  "updated": "2022-02-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#19569E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "이승현"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "박영수"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "박규원"
+  },
+  {
+   "role": "갈릴레오 갈릴레이",
+   "name": "신상언"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "유성재"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "최성욱"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "양지원"
+  },
+  {
+   "role": "윌리엄 셰익스피어",
+   "name": "김용한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240722135318/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173871"
+ }
 }

@@ -14,6 +14,18 @@
    }
   },
   {
+   "id": "PF292160",
+   "title": "겨울왕국",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1B6FD0",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF300616",
    "title": "너를 들고 간다",
    "genre": "연극",
@@ -120,7 +132,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -379,7 +399,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김도하"
+    },
+    {
+     "name": "김솔"
+    },
+    {
+     "name": "김소진"
+    },
+    {
+     "name": "김준"
+    },
+    {
+     "name": "조재철"
+    },
+    {
+     "name": "박영훈"
+    },
+    {
+     "name": "박선영"
+    },
+    {
+     "name": "김보미"
+    }
+   ]
   },
   {
    "id": "PF303594",
@@ -416,7 +462,7 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
      "name": "송영미"

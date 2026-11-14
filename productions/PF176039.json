@@ -38,5 +38,43 @@
  ],
  "updated": "2021-06-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#051A13",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "최명광",
+   "name": "유기호"
+  },
+  {
+   "role": "강순옥",
+   "name": "방주란"
+  },
+  {
+   "role": "진성필",
+   "name": "박현욱"
+  },
+  {
+   "role": "김철수",
+   "name": "이경민"
+  },
+  {
+   "role": "정애란",
+   "name": "정연심"
+  },
+  {
+   "role": "정애란",
+   "name": "이재희"
+  },
+  {
+   "role": "김하늘",
+   "name": "김정규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260307020452/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166067"
+ }
 }

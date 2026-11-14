@@ -1,0 +1,33 @@
+{
+ "id": "PF217573",
+ "title": "접수",
+ "genre": "연극",
+ "from": "2023-05-18",
+ "to": "2023-05-21",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217573_230428_143821.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍수빈",
+  "최유리"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간",
+ "age": "만 12세 이상",
+ "crew": "나옥희, 최소현, 윤종구 등",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(16:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217573_230428_0238210.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005985"
+  }
+ ],
+ "updated": "2023-04-28 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

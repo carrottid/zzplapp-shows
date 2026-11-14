@@ -46,5 +46,39 @@
  ],
  "updated": "2022-11-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A3A33",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "요제프 마슈칸",
+   "name": "남경읍"
+  },
+  {
+   "role": "요제프 마슈칸",
+   "name": "안석환"
+  },
+  {
+   "role": "요제프 마슈칸",
+   "name": "서현철"
+  },
+  {
+   "role": "스티븐 호프만",
+   "name": "정휘"
+  },
+  {
+   "role": "스티븐 호프만",
+   "name": "홍승안"
+  },
+  {
+   "role": "스티븐 호프만",
+   "name": "곽동연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251008090636/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181389"
+ }
 }

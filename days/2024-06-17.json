@@ -2,12 +2,48 @@
  "date": "2024-06-17",
  "sessions": [
   {
+   "id": "PF242481",
+   "title": "제32회 젊은연극제, 청강문화산업대학교 공연예술스쿨: 갈매기",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239993",
+   "title": "국립극단, 활화산",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240374",
+   "title": "인피니트 에이크",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239224",
+   "title": "제45회 서울연극제, 콤플렉스",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF236251",
    "title": "데미안",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#231712",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF241541",
@@ -15,7 +51,11 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#7E7167",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

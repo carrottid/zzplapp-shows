@@ -36,5 +36,43 @@
  ],
  "updated": "2023-04-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0124E4",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "우미화"
+  },
+  {
+   "role": "실",
+   "name": "성여진"
+  },
+  {
+   "role": "맥",
+   "name": "박명신"
+  },
+  {
+   "role": "맥",
+   "name": "강명주"
+  },
+  {
+   "role": "개비",
+   "name": "이지현"
+  },
+  {
+   "role": "베스",
+   "name": "이주실"
+  },
+  {
+   "role": "사이먼",
+   "name": "류원준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620080958/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187776"
+ }
 }

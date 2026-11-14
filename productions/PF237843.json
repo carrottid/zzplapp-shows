@@ -1,0 +1,61 @@
+{
+ "id": "PF237843",
+ "title": "오랜 소년",
+ "genre": "연극",
+ "from": "2024-04-03",
+ "to": "2024-04-07",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF237843_240321_111030.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "손준영",
+  "박수빈",
+  "이종훈",
+  "안도영",
+  "김시현",
+  "이선재",
+  "조미애"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 10분",
+ "age": "만 13세 이상",
+ "crew": "곽두성, 강세영, 장윤원 등",
+ "producer": "(주) 후플러스(Who+), 창작집단 몽상공장",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF237843_240321_1110300.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24004143"
+  },
+  {
+   "name": "멜론티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2935"
+  }
+ ],
+ "updated": "2024-03-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "유하나",
+   "name": "안도영"
+  },
+  {
+   "role": "덕우",
+   "name": "김미카엘"
+  },
+  {
+   "role": "",
+   "name": "김시현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241110143748/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200865"
+ }
+}

@@ -35,5 +35,103 @@
  ],
  "updated": "2025-12-16 15:00:03.244574",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1C2433",
+  "fg": "#F2A33A"
+ },
+ "roleCast": [
+  {
+   "role": "원류환",
+   "name": "김동준"
+  },
+  {
+   "role": "원류환",
+   "name": "김찬호"
+  },
+  {
+   "role": "원류환",
+   "name": "백인태"
+  },
+  {
+   "role": "원류환",
+   "name": "오종혁"
+  },
+  {
+   "role": "리해랑",
+   "name": "니엘"
+  },
+  {
+   "role": "리해랑",
+   "name": "서동진"
+  },
+  {
+   "role": "리해랑",
+   "name": "유태율"
+  },
+  {
+   "role": "리해랑",
+   "name": "영빈"
+  },
+  {
+   "role": "리해진",
+   "name": "강하온"
+  },
+  {
+   "role": "리해진",
+   "name": "민규"
+  },
+  {
+   "role": "리해진",
+   "name": "이지함"
+  },
+  {
+   "role": "리해진",
+   "name": "조용휘"
+  },
+  {
+   "role": "김태원",
+   "name": "김수용"
+  },
+  {
+   "role": "김태원",
+   "name": "김주호"
+  },
+  {
+   "role": "김태원",
+   "name": "백인태"
+  },
+  {
+   "role": "김태원",
+   "name": "서승원"
+  },
+  {
+   "role": "서수혁",
+   "name": "성재"
+  },
+  {
+   "role": "서수혁",
+   "name": "임강성"
+  },
+  {
+   "role": "서수혁",
+   "name": "한상훈"
+  },
+  {
+   "role": "순임",
+   "name": "박채원"
+  },
+  {
+   "role": "순임",
+   "name": "전국향"
+  },
+  {
+   "role": "순임",
+   "name": "최은경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260417222712/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=225335"
+ }
 }

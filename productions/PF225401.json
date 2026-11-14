@@ -43,5 +43,47 @@
  ],
  "updated": "2023-09-08 09:34:13",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5B1F21",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "삼촌, 배우4 외",
+   "name": "김범진"
+  },
+  {
+   "role": "배우1, 환경운동가 외",
+   "name": "김시영"
+  },
+  {
+   "role": "이안, 배우3 외",
+   "name": "이다혜"
+  },
+  {
+   "role": "과학자 외",
+   "name": "이상은"
+  },
+  {
+   "role": "아이, 배우2 외",
+   "name": "이수연"
+  },
+  {
+   "role": "작가",
+   "name": "우범진"
+  },
+  {
+   "role": "",
+   "name": "전정욱"
+  },
+  {
+   "role": "",
+   "name": "조승연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240622085350/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192998"
+ }
 }

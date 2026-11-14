@@ -50,5 +50,39 @@
  ],
  "updated": "2022-11-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A2420",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "폴셸던",
+   "name": "김상중"
+  },
+  {
+   "role": "폴셸던",
+   "name": "서지석"
+  },
+  {
+   "role": "애니 윌크스",
+   "name": "길해연"
+  },
+  {
+   "role": "애니 윌크스",
+   "name": "이일화"
+  },
+  {
+   "role": "버스터",
+   "name": "고인배"
+  },
+  {
+   "role": "버스터",
+   "name": "김재만"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251016200131/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181577"
+ }
 }

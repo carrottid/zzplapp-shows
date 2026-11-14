@@ -52,5 +52,47 @@
  ],
  "updated": "2022-02-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F3A6B",
+  "fg": "#F2C14E"
+ },
+ "roleCast": [
+  {
+   "role": "빈센트 반 고흐",
+   "name": "박민성"
+  },
+  {
+   "role": "빈센트 반 고흐",
+   "name": "김경수"
+  },
+  {
+   "role": "빈센트 반 고흐",
+   "name": "박유덕"
+  },
+  {
+   "role": "빈센트 반 고흐",
+   "name": "장지후"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "윤승우"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "황민수"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "윤은오"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "황순종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230608213306/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172504"
+ }
 }

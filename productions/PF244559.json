@@ -43,5 +43,71 @@
  ],
  "updated": "2024-12-23 16:42:59",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#871517",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "가스파드",
+   "name": "임병근"
+  },
+  {
+   "role": "가스파드",
+   "name": "박시환"
+  },
+  {
+   "role": "산티아고",
+   "name": "허규"
+  },
+  {
+   "role": "산티아고",
+   "name": "손진욱"
+  },
+  {
+   "role": "삐에르",
+   "name": "조현우"
+  },
+  {
+   "role": "삐에르",
+   "name": "신수빈"
+  },
+  {
+   "role": "로이드",
+   "name": "황두현"
+  },
+  {
+   "role": "로이드",
+   "name": "성재"
+  },
+  {
+   "role": "펠",
+   "name": "유재하"
+  },
+  {
+   "role": "펠",
+   "name": "권정수"
+  },
+  {
+   "role": "디노",
+   "name": "윤진웅"
+  },
+  {
+   "role": "디노",
+   "name": "김미카엘"
+  },
+  {
+   "role": "",
+   "name": "김한비"
+  },
+  {
+   "role": "",
+   "name": "천우주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013093525/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=205206"
+ }
 }

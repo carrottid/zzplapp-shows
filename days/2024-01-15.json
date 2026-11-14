@@ -7,6 +7,18 @@
    "genre": "뮤지컬",
    "venue": "경희대학교 평화의전당",
    "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#40040A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF232788",
+   "title": "우주로 간 스킨답서스",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
    "castSource": "none"
   }
  ]

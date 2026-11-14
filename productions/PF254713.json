@@ -1,0 +1,44 @@
+{
+ "id": "PF254713",
+ "title": "서울 아시테지 겨울축제, 포맷 FORMAT",
+ "genre": "연극",
+ "from": "2024-12-25",
+ "to": "2024-12-25",
+ "venue": "아르코 꿈밭극장 (아르코꿈밭극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF254713_241127_101250.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김연준",
+  "고봉주",
+  "전혜진",
+  "강건일",
+  "김정현"
+ ],
+ "facilityId": "FC004422",
+ "runtime": "1시간",
+ "age": "만 7세 이상",
+ "crew": "김연준, 김주슬기, 강주성 등",
+ "price": "전석 20,000원",
+ "schedule": "수요일(11:00,15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF254713_241127_1012500.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1278805"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017014"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/51771"
+  }
+ ],
+ "updated": "2024-12-12 12:08:08",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

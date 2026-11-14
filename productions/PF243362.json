@@ -43,5 +43,51 @@
  ],
  "updated": "2024-12-23 16:50:26",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A251B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "CAST 1",
+   "name": "임찬민"
+  },
+  {
+   "role": "CAST 1",
+   "name": "송지온"
+  },
+  {
+   "role": "CAST 1",
+   "name": "정우연"
+  },
+  {
+   "role": "CAST 2",
+   "name": "양서윤"
+  },
+  {
+   "role": "CAST 2",
+   "name": "전해주"
+  },
+  {
+   "role": "CAST 2",
+   "name": "전하영"
+  },
+  {
+   "role": "CAST 3",
+   "name": "윤정섭"
+  },
+  {
+   "role": "CAST 3",
+   "name": "정선기"
+  },
+  {
+   "role": "CAST 3",
+   "name": "서창원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428024559/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=204079"
+ }
 }

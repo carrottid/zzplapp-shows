@@ -10,7 +10,7 @@
  "state": "공연완료",
  "cast": [
   "정상윤",
-  "박은석",
+  "박재윤",
   "김순택",
   "이정화",
   "최미소",
@@ -50,5 +50,55 @@
  ],
  "updated": "2021-01-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2E2A28",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "빅토르 투르게네프",
+   "name": "정상윤"
+  },
+  {
+   "role": "빅토르 투르게네프",
+   "name": "박재윤"
+  },
+  {
+   "role": "빅토르 투르게네프",
+   "name": "김순택"
+  },
+  {
+   "role": "빅토르 투르게네프",
+   "name": "오창석"
+  },
+  {
+   "role": "지나",
+   "name": "이정화"
+  },
+  {
+   "role": "지나",
+   "name": "최미소"
+  },
+  {
+   "role": "지나",
+   "name": "전해주"
+  },
+  {
+   "role": "이반 투르게네프",
+   "name": "조현우"
+  },
+  {
+   "role": "이반 투르게네프",
+   "name": "곽다인"
+  },
+  {
+   "role": "이반 투르게네프",
+   "name": "정지우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221001151516/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162501"
+ }
 }

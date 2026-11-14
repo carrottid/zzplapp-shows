@@ -55,5 +55,59 @@
  ],
  "updated": "2024-02-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#55514C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이도",
+   "name": "이종석"
+  },
+  {
+   "role": "이도",
+   "name": "반정모"
+  },
+  {
+   "role": "이도",
+   "name": "김우성"
+  },
+  {
+   "role": "박연",
+   "name": "박유덕"
+  },
+  {
+   "role": "박연",
+   "name": "장민수"
+  },
+  {
+   "role": "예성",
+   "name": "전하영"
+  },
+  {
+   "role": "예성",
+   "name": "박주은"
+  },
+  {
+   "role": "동래",
+   "name": "황두현"
+  },
+  {
+   "role": "동래",
+   "name": "정지우"
+  },
+  {
+   "role": "무용",
+   "name": "유다혜"
+  },
+  {
+   "role": "무용",
+   "name": "배상경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250327045311/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199224"
+ }
 }

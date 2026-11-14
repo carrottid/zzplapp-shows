@@ -42,5 +42,55 @@
  ],
  "updated": "2021-07-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#22314C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김규석",
+   "name": "조승연"
+  },
+  {
+   "role": "김규석",
+   "name": "권홍석"
+  },
+  {
+   "role": "정중근",
+   "name": "장하늘"
+  },
+  {
+   "role": "정중근",
+   "name": "박세웅"
+  },
+  {
+   "role": "이연지",
+   "name": "이지영"
+  },
+  {
+   "role": "이연지",
+   "name": "정서희"
+  },
+  {
+   "role": "권시준",
+   "name": "민재완"
+  },
+  {
+   "role": "권시준",
+   "name": "임건혁"
+  },
+  {
+   "role": "김세연",
+   "name": "이설희"
+  },
+  {
+   "role": "김세연",
+   "name": "정다운"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250617202620/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166972"
+ }
 }

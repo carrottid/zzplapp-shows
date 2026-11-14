@@ -59,5 +59,91 @@
  ],
  "updated": "2022-10-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A1410",
+  "fg": "#F2A33A"
+ },
+ "roleCast": [
+  {
+   "role": "드라큘라",
+   "name": "신성우"
+  },
+  {
+   "role": "드라큘라",
+   "name": "안재욱"
+  },
+  {
+   "role": "드라큘라",
+   "name": "정동하"
+  },
+  {
+   "role": "드라큘라",
+   "name": "테이"
+  },
+  {
+   "role": "디미트루",
+   "name": "김진환"
+  },
+  {
+   "role": "디미트루",
+   "name": "유승우"
+  },
+  {
+   "role": "디미트루",
+   "name": "이병찬"
+  },
+  {
+   "role": "디미트루",
+   "name": "김종형"
+  },
+  {
+   "role": "반헬싱",
+   "name": "김법래"
+  },
+  {
+   "role": "반헬싱",
+   "name": "이건명"
+  },
+  {
+   "role": "반헬싱",
+   "name": "김준현"
+  },
+  {
+   "role": "아드리아나",
+   "name": "김아선"
+  },
+  {
+   "role": "아드리아나",
+   "name": "정명은"
+  },
+  {
+   "role": "로레인",
+   "name": "여은"
+  },
+  {
+   "role": "로레인",
+   "name": "이윤하"
+  },
+  {
+   "role": "로레인",
+   "name": "이소정"
+  },
+  {
+   "role": "",
+   "name": "김재윤"
+  },
+  {
+   "role": "",
+   "name": "이정주"
+  },
+  {
+   "role": "",
+   "name": "이율리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241112023610/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180208"
+ }
 }

@@ -43,5 +43,95 @@
  ],
  "updated": "2024-04-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#AA6A3C",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "안중근",
+   "name": "정성화"
+  },
+  {
+   "role": "안중근",
+   "name": "양준모"
+  },
+  {
+   "role": "안중근",
+   "name": "민우혁"
+  },
+  {
+   "role": "이토",
+   "name": "김도형"
+  },
+  {
+   "role": "이토",
+   "name": "서영주"
+  },
+  {
+   "role": "이토",
+   "name": "이정열"
+  },
+  {
+   "role": "이토",
+   "name": "최민철"
+  },
+  {
+   "role": "설희",
+   "name": "유리아"
+  },
+  {
+   "role": "설희",
+   "name": "정재은"
+  },
+  {
+   "role": "설희",
+   "name": "솔지"
+  },
+  {
+   "role": "우덕순",
+   "name": "김진수"
+  },
+  {
+   "role": "우덕순",
+   "name": "육현욱"
+  },
+  {
+   "role": "조도선",
+   "name": "조휘"
+  },
+  {
+   "role": "조도선",
+   "name": "임정모"
+  },
+  {
+   "role": "유동하",
+   "name": "김도현"
+  },
+  {
+   "role": "유동하",
+   "name": "신은총"
+  },
+  {
+   "role": "",
+   "name": "왕시명"
+  },
+  {
+   "role": "",
+   "name": "방보용"
+  },
+  {
+   "role": "",
+   "name": "오윤서"
+  },
+  {
+   "role": "",
+   "name": "최유정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251119184111/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201251"
+ }
 }

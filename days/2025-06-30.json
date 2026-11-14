@@ -7,6 +7,18 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "14:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#011257",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF264966",
+   "title": "국립극단, 십이야",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -14,6 +26,18 @@
    "title": "멤피스",
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#011257",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF267918",
+   "title": "집들이 콘서트 #43. 코.최.락.",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
    "time": "19:30",
    "castSource": "none"
   },
@@ -23,7 +47,11 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#022234",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

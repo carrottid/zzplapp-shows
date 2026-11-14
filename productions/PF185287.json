@@ -38,5 +38,95 @@
  ],
  "updated": "2021-12-30 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#CC3219",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "차석만",
+   "name": "김동현"
+  },
+  {
+   "role": "김길호",
+   "name": "최무인"
+  },
+  {
+   "role": "피터 존슨",
+   "name": "오민석"
+  },
+  {
+   "role": "박연희",
+   "name": "문상희"
+  },
+  {
+   "role": "전파사",
+   "name": "김왕근"
+  },
+  {
+   "role": "철공소",
+   "name": "하성민"
+  },
+  {
+   "role": "",
+   "name": "김늘메"
+  },
+  {
+   "role": "",
+   "name": "정상훈"
+  },
+  {
+   "role": "",
+   "name": "최영도"
+  },
+  {
+   "role": "",
+   "name": "공재민"
+  },
+  {
+   "role": "",
+   "name": "류경환"
+  },
+  {
+   "role": "",
+   "name": "장격수"
+  },
+  {
+   "role": "",
+   "name": "이창민"
+  },
+  {
+   "role": "",
+   "name": "김수민"
+  },
+  {
+   "role": "",
+   "name": "박석원"
+  },
+  {
+   "role": "",
+   "name": "김설빈"
+  },
+  {
+   "role": "",
+   "name": "강수현"
+  },
+  {
+   "role": "",
+   "name": "강기혁"
+  },
+  {
+   "role": "",
+   "name": "김동현"
+  },
+  {
+   "role": "",
+   "name": "신무길"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250319225332/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171380"
+ }
 }

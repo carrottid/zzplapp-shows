@@ -1,0 +1,52 @@
+{
+ "id": "PF202970",
+ "title": "강부부 봉사단",
+ "genre": "연극",
+ "from": "2022-11-24",
+ "to": "2022-11-27",
+ "venue": "소극장 혜화당 (구. 까망소극장) (소극장 혜화당 (구. 까망소극장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF202970_221124_153150.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박하늘",
+  "여승재",
+  "정아영",
+  "전민옥",
+  "권잎비"
+ ],
+ "facilityId": "FC001085",
+ "runtime": "1시간 30분",
+ "age": "전체 관람가",
+ "crew": "윤소윤, 김유라, 최민해 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [],
+ "links": [
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=4912"
+  }
+ ],
+ "updated": "2022-11-24 16:12:55",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "강숙희",
+   "name": "정아영"
+  },
+  {
+   "role": "서마영",
+   "name": "박하늘"
+  },
+  {
+   "role": "멀티(여자)",
+   "name": "전민옥"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717055547/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181660"
+ }
+}

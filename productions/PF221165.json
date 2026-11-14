@@ -43,5 +43,55 @@
  ],
  "updated": "2023-06-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0A6CB1",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "유순희",
+   "name": "이은정"
+  },
+  {
+   "role": "강부민",
+   "name": "우미화"
+  },
+  {
+   "role": "이지숙",
+   "name": "성여진"
+  },
+  {
+   "role": "장용남",
+   "name": "백익남"
+  },
+  {
+   "role": "박두홍",
+   "name": "조주현"
+  },
+  {
+   "role": "박주영",
+   "name": "이혜영"
+  },
+  {
+   "role": "",
+   "name": "장시현"
+  },
+  {
+   "role": "",
+   "name": "유병훈"
+  },
+  {
+   "role": "",
+   "name": "강해진"
+  },
+  {
+   "role": "",
+   "name": "박진호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250623163332/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=190153"
+ }
 }

@@ -54,5 +54,55 @@
  ],
  "updated": "2022-07-27 14:39:28",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E203D6",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "데이빗 외",
+   "name": "정원조"
+  },
+  {
+   "role": "거북이 알 외",
+   "name": "김유진"
+  },
+  {
+   "role": "케빈 외",
+   "name": "박동욱"
+  },
+  {
+   "role": "윤정 외",
+   "name": "손성윤"
+  },
+  {
+   "role": "안나 외",
+   "name": "윤소희"
+  },
+  {
+   "role": "구재 외",
+   "name": "임승범"
+  },
+  {
+   "role": "",
+   "name": "김빛나"
+  },
+  {
+   "role": "",
+   "name": "이현지"
+  },
+  {
+   "role": "",
+   "name": "김영욱"
+  },
+  {
+   "role": "",
+   "name": "덕원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814055321/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=177371"
+ }
 }

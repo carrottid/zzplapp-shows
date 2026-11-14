@@ -13,7 +13,7 @@
   "전수미",
   "정영아",
   "최서연",
-  "허혜진",
+  "허윤슬",
   "황우림"
  ],
  "facilityId": "FC001347",
@@ -43,5 +43,43 @@
  ],
  "updated": "2022-05-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#067729",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "프리다",
+   "name": "김소향"
+  },
+  {
+   "role": "레플레하",
+   "name": "전수미"
+  },
+  {
+   "role": "레플레하",
+   "name": "리사"
+  },
+  {
+   "role": "데스티노",
+   "name": "정영아"
+  },
+  {
+   "role": "메모리아",
+   "name": "최서연"
+  },
+  {
+   "role": "메모리아",
+   "name": "허윤슬"
+  },
+  {
+   "role": "메모리아",
+   "name": "황우림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230313054626/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174401"
+ }
 }

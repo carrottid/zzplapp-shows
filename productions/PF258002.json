@@ -38,5 +38,47 @@
  ],
  "updated": "2026-02-23 16:19:24",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#12132C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "하트셉수트",
+   "name": "신의정"
+  },
+  {
+   "role": "하트셉수트",
+   "name": "전성민"
+  },
+  {
+   "role": "하트셉수트",
+   "name": "제이민"
+  },
+  {
+   "role": "하트셉수트",
+   "name": "효은"
+  },
+  {
+   "role": "아문",
+   "name": "김경민"
+  },
+  {
+   "role": "아문",
+   "name": "주다온"
+  },
+  {
+   "role": "아문",
+   "name": "장보람"
+  },
+  {
+   "role": "아문",
+   "name": "최수현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260411104552/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=213125"
+ }
 }

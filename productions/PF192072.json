@@ -15,7 +15,7 @@
   "양서윤",
   "성주환",
   "이지율",
-  "심수영"
+  "심수호"
  ],
  "facilityId": "FC001233",
  "runtime": "1시간 30분",
@@ -34,5 +34,55 @@
  ],
  "updated": "2022-06-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2C90BA",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "세미",
+   "name": "윤지현"
+  },
+  {
+   "role": "세미",
+   "name": "김도현"
+  },
+  {
+   "role": "나츠",
+   "name": "강연정"
+  },
+  {
+   "role": "나츠",
+   "name": "양서윤"
+  },
+  {
+   "role": "아이",
+   "name": "성주환"
+  },
+  {
+   "role": "아이",
+   "name": "이지율"
+  },
+  {
+   "role": "아츠시",
+   "name": "심수호"
+  },
+  {
+   "role": "아츠시",
+   "name": "박창욱"
+  },
+  {
+   "role": "하세가와",
+   "name": "무현"
+  },
+  {
+   "role": "하세가와",
+   "name": "전흥선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250617195853/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175024"
+ }
 }

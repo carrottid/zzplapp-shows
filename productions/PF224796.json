@@ -39,5 +39,63 @@
  ],
  "updated": "2023-08-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#5E9DB0",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "사치",
+   "name": "박하선"
+  },
+  {
+   "role": "사치",
+   "name": "한혜진"
+  },
+  {
+   "role": "요시노",
+   "name": "서예화"
+  },
+  {
+   "role": "요시노",
+   "name": "임수향"
+  },
+  {
+   "role": "치카",
+   "name": "강해진"
+  },
+  {
+   "role": "치카",
+   "name": "류이재"
+  },
+  {
+   "role": "스즈",
+   "name": "설가은"
+  },
+  {
+   "role": "스즈",
+   "name": "유나"
+  },
+  {
+   "role": "후타",
+   "name": "오한결"
+  },
+  {
+   "role": "후타",
+   "name": "이윤서"
+  },
+  {
+   "role": "",
+   "name": "이정미"
+  },
+  {
+   "role": "",
+   "name": "이강욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240523070904/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192730"
+ }
 }

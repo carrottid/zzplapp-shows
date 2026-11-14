@@ -1,0 +1,81 @@
+{
+ "id": "PF224216",
+ "title": "속살",
+ "genre": "연극",
+ "from": "2023-09-07",
+ "to": "2023-09-17",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224216_230925_154508.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이유진",
+  "김가빈",
+  "이기현",
+  "민재원",
+  "이정주",
+  "이상숙",
+  "심원석"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 25분",
+ "age": "만 13세 이상",
+ "crew": "이은준, 김규도, 안소영 등",
+ "producer": "극단 파수꾼",
+ "price": "전석 40,000원",
+ "schedule": "화요일(19:30), 수요일(15:00), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224216_230925_0345080.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011477"
+  }
+ ],
+ "updated": "2023-09-25 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "상필",
+   "name": "이원재"
+  },
+  {
+   "role": "형기",
+   "name": "오두원"
+  },
+  {
+   "role": "경식",
+   "name": "심원석"
+  },
+  {
+   "role": "진경",
+   "name": "이상숙"
+  },
+  {
+   "role": "상준",
+   "name": "이정주"
+  },
+  {
+   "role": "영석, 남자손님",
+   "name": "민재원"
+  },
+  {
+   "role": "",
+   "name": "이기현"
+  },
+  {
+   "role": "",
+   "name": "김가빈"
+  },
+  {
+   "role": "",
+   "name": "이유진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250315144755/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192364"
+ }
+}

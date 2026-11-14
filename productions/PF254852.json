@@ -51,5 +51,95 @@
  ],
  "updated": "2025-02-26 14:00:05",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8D1424",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "명성황후",
+   "name": "김소현"
+  },
+  {
+   "role": "명성황후",
+   "name": "신영숙"
+  },
+  {
+   "role": "명성황후",
+   "name": "차지연"
+  },
+  {
+   "role": "고종",
+   "name": "강필석"
+  },
+  {
+   "role": "고종",
+   "name": "손준호"
+  },
+  {
+   "role": "고종",
+   "name": "김주택"
+  },
+  {
+   "role": "홍계훈",
+   "name": "양준모"
+  },
+  {
+   "role": "홍계훈",
+   "name": "박민성"
+  },
+  {
+   "role": "홍계훈",
+   "name": "백형훈"
+  },
+  {
+   "role": "대원군",
+   "name": "서영주"
+  },
+  {
+   "role": "대원군",
+   "name": "이정열"
+  },
+  {
+   "role": "미우라",
+   "name": "김도형"
+  },
+  {
+   "role": "미우라",
+   "name": "문종원"
+  },
+  {
+   "role": "박상궁",
+   "name": "임선애"
+  },
+  {
+   "role": "",
+   "name": "정목화"
+  },
+  {
+   "role": "",
+   "name": "김가희"
+  },
+  {
+   "role": "",
+   "name": "김상현"
+  },
+  {
+   "role": "",
+   "name": "조영태"
+  },
+  {
+   "role": "",
+   "name": "김태현"
+  },
+  {
+   "role": "",
+   "name": "박상희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250306143218/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211077"
+ }
 }

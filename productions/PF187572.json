@@ -34,5 +34,39 @@
  ],
  "updated": "2022-03-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0D1029",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "황상호",
+   "name": "이강욱"
+  },
+  {
+   "role": "이동욱",
+   "name": "박용우"
+  },
+  {
+   "role": "이동욱",
+   "name": "이형훈"
+  },
+  {
+   "role": "박영권",
+   "name": "심완준"
+  },
+  {
+   "role": "박영권",
+   "name": "김훈만"
+  },
+  {
+   "role": "강문실",
+   "name": "문현정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240414090659/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172697"
+ }
 }

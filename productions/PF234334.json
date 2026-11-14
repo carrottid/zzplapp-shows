@@ -1,0 +1,48 @@
+{
+ "id": "PF234334",
+ "title": "제3회 두드림 페스티벌, 깐돌이와 친구들",
+ "genre": "연극",
+ "from": "2024-02-03",
+ "to": "2024-02-04",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF234334_240123_100002.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이소영",
+  "김아론"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 10분",
+ "age": "전체 관람가",
+ "crew": "김재엽, 이소영, 한재권 등",
+ "producer": "극단 드림플레이, 깐돌이프로젝트",
+ "price": "전석 20,000원",
+ "schedule": "토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234334_240123_1000020.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1068684"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001103"
+  }
+ ],
+ "updated": "2024-01-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "소영",
+   "name": "이소영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241014144032/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198608"
+ }
+}

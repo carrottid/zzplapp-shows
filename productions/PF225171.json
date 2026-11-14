@@ -36,5 +36,31 @@
  ],
  "updated": "2023-09-08 09:34:13",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1C0A0A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "젤다",
+   "name": "정재은"
+  },
+  {
+   "role": "스콧",
+   "name": "김진철"
+  },
+  {
+   "role": "잭",
+   "name": "윤지환"
+  },
+  {
+   "role": "어빙파인 박사",
+   "name": "조원석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612192048/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=191662"
+ }
 }

@@ -46,5 +46,39 @@
  ],
  "updated": "2024-12-23 09:25:20",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#00CDE6",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "트랍스",
+   "name": "김명기"
+  },
+  {
+   "role": "집주인",
+   "name": "남명렬"
+  },
+  {
+   "role": "초른",
+   "name": "강신구"
+  },
+  {
+   "role": "쿰머",
+   "name": "김신기"
+  },
+  {
+   "role": "필렛",
+   "name": "손성호"
+  },
+  {
+   "role": "시모네",
+   "name": "이승우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241206233840/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198502"
+ }
 }

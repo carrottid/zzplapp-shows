@@ -47,5 +47,59 @@
  ],
  "updated": "2025-10-24 15:12:37",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#B3152B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "찰리",
+   "name": "김호영"
+  },
+  {
+   "role": "찰리",
+   "name": "이재환"
+  },
+  {
+   "role": "찰리",
+   "name": "신재범"
+  },
+  {
+   "role": "롤라",
+   "name": "강홍석"
+  },
+  {
+   "role": "롤라",
+   "name": "백형훈"
+  },
+  {
+   "role": "롤라",
+   "name": "서경수"
+  },
+  {
+   "role": "로렌",
+   "name": "한재아"
+  },
+  {
+   "role": "로렌",
+   "name": "허윤슬"
+  },
+  {
+   "role": "돈",
+   "name": "신승환"
+  },
+  {
+   "role": "돈",
+   "name": "심재현"
+  },
+  {
+   "role": "돈",
+   "name": "김동현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251110132312/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=222122"
+ }
 }

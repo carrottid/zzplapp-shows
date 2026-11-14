@@ -32,5 +32,27 @@
  ],
  "updated": "2021-10-27 22:46:16",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#9A4C4D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "탐",
+   "name": "윤상호"
+  },
+  {
+   "role": "이",
+   "name": "장태민"
+  },
+  {
+   "role": "이",
+   "name": "김신실"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230526014443/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166039"
+ }
 }

@@ -1,0 +1,45 @@
+{
+ "id": "PF253720",
+ "title": "선돌, 식탁",
+ "genre": "연극",
+ "from": "2024-12-12",
+ "to": "2024-12-15",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF253720_241115_101742.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김하정",
+  "김현진",
+  "이민우",
+  "이서한",
+  "이지은"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "crew": "임범규, 김주희, 신승렬 등",
+ "producer": "극단 놀땅, 프로젝트 1인실",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF253720_241115_1017420.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/876450"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24016546"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1731723556"
+  }
+ ],
+ "updated": "2024-11-27 13:47:49",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

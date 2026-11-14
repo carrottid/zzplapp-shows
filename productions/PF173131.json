@@ -1,0 +1,88 @@
+{
+ "id": "PF173131",
+ "title": "오일",
+ "genre": "연극",
+ "from": "2021-05-01",
+ "to": "2021-05-09",
+ "venue": "더 줌 아트센터 (더 줌 아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF173131_210405_110633.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이자람",
+  "남기애",
+  "나경민",
+  "윤희균",
+  "곽지숙",
+  "박명신",
+  "홍선우"
+ ],
+ "facilityId": "FC001994",
+ "runtime": "1시간 40분",
+ "age": "만 16세 이상",
+ "crew": "여신동, 장영규, 김선 등",
+ "price": "전석 60,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF173131_210405_1106330.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21002457"
+  }
+ ],
+ "updated": "2021-04-05 17:09:24",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "메이",
+   "name": "이자람"
+  },
+  {
+   "role": "에이미",
+   "name": "박정원"
+  },
+  {
+   "role": "마 싱거",
+   "name": "남기애"
+  },
+  {
+   "role": "마 싱거",
+   "name": "박명신"
+  },
+  {
+   "role": "조스",
+   "name": "나경민"
+  },
+  {
+   "role": "윌리엄 휘트콤",
+   "name": "이은호"
+  },
+  {
+   "role": "미스터 파룩",
+   "name": "노현수"
+  },
+  {
+   "role": "",
+   "name": "곽지숙"
+  },
+  {
+   "role": "",
+   "name": "홍성인"
+  },
+  {
+   "role": "",
+   "name": "윤희균"
+  },
+  {
+   "role": "",
+   "name": "경지은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428024940/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164260"
+ }
+}

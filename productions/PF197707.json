@@ -1,0 +1,97 @@
+{
+ "id": "PF197707",
+ "title": "세인트 조앤",
+ "genre": "연극",
+ "from": "2022-10-05",
+ "to": "2022-10-30",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF197707_220906_124341.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "백은혜",
+  "강현우",
+  "김다흰",
+  "김수량",
+  "박상종",
+  "박용수",
+  "박진호"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "3시간",
+ "age": "만 11세 이상",
+ "crew": "김광보, 임성균, 금배섭 등",
+ "producer": "(재) 국립극단",
+ "price": "R석 60,000원, S석 45,000원, A석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF197707_231201_0458071.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/257084"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011748"
+  }
+ ],
+ "updated": "2022-09-06 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "조앤",
+   "name": "백은혜"
+  },
+  {
+   "role": "드누아",
+   "name": "강현우"
+  },
+  {
+   "role": "파란수염/라베누",
+   "name": "김다흰"
+  },
+  {
+   "role": "라히레/쿠르셀/영국 병사",
+   "name": "김수량"
+  },
+  {
+   "role": "코숑",
+   "name": "박상종"
+  },
+  {
+   "role": "랭스의 대주교",
+   "name": "박용수"
+  },
+  {
+   "role": "",
+   "name": "박진호"
+  },
+  {
+   "role": "",
+   "name": "유연수"
+  },
+  {
+   "role": "",
+   "name": "윤성원"
+  },
+  {
+   "role": "",
+   "name": "이동준"
+  },
+  {
+   "role": "",
+   "name": "이승주"
+  },
+  {
+   "role": "",
+   "name": "장석환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908032648/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=179401"
+ }
+}

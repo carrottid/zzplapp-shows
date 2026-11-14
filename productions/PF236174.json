@@ -1,0 +1,35 @@
+{
+ "id": "PF236174",
+ "title": "사탕",
+ "genre": "연극",
+ "from": "2024-04-24",
+ "to": "2024-04-28",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF236174_240226_124513.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김늘메",
+  "김한결",
+  "하시연",
+  "김기붕"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간",
+ "age": "만 7세 이상",
+ "crew": "강봉자, 문준영, 주애리 등",
+ "price": "전석 10,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF236174_240226_1246070.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002553"
+  }
+ ],
+ "updated": "2024-02-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

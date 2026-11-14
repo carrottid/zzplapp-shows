@@ -34,5 +34,199 @@
  ],
  "updated": "2025-09-29 16:49:20",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F3140",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "홍련",
+   "name": "안주연"
+  },
+  {
+   "role": "홍련",
+   "name": "나하임"
+  },
+  {
+   "role": "홍련",
+   "name": "임보경"
+  },
+  {
+   "role": "홍련",
+   "name": "정하율"
+  },
+  {
+   "role": "",
+   "name": "김아인"
+  },
+  {
+   "role": "",
+   "name": "정한슬"
+  },
+  {
+   "role": "바리",
+   "name": "나현진"
+  },
+  {
+   "role": "바리",
+   "name": "박선하"
+  },
+  {
+   "role": "바리",
+   "name": "조은별"
+  },
+  {
+   "role": "바리",
+   "name": "최다연"
+  },
+  {
+   "role": "",
+   "name": "배연주"
+  },
+  {
+   "role": "",
+   "name": "김수양"
+  },
+  {
+   "role": "",
+   "name": "임은지"
+  },
+  {
+   "role": "",
+   "name": "황수지"
+  },
+  {
+   "role": "",
+   "name": "윤지은"
+  },
+  {
+   "role": "",
+   "name": "정지선"
+  },
+  {
+   "role": "강림",
+   "name": "김범준"
+  },
+  {
+   "role": "강림",
+   "name": "천이도"
+  },
+  {
+   "role": "강림",
+   "name": "정지찬"
+  },
+  {
+   "role": "강림",
+   "name": "채종석"
+  },
+  {
+   "role": "",
+   "name": "신여섭"
+  },
+  {
+   "role": "",
+   "name": "진성호"
+  },
+  {
+   "role": "",
+   "name": "김영찬"
+  },
+  {
+   "role": "",
+   "name": "강성민"
+  },
+  {
+   "role": "",
+   "name": "박진우"
+  },
+  {
+   "role": "",
+   "name": "배성용"
+  },
+  {
+   "role": "",
+   "name": "오강석"
+  },
+  {
+   "role": "",
+   "name": "이승환"
+  },
+  {
+   "role": "",
+   "name": "이경준"
+  },
+  {
+   "role": "",
+   "name": "허연수"
+  },
+  {
+   "role": "",
+   "name": "최현규"
+  },
+  {
+   "role": "월직",
+   "name": "김윤하"
+  },
+  {
+   "role": "월직",
+   "name": "박현미"
+  },
+  {
+   "role": "월직",
+   "name": "김나경"
+  },
+  {
+   "role": "월직",
+   "name": "최진환"
+  },
+  {
+   "role": "",
+   "name": "오현주"
+  },
+  {
+   "role": "",
+   "name": "박세은"
+  },
+  {
+   "role": "",
+   "name": "이수안"
+  },
+  {
+   "role": "",
+   "name": "김서하"
+  },
+  {
+   "role": "일직",
+   "name": "조연경"
+  },
+  {
+   "role": "일직",
+   "name": "황지현"
+  },
+  {
+   "role": "일직",
+   "name": "이승애"
+  },
+  {
+   "role": "일직",
+   "name": "임재영"
+  },
+  {
+   "role": "",
+   "name": "김상혁"
+  },
+  {
+   "role": "",
+   "name": "구보미"
+  },
+  {
+   "role": "",
+   "name": "박예슬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622203223/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214988"
+ }
 }

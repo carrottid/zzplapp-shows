@@ -86,7 +86,7 @@
   },
   {
    "role": "카스파 반 베토벤",
-   "name": "김진욱"
+   "name": "차윤해"
   },
   {
    "role": "프란츠 브렌타노",
@@ -112,5 +112,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3109"
+ },
+ "color": {
+  "bg": "#000000",
+  "fg": "#FFFFFF"
  }
 }

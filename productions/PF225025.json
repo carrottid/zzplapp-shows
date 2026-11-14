@@ -11,7 +11,7 @@
  "cast": [
   "이지숙",
   "한보라",
-  "원우준",
+  "문성일",
   "김대웅",
   "안재영",
   "송유택",
@@ -44,5 +44,59 @@
  ],
  "updated": "2023-09-01 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#2F8FB5",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "한영범",
+   "name": "최호중"
+  },
+  {
+   "role": "한영범",
+   "name": "성태준"
+  },
+  {
+   "role": "류순호",
+   "name": "김기택"
+  },
+  {
+   "role": "류순호",
+   "name": "임진섭"
+  },
+  {
+   "role": "이창섭",
+   "name": "권동호"
+  },
+  {
+   "role": "신석구",
+   "name": "안재영"
+  },
+  {
+   "role": "신석구",
+   "name": "송유택"
+  },
+  {
+   "role": "조동현",
+   "name": "김대웅"
+  },
+  {
+   "role": "변주화",
+   "name": "문성일"
+  },
+  {
+   "role": "",
+   "name": "이지숙"
+  },
+  {
+   "role": "",
+   "name": "한보라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240811160542/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192833"
+ }
 }

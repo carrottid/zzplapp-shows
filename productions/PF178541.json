@@ -1,0 +1,97 @@
+{
+ "id": "PF178541",
+ "title": "만선",
+ "genre": "연극",
+ "from": "2021-09-03",
+ "to": "2021-09-19",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF178541_210818_110338.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김재건",
+  "정상철",
+  "김종칠",
+  "김명수",
+  "정경순",
+  "조주경",
+  "김경숙"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "천승세, 윤미현, 심재찬 등",
+ "producer": "(재) 국립극단",
+ "price": "R석 50,000원, S석 35,000원, A석 20,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178541_210906_0418550.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/256988"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21007348"
+  }
+ ],
+ "updated": "2021-08-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "범쇠",
+   "name": "김재건"
+  },
+  {
+   "role": "임제순",
+   "name": "정상철"
+  },
+  {
+   "role": "성삼",
+   "name": "김종칠"
+  },
+  {
+   "role": "곰치",
+   "name": "김명수"
+  },
+  {
+   "role": "구포댁",
+   "name": "정경순"
+  },
+  {
+   "role": "무당/동네아낙",
+   "name": "조주경"
+  },
+  {
+   "role": "",
+   "name": "김경숙"
+  },
+  {
+   "role": "",
+   "name": "정나진"
+  },
+  {
+   "role": "",
+   "name": "이상홍"
+  },
+  {
+   "role": "",
+   "name": "김명기"
+  },
+  {
+   "role": "",
+   "name": "송석근"
+  },
+  {
+   "role": "",
+   "name": "김예림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251019214601/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170651"
+ }
+}

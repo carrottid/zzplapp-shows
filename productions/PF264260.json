@@ -35,5 +35,63 @@
  ],
  "updated": "2025-09-29 16:17:26",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A3F7A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "가미야 도루",
+   "name": "이준"
+  },
+  {
+   "role": "가미야 도루",
+   "name": "윤소호"
+  },
+  {
+   "role": "가미야 도루",
+   "name": "김인성"
+  },
+  {
+   "role": "히노 마오리",
+   "name": "장민제"
+  },
+  {
+   "role": "히노 마오리",
+   "name": "솔빈"
+  },
+  {
+   "role": "와타야 이즈미",
+   "name": "오유민"
+  },
+  {
+   "role": "와타야 이즈미",
+   "name": "나현영"
+  },
+  {
+   "role": "사에구사 켄토",
+   "name": "신은총"
+  },
+  {
+   "role": "사에구사 켄토",
+   "name": "정지우"
+  },
+  {
+   "role": "가미야 유키히코",
+   "name": "임기홍"
+  },
+  {
+   "role": "가미야 유키히코",
+   "name": "김태한"
+  },
+  {
+   "role": "가미야 사나에",
+   "name": "김강희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250708025848/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216643"
+ }
 }

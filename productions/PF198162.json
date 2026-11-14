@@ -33,5 +33,35 @@
  ],
  "updated": "2022-09-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2E2627",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이생망",
+   "name": "김재건"
+  },
+  {
+   "role": "팔공산",
+   "name": "이태훈"
+  },
+  {
+   "role": "수선화",
+   "name": "이현순"
+  },
+  {
+   "role": "버킨백",
+   "name": "김화영"
+  },
+  {
+   "role": "어벤져",
+   "name": "추헌엽"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622155101/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178973"
+ }
 }

@@ -13,7 +13,7 @@
   "김종구",
   "정문성",
   "이정화",
-  "허혜진",
+  "허윤슬",
   "이지연",
   "정민"
  ],
@@ -39,5 +39,63 @@
  ],
  "updated": "2024-10-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "자보",
+   "name": "최재웅"
+  },
+  {
+   "role": "자보",
+   "name": "김종구"
+  },
+  {
+   "role": "자보",
+   "name": "정문성"
+  },
+  {
+   "role": "일로나",
+   "name": "이정화"
+  },
+  {
+   "role": "일로나",
+   "name": "허윤슬"
+  },
+  {
+   "role": "일로나",
+   "name": "이지연"
+  },
+  {
+   "role": "안드라스",
+   "name": "정민"
+  },
+  {
+   "role": "안드라스",
+   "name": "유승현"
+  },
+  {
+   "role": "안드라스",
+   "name": "홍승안"
+  },
+  {
+   "role": "한스",
+   "name": "이진혁"
+  },
+  {
+   "role": "한스",
+   "name": "반정모"
+  },
+  {
+   "role": "한스",
+   "name": "홍기범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250807002804/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209364"
+ }
 }

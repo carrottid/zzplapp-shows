@@ -47,5 +47,23 @@
  ],
  "updated": "2026-01-21 13:33:44",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E8DCC4",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "전우치",
+   "name": "손동운"
+  },
+  {
+   "role": "전우치",
+   "name": "이한수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251122080332/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=221497"
+ }
 }

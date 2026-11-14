@@ -37,5 +37,47 @@
  ],
  "updated": "2023-05-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#282553",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "도둑",
+   "name": "진휘서"
+  },
+  {
+   "role": "알바",
+   "name": "서은빈"
+  },
+  {
+   "role": "형사",
+   "name": "김기주"
+  },
+  {
+   "role": "손님",
+   "name": "이충호"
+  },
+  {
+   "role": "고시생",
+   "name": "유권"
+  },
+  {
+   "role": "박사",
+   "name": "임동진"
+  },
+  {
+   "role": "",
+   "name": "이한솔"
+  },
+  {
+   "role": "",
+   "name": "최현규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208055306/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188069"
+ }
 }

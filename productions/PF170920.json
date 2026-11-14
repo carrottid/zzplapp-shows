@@ -34,5 +34,23 @@
  ],
  "updated": "2021-01-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0F0D0E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "벤",
+   "name": "이종무"
+  },
+  {
+   "role": "거스",
+   "name": "송철호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250713041538/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162571"
+ }
 }

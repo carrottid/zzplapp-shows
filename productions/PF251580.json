@@ -40,5 +40,71 @@
  ],
  "updated": "2025-07-03 08:15:11",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#312C27",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "해리",
+   "name": "한상훈"
+  },
+  {
+   "role": "해리",
+   "name": "장윤석"
+  },
+  {
+   "role": "해리",
+   "name": "이석준"
+  },
+  {
+   "role": "애덤",
+   "name": "윤재호"
+  },
+  {
+   "role": "애덤",
+   "name": "박상혁"
+  },
+  {
+   "role": "애덤",
+   "name": "강병훈"
+  },
+  {
+   "role": "노아",
+   "name": "김이담"
+  },
+  {
+   "role": "노아",
+   "name": "심수호"
+  },
+  {
+   "role": "노아",
+   "name": "박상준"
+  },
+  {
+   "role": "미첼",
+   "name": "최수현"
+  },
+  {
+   "role": "미첼",
+   "name": "박소은"
+  },
+  {
+   "role": "미첼",
+   "name": "조디아나"
+  },
+  {
+   "role": "에른스트",
+   "name": "고철순"
+  },
+  {
+   "role": "에른스트",
+   "name": "이민규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250426213931/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209462"
+ }
 }

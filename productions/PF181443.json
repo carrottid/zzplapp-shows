@@ -1,0 +1,35 @@
+{
+ "id": "PF181443",
+ "title": "달은 오늘도 나를 내려다본다",
+ "genre": "뮤지컬",
+ "from": "2021-11-09",
+ "to": "2021-11-10",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF181443_211020_123701.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김민지",
+  "이용관",
+  "이제성"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "장준휘, 이성현, 최정 등",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 수요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181443_211020_1237011.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181443_211020_1237010.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009806"
+  }
+ ],
+ "updated": "2021-11-15 17:20:10",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

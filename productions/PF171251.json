@@ -42,5 +42,39 @@
  ],
  "updated": "2021-02-01 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#625750",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아서 코난 도일",
+   "name": "김종구"
+  },
+  {
+   "role": "아서 코난 도일",
+   "name": "홍승안"
+  },
+  {
+   "role": "아서 코난 도일",
+   "name": "김찬종"
+  },
+  {
+   "role": "셜록 홈즈",
+   "name": "정민"
+  },
+  {
+   "role": "셜록 홈즈",
+   "name": "조풍래"
+  },
+  {
+   "role": "셜록 홈즈",
+   "name": "백기범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211204040242/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162671"
+ }
 }

@@ -51,5 +51,67 @@
  ],
  "updated": "2021-10-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F4A2E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "해웅",
+   "name": "진태화"
+  },
+  {
+   "role": "해웅",
+   "name": "정욱진"
+  },
+  {
+   "role": "해웅",
+   "name": "최민우"
+  },
+  {
+   "role": "옥희",
+   "name": "송나영"
+  },
+  {
+   "role": "옥희",
+   "name": "홍나현"
+  },
+  {
+   "role": "가네코/아기귀신",
+   "name": "한보라"
+  },
+  {
+   "role": "가네코/아기귀신",
+   "name": "양서윤"
+  },
+  {
+   "role": "아저씨/선관귀신",
+   "name": "원종환"
+  },
+  {
+   "role": "아저씨/선관귀신",
+   "name": "유성재"
+  },
+  {
+   "role": "요시다/처녀귀신",
+   "name": "김지훈"
+  },
+  {
+   "role": "요시다/처녀귀신",
+   "name": "무현"
+  },
+  {
+   "role": "노다/장군귀신",
+   "name": "이경욱"
+  },
+  {
+   "role": "노다/장군귀신",
+   "name": "황두현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250811211809/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169021"
+ }
 }

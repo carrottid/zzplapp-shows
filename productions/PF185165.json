@@ -1,0 +1,82 @@
+{
+ "id": "PF185165",
+ "title": "정의의 사람들",
+ "genre": "연극",
+ "from": "2022-01-22",
+ "to": "2022-01-30",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF185165_211224_123120.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이승분",
+  "박새롬"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "price": "A석 40,000원, B석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF185165_211224_1231200.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/37023"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/632779"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21013099"
+  }
+ ],
+ "updated": "2021-12-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "이반 칼리아예프",
+   "name": "오승택"
+  },
+  {
+   "role": "도라 둘레보프",
+   "name": "이유진"
+  },
+  {
+   "role": "스테판",
+   "name": "이남우"
+  },
+  {
+   "role": "보리스 아녠코프",
+   "name": "이귀우"
+  },
+  {
+   "role": "포카",
+   "name": "박한솔"
+  },
+  {
+   "role": "알렉시스 보이노프/간수",
+   "name": "박성민"
+  },
+  {
+   "role": "",
+   "name": "이승분"
+  },
+  {
+   "role": "",
+   "name": "박새롬"
+  },
+  {
+   "role": "",
+   "name": "문다현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241109093301/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171168"
+ }
+}

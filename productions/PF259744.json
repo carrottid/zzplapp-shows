@@ -1,0 +1,84 @@
+{
+ "id": "PF259744",
+ "title": "얼떨결에 종언",
+ "genre": "연극",
+ "from": "2025-03-20",
+ "to": "2025-04-13",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF259744_250225_101535.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정인지",
+  "유낙원",
+  "유희제",
+  "황두현",
+  "오현서",
+  "한재아",
+  "김동준"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "변영진, 유희제, 도예준 등",
+ "price": "A석 55,000원, B석 44,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF259744_250225_1015350.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/54898"
+  }
+ ],
+ "updated": "2026-02-25 16:10:02",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "미노베 사나코",
+   "name": "정인지"
+  },
+  {
+   "role": "미노베 사나코",
+   "name": "유낙원"
+  },
+  {
+   "role": "니시지마 신타로",
+   "name": "유희제"
+  },
+  {
+   "role": "니시지마 신타로",
+   "name": "황두현"
+  },
+  {
+   "role": "코다마 카나에",
+   "name": "오현서"
+  },
+  {
+   "role": "코다마 카나에",
+   "name": "한재아"
+  },
+  {
+   "role": "마에노 츄키치",
+   "name": "김동준"
+  },
+  {
+   "role": "마에노 츄키치",
+   "name": "도예준"
+  },
+  {
+   "role": "와타나베 미츠키",
+   "name": "이채원"
+  },
+  {
+   "role": "무라이",
+   "name": "탁승빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260627225509/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216528"
+ }
+}

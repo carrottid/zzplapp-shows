@@ -1,0 +1,34 @@
+{
+ "id": "PF255835",
+ "title": "보이스오버",
+ "genre": "연극",
+ "from": "2024-12-27",
+ "to": "2024-12-29",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF255835_241216_101242.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김신혜",
+  "이청",
+  "임미정"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 10분",
+ "age": "만 12세 이상",
+ "crew": "이지혜, 송성원, 박유진 등",
+ "price": "전석 35,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF255835_241216_1012420.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24017892"
+  }
+ ],
+ "updated": "2024-12-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

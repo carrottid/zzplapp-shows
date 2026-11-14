@@ -1,0 +1,44 @@
+{
+ "id": "PF229797",
+ "title": "집집: 하우스소나타",
+ "genre": "연극",
+ "from": "2023-12-21",
+ "to": "2023-12-31",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF229797_231113_105535.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "황정민",
+  "민해심",
+  "박소연",
+  "심재완",
+  "이산호",
+  "정은경",
+  "이형우"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 35분",
+ "age": "만 11세 이상",
+ "crew": "한현주, 이성열, 조만수 등",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229797_231113_1055352.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229797_231113_1055351.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229797_231113_1055350.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016181"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1699673932"
+  }
+ ],
+ "updated": "2023-11-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

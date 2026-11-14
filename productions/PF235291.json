@@ -1,0 +1,36 @@
+{
+ "id": "PF235291",
+ "title": "야테베오",
+ "genre": "연극",
+ "from": "2024-02-15",
+ "to": "2024-02-17",
+ "venue": "삼일로창고극장 (삼일로창고극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF235291_240213_110638.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김관식",
+  "정주호",
+  "최도혁"
+ ],
+ "facilityId": "FC000248",
+ "runtime": "1시간",
+ "age": "만 19세 이상",
+ "crew": "박광선, 김다인, 이정윤, 등",
+ "producer": "창작집단 OOR",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(16:00,18:00,20:00), 토요일(16:00,18:00,20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235291_240213_1106381.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235291_240213_1106380.png"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2880"
+  }
+ ],
+ "updated": "2024-02-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

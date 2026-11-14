@@ -39,5 +39,51 @@
  ],
  "updated": "2025-09-08 11:14:36",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#BFD9E8",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "이동호",
+   "name": "김민상"
+  },
+  {
+   "role": "이동호",
+   "name": "박호산"
+  },
+  {
+   "role": "이동호",
+   "name": "김주헌"
+  },
+  {
+   "role": "최나연",
+   "name": "우현주"
+  },
+  {
+   "role": "최나연",
+   "name": "서정연"
+  },
+  {
+   "role": "최나연",
+   "name": "정운선"
+  },
+  {
+   "role": "김기풍",
+   "name": "이석준"
+  },
+  {
+   "role": "김기풍",
+   "name": "이승준"
+  },
+  {
+   "role": "김기풍",
+   "name": "김남희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251113045341/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=220249"
+ }
 }

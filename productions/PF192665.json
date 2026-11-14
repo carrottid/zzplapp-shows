@@ -41,5 +41,51 @@
  ],
  "updated": "2022-06-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#655A5B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아멜리아",
+   "name": "최희진"
+  },
+  {
+   "role": "장군",
+   "name": "문성복"
+  },
+  {
+   "role": "제임스",
+   "name": "강연주"
+  },
+  {
+   "role": "기자",
+   "name": "조성현"
+  },
+  {
+   "role": "장관",
+   "name": "윤현길"
+  },
+  {
+   "role": "가정부(레이첼)",
+   "name": "이영주"
+  },
+  {
+   "role": "",
+   "name": "최지혜"
+  },
+  {
+   "role": "",
+   "name": "베튤"
+  },
+  {
+   "role": "",
+   "name": "이송아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250523173350/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175697"
+ }
 }

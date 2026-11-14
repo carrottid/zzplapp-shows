@@ -11,7 +11,7 @@
  "cast": [
   "강지혜",
   "이봄소리",
-  "허혜진",
+  "허윤슬",
   "김려원",
   "이아름솔",
   "김이후",
@@ -47,7 +47,7 @@
   },
   {
    "role": "샬럿",
-   "name": "허혜진"
+   "name": "허윤슬"
   },
   {
    "role": "에밀리",
@@ -77,5 +77,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3078"
+ },
+ "color": {
+  "bg": "#784E50",
+  "fg": "#FFFFFF"
  }
 }

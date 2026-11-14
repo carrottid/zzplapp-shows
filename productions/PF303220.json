@@ -38,6 +38,10 @@
   }
  ],
  "updated": "2026-10-13 18:00:00.048289",
- "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "castSource": "plapp",
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#D8C3A0",
+  "fg": "#111111"
+ }
 }

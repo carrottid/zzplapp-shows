@@ -51,5 +51,39 @@
  ],
  "updated": "2026-03-10 12:45:48",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#5A5148",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "동재",
+   "name": "양경원"
+  },
+  {
+   "role": "동재",
+   "name": "김선호"
+  },
+  {
+   "role": "동재",
+   "name": "김성규"
+  },
+  {
+   "role": "서진",
+   "name": "이시형"
+  },
+  {
+   "role": "서진",
+   "name": "오경주"
+  },
+  {
+   "role": "서진",
+   "name": "강승호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260417220650/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=225252"
+ }
 }

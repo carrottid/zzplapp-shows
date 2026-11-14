@@ -36,5 +36,31 @@
  ],
  "updated": "2021-01-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#714E2C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "제인",
+   "name": "문진아"
+  },
+  {
+   "role": "제인",
+   "name": "임찬민"
+  },
+  {
+   "role": "로체스터 외",
+   "name": "김이후"
+  },
+  {
+   "role": "로체스터 외",
+   "name": "정우연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220925084506/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162481"
+ }
 }

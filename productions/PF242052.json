@@ -39,5 +39,95 @@
  ],
  "updated": "2024-12-23 16:56:46",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#080F1F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "오스칼 프랑소와 드 자르제",
+   "name": "옥주현"
+  },
+  {
+   "role": "오스칼 프랑소와 드 자르제",
+   "name": "김지우"
+  },
+  {
+   "role": "오스칼 프랑소와 드 자르제",
+   "name": "정유지"
+  },
+  {
+   "role": "앙드레 그랑디에",
+   "name": "이해준"
+  },
+  {
+   "role": "앙드레 그랑디에",
+   "name": "김성식"
+  },
+  {
+   "role": "앙드레 그랑디에",
+   "name": "고은성"
+  },
+  {
+   "role": "베르날 샤틀레",
+   "name": "박민성"
+  },
+  {
+   "role": "베르날 샤틀레",
+   "name": "서영택"
+  },
+  {
+   "role": "베르날 샤틀레",
+   "name": "노윤"
+  },
+  {
+   "role": "마담 드 폴리냑",
+   "name": "서지영"
+  },
+  {
+   "role": "마담 드 폴리냑",
+   "name": "리사"
+  },
+  {
+   "role": "마담 드 폴리냑",
+   "name": "박혜미"
+  },
+  {
+   "role": "로자리 라 모리엘",
+   "name": "유소리"
+  },
+  {
+   "role": "로자리 라 모리엘",
+   "name": "장혜린"
+  },
+  {
+   "role": "플로리앙 빅토르 클레망 드 제로델",
+   "name": "송재림"
+  },
+  {
+   "role": "플로리앙 빅토르 클레망 드 제로델",
+   "name": "성연"
+  },
+  {
+   "role": "",
+   "name": "임은영"
+  },
+  {
+   "role": "",
+   "name": "김명희"
+  },
+  {
+   "role": "",
+   "name": "박소은"
+  },
+  {
+   "role": "",
+   "name": "백찬혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013090155/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203354"
+ }
 }

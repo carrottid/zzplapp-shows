@@ -47,5 +47,63 @@
  ],
  "updated": "2025-02-12 11:51:21",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0B0907",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "그레이 헌트",
+   "name": "김도빈"
+  },
+  {
+   "role": "그레이 헌트",
+   "name": "정동화"
+  },
+  {
+   "role": "그레이 헌트",
+   "name": "손유동"
+  },
+  {
+   "role": "그레이 헌트",
+   "name": "김준영"
+  },
+  {
+   "role": "와이트 히스만",
+   "name": "최호승"
+  },
+  {
+   "role": "와이트 히스만",
+   "name": "황민수"
+  },
+  {
+   "role": "와이트 히스만",
+   "name": "정재환"
+  },
+  {
+   "role": "와이트 히스만",
+   "name": "박준형"
+  },
+  {
+   "role": "",
+   "name": "김재한"
+  },
+  {
+   "role": "휴 대커",
+   "name": "문경초"
+  },
+  {
+   "role": "휴 대커",
+   "name": "김준식"
+  },
+  {
+   "role": "휴 대커",
+   "name": "정이운"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622124056/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=210047"
+ }
 }

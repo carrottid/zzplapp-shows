@@ -1,0 +1,88 @@
+{
+ "id": "PF180412",
+ "title": "로드킬 인 더 씨어터",
+ "genre": "연극",
+ "from": "2021-10-22",
+ "to": "2021-11-14",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF180412_210930_104953.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고애리",
+  "문예주",
+  "박경구",
+  "박소연",
+  "백우람",
+  "성수연",
+  "이리"
+ ],
+ "facilityId": "FC000005",
+ "age": "만 7세 이상",
+ "crew": "구자혜, 여신동, 우영주 등",
+ "schedule": "금요일(19:30), 일요일(15:00)",
+ "images": [],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/256990"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21009269"
+  }
+ ],
+ "updated": "2021-09-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "개 외",
+   "name": "이상홍"
+  },
+  {
+   "role": "개 외",
+   "name": "고애리"
+  },
+  {
+   "role": "비둘기 외",
+   "name": "문예주"
+  },
+  {
+   "role": "비둘기 외",
+   "name": "박경구"
+  },
+  {
+   "role": "비둘기 외",
+   "name": "이리"
+  },
+  {
+   "role": "북미맷새 외",
+   "name": "박소연"
+  },
+  {
+   "role": "고라니 외",
+   "name": "백우람"
+  },
+  {
+   "role": "라이카",
+   "name": "성수연"
+  },
+  {
+   "role": "새 외",
+   "name": "이유진"
+  },
+  {
+   "role": "",
+   "name": "전박찬"
+  },
+  {
+   "role": "",
+   "name": "최순진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240301214029/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168780"
+ }
+}

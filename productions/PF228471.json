@@ -1,0 +1,135 @@
+{
+ "id": "PF228471",
+ "title": "니 부모 얼굴이 보고싶다",
+ "genre": "연극",
+ "from": "2023-11-08",
+ "to": "2023-11-19",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228471_231023_163918.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최담",
+  "장명갑",
+  "이정인",
+  "박현미",
+  "김윤태",
+  "김필",
+  "송예리"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 40분",
+ "age": "만 10세 이상",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 목요일(19:30), 금요일(16:00,19:30), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228471_231023_0439180.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015244"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD24069"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2703"
+  }
+ ],
+ "updated": "2023-10-23 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "모리사키 지로",
+   "name": "최담"
+  },
+  {
+   "role": "모리사키 지로",
+   "name": "장명갑"
+  },
+  {
+   "role": "모리사키 마사코",
+   "name": "이정인"
+  },
+  {
+   "role": "모리사키 마사코",
+   "name": "박현미"
+  },
+  {
+   "role": "하세베 료헤이",
+   "name": "김윤태"
+  },
+  {
+   "role": "하세베 료헤이",
+   "name": "김필"
+  },
+  {
+   "role": "하세베 다에코",
+   "name": "송예리"
+  },
+  {
+   "role": "하세베 다에코",
+   "name": "김미준"
+  },
+  {
+   "role": "헨미 시게노부",
+   "name": "맹봉학"
+  },
+  {
+   "role": "헨미 시게노부",
+   "name": "엄태옥"
+  },
+  {
+   "role": "헨미 도모코",
+   "name": "전서진"
+  },
+  {
+   "role": "헨미 도모코",
+   "name": "전소현"
+  },
+  {
+   "role": "",
+   "name": "율비"
+  },
+  {
+   "role": "",
+   "name": "김루시아"
+  },
+  {
+   "role": "",
+   "name": "박민선"
+  },
+  {
+   "role": "",
+   "name": "권기대"
+  },
+  {
+   "role": "",
+   "name": "구혜령"
+  },
+  {
+   "role": "",
+   "name": "차희"
+  },
+  {
+   "role": "",
+   "name": "박용"
+  },
+  {
+   "role": "",
+   "name": "박채익"
+  },
+  {
+   "role": "",
+   "name": "문혜주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711044401/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=194828"
+ }
+}

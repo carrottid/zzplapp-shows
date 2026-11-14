@@ -35,5 +35,55 @@
  ],
  "updated": "2022-08-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "보스",
+   "name": "문용현"
+  },
+  {
+   "role": "보스",
+   "name": "정철호"
+  },
+  {
+   "role": "보스",
+   "name": "안승찬"
+  },
+  {
+   "role": "조니워커",
+   "name": "노진욱"
+  },
+  {
+   "role": "바카디",
+   "name": "정윤호"
+  },
+  {
+   "role": "프렌치75",
+   "name": "김진우"
+  },
+  {
+   "role": "테킬라",
+   "name": "윤준호"
+  },
+  {
+   "role": "말리부",
+   "name": "정승환"
+  },
+  {
+   "role": "",
+   "name": "손윤필"
+  },
+  {
+   "role": "",
+   "name": "심영준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241014142017/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=177676"
+ }
 }

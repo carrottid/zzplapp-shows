@@ -2,12 +2,132 @@
  "date": "2026-02-16",
  "sessions": [
   {
+   "id": "PF278344",
+   "title": "엘리펀트 송",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김지온"
+    },
+    {
+     "name": "박정복"
+    },
+    {
+     "name": "이현진"
+    }
+   ],
+   "color": {
+    "bg": "#2E2A28",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF278333",
+   "title": "판",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "김아영"
+    },
+    {
+     "name": "박란주"
+    },
+    {
+     "name": "이강혁"
+    },
+    {
+     "name": "이재희"
+    },
+    {
+     "name": "김솔지"
+    }
+   ],
+   "color": {
+    "bg": "#2F5D45",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF278344",
+   "title": "엘리펀트 송",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
+   "time": "17:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유현석"
+    },
+    {
+     "name": "이석준"
+    },
+    {
+     "name": "정재은"
+    }
+   ],
+   "color": {
+    "bg": "#2E2A28",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF278333",
+   "title": "판",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "문성일"
+    },
+    {
+     "name": "김대곤"
+    },
+    {
+     "name": "김아영"
+    },
+    {
+     "name": "박란주"
+    },
+    {
+     "name": "이강혁"
+    },
+    {
+     "name": "이재희"
+    },
+    {
+     "name": "김솔지"
+    }
+   ],
+   "color": {
+    "bg": "#2F5D45",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF283521",
    "title": "터치 (TOUCH)",
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (1관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#7A5C4A",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

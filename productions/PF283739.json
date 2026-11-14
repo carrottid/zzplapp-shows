@@ -55,5 +55,95 @@
  ],
  "updated": "2026-05-26 11:56:45",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8B1A24",
+  "fg": "#F2C14E"
+ },
+ "roleCast": [
+  {
+   "role": "로미오",
+   "name": "유회승"
+  },
+  {
+   "role": "로미오",
+   "name": "김희재"
+  },
+  {
+   "role": "로미오",
+   "name": "뉴"
+  },
+  {
+   "role": "로미오",
+   "name": "우빈"
+  },
+  {
+   "role": "줄리엣",
+   "name": "송은혜"
+  },
+  {
+   "role": "줄리엣",
+   "name": "장혜린"
+  },
+  {
+   "role": "벤볼리오",
+   "name": "오종혁"
+  },
+  {
+   "role": "벤볼리오",
+   "name": "김현수"
+  },
+  {
+   "role": "벤볼리오",
+   "name": "김대식"
+  },
+  {
+   "role": "머큐시오",
+   "name": "박민성"
+  },
+  {
+   "role": "머큐시오",
+   "name": "이재진"
+  },
+  {
+   "role": "머큐시오",
+   "name": "원혁"
+  },
+  {
+   "role": "티볼트",
+   "name": "곽동현"
+  },
+  {
+   "role": "티볼트",
+   "name": "김순택"
+  },
+  {
+   "role": "티볼트",
+   "name": "우상준"
+  },
+  {
+   "role": "레이디 캐퓰릿",
+   "name": "백주연"
+  },
+  {
+   "role": "레이디 캐퓰릿",
+   "name": "심은진"
+  },
+  {
+   "role": "레이디 캐퓰릿",
+   "name": "안유진"
+  },
+  {
+   "role": "",
+   "name": "김영주"
+  },
+  {
+   "role": "",
+   "name": "김아선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521012940/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=226461"
+ }
 }

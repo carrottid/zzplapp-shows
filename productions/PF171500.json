@@ -56,5 +56,75 @@
  ],
  "updated": "2021-02-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#99974C",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "김성칠",
+   "name": "이순재"
+  },
+  {
+   "role": "김성칠",
+   "name": "백일섭"
+  },
+  {
+   "role": "임금님",
+   "name": "손숙"
+  },
+  {
+   "role": "임금님",
+   "name": "박정수"
+  },
+  {
+   "role": "김장수",
+   "name": "이원재"
+  },
+  {
+   "role": "김장수",
+   "name": "김보현"
+  },
+  {
+   "role": "김민정",
+   "name": "박하나"
+  },
+  {
+   "role": "김민정",
+   "name": "김나연"
+  },
+  {
+   "role": "박아영",
+   "name": "이예원"
+  },
+  {
+   "role": "박아영",
+   "name": "서윤지"
+  },
+  {
+   "role": "멀티남",
+   "name": "김태향"
+  },
+  {
+   "role": "",
+   "name": "최정화"
+  },
+  {
+   "role": "",
+   "name": "이우철"
+  },
+  {
+   "role": "",
+   "name": "강일범"
+  },
+  {
+   "role": "",
+   "name": "서윤지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913180335/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163091"
+ }
 }

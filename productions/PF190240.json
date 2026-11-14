@@ -39,5 +39,55 @@
  ],
  "updated": "2022-04-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3D2C28",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "헬멧 A",
+   "name": "이석준"
+  },
+  {
+   "role": "헬멧 A",
+   "name": "정원조"
+  },
+  {
+   "role": "헬멧 B",
+   "name": "정인지"
+  },
+  {
+   "role": "헬멧 B",
+   "name": "김주연"
+  },
+  {
+   "role": "헬멧 C",
+   "name": "김지민"
+  },
+  {
+   "role": "헬멧 C",
+   "name": "김지혜"
+  },
+  {
+   "role": "헬멧 D",
+   "name": "이호영"
+  },
+  {
+   "role": "헬멧 D",
+   "name": "이정수"
+  },
+  {
+   "role": "헬멧 E",
+   "name": "김도빈"
+  },
+  {
+   "role": "헬멧 E",
+   "name": "현석준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240714192422/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173433"
+ }
 }

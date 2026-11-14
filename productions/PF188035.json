@@ -14,7 +14,7 @@
   "홍나현",
   "이봄소리",
   "정우연",
-  "홍서영",
+  "홍금비",
   "이채민"
  ],
  "facilityId": "FC001459",
@@ -55,5 +55,75 @@
  ],
  "updated": "2022-03-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#E39303",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "차미호",
+   "name": "유주혜"
+  },
+  {
+   "role": "차미호",
+   "name": "이아진"
+  },
+  {
+   "role": "차미호",
+   "name": "홍나현"
+  },
+  {
+   "role": "차미",
+   "name": "이봄소리"
+  },
+  {
+   "role": "차미",
+   "name": "정우연"
+  },
+  {
+   "role": "차미",
+   "name": "홍금비"
+  },
+  {
+   "role": "차미",
+   "name": "이채민"
+  },
+  {
+   "role": "김고대",
+   "name": "조풍래"
+  },
+  {
+   "role": "김고대",
+   "name": "기세중"
+  },
+  {
+   "role": "김고대",
+   "name": "안지환"
+  },
+  {
+   "role": "김고대",
+   "name": "황순종"
+  },
+  {
+   "role": "오진혁",
+   "name": "박영수"
+  },
+  {
+   "role": "오진혁",
+   "name": "고상호"
+  },
+  {
+   "role": "오진혁",
+   "name": "진태화"
+  },
+  {
+   "role": "오진혁",
+   "name": "차서원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250427153522/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172189"
+ }
 }

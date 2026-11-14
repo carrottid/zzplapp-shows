@@ -33,5 +33,23 @@
  ],
  "updated": "2023-06-01 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#826463",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "나",
+   "name": "배선희"
+  },
+  {
+   "role": "최은효",
+   "name": "이지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250321141457/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=191205"
+ }
 }

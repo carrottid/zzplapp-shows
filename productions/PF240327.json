@@ -52,5 +52,63 @@
  ],
  "updated": "2024-05-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#191A2B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "미호",
+   "name": "김지현"
+  },
+  {
+   "role": "미호",
+   "name": "정연"
+  },
+  {
+   "role": "미호",
+   "name": "조혜원"
+  },
+  {
+   "role": "정후",
+   "name": "진선규"
+  },
+  {
+   "role": "정후",
+   "name": "김설진"
+  },
+  {
+   "role": "정후",
+   "name": "최지현"
+  },
+  {
+   "role": "할머니",
+   "name": "최미령"
+  },
+  {
+   "role": "할머니",
+   "name": "이다아야"
+  },
+  {
+   "role": "희민",
+   "name": "이희준"
+  },
+  {
+   "role": "희민",
+   "name": "김대현"
+  },
+  {
+   "role": "지원",
+   "name": "임세미"
+  },
+  {
+   "role": "지원",
+   "name": "고보결"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250206231640/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202394"
+ }
 }

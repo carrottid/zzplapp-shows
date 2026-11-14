@@ -67,5 +67,75 @@
  ],
  "updated": "2021-04-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0C142A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "프로페서V",
+   "name": "송용진"
+  },
+  {
+   "role": "프로페서V",
+   "name": "허규"
+  },
+  {
+   "role": "프로페서V",
+   "name": "조형균"
+  },
+  {
+   "role": "프로페서V",
+   "name": "백형훈"
+  },
+  {
+   "role": "",
+   "name": "양지원"
+  },
+  {
+   "role": "",
+   "name": "최민우"
+  },
+  {
+   "role": "",
+   "name": "박좌헌"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "고영빈"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "박영수"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "김찬호"
+  },
+  {
+   "role": "드라큘라 백작",
+   "name": "고훈정"
+  },
+  {
+   "role": "",
+   "name": "이충주"
+  },
+  {
+   "role": "",
+   "name": "장지후"
+  },
+  {
+   "role": "",
+   "name": "이승헌"
+  },
+  {
+   "role": "",
+   "name": "노윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814043921/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164345"
+ }
 }

@@ -1,0 +1,72 @@
+{
+ "id": "PF198327",
+ "title": "당신의 시간을 찾아서",
+ "genre": "연극",
+ "from": "2022-09-29",
+ "to": "2022-10-02",
+ "venue": "소극장 혜화당 (구. 까망소극장) (소극장 혜화당 (구. 까망소극장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF198327_220919_104240.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이도민",
+  "임찬슬",
+  "여예원",
+  "강산",
+  "김인용",
+  "신혜원",
+  "홍바르니"
+ ],
+ "facilityId": "FC001085",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "이도민, 강산, 신혜원 등",
+ "price": "전석 20,000원",
+ "schedule": "목요일(19:00), 금요일 ~ 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198327_220919_1042404.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198327_220919_1042403.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198327_220919_1042402.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198327_220919_1042401.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198327_220919_1042400.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22012113"
+  }
+ ],
+ "updated": "2022-09-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "백시후",
+   "name": "임찬슬"
+  },
+  {
+   "role": "김지원",
+   "name": "여예원"
+  },
+  {
+   "role": "백승철",
+   "name": "김인용"
+  },
+  {
+   "role": "백승철",
+   "name": "강산"
+  },
+  {
+   "role": "이수지",
+   "name": "신혜원"
+  },
+  {
+   "role": "?",
+   "name": "홍바르니"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240519020405/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178952"
+ }
+}

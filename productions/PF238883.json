@@ -1,0 +1,38 @@
+{
+ "id": "PF238883",
+ "title": "별무리",
+ "genre": "연극",
+ "from": "2024-04-25",
+ "to": "2024-04-28",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF238883_240409_100252.JPG",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "전소담",
+  "전현철"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "손승명, 김자빈, 최원호 등",
+ "producer": "창작집단 아이아이",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238883_240409_1002520.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24004801"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1710971602"
+  }
+ ],
+ "updated": "2024-04-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -63,5 +63,27 @@
  ],
  "updated": "2021-05-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4C3E2F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "시미언",
+   "name": "정동환"
+  },
+  {
+   "role": "내레이터",
+   "name": "김소진"
+  },
+  {
+   "role": "로즈먼드/에바",
+   "name": "이경미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814045308/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165215"
+ }
 }

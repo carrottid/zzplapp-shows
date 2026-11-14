@@ -54,5 +54,59 @@
  ],
  "updated": "2022-02-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#242D47",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "노인 남원",
+   "name": "오의식"
+  },
+  {
+   "role": "노인 남원",
+   "name": "김도빈"
+  },
+  {
+   "role": "노인 남원",
+   "name": "이형훈"
+  },
+  {
+   "role": "선희",
+   "name": "김지현"
+  },
+  {
+   "role": "선희",
+   "name": "방진의"
+  },
+  {
+   "role": "선희",
+   "name": "백은혜"
+  },
+  {
+   "role": "청년 남원",
+   "name": "안지환"
+  },
+  {
+   "role": "청년 남원",
+   "name": "신재범"
+  },
+  {
+   "role": "정분",
+   "name": "나하나"
+  },
+  {
+   "role": "정분",
+   "name": "홍지희"
+  },
+  {
+   "role": "정분",
+   "name": "신혜원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250321134638/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170817"
+ }
 }

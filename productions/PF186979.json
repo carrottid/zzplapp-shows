@@ -43,5 +43,91 @@
  ],
  "updated": "2022-02-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#7D2219",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "제인 존슨",
+   "name": "강혜인"
+  },
+  {
+   "role": "제인 존슨",
+   "name": "김이후"
+  },
+  {
+   "role": "제인 존슨",
+   "name": "최지혜"
+  },
+  {
+   "role": "빌리 후커",
+   "name": "임준혁"
+  },
+  {
+   "role": "빌리 후커",
+   "name": "배나라"
+  },
+  {
+   "role": "빌리 후커",
+   "name": "윤소호"
+  },
+  {
+   "role": "와이어트 어프",
+   "name": "에녹"
+  },
+  {
+   "role": "와이어트 어프",
+   "name": "김종구"
+  },
+  {
+   "role": "와이어트 어프",
+   "name": "신성민"
+  },
+  {
+   "role": "조세핀 마커스",
+   "name": "정연"
+  },
+  {
+   "role": "조세핀 마커스",
+   "name": "오소연"
+  },
+  {
+   "role": "조세핀 마커스",
+   "name": "이정화"
+  },
+  {
+   "role": "조니 링고",
+   "name": "원종환"
+  },
+  {
+   "role": "조니 링고",
+   "name": "김대종"
+  },
+  {
+   "role": "조니 링고",
+   "name": "최호중"
+  },
+  {
+   "role": "버드",
+   "name": "정재헌"
+  },
+  {
+   "role": "버드",
+   "name": "전재현"
+  },
+  {
+   "role": "",
+   "name": "장재웅"
+  },
+  {
+   "role": "",
+   "name": "김현기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250208000114/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172055"
+ }
 }

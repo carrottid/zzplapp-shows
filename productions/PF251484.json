@@ -48,5 +48,87 @@
  ],
  "updated": "2024-10-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#A93D3D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "찰리",
+   "name": "김호영"
+  },
+  {
+   "role": "찰리",
+   "name": "신재범"
+  },
+  {
+   "role": "롤라",
+   "name": "최재림"
+  },
+  {
+   "role": "롤라",
+   "name": "강홍석"
+  },
+  {
+   "role": "롤라",
+   "name": "서경수"
+  },
+  {
+   "role": "로렌",
+   "name": "김지우"
+  },
+  {
+   "role": "로렌",
+   "name": "김환희"
+  },
+  {
+   "role": "로렌",
+   "name": "나하나"
+  },
+  {
+   "role": "돈",
+   "name": "고창석"
+  },
+  {
+   "role": "돈",
+   "name": "전재현"
+  },
+  {
+   "role": "니콜라",
+   "name": "고은영"
+  },
+  {
+   "role": "니콜라",
+   "name": "이윤하"
+  },
+  {
+   "role": "조지",
+   "name": "김용수"
+  },
+  {
+   "role": "",
+   "name": "주민우"
+  },
+  {
+   "role": "",
+   "name": "한준용"
+  },
+  {
+   "role": "",
+   "name": "김강진"
+  },
+  {
+   "role": "",
+   "name": "전호준"
+  },
+  {
+   "role": "",
+   "name": "한선천"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250121223125/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209430"
+ }
 }

@@ -1,0 +1,38 @@
+{
+ "id": "PF228818",
+ "title": "북위 38도 36분 51초",
+ "genre": "연극",
+ "from": "2023-11-02",
+ "to": "2023-11-05",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228818_231030_115236.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "곽지영",
+  "김기정",
+  "김태우",
+  "나종민",
+  "장시현",
+  "하지웅"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간",
+ "age": "만 13세 이상",
+ "crew": "채희수, 이현석, 정주원 등",
+ "producer": "창작집단 아우르다",
+ "price": "전석 10,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228818_231030_1152360.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2728"
+  }
+ ],
+ "updated": "2023-10-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

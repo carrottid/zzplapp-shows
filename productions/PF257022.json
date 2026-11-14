@@ -43,5 +43,71 @@
  ],
  "updated": "2025-07-03 16:16:34",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#8A6B5C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "여왕림",
+   "name": "박윤정"
+  },
+  {
+   "role": "공주",
+   "name": "황세원"
+  },
+  {
+   "role": "솔",
+   "name": "박소연"
+  },
+  {
+   "role": "산",
+   "name": "윤일식"
+  },
+  {
+   "role": "강",
+   "name": "양나영"
+  },
+  {
+   "role": "길",
+   "name": "어성욱"
+  },
+  {
+   "role": "",
+   "name": "서정식"
+  },
+  {
+   "role": "",
+   "name": "홍윤희"
+  },
+  {
+   "role": "",
+   "name": "이선휘"
+  },
+  {
+   "role": "",
+   "name": "김승환"
+  },
+  {
+   "role": "",
+   "name": "서미영"
+  },
+  {
+   "role": "",
+   "name": "김단경"
+  },
+  {
+   "role": "",
+   "name": "조성현"
+  },
+  {
+   "role": "",
+   "name": "강수경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250708023053/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=217687"
+ }
 }

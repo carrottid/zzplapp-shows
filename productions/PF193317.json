@@ -43,5 +43,43 @@
  ],
  "updated": "2022-06-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#251C0C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "태극기 노인",
+   "name": "신현종"
+  },
+  {
+   "role": "숙자씨",
+   "name": "김나윤"
+  },
+  {
+   "role": "숙자씨",
+   "name": "서은지"
+  },
+  {
+   "role": "용가리",
+   "name": "윤관우"
+  },
+  {
+   "role": "용가리",
+   "name": "허동수"
+  },
+  {
+   "role": "안기부 요원",
+   "name": "이진샘"
+  },
+  {
+   "role": "가출 소녀",
+   "name": "장재희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250426203217/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176202"
+ }
 }

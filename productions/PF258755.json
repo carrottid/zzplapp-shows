@@ -1,0 +1,100 @@
+{
+ "id": "PF258755",
+ "title": "국립극단, 만선",
+ "genre": "연극",
+ "from": "2025-03-06",
+ "to": "2025-03-30",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF258755_250213_100002.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김재건",
+  "김종칠",
+  "박상종",
+  "김명수",
+  "정경순",
+  "조주경",
+  "김경숙"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "심재찬, 이태섭, 신호 등",
+ "price": "R석 60,000원, S석 45,000원, A석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF258755_250213_0959151.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/257253"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25001856"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12791"
+  }
+ ],
+ "updated": "2025-07-03 16:13:03",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "임제순",
+   "name": "김재건"
+  },
+  {
+   "role": "성삼",
+   "name": "김종칠"
+  },
+  {
+   "role": "범쇠",
+   "name": "박상종"
+  },
+  {
+   "role": "곰치",
+   "name": "김명수"
+  },
+  {
+   "role": "구포댁",
+   "name": "정경순"
+  },
+  {
+   "role": "무당, 동네아낙",
+   "name": "조주경"
+  },
+  {
+   "role": "",
+   "name": "김경숙"
+  },
+  {
+   "role": "",
+   "name": "정나진"
+  },
+  {
+   "role": "",
+   "name": "황규환"
+  },
+  {
+   "role": "",
+   "name": "문성복"
+  },
+  {
+   "role": "",
+   "name": "강민지"
+  },
+  {
+   "role": "",
+   "name": "성근창"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251017011741/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214631"
+ }
+}

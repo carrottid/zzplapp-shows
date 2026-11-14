@@ -50,5 +50,31 @@
  ],
  "updated": "2023-03-31 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#19191A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "게스트",
+   "name": "전박찬"
+  },
+  {
+   "role": "맨",
+   "name": "이기현"
+  },
+  {
+   "role": "우먼",
+   "name": "김정민"
+  },
+  {
+   "role": "우먼",
+   "name": "강해진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010033809/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186677"
+ }
 }

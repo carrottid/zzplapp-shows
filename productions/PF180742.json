@@ -38,5 +38,39 @@
  ],
  "updated": "2021-10-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#017475",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "리비",
+   "name": "김여진"
+  },
+  {
+   "role": "리비",
+   "name": "유선"
+  },
+  {
+   "role": "리비",
+   "name": "김신록"
+  },
+  {
+   "role": "데클란",
+   "name": "전성우"
+  },
+  {
+   "role": "데클란",
+   "name": "장률"
+  },
+  {
+   "role": "데클란",
+   "name": "이휘종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620104116/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168342"
+ }
 }

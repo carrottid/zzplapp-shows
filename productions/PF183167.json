@@ -1,0 +1,43 @@
+{
+ "id": "PF183167",
+ "title": "두드림 페스티벌, 숫",
+ "genre": "연극",
+ "from": "2021-12-16",
+ "to": "2021-12-19",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF183167_211116_111830.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "권윤애",
+  "김산",
+  "김예림",
+  "김형진",
+  "도예림",
+  "최건우"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 20분",
+ "age": "만 15세 이상",
+ "crew": "김본이, 최인수, 조충만 등",
+ "producer": "극단 드림플레이",
+ "price": "전석 20,000원",
+ "schedule": "목요일(19:30), 토요일(19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183167_211116_1118301.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183167_211116_1118300.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/602148"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011334"
+  }
+ ],
+ "updated": "2021-11-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

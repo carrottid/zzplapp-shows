@@ -59,5 +59,83 @@
  ],
  "updated": "2024-08-23 12:42:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#DA120B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이기동 관장",
+   "name": "최영준"
+  },
+  {
+   "role": "이기동 관장",
+   "name": "정상훈"
+  },
+  {
+   "role": "청년 이기동",
+   "name": "유태율"
+  },
+  {
+   "role": "청년 이기동",
+   "name": "류지완"
+  },
+  {
+   "role": "청년 이기동",
+   "name": "차선우"
+  },
+  {
+   "role": "연희",
+   "name": "노시아"
+  },
+  {
+   "role": "연희",
+   "name": "정지우"
+  },
+  {
+   "role": "마코치",
+   "name": "김동현"
+  },
+  {
+   "role": "마코치",
+   "name": "김한결"
+  },
+  {
+   "role": "강근담",
+   "name": "전광진"
+  },
+  {
+   "role": "강근담",
+   "name": "이현재"
+  },
+  {
+   "role": "정애숙",
+   "name": "정아영"
+  },
+  {
+   "role": "정애숙",
+   "name": "정수미"
+  },
+  {
+   "role": "",
+   "name": "김우성"
+  },
+  {
+   "role": "",
+   "name": "정여진"
+  },
+  {
+   "role": "",
+   "name": "김락현"
+  },
+  {
+   "role": "",
+   "name": "주광현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010021248/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203737"
+ }
 }

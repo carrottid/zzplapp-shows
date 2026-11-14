@@ -47,5 +47,95 @@
  ],
  "updated": "2025-09-12 14:45:16",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#222B33",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "설공찬",
+   "name": "송유택"
+  },
+  {
+   "role": "설공찬",
+   "name": "유권"
+  },
+  {
+   "role": "설공찬",
+   "name": "원찬"
+  },
+  {
+   "role": "설공찬",
+   "name": "임세준"
+  },
+  {
+   "role": "채수",
+   "name": "박영수"
+  },
+  {
+   "role": "채수",
+   "name": "백인태"
+  },
+  {
+   "role": "석산",
+   "name": "유슬기"
+  },
+  {
+   "role": "석산",
+   "name": "윤석원"
+  },
+  {
+   "role": "설초희",
+   "name": "박시인"
+  },
+  {
+   "role": "설초희",
+   "name": "박선영"
+  },
+  {
+   "role": "설충란",
+   "name": "강인대"
+  },
+  {
+   "role": "염라",
+   "name": "김아영"
+  },
+  {
+   "role": "염라",
+   "name": "여은"
+  },
+  {
+   "role": "염라",
+   "name": "윤도영"
+  },
+  {
+   "role": "",
+   "name": "지원선"
+  },
+  {
+   "role": "",
+   "name": "강민석"
+  },
+  {
+   "role": "",
+   "name": "황인욱"
+  },
+  {
+   "role": "",
+   "name": "윤건웅"
+  },
+  {
+   "role": "",
+   "name": "최지홍"
+  },
+  {
+   "role": "",
+   "name": "홍기범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260517083205/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=220818"
+ }
 }

@@ -1,0 +1,37 @@
+{
+ "id": "PF305172",
+ "source": "plapp",
+ "roles": {
+  "r:DAY 3": "DAY 3"
+ },
+ "people": {},
+ "sessions": [
+  {
+   "date": "2026-11-14",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "김종구",
+     "roleId": "r:DAY 3"
+    },
+    {
+     "name": "김찬호",
+     "roleId": "r:DAY 3"
+    },
+    {
+     "name": "조성윤",
+     "roleId": "r:DAY 3"
+    },
+    {
+     "name": "김도하",
+     "roleId": "r:DAY 3"
+    },
+    {
+     "name": "박상준",
+     "roleId": "r:DAY 3"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-13T10:04:32"
+}

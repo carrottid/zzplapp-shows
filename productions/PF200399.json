@@ -44,6 +44,10 @@
  "updated": "2022-10-20 15:00:00",
  "castSource": "none",
  "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3B444F",
+  "fg": "#FFFFFF"
+ },
  "roleCast": [
   {
    "role": "안중근",
@@ -107,7 +111,7 @@
   },
   {
    "role": "링링",
-   "name": "윤진솔"
+   "name": "박세미"
   },
   {
    "role": "링링",

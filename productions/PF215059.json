@@ -39,5 +39,75 @@
  ],
  "updated": "2023-03-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E30014",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "오셀로",
+   "name": "박호산"
+  },
+  {
+   "role": "오셀로",
+   "name": "유태웅"
+  },
+  {
+   "role": "이아고",
+   "name": "손상규"
+  },
+  {
+   "role": "데스데모나",
+   "name": "이설"
+  },
+  {
+   "role": "에밀리아",
+   "name": "이자람"
+  },
+  {
+   "role": "에밀리아",
+   "name": "황선화"
+  },
+  {
+   "role": "브라반티오",
+   "name": "이호재"
+  },
+  {
+   "role": "로데리고",
+   "name": "심완준"
+  },
+  {
+   "role": "",
+   "name": "장재호"
+  },
+  {
+   "role": "",
+   "name": "정태화"
+  },
+  {
+   "role": "",
+   "name": "김하람"
+  },
+  {
+   "role": "",
+   "name": "조형일"
+  },
+  {
+   "role": "",
+   "name": "윤예림"
+  },
+  {
+   "role": "",
+   "name": "박성민"
+  },
+  {
+   "role": "",
+   "name": "이경한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814112723/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186132"
+ }
 }

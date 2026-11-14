@@ -61,5 +61,51 @@
  ],
  "updated": "2023-08-30 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#737373",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "작가",
+   "name": "김수현"
+  },
+  {
+   "role": "장관/경관/아버지",
+   "name": "김귀선"
+  },
+  {
+   "role": "사제/지배인 외",
+   "name": "정원조"
+  },
+  {
+   "role": "장관부인/여자 외",
+   "name": "문상희"
+  },
+  {
+   "role": "주인/여자 외",
+   "name": "강지원"
+  },
+  {
+   "role": "쥴리아/여자/직원",
+   "name": "김영경"
+  },
+  {
+   "role": "",
+   "name": "이승우"
+  },
+  {
+   "role": "",
+   "name": "박현민"
+  },
+  {
+   "role": "",
+   "name": "정다정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908030536/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192778"
+ }
 }

@@ -50,5 +50,55 @@
  ],
  "updated": "2024-05-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#976A2C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "셜록홈즈",
+   "name": "백지예"
+  },
+  {
+   "role": "셜록홈즈",
+   "name": "이지현"
+  },
+  {
+   "role": "셜록홈즈",
+   "name": "이준기"
+  },
+  {
+   "role": "왓슨",
+   "name": "강연승"
+  },
+  {
+   "role": "왓슨",
+   "name": "천관우"
+  },
+  {
+   "role": "왓슨",
+   "name": "정현준"
+  },
+  {
+   "role": "멀티1",
+   "name": "김형근"
+  },
+  {
+   "role": "멀티1",
+   "name": "김대호"
+  },
+  {
+   "role": "멀티2",
+   "name": "신재명"
+  },
+  {
+   "role": "멀티3",
+   "name": "김안젤라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250327044215/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203384"
+ }
 }

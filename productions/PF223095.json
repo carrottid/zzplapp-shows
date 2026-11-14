@@ -47,48 +47,10 @@
   }
  ],
  "updated": "2023-08-01 15:00:00",
- "castSource": "none",
+ "castSource": "plapp",
  "fetchedAt": "2026-11-07T13:16:04",
- "roleCast": [
-  {
-   "role": "최북",
-   "name": "박규원"
-  },
-  {
-   "role": "최북",
-   "name": "안재영"
-  },
-  {
-   "role": "최북",
-   "name": "김준영"
-  },
-  {
-   "role": "무명",
-   "name": "조상웅"
-  },
-  {
-   "role": "무명",
-   "name": "송유택"
-  },
-  {
-   "role": "무명",
-   "name": "김현진"
-  },
-  {
-   "role": "무명",
-   "name": "홍기범"
-  },
-  {
-   "role": "원준",
-   "name": "김주호"
-  },
-  {
-   "role": "원준",
-   "name": "이시안"
-  }
- ],
- "roleCastSource": {
-  "name": "더뮤지컬",
-  "url": "https://www.themusical.co.kr/Musical/Detail?num=3185"
+ "color": {
+  "bg": "#726860",
+  "fg": "#FFFFFF"
  }
 }

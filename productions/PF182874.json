@@ -38,5 +38,35 @@
  ],
  "updated": "2021-11-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1C8FCA",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "Man",
+   "name": "박정우"
+  },
+  {
+   "role": "Woman",
+   "name": "구옥분"
+  },
+  {
+   "role": "Boy",
+   "name": "김현기"
+  },
+  {
+   "role": "Girl",
+   "name": "김가은"
+  },
+  {
+   "role": "Girl",
+   "name": "김수현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240806035829/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169843"
+ }
 }

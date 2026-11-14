@@ -51,5 +51,71 @@
  ],
  "updated": "2025-08-01 13:45:41",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#B56331",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "서장원",
+   "name": "조현우"
+  },
+  {
+   "role": "서장원",
+   "name": "송광일"
+  },
+  {
+   "role": "서장원",
+   "name": "황두현"
+  },
+  {
+   "role": "양하준",
+   "name": "조원석"
+  },
+  {
+   "role": "양하준",
+   "name": "이주순"
+  },
+  {
+   "role": "양하준",
+   "name": "심수호"
+  },
+  {
+   "role": "나평범",
+   "name": "권정수"
+  },
+  {
+   "role": "나평범",
+   "name": "강은빈"
+  },
+  {
+   "role": "나평범",
+   "name": "최하람"
+  },
+  {
+   "role": "말론",
+   "name": "김현기"
+  },
+  {
+   "role": "말론",
+   "name": "최반석"
+  },
+  {
+   "role": "말론",
+   "name": "김담현"
+  },
+  {
+   "role": "김사장(김철중)",
+   "name": "강인대"
+  },
+  {
+   "role": "김사장(김철중)",
+   "name": "박세훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250520040107/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216305"
+ }
 }

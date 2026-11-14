@@ -2,12 +2,24 @@
  "date": "2025-03-24",
  "sessions": [
   {
+   "id": "PF258755",
+   "title": "국립극단, 만선",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF258705",
    "title": "굿모닝 홍콩",
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#27180B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF258603",
@@ -15,13 +27,29 @@
    "genre": "연극",
    "venue": "선돌극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#633136",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF260576",
    "title": "밑바닥에서",
    "genre": "연극",
    "venue": "연우소극장",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E2E2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF259744",
+   "title": "얼떨결에 종언",
+   "genre": "연극",
+   "venue": "산울림소극장",
    "time": "20:00",
    "castSource": "none"
   },
@@ -31,7 +59,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#49403D",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

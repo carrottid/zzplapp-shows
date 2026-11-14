@@ -1,0 +1,68 @@
+{
+ "id": "PF262211",
+ "title": "납과 복숭아",
+ "genre": "연극",
+ "from": "2025-04-24",
+ "to": "2025-04-27",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF262211_250401_104135.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "라소영",
+  "이세영",
+  "이청",
+  "주예리",
+  "이재홍",
+  "백하형기"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 10분",
+ "age": "만 13세 이상",
+ "crew": "조제인, 조승혜, 김선빈 등",
+ "producer": "팀 티티새, 페미씨어터",
+ "price": "전석 35,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF262211_250401_1041350.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25004794"
+  }
+ ],
+ "updated": "2025-05-12 17:31:47",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "나영",
+   "name": "라소영"
+  },
+  {
+   "role": "명",
+   "name": "이세영"
+  },
+  {
+   "role": "레이첼",
+   "name": "이청"
+  },
+  {
+   "role": "제이",
+   "name": "주예리"
+  },
+  {
+   "role": "포크",
+   "name": "백하형기"
+  },
+  {
+   "role": "시체, 강사",
+   "name": "이재홍"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250708021700/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=215612"
+ }
+}

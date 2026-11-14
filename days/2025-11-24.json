@@ -2,12 +2,32 @@
  "date": "2025-11-24",
  "sessions": [
   {
+   "id": "PF277627",
+   "title": "창작ing, DRAGx남장신사",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277992",
+   "title": "혜화동1번지 동인 페스티벌 관객 대축제, 시련: 무금",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF270364",
    "title": "미스터쇼 (Mr.SHOW)",
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FF5A5F"
+   }
   },
   {
    "id": "PF274339",
@@ -15,7 +35,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2D4F",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

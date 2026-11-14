@@ -42,5 +42,35 @@
  ],
  "updated": "2021-12-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#E8C27A"
+ },
+ "roleCast": [
+  {
+   "role": "테오",
+   "name": "Jun. K"
+  },
+  {
+   "role": "테오",
+   "name": "백호"
+  },
+  {
+   "role": "테오",
+   "name": "김경록"
+  },
+  {
+   "role": "니콜라",
+   "name": "정재환"
+  },
+  {
+   "role": "니콜라",
+   "name": "홍주찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220629001427/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171691"
+ }
 }

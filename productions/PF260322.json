@@ -27,5 +27,67 @@
  ],
  "updated": "2025-03-05 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#AF7337",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "우현주",
+   "name": "우현주"
+  },
+  {
+   "role": "서정연",
+   "name": "서정연"
+  },
+  {
+   "role": "이석준",
+   "name": "이석준"
+  },
+  {
+   "role": "박호산",
+   "name": "박호산"
+  },
+  {
+   "role": "강진휘",
+   "name": "강진휘"
+  },
+  {
+   "role": "조한철",
+   "name": "조한철"
+  },
+  {
+   "role": "",
+   "name": "차용학"
+  },
+  {
+   "role": "",
+   "name": "이동하"
+  },
+  {
+   "role": "",
+   "name": "신성민"
+  },
+  {
+   "role": "",
+   "name": "이은"
+  },
+  {
+   "role": "",
+   "name": "이경미"
+  },
+  {
+   "role": "",
+   "name": "김세영"
+  },
+  {
+   "role": "",
+   "name": "박승현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428031008/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214386"
+ }
 }

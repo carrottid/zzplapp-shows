@@ -55,5 +55,95 @@
  ],
  "updated": "2021-02-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#E6A900",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "존 스미스",
+   "name": "정겨운"
+  },
+  {
+   "role": "존 스미스",
+   "name": "정태우"
+  },
+  {
+   "role": "존 스미스",
+   "name": "테이"
+  },
+  {
+   "role": "스탠리 가드너",
+   "name": "김민교"
+  },
+  {
+   "role": "스탠리 가드너",
+   "name": "김인권"
+  },
+  {
+   "role": "스탠리 가드너",
+   "name": "서현철"
+  },
+  {
+   "role": "메리 스미스",
+   "name": "배우희"
+  },
+  {
+   "role": "메리 스미스",
+   "name": "신소율"
+  },
+  {
+   "role": "메리 스미스",
+   "name": "오세미"
+  },
+  {
+   "role": "바바라 스미스",
+   "name": "나르샤"
+  },
+  {
+   "role": "바바라 스미스",
+   "name": "박정화"
+  },
+  {
+   "role": "바바라 스미스",
+   "name": "이주연"
+  },
+  {
+   "role": "포터 하우스",
+   "name": "김원식"
+  },
+  {
+   "role": "포터 하우스",
+   "name": "이한위"
+  },
+  {
+   "role": "트로우튼",
+   "name": "이도국"
+  },
+  {
+   "role": "트로우튼",
+   "name": "이동수"
+  },
+  {
+   "role": "트로우튼",
+   "name": "박성현"
+  },
+  {
+   "role": "",
+   "name": "오대환"
+  },
+  {
+   "role": "",
+   "name": "조찬형"
+  },
+  {
+   "role": "",
+   "name": "홍석천"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251101085704/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162920"
+ }
 }

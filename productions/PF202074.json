@@ -38,5 +38,39 @@
  ],
  "updated": "2022-11-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#333233",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "해영",
+   "name": "나경호"
+  },
+  {
+   "role": "기정",
+   "name": "라소영"
+  },
+  {
+   "role": "메싸",
+   "name": "박수진"
+  },
+  {
+   "role": "영혜",
+   "name": "우미화"
+  },
+  {
+   "role": "지수",
+   "name": "이세영"
+  },
+  {
+   "role": "현주",
+   "name": "조연희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620105306/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181376"
+ }
 }

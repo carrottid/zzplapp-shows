@@ -1,0 +1,38 @@
+{
+ "id": "PF224417",
+ "title": "경찰",
+ "genre": "연극",
+ "from": "2023-09-06",
+ "to": "2023-09-10",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224417_230823_104509.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신황철",
+  "하라",
+  "박준형",
+  "장지수",
+  "배유경",
+  "이승윤",
+  "김유림"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "2시간 10분",
+ "age": "만 7세 이상",
+ "crew": "김현호, 최영환, 신황철 등",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(14:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224417_230823_1045090.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011749"
+  }
+ ],
+ "updated": "2023-08-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

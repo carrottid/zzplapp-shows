@@ -1,0 +1,61 @@
+{
+ "id": "PF214220",
+ "title": "제4회 딜레마극장 연극제, 비상구",
+ "genre": "연극",
+ "from": "2023-03-22",
+ "to": "2023-03-26",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF214220_230302_111715.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박영권",
+  "송은지",
+  "송지민",
+  "송진우",
+  "오광희",
+  "유민수",
+  "유현주"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간",
+ "age": "만 14세 이상",
+ "crew": "손은지",
+ "producer": "극단 풍류",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214220_230302_1117150.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23002500"
+  }
+ ],
+ "updated": "2023-03-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "종현",
+   "name": "박영권"
+  },
+  {
+   "role": "아영",
+   "name": "송은지"
+  },
+  {
+   "role": "도현",
+   "name": "최원준"
+  },
+  {
+   "role": "우노",
+   "name": "홍지현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622211123/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185182"
+ }
+}

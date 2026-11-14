@@ -1,0 +1,37 @@
+{
+ "id": "PF183479",
+ "title": "이별대행업체",
+ "genre": "연극",
+ "from": "2021-12-07",
+ "to": "2021-12-12",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF183479_211122_122236.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "추종범",
+  "이주원",
+  "김민재",
+  "이재웅",
+  "현채아",
+  "이진희"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 35분",
+ "age": "만 11세 이상",
+ "crew": "조익현, 서연성, 현태웅 등",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183479_211122_1222360.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011579"
+  }
+ ],
+ "updated": "2021-11-22 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

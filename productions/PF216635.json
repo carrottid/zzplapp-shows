@@ -67,5 +67,51 @@
  ],
  "updated": "2023-04-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#110C14",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "영재",
+   "name": "손태욱"
+  },
+  {
+   "role": "영재",
+   "name": "진승욱"
+  },
+  {
+   "role": "나은",
+   "name": "지혜연"
+  },
+  {
+   "role": "나은",
+   "name": "강정원"
+  },
+  {
+   "role": "나은",
+   "name": "박경진"
+  },
+  {
+   "role": "멀티",
+   "name": "김일강"
+  },
+  {
+   "role": "멀티",
+   "name": "최승주"
+  },
+  {
+   "role": "멀티",
+   "name": "이어진"
+  },
+  {
+   "role": "",
+   "name": "전이수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260718112457/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186987"
+ }
 }

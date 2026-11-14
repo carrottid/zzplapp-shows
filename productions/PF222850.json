@@ -38,5 +38,43 @@
  ],
  "updated": "2023-07-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#AE383F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "2/예술가 A",
+   "name": "강윤민지"
+  },
+  {
+   "role": "1/예술가 K",
+   "name": "김예은"
+  },
+  {
+   "role": "5/예술가 B",
+   "name": "백소정"
+  },
+  {
+   "role": "4/예술가 A++",
+   "name": "백혜경"
+  },
+  {
+   "role": "7/예술가 A+",
+   "name": "양대은"
+  },
+  {
+   "role": "6/예술가 AA",
+   "name": "이우람"
+  },
+  {
+   "role": "",
+   "name": "한혜진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717154503/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192712"
+ }
 }

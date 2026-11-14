@@ -1,0 +1,34 @@
+{
+ "id": "PF217538",
+ "title": "파랑새",
+ "genre": "연극",
+ "from": "2023-05-25",
+ "to": "2023-06-04",
+ "venue": "더 줌 아트센터 (더 줌 아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217538_230427_143345.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "양조아",
+  "양종욱"
+ ],
+ "facilityId": "FC001994",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "박지혜, 김형연, 이은호 등",
+ "producer": "양손프로젝트",
+ "price": "전석 60,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00), HOL(15:00,19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217538_230427_0233450.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005746"
+  }
+ ],
+ "updated": "2023-04-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

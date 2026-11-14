@@ -34,5 +34,39 @@
  ],
  "updated": "2022-07-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "클로디어스",
+   "name": "강두"
+  },
+  {
+   "role": "거투르트",
+   "name": "구옥분"
+  },
+  {
+   "role": "햄릿",
+   "name": "추석영"
+  },
+  {
+   "role": "폴로니어스",
+   "name": "고동균"
+  },
+  {
+   "role": "오필리어",
+   "name": "문유영"
+  },
+  {
+   "role": "레어티즈",
+   "name": "김석환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240810003603/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176606"
+ }
 }

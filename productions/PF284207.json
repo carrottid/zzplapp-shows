@@ -52,5 +52,83 @@
  ],
  "updated": "2026-02-20 10:05:09",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#9E1B22",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "막베스",
+   "name": "김호산"
+  },
+  {
+   "role": "막베스 妻",
+   "name": "김준수"
+  },
+  {
+   "role": "막베스 妻",
+   "name": "원경식"
+  },
+  {
+   "role": "노승",
+   "name": "김세경"
+  },
+  {
+   "role": "맥다프",
+   "name": "장재호"
+  },
+  {
+   "role": "맹인술사",
+   "name": "양서빈"
+  },
+  {
+   "role": "로스/등짝",
+   "name": "강득종"
+  },
+  {
+   "role": "",
+   "name": "김도완"
+  },
+  {
+   "role": "",
+   "name": "전재형"
+  },
+  {
+   "role": "",
+   "name": "임진구"
+  },
+  {
+   "role": "",
+   "name": "홍준기"
+  },
+  {
+   "role": "",
+   "name": "김동지"
+  },
+  {
+   "role": "",
+   "name": "고영찬"
+  },
+  {
+   "role": "",
+   "name": "윤건일"
+  },
+  {
+   "role": "",
+   "name": "김해양"
+  },
+  {
+   "role": "",
+   "name": "최지영"
+  },
+  {
+   "role": "",
+   "name": "박한빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260306173551/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=225220"
+ }
 }

@@ -47,5 +47,95 @@
  ],
  "updated": "2025-06-26 13:04:03",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0F3D2A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마리 퀴리",
+   "name": "김소향"
+  },
+  {
+   "role": "마리 퀴리",
+   "name": "옥주현"
+  },
+  {
+   "role": "마리 퀴리",
+   "name": "박혜나"
+  },
+  {
+   "role": "마리 퀴리",
+   "name": "김려원"
+  },
+  {
+   "role": "안느 코발스카",
+   "name": "강혜인"
+  },
+  {
+   "role": "안느 코발스카",
+   "name": "이봄소리"
+  },
+  {
+   "role": "안느 코발스카",
+   "name": "전민지"
+  },
+  {
+   "role": "피에르 퀴리",
+   "name": "테이"
+  },
+  {
+   "role": "피에르 퀴리",
+   "name": "차윤해"
+  },
+  {
+   "role": "루벤 뒤퐁",
+   "name": "박시원"
+  },
+  {
+   "role": "루벤 뒤퐁",
+   "name": "강태을"
+  },
+  {
+   "role": "조쉬 바르다/이렌 퀴리",
+   "name": "김아영"
+  },
+  {
+   "role": "조쉬 바르다/이렌 퀴리",
+   "name": "금보미"
+  },
+  {
+   "role": "폴 베타니/병원장",
+   "name": "박영빈"
+  },
+  {
+   "role": "폴 베타니/병원장",
+   "name": "신은호"
+  },
+  {
+   "role": "",
+   "name": "홍이솔"
+  },
+  {
+   "role": "",
+   "name": "김예지"
+  },
+  {
+   "role": "",
+   "name": "김지욱"
+  },
+  {
+   "role": "",
+   "name": "장희원"
+  },
+  {
+   "role": "",
+   "name": "윤수아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251006082104/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=218020"
+ }
 }

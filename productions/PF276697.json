@@ -51,5 +51,103 @@
  ],
  "updated": "2026-01-16 13:32:18",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3F5A2E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "앤1",
+   "name": "송영미"
+  },
+  {
+   "role": "앤1",
+   "name": "정단비"
+  },
+  {
+   "role": "앤1",
+   "name": "김규리"
+  },
+  {
+   "role": "앤2",
+   "name": "송나영"
+  },
+  {
+   "role": "앤2",
+   "name": "정아인"
+  },
+  {
+   "role": "앤2",
+   "name": "박초록"
+  },
+  {
+   "role": "앤3",
+   "name": "임찬민"
+  },
+  {
+   "role": "앤3",
+   "name": "송영미"
+  },
+  {
+   "role": "앤3",
+   "name": "이하린"
+  },
+  {
+   "role": "앤3",
+   "name": "정아인"
+  },
+  {
+   "role": "매슈",
+   "name": "차준호"
+  },
+  {
+   "role": "매슈",
+   "name": "정문길"
+  },
+  {
+   "role": "마릴라",
+   "name": "최현미"
+  },
+  {
+   "role": "마릴라",
+   "name": "신이나"
+  },
+  {
+   "role": "마릴라",
+   "name": "김정은"
+  },
+  {
+   "role": "린드",
+   "name": "하미미"
+  },
+  {
+   "role": "린드",
+   "name": "이예슬"
+  },
+  {
+   "role": "",
+   "name": "조혜령"
+  },
+  {
+   "role": "",
+   "name": "김유진"
+  },
+  {
+   "role": "",
+   "name": "김민강"
+  },
+  {
+   "role": "",
+   "name": "정세윤"
+  },
+  {
+   "role": "",
+   "name": "서광현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521012803/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=223187"
+ }
 }

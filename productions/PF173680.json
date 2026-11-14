@@ -42,5 +42,47 @@
  ],
  "updated": "2021-04-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#5C0F1E",
+  "fg": "#E8C170"
+ },
+ "roleCast": [
+  {
+   "role": "홍규/레옹",
+   "name": "고훈정"
+  },
+  {
+   "role": "홍규/레옹",
+   "name": "김지온"
+  },
+  {
+   "role": "홍규/레옹",
+   "name": "최석진"
+  },
+  {
+   "role": "서도/마리안느",
+   "name": "김사라"
+  },
+  {
+   "role": "서도/마리안느",
+   "name": "임예진"
+  },
+  {
+   "role": "원표/피에르",
+   "name": "김찬호"
+  },
+  {
+   "role": "원표/피에르",
+   "name": "구준모"
+  },
+  {
+   "role": "원표/피에르",
+   "name": "이준우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221203132119/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164459"
+ }
 }

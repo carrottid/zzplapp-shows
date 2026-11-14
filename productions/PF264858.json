@@ -55,5 +55,67 @@
  ],
  "updated": "2025-08-04 17:01:07",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#635E87",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "일라이",
+   "name": "권슬아"
+  },
+  {
+   "role": "일라이",
+   "name": "백승연"
+  },
+  {
+   "role": "오스카",
+   "name": "안승균"
+  },
+  {
+   "role": "오스카",
+   "name": "천우진"
+  },
+  {
+   "role": "하칸",
+   "name": "조정근"
+  },
+  {
+   "role": "하칸",
+   "name": "지현준"
+  },
+  {
+   "role": "엄마",
+   "name": "박지원"
+  },
+  {
+   "role": "함버그 경찰서장,아빌라 선생",
+   "name": "차정현"
+  },
+  {
+   "role": "아빠,커트,요키,닐스,스테판",
+   "name": "이의령"
+  },
+  {
+   "role": "",
+   "name": "최홍혁"
+  },
+  {
+   "role": "",
+   "name": "김재민"
+  },
+  {
+   "role": "",
+   "name": "정우재"
+  },
+  {
+   "role": "",
+   "name": "지준형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622120138/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216877"
+ }
 }

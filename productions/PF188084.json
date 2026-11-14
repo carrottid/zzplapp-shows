@@ -52,5 +52,95 @@
  ],
  "updated": "2022-03-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤이건",
+   "name": "이지훈"
+  },
+  {
+   "role": "윤이건",
+   "name": "조휘"
+  },
+  {
+   "role": "박한수",
+   "name": "정동화"
+  },
+  {
+   "role": "박한수",
+   "name": "신성민"
+  },
+  {
+   "role": "정화인",
+   "name": "문진아"
+  },
+  {
+   "role": "정화인",
+   "name": "김나영"
+  },
+  {
+   "role": "문수경",
+   "name": "효은"
+  },
+  {
+   "role": "문수경",
+   "name": "최지혜"
+  },
+  {
+   "role": "허인구",
+   "name": "박시원"
+  },
+  {
+   "role": "허인구",
+   "name": "권동호"
+  },
+  {
+   "role": "오활사제",
+   "name": "이동준"
+  },
+  {
+   "role": "",
+   "name": "주민진"
+  },
+  {
+   "role": "",
+   "name": "장민수"
+  },
+  {
+   "role": "",
+   "name": "김아영"
+  },
+  {
+   "role": "",
+   "name": "김태문"
+  },
+  {
+   "role": "",
+   "name": "문성일"
+  },
+  {
+   "role": "",
+   "name": "문남권"
+  },
+  {
+   "role": "",
+   "name": "이봉준"
+  },
+  {
+   "role": "",
+   "name": "민정아"
+  },
+  {
+   "role": "",
+   "name": "김동현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250315150240/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172820"
+ }
 }

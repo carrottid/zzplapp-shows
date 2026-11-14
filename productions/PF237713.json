@@ -1,0 +1,69 @@
+{
+ "id": "PF237713",
+ "title": "컬렉티드 스토리즈",
+ "genre": "연극",
+ "from": "2024-04-26",
+ "to": "2024-05-19",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF237713_240319_141358.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "임유영",
+  "정윤경",
+  "윤소희",
+  "이현지"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "2시간",
+ "age": "만 12세 이상",
+ "crew": "박선희, 정윤경, 김영욱 등",
+ "price": "전석 40,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF237713_240319_0213580.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/848989"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003874"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011734"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000011716"
+  }
+ ],
+ "updated": "2024-03-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "루스",
+   "name": "임유영"
+  },
+  {
+   "role": "루스",
+   "name": "정윤경"
+  },
+  {
+   "role": "리사",
+   "name": "윤소희"
+  },
+  {
+   "role": "리사",
+   "name": "이현지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250518001846/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200736"
+ }
+}

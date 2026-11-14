@@ -33,5 +33,23 @@
  ],
  "updated": "2021-10-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1E2B3F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "종필",
+   "name": "우두연"
+  },
+  {
+   "role": "영규",
+   "name": "주재현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014044900/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169390"
+ }
 }

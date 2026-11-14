@@ -51,5 +51,87 @@
  ],
  "updated": "2026-02-27 13:43:56",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1B3B6F",
+  "fg": "#F5C542"
+ },
+ "roleCast": [
+  {
+   "role": "파이",
+   "name": "박정민"
+  },
+  {
+   "role": "파이",
+   "name": "박강현"
+  },
+  {
+   "role": "파이",
+   "name": "박찬양"
+  },
+  {
+   "role": "아버지",
+   "name": "서현철"
+  },
+  {
+   "role": "아버지",
+   "name": "황만익"
+  },
+  {
+   "role": "엄마/간호사/오렌지주스",
+   "name": "주아"
+  },
+  {
+   "role": "엄마/간호사/오렌지주스",
+   "name": "송인성"
+  },
+  {
+   "role": "오카모토/선장",
+   "name": "진상현"
+  },
+  {
+   "role": "오카모토/선장",
+   "name": "정호준"
+  },
+  {
+   "role": "루루 첸",
+   "name": "임민영"
+  },
+  {
+   "role": "루루 첸",
+   "name": "김지혜"
+  },
+  {
+   "role": "요리사/리차드 파커 목소리",
+   "name": "이승헌"
+  },
+  {
+   "role": "요리사/리차드 파커 목소리",
+   "name": "김형준"
+  },
+  {
+   "role": "",
+   "name": "신진경"
+  },
+  {
+   "role": "",
+   "name": "한규정"
+  },
+  {
+   "role": "",
+   "name": "전걸"
+  },
+  {
+   "role": "",
+   "name": "이상아"
+  },
+  {
+   "role": "",
+   "name": "권상석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260113161314/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=222249"
+ }
 }

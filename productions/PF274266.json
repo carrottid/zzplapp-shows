@@ -39,5 +39,95 @@
  ],
  "updated": "2026-02-03 11:25:47",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1010",
+  "fg": "#F2505E"
+ },
+ "roleCast": [
+  {
+   "role": "크리스티안",
+   "name": "홍광호"
+  },
+  {
+   "role": "크리스티안",
+   "name": "이석훈"
+  },
+  {
+   "role": "크리스티안",
+   "name": "차윤해"
+  },
+  {
+   "role": "사틴",
+   "name": "김지우"
+  },
+  {
+   "role": "사틴",
+   "name": "정선아"
+  },
+  {
+   "role": "지들러",
+   "name": "이정열"
+  },
+  {
+   "role": "지들러",
+   "name": "이상준"
+  },
+  {
+   "role": "몬로스 공작",
+   "name": "박민성"
+  },
+  {
+   "role": "몬로스 공작",
+   "name": "이창용"
+  },
+  {
+   "role": "로트렉",
+   "name": "지현준"
+  },
+  {
+   "role": "로트렉",
+   "name": "최호중"
+  },
+  {
+   "role": "산티아고",
+   "name": "서만석"
+  },
+  {
+   "role": "산티아고",
+   "name": "심건우"
+  },
+  {
+   "role": "",
+   "name": "하유진"
+  },
+  {
+   "role": "",
+   "name": "전성혜"
+  },
+  {
+   "role": "",
+   "name": "유승엽"
+  },
+  {
+   "role": "",
+   "name": "김단주"
+  },
+  {
+   "role": "",
+   "name": "이정하"
+  },
+  {
+   "role": "",
+   "name": "권오경"
+  },
+  {
+   "role": "",
+   "name": "김송이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260226041124/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=221943"
+ }
 }

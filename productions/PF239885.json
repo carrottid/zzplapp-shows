@@ -43,5 +43,95 @@
  ],
  "updated": "2024-04-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#673536",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "강필석"
+  },
+  {
+   "role": "햄릿",
+   "name": "이승주"
+  },
+  {
+   "role": "선왕",
+   "name": "이호재"
+  },
+  {
+   "role": "선왕",
+   "name": "전무송"
+  },
+  {
+   "role": "배우1",
+   "name": "박정자"
+  },
+  {
+   "role": "배우1",
+   "name": "전수경"
+  },
+  {
+   "role": "배우2",
+   "name": "손숙"
+  },
+  {
+   "role": "배우2",
+   "name": "이항나"
+  },
+  {
+   "role": "무덤파기",
+   "name": "김재건"
+  },
+  {
+   "role": "클로디어스",
+   "name": "정동환"
+  },
+  {
+   "role": "클로디어스",
+   "name": "길용우"
+  },
+  {
+   "role": "",
+   "name": "김성녀"
+  },
+  {
+   "role": "",
+   "name": "길해연"
+  },
+  {
+   "role": "",
+   "name": "손봉숙"
+  },
+  {
+   "role": "",
+   "name": "남명렬"
+  },
+  {
+   "role": "",
+   "name": "박지일"
+  },
+  {
+   "role": "",
+   "name": "정경순"
+  },
+  {
+   "role": "",
+   "name": "박윤희"
+  },
+  {
+   "role": "",
+   "name": "정환"
+  },
+  {
+   "role": "",
+   "name": "김명기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251017091400/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202301"
+ }
 }

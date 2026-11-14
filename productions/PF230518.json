@@ -1,0 +1,38 @@
+{
+ "id": "PF230518",
+ "title": "MAIDOG",
+ "genre": "연극",
+ "from": "2023-12-14",
+ "to": "2023-12-17",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230518_231122_095847.jpeg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이명희",
+  "김선아",
+  "윤일식",
+  "조성현",
+  "유민경",
+  "백혜리",
+  "이보미"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 20분",
+ "age": "만 14세 이상",
+ "crew": "장정아, 김승주, 장영 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230518_231122_0958470.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2776"
+  }
+ ],
+ "updated": "2023-11-22 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -156,9 +156,6 @@
      "name": "최재웅"
     },
     {
-     "name": "이율"
-    },
-    {
      "name": "마이삭"
     },
     {
@@ -169,6 +166,9 @@
     },
     {
      "name": "박민주"
+    },
+    {
+     "name": "이율"
     }
    ],
    "color": {
@@ -182,7 +182,19 @@
    "genre": "뮤지컬",
    "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
    "time": "16:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정단비"
+    },
+    {
+     "name": "전하영"
+    }
+   ],
+   "color": {
+    "bg": "#4E6A85",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF296148",
@@ -247,13 +259,13 @@
      "name": "신진경"
     },
     {
-     "name": "선한국"
-    },
-    {
      "name": "최반석"
     },
     {
      "name": "신준석"
+    },
+    {
+     "name": "선한국"
     }
    ],
    "color": {
@@ -392,16 +404,16 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "홍경인"
-    },
-    {
      "name": "김준현"
     },
     {
-     "name": "전대현"
+     "name": "주수경"
     },
     {
-     "name": "주수경"
+     "name": "홍경인"
+    },
+    {
+     "name": "전대현"
     }
    ],
    "color": {
@@ -568,7 +580,11 @@
    "genre": "연극",
    "venue": "대학로예술극장 (소극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1D4A5A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304765",
@@ -600,7 +616,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "민하늘"
+    },
+    {
+     "name": "류찬열"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -668,7 +710,11 @@
    "genre": "연극",
    "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E84A8A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305009",
@@ -688,7 +734,54 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유희제"
+    },
+    {
+     "name": "오현서"
+    },
+    {
+     "name": "장태민"
+    },
+    {
+     "name": "정명군"
+    },
+    {
+     "name": "김동준"
+    },
+    {
+     "name": "도예준"
+    },
+    {
+     "name": "탁승빈"
+    },
+    {
+     "name": "김보정"
+    },
+    {
+     "name": "김수정"
+    },
+    {
+     "name": "박초록"
+    },
+    {
+     "name": "이정현"
+    },
+    {
+     "name": "심우성"
+    },
+    {
+     "name": "윤상호"
+    },
+    {
+     "name": "고태진"
+    },
+    {
+     "name": "이세호"
+    }
+   ],
    "color": {
     "bg": "#F0287F",
     "fg": "#FFFFFF"
@@ -788,10 +881,10 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "박준형"
+     "name": "조은성"
     },
     {
-     "name": "조은성"
+     "name": "박준형"
     },
     {
      "name": "신수빈"
@@ -906,12 +999,6 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "김찬종"
-    },
-    {
-     "name": "온주완"
-    },
-    {
      "name": "마이삭"
     },
     {
@@ -922,6 +1009,12 @@
     },
     {
      "name": "박민주"
+    },
+    {
+     "name": "온주완"
+    },
+    {
+     "name": "김찬종"
     }
    ],
    "color": {
@@ -1010,13 +1103,15 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "이승준"
+     "name": "이승준",
+     "personId": "51846"
     },
     {
-     "name": "김찰리"
+     "name": "김찰리",
+     "personId": "44855"
     }
    ],
    "color": {
@@ -1243,7 +1338,7 @@
      "name": "송유택"
     },
     {
-     "name": "전혜주"
+     "name": "김청아"
     },
     {
      "name": "이주순"
@@ -1252,7 +1347,7 @@
      "name": "이혜진"
     },
     {
-     "name": "김청아"
+     "name": "전혜주"
     }
    ],
    "color": {
@@ -1303,22 +1398,22 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "서동진"
+    },
+    {
      "name": "주다온"
     },
     {
-     "name": "표바하"
-    },
-    {
      "name": "신진경"
-    },
-    {
-     "name": "서동진"
     },
     {
      "name": "최반석"
     },
     {
      "name": "신준석"
+    },
+    {
+     "name": "표바하"
     }
    ],
    "color": {
@@ -1433,9 +1528,6 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "제이민"
-    },
-    {
      "name": "정가희"
     },
     {
@@ -1443,6 +1535,9 @@
     },
     {
      "name": "권슬아"
+    },
+    {
+     "name": "제이민"
     }
    ],
    "color": {
@@ -1456,7 +1551,25 @@
    "genre": "연극",
    "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조은정"
+    },
+    {
+     "name": "고주희"
+    },
+    {
+     "name": "이정민"
+    },
+    {
+     "name": "한수야"
+    }
+   ],
+   "color": {
+    "bg": "#7A6A55",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305235",

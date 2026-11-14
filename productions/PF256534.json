@@ -48,5 +48,47 @@
  ],
  "updated": "2025-01-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#C0262D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "벨마 켈리",
+   "name": "최정원"
+  },
+  {
+   "role": "벨마 켈리",
+   "name": "윤공주"
+  },
+  {
+   "role": "록시 하트",
+   "name": "아이비"
+  },
+  {
+   "role": "빌리 플린",
+   "name": "박건형"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김영주"
+  },
+  {
+   "role": "마마 모튼",
+   "name": "김경선"
+  },
+  {
+   "role": "에이모스",
+   "name": "차정현"
+  },
+  {
+   "role": "메리 선샤인",
+   "name": "S.J. KIM"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250316062343/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212133"
+ }
 }

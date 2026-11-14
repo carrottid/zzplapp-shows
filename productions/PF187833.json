@@ -55,5 +55,91 @@
  ],
  "updated": "2022-03-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#060221",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "막심 드 윈터",
+   "name": "민영기"
+  },
+  {
+   "role": "막심 드 윈터",
+   "name": "김준현"
+  },
+  {
+   "role": "막심 드 윈터",
+   "name": "이장우"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "신영숙"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "옥주현"
+  },
+  {
+   "role": "나",
+   "name": "임혜영"
+  },
+  {
+   "role": "나",
+   "name": "이지혜"
+  },
+  {
+   "role": "잭 파벨",
+   "name": "최민철"
+  },
+  {
+   "role": "잭 파벨",
+   "name": "이창용"
+  },
+  {
+   "role": "반 호퍼 부인",
+   "name": "김지선"
+  },
+  {
+   "role": "반 호퍼 부인",
+   "name": "한유란"
+  },
+  {
+   "role": "베아트리체",
+   "name": "류수화"
+  },
+  {
+   "role": "베아트리체",
+   "name": "김경선"
+  },
+  {
+   "role": "",
+   "name": "문성혁"
+  },
+  {
+   "role": "",
+   "name": "변희상"
+  },
+  {
+   "role": "",
+   "name": "임정모"
+  },
+  {
+   "role": "",
+   "name": "김지욱"
+  },
+  {
+   "role": "",
+   "name": "김용수"
+  },
+  {
+   "role": "",
+   "name": "김현웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220528221607/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172983"
+ }
 }

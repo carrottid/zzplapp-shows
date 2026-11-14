@@ -1,0 +1,38 @@
+{
+ "id": "PF276629",
+ "title": "The Table (더테이블)",
+ "genre": "연극",
+ "from": "2025-10-22",
+ "to": "2025-11-02",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF276629_251017_180502.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김곽경희",
+  "이선",
+  "오세철",
+  "정선주",
+  "이진주",
+  "안두호",
+  "김한결"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 25분",
+ "age": "만 11세 이상",
+ "crew": "정상훈, 이선, 김광훈 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF276629_202510170605027740.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25014859"
+  }
+ ],
+ "updated": "2025-10-18 15:00:04.274351",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

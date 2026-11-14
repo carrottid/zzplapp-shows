@@ -62,5 +62,55 @@
  ],
  "updated": "2022-07-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0CB3B5",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "정훈",
+   "name": "김범준"
+  },
+  {
+   "role": "정훈",
+   "name": "이휘종"
+  },
+  {
+   "role": "강토",
+   "name": "박란주"
+  },
+  {
+   "role": "강토",
+   "name": "이혜란"
+  },
+  {
+   "role": "수형",
+   "name": "김지철"
+  },
+  {
+   "role": "기식/재진",
+   "name": "이승재"
+  },
+  {
+   "role": "권대령",
+   "name": "고준식"
+  },
+  {
+   "role": "쌍둥이누나",
+   "name": "정은영"
+  },
+  {
+   "role": "",
+   "name": "이정민"
+  },
+  {
+   "role": "",
+   "name": "이지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251116234402/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176577"
+ }
 }

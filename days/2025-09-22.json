@@ -2,12 +2,40 @@
  "date": "2025-09-22",
  "sessions": [
   {
+   "id": "PF271631",
+   "title": "고도를 기다리며",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF273098",
+   "title": "스카프",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF272381",
+   "title": "창작ing, 도비왈라",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF268919",
    "title": "관부연락선",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B2A41",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF270364",
@@ -15,7 +43,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FF5A5F"
+   }
   },
   {
    "id": "PF267527",
@@ -23,7 +55,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#252525",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

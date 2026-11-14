@@ -59,5 +59,67 @@
  ],
  "updated": "2026-02-06 13:02:47",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1B2536",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윌러비",
+   "name": "정동화"
+  },
+  {
+   "role": "윌러비",
+   "name": "최호승"
+  },
+  {
+   "role": "윌러비",
+   "name": "황민수"
+  },
+  {
+   "role": "앤",
+   "name": "최수진"
+  },
+  {
+   "role": "앤",
+   "name": "최연우"
+  },
+  {
+   "role": "앤",
+   "name": "정우연"
+  },
+  {
+   "role": "스윙",
+   "name": "배혜진"
+  },
+  {
+   "role": "",
+   "name": "이지혁"
+  },
+  {
+   "role": "",
+   "name": "원근영"
+  },
+  {
+   "role": "",
+   "name": "김기영"
+  },
+  {
+   "role": "",
+   "name": "이재웅"
+  },
+  {
+   "role": "",
+   "name": "도해"
+  },
+  {
+   "role": "",
+   "name": "이지우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521020919/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=223248"
+ }
 }

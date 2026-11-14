@@ -1,0 +1,46 @@
+{
+ "id": "PF220270",
+ "title": "제4회 여주인공 페스티벌 참가작, BE HAPPY",
+ "genre": "연극",
+ "from": "2023-08-02",
+ "to": "2023-08-06",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF220270_230615_142544.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김설빈",
+  "김수민",
+  "차호진",
+  "강기혁",
+  "조유나",
+  "권나현",
+  "강나림"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 50분",
+ "age": "만 16세 이상",
+ "producer": "극단 창창",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220270_230615_0226450.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008243"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD23509"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2474"
+  }
+ ],
+ "updated": "2023-06-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

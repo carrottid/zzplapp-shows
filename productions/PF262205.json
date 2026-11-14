@@ -43,5 +43,59 @@
  ],
  "updated": "2025-11-20 16:37:04",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4E0708",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "시저",
+   "name": "김준원"
+  },
+  {
+   "role": "시저",
+   "name": "손호준"
+  },
+  {
+   "role": "카시우스/안토니우스",
+   "name": "양지원"
+  },
+  {
+   "role": "브루터스",
+   "name": "유승호"
+  },
+  {
+   "role": "코러스",
+   "name": "서창호"
+  },
+  {
+   "role": "코러스",
+   "name": "손지미"
+  },
+  {
+   "role": "코러스",
+   "name": "홍은표"
+  },
+  {
+   "role": "코러스",
+   "name": "김재형"
+  },
+  {
+   "role": "",
+   "name": "박창준"
+  },
+  {
+   "role": "",
+   "name": "권창민"
+  },
+  {
+   "role": "",
+   "name": "김동원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250522230646/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=215615"
+ }
 }

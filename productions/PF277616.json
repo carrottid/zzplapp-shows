@@ -14,7 +14,7 @@
   "배나라",
   "옥주현",
   "이봄소리",
-  "홍서영",
+  "홍금비",
   "김찬호"
  ],
  "facilityId": "FC001208",
@@ -55,5 +55,67 @@
  ],
  "updated": "2026-01-26 14:02:46",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "클라이드",
+   "name": "조형균"
+  },
+  {
+   "role": "클라이드",
+   "name": "윤현민"
+  },
+  {
+   "role": "클라이드",
+   "name": "배나라"
+  },
+  {
+   "role": "보니",
+   "name": "옥주현"
+  },
+  {
+   "role": "보니",
+   "name": "이봄소리"
+  },
+  {
+   "role": "보니",
+   "name": "홍금비"
+  },
+  {
+   "role": "벅",
+   "name": "김찬호"
+  },
+  {
+   "role": "벅",
+   "name": "조성윤"
+  },
+  {
+   "role": "블랜치",
+   "name": "배수정"
+  },
+  {
+   "role": "블랜치",
+   "name": "윤지인"
+  },
+  {
+   "role": "테드",
+   "name": "이은호"
+  },
+  {
+   "role": "테드",
+   "name": "권성찬"
+  },
+  {
+   "role": "목사",
+   "name": "이제우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260415153146/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=223647"
+ }
 }

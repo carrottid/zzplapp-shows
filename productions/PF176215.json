@@ -1,0 +1,85 @@
+{
+ "id": "PF176215",
+ "title": "내부자거래",
+ "genre": "연극",
+ "from": "2021-07-02",
+ "to": "2021-07-11",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF176215_210618_131514.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최진아",
+  "이준영",
+  "남수현",
+  "송치훈",
+  "최강현",
+  "이서한",
+  "서동현"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "2시간",
+ "age": "만 13세 이상",
+ "crew": "최진아, 김성구, 이승호 등",
+ "producer": "극단 놀땅",
+ "price": "전석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF176215_210623_0230381.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21005285"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1454"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1623677450"
+  }
+ ],
+ "updated": "2021-06-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "김정남",
+   "name": "김용준"
+  },
+  {
+   "role": "민상혁",
+   "name": "이준영"
+  },
+  {
+   "role": "강종현",
+   "name": "최강현"
+  },
+  {
+   "role": "송지일",
+   "name": "송치훈"
+  },
+  {
+   "role": "남기훈",
+   "name": "남수현"
+  },
+  {
+   "role": "이서준",
+   "name": "이서한"
+  },
+  {
+   "role": "",
+   "name": "한새롬"
+  },
+  {
+   "role": "",
+   "name": "정지아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250810224517/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166054"
+ }
+}

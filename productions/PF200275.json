@@ -32,5 +32,83 @@
  ],
  "updated": "2022-10-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#261C1A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "한국큐레이터 역/존위",
+   "name": "이여진"
+  },
+  {
+   "role": "보이그룹 역/농구팀원 역/김진석",
+   "name": "김민재"
+  },
+  {
+   "role": "한국고등학생 역/청년진주 역/달루",
+   "name": "김세린"
+  },
+  {
+   "role": "무술가 역/노동자 역/겁쟁이 역/류성주",
+   "name": "김슬우"
+  },
+  {
+   "role": "한국소리꾼 역/서상희",
+   "name": "김초아"
+  },
+  {
+   "role": "중국소리꾼 역/양메이친",
+   "name": "루쩌우커커"
+  },
+  {
+   "role": "",
+   "name": "이장희"
+  },
+  {
+   "role": "",
+   "name": "번도"
+  },
+  {
+   "role": "",
+   "name": "서현아"
+  },
+  {
+   "role": "",
+   "name": "송유정"
+  },
+  {
+   "role": "",
+   "name": "양의열"
+  },
+  {
+   "role": "",
+   "name": "유준여"
+  },
+  {
+   "role": "",
+   "name": "이다빈"
+  },
+  {
+   "role": "",
+   "name": "장이"
+  },
+  {
+   "role": "",
+   "name": "장하영"
+  },
+  {
+   "role": "",
+   "name": "종교령"
+  },
+  {
+   "role": "",
+   "name": "후가기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250621041536/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180533"
+ }
 }

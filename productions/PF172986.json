@@ -38,5 +38,95 @@
  ],
  "updated": "2021-03-31 17:49:32",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#010000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "정영",
+   "name": "하성광"
+  },
+  {
+   "role": "도안고",
+   "name": "장두이"
+  },
+  {
+   "role": "공손저구",
+   "name": "정진각"
+  },
+  {
+   "role": "공손저구",
+   "name": "김영"
+  },
+  {
+   "role": "영공",
+   "name": "이영석"
+  },
+  {
+   "role": "영공",
+   "name": "박용수"
+  },
+  {
+   "role": "조순",
+   "name": "유순웅"
+  },
+  {
+   "role": "조순",
+   "name": "임형택"
+  },
+  {
+   "role": "제미명 외",
+   "name": "조연호"
+  },
+  {
+   "role": "",
+   "name": "이지현"
+  },
+  {
+   "role": "",
+   "name": "성노진"
+  },
+  {
+   "role": "",
+   "name": "장재호"
+  },
+  {
+   "role": "",
+   "name": "호산"
+  },
+  {
+   "role": "",
+   "name": "강득종"
+  },
+  {
+   "role": "",
+   "name": "김명기"
+  },
+  {
+   "role": "",
+   "name": "김도완"
+  },
+  {
+   "role": "",
+   "name": "전유경"
+  },
+  {
+   "role": "",
+   "name": "우정원"
+  },
+  {
+   "role": "",
+   "name": "이형훈"
+  },
+  {
+   "role": "",
+   "name": "홍사빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804215215/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164205"
+ }
 }

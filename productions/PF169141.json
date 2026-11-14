@@ -45,5 +45,35 @@
  ],
  "updated": "2020-11-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#85605F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "요제프 마쉬칸",
+   "name": "남경읍"
+  },
+  {
+   "role": "요제프 마쉬칸",
+   "name": "남명렬"
+  },
+  {
+   "role": "스티븐 호프만",
+   "name": "이재균"
+  },
+  {
+   "role": "스티븐 호프만",
+   "name": "정휘"
+  },
+  {
+   "role": "스티븐 호프만",
+   "name": "최우혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240523214539/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160776"
+ }
 }

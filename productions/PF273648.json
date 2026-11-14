@@ -1,0 +1,38 @@
+{
+ "id": "PF273648",
+ "title": "Glass Box",
+ "genre": "연극",
+ "from": "2025-09-12",
+ "to": "2025-09-14",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF273648_250909_125926.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "유주상",
+  "이이안",
+  "박채린",
+  "최수민",
+  "조은별",
+  "김윤경",
+  "박준영"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "3시간",
+ "age": "만 12세 이상",
+ "crew": "김태명, 강경동, 전기종 등",
+ "price": "전석 60,000원",
+ "schedule": "금요일(19:00), 토요일 ~ 일요일(14:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF273648_202509091259268330.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25012121"
+  }
+ ],
+ "updated": "2025-09-09 15:00:03.056916",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

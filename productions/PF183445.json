@@ -1,0 +1,47 @@
+{
+ "id": "PF183445",
+ "title": "한 여름밤의 꿈",
+ "genre": "연극",
+ "from": "2021-12-23",
+ "to": "2022-01-09",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF183445_211122_095120.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김우진",
+  "김도이",
+  "김영수",
+  "임소영",
+  "주진우",
+  "최소연",
+  "박창범"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 30분",
+ "age": "만 10세 이상",
+ "crew": "최영환, 이효숙, 조은혜 등",
+ "producer": "MY.B 프로덕션, 열린극장",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00,18:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183445_211122_0951200.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/624903"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011617"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1646"
+  }
+ ],
+ "updated": "2021-11-22 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

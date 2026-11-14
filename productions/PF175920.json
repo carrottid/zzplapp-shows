@@ -25,5 +25,75 @@
  ],
  "updated": "2021-06-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#C71E46",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "멀티",
+   "name": "김다영"
+  },
+  {
+   "role": "멀티",
+   "name": "김현우"
+  },
+  {
+   "role": "멀티",
+   "name": "우현정"
+  },
+  {
+   "role": "채민석",
+   "name": "이상혁"
+  },
+  {
+   "role": "채민석",
+   "name": "강성훈"
+  },
+  {
+   "role": "채민석",
+   "name": "김동준"
+  },
+  {
+   "role": "최민석",
+   "name": "이태호"
+  },
+  {
+   "role": "최민석",
+   "name": "임찬호"
+  },
+  {
+   "role": "최민석",
+   "name": "신지웅"
+  },
+  {
+   "role": "김희선",
+   "name": "한수빈"
+  },
+  {
+   "role": "김희선",
+   "name": "최수진"
+  },
+  {
+   "role": "김희선",
+   "name": "강해원"
+  },
+  {
+   "role": "김희성",
+   "name": "김리하"
+  },
+  {
+   "role": "김희성",
+   "name": "김소영"
+  },
+  {
+   "role": "김희성",
+   "name": "정현정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424171015/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165934"
+ }
 }

@@ -1,0 +1,70 @@
+{
+ "id": "PF189895",
+ "title": "슈퍼히어로의 탄생",
+ "genre": "연극",
+ "from": "2022-05-06",
+ "to": "2022-05-08",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF189895_220421_122728.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김재건",
+  "이승철",
+  "이현순",
+  "김화영",
+  "추헌엽"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 10분",
+ "age": "만 5세 이상",
+ "crew": "주애리, 이상근, 한철 등",
+ "price": "전석 10,000원",
+ "schedule": "금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF189895_220421_1227280.jpg"
+ ],
+ "links": [
+  {
+   "name": "NHN티켓링크",
+   "url": "http://www.ticketlink.co.kr/product/38465"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/691650"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004651"
+  }
+ ],
+ "updated": "2022-04-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "이생망",
+   "name": "김재건"
+  },
+  {
+   "role": "팔공산",
+   "name": "이승철"
+  },
+  {
+   "role": "수선화",
+   "name": "이현순"
+  },
+  {
+   "role": "버킨백",
+   "name": "김화영"
+  },
+  {
+   "role": "어벤져",
+   "name": "추헌엽"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250617200955/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174083"
+ }
+}

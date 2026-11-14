@@ -2,12 +2,32 @@
  "date": "2024-10-14",
  "sessions": [
   {
+   "id": "PF247764",
+   "title": "국립극단, 간과 강",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248618",
+   "title": "리히터 Re-Heater",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF247390",
    "title": "신바람 삼대",
    "genre": "연극",
    "venue": "HD아트센터(구 현대예술관) (소공연장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#312028",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF248007",
@@ -15,7 +35,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C39222",
+    "fg": "#111111"
+   }
   }
  ]
 }

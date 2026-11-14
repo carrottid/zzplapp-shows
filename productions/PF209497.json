@@ -1,0 +1,36 @@
+{
+ "id": "PF209497",
+ "title": "스캐터코퍼",
+ "genre": "연극",
+ "from": "2023-01-25",
+ "to": "2023-01-29",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF209497_230109_115214.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정보권",
+  "이창원",
+  "김미식",
+  "박새미",
+  "이원우"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간",
+ "age": "만 12세 이상",
+ "producer": "고온문화예술",
+ "price": "전석 20,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF209497_230109_1152140.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23000049"
+  }
+ ],
+ "updated": "2023-01-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

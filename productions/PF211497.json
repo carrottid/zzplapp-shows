@@ -41,5 +41,67 @@
  ],
  "updated": "2023-01-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#08131A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "피트/다니엘",
+   "name": "박장용"
+  },
+  {
+   "role": "피트/다니엘",
+   "name": "최승혁"
+  },
+  {
+   "role": "지넷/마시",
+   "name": "이음"
+  },
+  {
+   "role": "필/데이브",
+   "name": "윤대성"
+  },
+  {
+   "role": "샌드린/마시",
+   "name": "안아영"
+  },
+  {
+   "role": "스티브/차드",
+   "name": "이우철"
+  },
+  {
+   "role": "마벨린/호프",
+   "name": "임채영"
+  },
+  {
+   "role": "",
+   "name": "최진호"
+  },
+  {
+   "role": "",
+   "name": "김동창"
+  },
+  {
+   "role": "",
+   "name": "박혜림"
+  },
+  {
+   "role": "",
+   "name": "김원빈"
+  },
+  {
+   "role": "",
+   "name": "이예린"
+  },
+  {
+   "role": "",
+   "name": "김시운"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251111074607/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=184232"
+ }
 }

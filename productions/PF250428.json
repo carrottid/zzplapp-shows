@@ -48,5 +48,31 @@
  ],
  "updated": "2024-11-08 10:21:06",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0E4050",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "기자",
+   "name": "강상준"
+  },
+  {
+   "role": "기자",
+   "name": "이기현"
+  },
+  {
+   "role": "작가",
+   "name": "홍미금"
+  },
+  {
+   "role": "작가",
+   "name": "이다은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241112034249/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=208856"
+ }
 }

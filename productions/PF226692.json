@@ -1,0 +1,46 @@
+{
+ "id": "PF226692",
+ "title": "Tank ; 0-24",
+ "genre": "연극",
+ "from": "2023-10-26",
+ "to": "2023-11-19",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226692_231023_141328.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "권주영",
+  "김은기",
+  "김정",
+  "김정화",
+  "박수진",
+  "이혜리"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "1시간 20분",
+ "age": "만 10세 이상",
+ "crew": "여신동, 오혁, 나수민 등",
+ "producer": "(재) 국립극단",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226692_231023_0213281.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/257146"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23013809"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&page_no=1&start=0&p_idx=11813"
+  }
+ ],
+ "updated": "2023-10-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -1,0 +1,42 @@
+{
+ "id": "PF203147",
+ "title": "결혼",
+ "genre": "연극",
+ "from": "2022-12-07",
+ "to": "2022-12-11",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF203147_221128_152452.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강연주",
+  "박은미",
+  "신덕규",
+  "안중현",
+  "조민주"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 5분",
+ "age": "만 7세 이상",
+ "crew": "김홍주, 정성진, 김솔지 등",
+ "producer": "극단 밝은미래",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF203147_221128_0324521.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF203147_221128_0324520.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22014913"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=4925"
+  }
+ ],
+ "updated": "2022-11-28 16:37:42",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -51,5 +51,55 @@
  ],
  "updated": "2024-03-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#5A3E28",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "홈즈",
+   "name": "정다희"
+  },
+  {
+   "role": "홈즈",
+   "name": "장재웅"
+  },
+  {
+   "role": "왓슨",
+   "name": "양소민"
+  },
+  {
+   "role": "왓슨",
+   "name": "송광일"
+  },
+  {
+   "role": "멀티1",
+   "name": "김지훈"
+  },
+  {
+   "role": "멀티1",
+   "name": "무현"
+  },
+  {
+   "role": "멀티2",
+   "name": "한준용"
+  },
+  {
+   "role": "멀티2",
+   "name": "김효성"
+  },
+  {
+   "role": "멀티3",
+   "name": "진초록"
+  },
+  {
+   "role": "멀티3",
+   "name": "양성령"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250617202313/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200164"
+ }
 }

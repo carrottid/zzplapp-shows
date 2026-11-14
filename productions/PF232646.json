@@ -1,0 +1,43 @@
+{
+ "id": "PF232646",
+ "title": "選擇(선택)",
+ "genre": "연극",
+ "from": "2024-01-04",
+ "to": "2024-01-07",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF232646_231218_110233.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강수지",
+  "김재환",
+  "서민제",
+  "천상민",
+  "이규혁",
+  "이수정",
+  "임이규"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 10분",
+ "age": "만 10세 이상",
+ "crew": "하지오, 정의영, 심창훈 등",
+ "producer": "스페이스소얼 (SPACESOAR)",
+ "price": "전석 35,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(17:30), 일요일(15:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232646_231218_1102334.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232646_231218_1102333.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232646_231218_1102332.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232646_231218_1102331.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232646_231218_1102330.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23018193"
+  }
+ ],
+ "updated": "2023-12-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

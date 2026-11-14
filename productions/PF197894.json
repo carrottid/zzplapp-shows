@@ -51,5 +51,95 @@
  ],
  "updated": "2022-09-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8A5E22",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "헥터",
+   "name": "오대석"
+  },
+  {
+   "role": "헥터",
+   "name": "정상훈"
+  },
+  {
+   "role": "어윈",
+   "name": "김경수"
+  },
+  {
+   "role": "어윈",
+   "name": "박은석"
+  },
+  {
+   "role": "어윈",
+   "name": "안재영"
+  },
+  {
+   "role": "데이킨",
+   "name": "손유동"
+  },
+  {
+   "role": "데이킨",
+   "name": "윤승우"
+  },
+  {
+   "role": "데이킨",
+   "name": "최정우"
+  },
+  {
+   "role": "포스너",
+   "name": "김지온"
+  },
+  {
+   "role": "포스너",
+   "name": "김현진"
+  },
+  {
+   "role": "포스너",
+   "name": "김리현"
+  },
+  {
+   "role": "스크립스",
+   "name": "강찬"
+  },
+  {
+   "role": "스크립스",
+   "name": "김효성"
+  },
+  {
+   "role": "럿지",
+   "name": "구준모"
+  },
+  {
+   "role": "럿지",
+   "name": "심수호"
+  },
+  {
+   "role": "",
+   "name": "이지현"
+  },
+  {
+   "role": "",
+   "name": "견민성"
+  },
+  {
+   "role": "",
+   "name": "이예준"
+  },
+  {
+   "role": "",
+   "name": "홍준기"
+  },
+  {
+   "role": "",
+   "name": "이윤성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814051832/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178749"
+ }
 }

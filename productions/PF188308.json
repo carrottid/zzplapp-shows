@@ -33,5 +33,35 @@
  ],
  "updated": "2022-03-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5F635B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "이서원"
+  },
+  {
+   "role": "주인남자/남자1",
+   "name": "김태훈"
+  },
+  {
+   "role": "주인여자",
+   "name": "이상숙"
+  },
+  {
+   "role": "남자2/로비남자",
+   "name": "김효영"
+  },
+  {
+   "role": "딸/앳된여자",
+   "name": "이지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240725123814/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173248"
+ }
 }

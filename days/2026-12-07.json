@@ -19,7 +19,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "조윤슬"
+    },
+    {
+     "name": "정지환"
+    },
+    {
+     "name": "문민경"
+    },
+    {
+     "name": "임창섭"
+    },
+    {
+     "name": "박희경"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305824",
@@ -27,7 +51,11 @@
    "genre": "연극",
    "venue": "아르코예술극장 (소극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3C5A7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305855",
@@ -35,7 +63,22 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박지윤"
+    },
+    {
+     "name": "이래인"
+    },
+    {
+     "name": "정대진"
+    }
+   ],
+   "color": {
+    "bg": "#E0287A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304638",
@@ -72,7 +115,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "정우연"
+    },
+    {
+     "name": "임예진"
+    },
+    {
+     "name": "한재아"
+    }
+   ],
    "color": {
     "bg": "#C0392B",
     "fg": "#FFFFFF"

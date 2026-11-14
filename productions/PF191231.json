@@ -38,5 +38,63 @@
  ],
  "updated": "2022-05-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E49E02",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "신작로",
+   "name": "김원해"
+  },
+  {
+   "role": "신작로",
+   "name": "송용진"
+  },
+  {
+   "role": "신작로",
+   "name": "홍성민"
+  },
+  {
+   "role": "백만식",
+   "name": "허동원"
+  },
+  {
+   "role": "백만식",
+   "name": "이원장"
+  },
+  {
+   "role": "오미란",
+   "name": "김화영"
+  },
+  {
+   "role": "신지나",
+   "name": "이나경"
+  },
+  {
+   "role": "신지나",
+   "name": "박가은"
+  },
+  {
+   "role": "일병",
+   "name": "김경환"
+  },
+  {
+   "role": "이병",
+   "name": "이정근"
+  },
+  {
+   "role": "",
+   "name": "이랑"
+  },
+  {
+   "role": "",
+   "name": "한승탁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250119043303/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174766"
+ }
 }

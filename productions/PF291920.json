@@ -51,5 +51,83 @@
  ],
  "updated": "2026-07-20 12:42:47",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "오이디푸스",
+   "name": "최수종"
+  },
+  {
+   "role": "오이디푸스",
+   "name": "양준모"
+  },
+  {
+   "role": "이오카스테",
+   "name": "서영희"
+  },
+  {
+   "role": "이오카스테",
+   "name": "임강희"
+  },
+  {
+   "role": "코러스장",
+   "name": "임병근"
+  },
+  {
+   "role": "코러스장",
+   "name": "이형훈"
+  },
+  {
+   "role": "코린토스 사자",
+   "name": "남명렬"
+  },
+  {
+   "role": "코린토스 사자",
+   "name": "오찬우"
+  },
+  {
+   "role": "크레온",
+   "name": "강성진"
+  },
+  {
+   "role": "크레온",
+   "name": "최수형"
+  },
+  {
+   "role": "테레시아스",
+   "name": "박정자"
+  },
+  {
+   "role": "테레시아스",
+   "name": "나자명"
+  },
+  {
+   "role": "",
+   "name": "황성대"
+  },
+  {
+   "role": "",
+   "name": "엄정욱"
+  },
+  {
+   "role": "",
+   "name": "김동현"
+  },
+  {
+   "role": "",
+   "name": "손창성"
+  },
+  {
+   "role": "",
+   "name": "이충곤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260614220129/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=230811"
+ }
 }

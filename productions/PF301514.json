@@ -1,0 +1,42 @@
+{
+ "id": "PF301514",
+ "title": "D.FESTA 소극장축제, 달빛수리점",
+ "genre": "연극",
+ "from": "2026-10-24",
+ "to": "2026-10-25",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301514_260922_102004.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "태항호",
+  "윤선아",
+  "이채원",
+  "김낙연",
+  "김사희",
+  "정현호"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 20분",
+ "age": "만 10세 이상",
+ "crew": "박주형, 박종문",
+ "producer": "바이브컬처",
+ "price": "전석 30,000원",
+ "schedule": "토요일(16:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301514_202610011022557050.png"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013498"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD31003"
+  }
+ ],
+ "updated": "2026-10-06 12:16:40",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

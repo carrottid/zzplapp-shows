@@ -1,0 +1,76 @@
+{
+ "id": "PF227606",
+ "title": "우리",
+ "genre": "연극",
+ "from": "2023-11-09",
+ "to": "2023-11-19",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF227606_231012_122229.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정나진",
+  "박윤선",
+  "한아름",
+  "사현명",
+  "안소진",
+  "박형욱",
+  "구한나"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "이해성, 홍예원",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF227606_231012_1222290.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/5/bizes/889575"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23014437"
+  }
+ ],
+ "updated": "2023-10-12 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "나진, 홍예성",
+   "name": "정나진"
+  },
+  {
+   "role": "윤선, 이해원",
+   "name": "박윤선"
+  },
+  {
+   "role": "아름",
+   "name": "한아름"
+  },
+  {
+   "role": "현명",
+   "name": "사현명"
+  },
+  {
+   "role": "소진, 동지수",
+   "name": "안소진"
+  },
+  {
+   "role": "형욱",
+   "name": "박형욱"
+  },
+  {
+   "role": "",
+   "name": "구한나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913161412/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=194404"
+ }
+}

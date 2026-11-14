@@ -47,5 +47,71 @@
  ],
  "updated": "2025-02-19 13:35:33",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#E9B82E",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "베르테르",
+   "name": "엄기준"
+  },
+  {
+   "role": "베르테르",
+   "name": "양요섭"
+  },
+  {
+   "role": "베르테르",
+   "name": "김민석"
+  },
+  {
+   "role": "롯데",
+   "name": "전미도"
+  },
+  {
+   "role": "롯데",
+   "name": "이지혜"
+  },
+  {
+   "role": "롯데",
+   "name": "류인아"
+  },
+  {
+   "role": "알베르트",
+   "name": "박재윤"
+  },
+  {
+   "role": "알베르트",
+   "name": "임정모"
+  },
+  {
+   "role": "오르카",
+   "name": "류수화"
+  },
+  {
+   "role": "오르카",
+   "name": "이영미"
+  },
+  {
+   "role": "카인즈",
+   "name": "김이담"
+  },
+  {
+   "role": "카인즈",
+   "name": "이봉준"
+  },
+  {
+   "role": "",
+   "name": "최유민"
+  },
+  {
+   "role": "",
+   "name": "은경채"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251207041147/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211203"
+ }
 }

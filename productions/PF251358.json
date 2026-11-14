@@ -47,5 +47,95 @@
  ],
  "updated": "2025-05-27 10:52:32",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0A0603",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "시라노",
+   "name": "조형균"
+  },
+  {
+   "role": "시라노",
+   "name": "최재림"
+  },
+  {
+   "role": "시라노",
+   "name": "고은성"
+  },
+  {
+   "role": "록산",
+   "name": "나하나"
+  },
+  {
+   "role": "록산",
+   "name": "김수연"
+  },
+  {
+   "role": "록산",
+   "name": "이지수"
+  },
+  {
+   "role": "크리스티앙",
+   "name": "임준혁"
+  },
+  {
+   "role": "크리스티앙",
+   "name": "차윤해"
+  },
+  {
+   "role": "드 기슈",
+   "name": "이율"
+  },
+  {
+   "role": "르 브레",
+   "name": "최호중"
+  },
+  {
+   "role": "라그노",
+   "name": "원종환"
+  },
+  {
+   "role": "",
+   "name": "김연진"
+  },
+  {
+   "role": "",
+   "name": "김대식"
+  },
+  {
+   "role": "",
+   "name": "김재희"
+  },
+  {
+   "role": "",
+   "name": "류수아"
+  },
+  {
+   "role": "",
+   "name": "전기수"
+  },
+  {
+   "role": "",
+   "name": "윤수아"
+  },
+  {
+   "role": "",
+   "name": "이정민"
+  },
+  {
+   "role": "",
+   "name": "서재홍"
+  },
+  {
+   "role": "",
+   "name": "이도희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250916190009/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209422"
+ }
 }

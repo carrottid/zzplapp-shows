@@ -44,5 +44,87 @@
  ],
  "updated": "2025-04-10 10:12:15",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1E2330",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "피터",
+   "name": "박정원"
+  },
+  {
+   "role": "피터",
+   "name": "임재윤"
+  },
+  {
+   "role": "피터",
+   "name": "홍기범"
+  },
+  {
+   "role": "피터",
+   "name": "윤석호"
+  },
+  {
+   "role": "제이슨",
+   "name": "한서원"
+  },
+  {
+   "role": "제이슨",
+   "name": "최재웅"
+  },
+  {
+   "role": "제이슨",
+   "name": "김재한"
+  },
+  {
+   "role": "제이슨",
+   "name": "이석준"
+  },
+  {
+   "role": "아이비",
+   "name": "선유하"
+  },
+  {
+   "role": "아이비",
+   "name": "조디아나"
+  },
+  {
+   "role": "맷",
+   "name": "유재하"
+  },
+  {
+   "role": "맷",
+   "name": "크리스 영"
+  },
+  {
+   "role": "맷",
+   "name": "박상준"
+  },
+  {
+   "role": "나디아",
+   "name": "남가현"
+  },
+  {
+   "role": "나디아",
+   "name": "장보람"
+  },
+  {
+   "role": "샨텔수녀/클레어",
+   "name": "이미경"
+  },
+  {
+   "role": "샨텔수녀/클레어",
+   "name": "김송이"
+  },
+  {
+   "role": "",
+   "name": "정인지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717161516/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201336"
+ }
 }

@@ -35,5 +35,51 @@
  ],
  "updated": "2021-09-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2A6F8A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이쿠타 소이치",
+   "name": "서창호"
+  },
+  {
+   "role": "오쿠데라 준코",
+   "name": "임미정"
+  },
+  {
+   "role": "소가 세이지",
+   "name": "윤재웅"
+  },
+  {
+   "role": "오쿠데라 가쓰야",
+   "name": "김도완"
+  },
+  {
+   "role": "이쿠타 유",
+   "name": "이애린"
+  },
+  {
+   "role": "소가 레이코",
+   "name": "이슬비"
+  },
+  {
+   "role": "",
+   "name": "권정훈"
+  },
+  {
+   "role": "",
+   "name": "김정화"
+  },
+  {
+   "role": "",
+   "name": "김하람"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240519113637/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168162"
+ }
 }

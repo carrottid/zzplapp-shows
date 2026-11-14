@@ -55,5 +55,67 @@
  ],
  "updated": "2024-08-22 11:16:47",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A211C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "살리에르",
+   "name": "박규원"
+  },
+  {
+   "role": "살리에르",
+   "name": "백인태"
+  },
+  {
+   "role": "살리에르",
+   "name": "유현석"
+  },
+  {
+   "role": "젤라스",
+   "name": "백형훈"
+  },
+  {
+   "role": "젤라스",
+   "name": "김준영"
+  },
+  {
+   "role": "젤라스",
+   "name": "황민수"
+  },
+  {
+   "role": "젤라스",
+   "name": "유태양"
+  },
+  {
+   "role": "모차르트",
+   "name": "정재환"
+  },
+  {
+   "role": "모차르트",
+   "name": "이동수"
+  },
+  {
+   "role": "모차르트",
+   "name": "박좌헌"
+  },
+  {
+   "role": "카트리나",
+   "name": "안현아"
+  },
+  {
+   "role": "카트리나",
+   "name": "이효정"
+  },
+  {
+   "role": "테레지아",
+   "name": "허윤혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241008130331/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203098"
+ }
 }

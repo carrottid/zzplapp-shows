@@ -1,0 +1,125 @@
+{
+ "id": "PF229498",
+ "title": "아갓탤 (I GOT TALENT)",
+ "genre": "뮤지컬",
+ "from": "2023-11-29",
+ "to": "2023-12-03",
+ "venue": "KT&G 상상마당 대치아트홀 (KT&G 상상마당 대치아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF229498_231107_123504.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "손슬기",
+  "조예진",
+  "표바하",
+  "한선우",
+  "김태헌",
+  "임정민",
+  "박찬효"
+ ],
+ "facilityId": "FC000052",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "정래욱, 하승한, 김진호 등",
+ "producer": "SIS기획",
+ "price": "전석 55,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:30,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229498_231107_1235040.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016164"
+  }
+ ],
+ "updated": "2023-11-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "김현우",
+   "name": "김태헌"
+  },
+  {
+   "role": "지서은",
+   "name": "표바하"
+  },
+  {
+   "role": "최영민",
+   "name": "손슬기"
+  },
+  {
+   "role": "지하은",
+   "name": "조예진"
+  },
+  {
+   "role": "전수연",
+   "name": "이예지"
+  },
+  {
+   "role": "엄마",
+   "name": "강희빈"
+  },
+  {
+   "role": "",
+   "name": "이예나"
+  },
+  {
+   "role": "",
+   "name": "임수아"
+  },
+  {
+   "role": "",
+   "name": "한아름"
+  },
+  {
+   "role": "",
+   "name": "김수민"
+  },
+  {
+   "role": "",
+   "name": "정소이"
+  },
+  {
+   "role": "",
+   "name": "한다운"
+  },
+  {
+   "role": "",
+   "name": "정어진"
+  },
+  {
+   "role": "",
+   "name": "정상훈"
+  },
+  {
+   "role": "",
+   "name": "최예린"
+  },
+  {
+   "role": "",
+   "name": "이채연"
+  },
+  {
+   "role": "",
+   "name": "한선우"
+  },
+  {
+   "role": "",
+   "name": "박찬효"
+  },
+  {
+   "role": "",
+   "name": "임정민"
+  },
+  {
+   "role": "",
+   "name": "김주하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260115214446/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195501"
+ }
+}

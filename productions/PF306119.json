@@ -30,11 +30,31 @@
  ],
  "links": [
   {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1777278"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "https://nol.yanolja.com/ticket/products/26015650"
+  },
+  {
+   "name": "세종문화회관",
+   "url": "https://www.sejongpac.or.kr/portal/performance/performance/performTicket.do?performIdx=37873&menuNo=200320"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/61037"
+  },
+  {
    "name": "클립서비스주식회사",
    "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79530"
   }
  ],
- "updated": "2026-11-11 18:00:03.074637",
+ "updated": "2026-11-12 11:22:42",
  "castSource": "none",
- "fetchedAt": "2026-11-12T10:29:07"
+ "fetchedAt": "2026-11-12T12:08:20",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#F2A33A"
+ }
 }

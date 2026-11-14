@@ -35,5 +35,67 @@
  ],
  "updated": "2023-05-10 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#757173",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "성기린",
+   "name": "선명균"
+  },
+  {
+   "role": "배이완",
+   "name": "유종연"
+  },
+  {
+   "role": "왕배우 교수 외",
+   "name": "이성원"
+  },
+  {
+   "role": "엔터 교수 외",
+   "name": "마두영"
+  },
+  {
+   "role": "노연기 강사 외",
+   "name": "백종승"
+  },
+  {
+   "role": "오희망 총장 외",
+   "name": "전수지"
+  },
+  {
+   "role": "",
+   "name": "김현숙"
+  },
+  {
+   "role": "",
+   "name": "김세환"
+  },
+  {
+   "role": "",
+   "name": "이수현"
+  },
+  {
+   "role": "",
+   "name": "차재명"
+  },
+  {
+   "role": "",
+   "name": "김남희"
+  },
+  {
+   "role": "",
+   "name": "김지현"
+  },
+  {
+   "role": "",
+   "name": "성기웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424025503/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188045"
+ }
 }

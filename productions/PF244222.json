@@ -47,5 +47,75 @@
  ],
  "updated": "2024-08-30 10:59:48",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1C2A3A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "프라이어",
+   "name": "손호준"
+  },
+  {
+   "role": "프라이어",
+   "name": "유승호"
+  },
+  {
+   "role": "하퍼",
+   "name": "고준희"
+  },
+  {
+   "role": "하퍼",
+   "name": "정혜인"
+  },
+  {
+   "role": "루이스",
+   "name": "이태빈"
+  },
+  {
+   "role": "루이스",
+   "name": "정경훈"
+  },
+  {
+   "role": "조셉",
+   "name": "양지원"
+  },
+  {
+   "role": "조셉",
+   "name": "이유진"
+  },
+  {
+   "role": "로이콘",
+   "name": "이효정"
+  },
+  {
+   "role": "로이콘",
+   "name": "김주호"
+  },
+  {
+   "role": "한나",
+   "name": "전국향"
+  },
+  {
+   "role": "한나",
+   "name": "방주란"
+  },
+  {
+   "role": "",
+   "name": "태항호"
+  },
+  {
+   "role": "",
+   "name": "민진웅"
+  },
+  {
+   "role": "",
+   "name": "권은혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250318174523/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=204974"
+ }
 }

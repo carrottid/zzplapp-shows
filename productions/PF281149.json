@@ -1,0 +1,45 @@
+{
+ "id": "PF281149",
+ "title": "동화동경",
+ "genre": "연극",
+ "from": "2025-12-25",
+ "to": "2025-12-31",
+ "venue": "아르코 꿈밭극장 (아르코꿈밭극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF281149_260310_155833.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "심은우",
+  "황규찬",
+  "김태경",
+  "김재호",
+  "박성환",
+  "김소강",
+  "박해린",
+  "김건우"
+ ],
+ "facilityId": "FC004422",
+ "runtime": "1시간",
+ "age": "만 11세 이상",
+ "crew": "김미정, 송성원, 박주원 등",
+ "producer": "성시어터라인",
+ "price": "전석 30,000원",
+ "schedule": "화요일(19:30), 수요일(15:00), 금요일(19:30), 토요일 ~ 일요일(15:00,18:00), HOL(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF281149_202603100358338960.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF281149_202603100358339141.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25017596"
+  },
+  {
+   "name": "예스24",
+   "url": "https://ticket.yes24.com/Perf/56425"
+  }
+ ],
+ "updated": "2026-03-10 15:59:10",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

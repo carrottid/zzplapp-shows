@@ -1,0 +1,77 @@
+{
+ "id": "PF251841",
+ "title": "셋톱박스",
+ "genre": "연극",
+ "from": "2024-11-15",
+ "to": "2024-11-24",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF251841_241022_102709.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송현섭",
+  "정다정",
+  "이홍재",
+  "이형주",
+  "김성일",
+  "김보라",
+  "김영경"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "김승철, 박재이, 한가을 등",
+ "producer": "창작공동체 아르케",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF251841_241030_0340581.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24015372"
+  }
+ ],
+ "updated": "2024-10-30 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "송현섭"
+  },
+  {
+   "role": "여자/전문의C",
+   "name": "정다정"
+  },
+  {
+   "role": "선배",
+   "name": "이홍재"
+  },
+  {
+   "role": "과장/전문의B",
+   "name": "이형주"
+  },
+  {
+   "role": "의사/부장",
+   "name": "김성일"
+  },
+  {
+   "role": "상담원1/전문의A",
+   "name": "김보라"
+  },
+  {
+   "role": "",
+   "name": "김영경"
+  },
+  {
+   "role": "",
+   "name": "민정오"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250427172710/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209669"
+ }
+}

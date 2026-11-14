@@ -59,5 +59,71 @@
  ],
  "updated": "2023-04-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#464242",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윌리",
+   "name": "박근형"
+  },
+  {
+   "role": "린다",
+   "name": "예수정"
+  },
+  {
+   "role": "비프",
+   "name": "성태준"
+  },
+  {
+   "role": "비프",
+   "name": "이형훈"
+  },
+  {
+   "role": "해피",
+   "name": "김동완"
+  },
+  {
+   "role": "해피",
+   "name": "윤상훈"
+  },
+  {
+   "role": "찰리",
+   "name": "신현종"
+  },
+  {
+   "role": "버나드",
+   "name": "김보현"
+  },
+  {
+   "role": "",
+   "name": "박민관"
+  },
+  {
+   "role": "",
+   "name": "김유진"
+  },
+  {
+   "role": "",
+   "name": "이찬렬"
+  },
+  {
+   "role": "",
+   "name": "박승재"
+  },
+  {
+   "role": "",
+   "name": "우가은"
+  },
+  {
+   "role": "",
+   "name": "이예원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260313071514/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187728"
+ }
 }

@@ -7,6 +7,18 @@
    "genre": "뮤지컬",
    "venue": "서강대 메리홀 (대극장)",
    "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#6D433C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF251033",
+   "title": "로켓 캔디",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -15,13 +27,29 @@
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0E4050",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF233740",
    "title": "서울시극단, 퉁소소리",
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#5000E6",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF249599",
+   "title": "제9회 늘푸른연극제, 살아있는 이중생 각하",
+   "genre": "연극",
+   "venue": "미마지아트센터 (눈빛극장)",
    "time": "19:30",
    "castSource": "none"
   },
@@ -30,6 +58,18 @@
    "title": "방구석 뮤지컬",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#C39222",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF252580",
+   "title": "프로젝트 르완다",
+   "genre": "연극",
+   "venue": "산울림소극장",
    "time": "20:00",
    "castSource": "none"
   }

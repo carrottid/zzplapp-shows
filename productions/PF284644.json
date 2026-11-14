@@ -46,5 +46,39 @@
  ],
  "updated": "2026-02-13 15:35:42",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A2A22",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "존",
+   "name": "현석준"
+  },
+  {
+   "role": "존",
+   "name": "홍승안"
+  },
+  {
+   "role": "존",
+   "name": "홍성원"
+  },
+  {
+   "role": "바이런",
+   "name": "박정원"
+  },
+  {
+   "role": "바이런",
+   "name": "손유동"
+  },
+  {
+   "role": "바이런",
+   "name": "변희상"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521015048/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=226746"
+ }
 }

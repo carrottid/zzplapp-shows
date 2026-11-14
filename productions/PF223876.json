@@ -1,0 +1,101 @@
+{
+ "id": "PF223876",
+ "title": "아이 캔 플라이(I CAN FLY)",
+ "genre": "뮤지컬",
+ "from": "2023-09-07",
+ "to": "2023-10-01",
+ "venue": "예그린씨어터 (예그린씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF223876_230814_140940.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍준기",
+  "유한솔",
+  "임고은",
+  "김도경",
+  "이주혜",
+  "남수현",
+  "서우"
+ ],
+ "facilityId": "FC001212",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "정래욱, 김진호, 배상범 등",
+ "producer": "SIS기획, 지노예술 (Gino Entertainment)",
+ "price": "R석 50,000원, S석 40,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223876_230814_0209400.png"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011351"
+  }
+ ],
+ "updated": "2023-08-14 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "정은우",
+   "name": "정세윤"
+  },
+  {
+   "role": "정은우",
+   "name": "홍준기"
+  },
+  {
+   "role": "차주혁",
+   "name": "이효재"
+  },
+  {
+   "role": "차주혁",
+   "name": "유한솔"
+  },
+  {
+   "role": "한예나",
+   "name": "조예진"
+  },
+  {
+   "role": "한예나",
+   "name": "임고은"
+  },
+  {
+   "role": "백세희",
+   "name": "서우"
+  },
+  {
+   "role": "백세희",
+   "name": "김도경"
+  },
+  {
+   "role": "김지훈",
+   "name": "노기표"
+  },
+  {
+   "role": "김지훈",
+   "name": "남수현"
+  },
+  {
+   "role": "신민아",
+   "name": "박채연"
+  },
+  {
+   "role": "신민아",
+   "name": "이주혜"
+  },
+  {
+   "role": "",
+   "name": "이지형"
+  },
+  {
+   "role": "",
+   "name": "예지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250316194019/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192069"
+ }
+}

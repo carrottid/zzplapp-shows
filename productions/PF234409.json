@@ -47,5 +47,95 @@
  ],
  "updated": "2024-01-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#120836",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "막심 드 윈터",
+   "name": "류정한"
+  },
+  {
+   "role": "막심 드 윈터",
+   "name": "민영기"
+  },
+  {
+   "role": "막심 드 윈터",
+   "name": "오만석"
+  },
+  {
+   "role": "막심 드 윈터",
+   "name": "테이"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "신영숙"
+  },
+  {
+   "role": "댄버스 부인",
+   "name": "옥주현"
+  },
+  {
+   "role": "나",
+   "name": "김보경"
+  },
+  {
+   "role": "나",
+   "name": "이지혜"
+  },
+  {
+   "role": "나",
+   "name": "이지수"
+  },
+  {
+   "role": "잭 파벨",
+   "name": "이창용"
+  },
+  {
+   "role": "잭 파벨",
+   "name": "임정모"
+  },
+  {
+   "role": "반 호퍼 부인",
+   "name": "윤사봉"
+  },
+  {
+   "role": "반 호퍼 부인",
+   "name": "김지선"
+  },
+  {
+   "role": "베아트리체",
+   "name": "이은율"
+  },
+  {
+   "role": "베아트리체",
+   "name": "홍기주"
+  },
+  {
+   "role": "",
+   "name": "제병진"
+  },
+  {
+   "role": "",
+   "name": "김순택"
+  },
+  {
+   "role": "",
+   "name": "고철순"
+  },
+  {
+   "role": "",
+   "name": "이종원"
+  },
+  {
+   "role": "",
+   "name": "김현웅"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240425075340/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198625"
+ }
 }

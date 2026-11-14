@@ -47,5 +47,55 @@
  ],
  "updated": "2023-12-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#A24345",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "학생1",
+   "name": "박정원"
+  },
+  {
+   "role": "학생1",
+   "name": "정휘"
+  },
+  {
+   "role": "학생1",
+   "name": "유현석"
+  },
+  {
+   "role": "학생2",
+   "name": "홍승안"
+  },
+  {
+   "role": "학생2",
+   "name": "김기택"
+  },
+  {
+   "role": "학생2",
+   "name": "황순종"
+  },
+  {
+   "role": "학생3",
+   "name": "오정택"
+  },
+  {
+   "role": "학생3",
+   "name": "한동훈"
+  },
+  {
+   "role": "학생4",
+   "name": "홍준기"
+  },
+  {
+   "role": "학생4",
+   "name": "배훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711062308/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196899"
+ }
 }

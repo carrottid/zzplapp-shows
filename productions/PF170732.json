@@ -38,5 +38,47 @@
  ],
  "updated": "2020-12-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#39362F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "할머니",
+   "name": "이정미"
+  },
+  {
+   "role": "성민채",
+   "name": "정새별"
+  },
+  {
+   "role": "권혁필",
+   "name": "임준식"
+  },
+  {
+   "role": "교장",
+   "name": "유성진"
+  },
+  {
+   "role": "희철",
+   "name": "문승배"
+  },
+  {
+   "role": "은서",
+   "name": "노준영"
+  },
+  {
+   "role": "",
+   "name": "고성관"
+  },
+  {
+   "role": "",
+   "name": "이승연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803105755/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162791"
+ }
 }

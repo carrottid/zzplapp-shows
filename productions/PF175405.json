@@ -51,5 +51,95 @@
  ],
  "updated": "2021-06-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3A3F5C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "성인",
+   "name": "박석용"
+  },
+  {
+   "role": "성인",
+   "name": "류수화"
+  },
+  {
+   "role": "멜키어",
+   "name": "노윤"
+  },
+  {
+   "role": "멜키어",
+   "name": "황휘"
+  },
+  {
+   "role": "벤들라",
+   "name": "김서연"
+  },
+  {
+   "role": "벤들라",
+   "name": "이정화"
+  },
+  {
+   "role": "모리츠",
+   "name": "김현진"
+  },
+  {
+   "role": "모리츠",
+   "name": "이봉준"
+  },
+  {
+   "role": "일세",
+   "name": "오유민"
+  },
+  {
+   "role": "일세",
+   "name": "신한결"
+  },
+  {
+   "role": "한센",
+   "name": "윤재호"
+  },
+  {
+   "role": "한센",
+   "name": "김서환"
+  },
+  {
+   "role": "",
+   "name": "이주순"
+  },
+  {
+   "role": "",
+   "name": "문이보"
+  },
+  {
+   "role": "",
+   "name": "전혜주"
+  },
+  {
+   "role": "",
+   "name": "김수혜"
+  },
+  {
+   "role": "",
+   "name": "유효진"
+  },
+  {
+   "role": "",
+   "name": "최경록"
+  },
+  {
+   "role": "",
+   "name": "신석수"
+  },
+  {
+   "role": "",
+   "name": "김대식"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240523211525/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164951"
+ }
 }

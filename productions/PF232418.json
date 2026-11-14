@@ -1,0 +1,58 @@
+{
+ "id": "PF232418",
+ "title": "우당탕탕 내 멋대로 살기 프로젝트",
+ "genre": "연극",
+ "from": "2023-12-28",
+ "to": "2023-12-31",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF232418_231213_124549.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김다설",
+  "김금인",
+  "김윤우",
+  "권재인"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간",
+ "age": "만 12세 이상",
+ "crew": "손희남, 박성근, 조형규 등",
+ "producer": "쏭 기획, 프로젝트일곱",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232418_231213_1245490.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017864"
+  }
+ ],
+ "updated": "2023-12-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "멀티",
+   "name": "권재인"
+  },
+  {
+   "role": "지호",
+   "name": "김금인"
+  },
+  {
+   "role": "지효",
+   "name": "김다설"
+  },
+  {
+   "role": "지오",
+   "name": "김윤우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260115220206/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196904"
+ }
+}

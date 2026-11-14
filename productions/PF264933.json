@@ -1,0 +1,43 @@
+{
+ "id": "PF264933",
+ "title": "태양",
+ "genre": "연극",
+ "from": "2025-06-05",
+ "to": "2025-06-08",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF264933_250514_143749.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김봉방",
+  "주서정",
+  "오가현",
+  "온정현",
+  "고상희",
+  "전지안",
+  "봉기한"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "2시간",
+ "age": "만 15세 이상",
+ "crew": "조성원, 이주연 등",
+ "producer": "극단 굳이",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF264933_250514_0237490.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25006811"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD27789"
+  }
+ ],
+ "updated": "2025-06-02 15:31:27",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -39,5 +39,55 @@
  ],
  "updated": "2021-08-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#7E4B29",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "메그",
+   "name": "소정화"
+  },
+  {
+   "role": "메그",
+   "name": "신의정"
+  },
+  {
+   "role": "조",
+   "name": "최유하"
+  },
+  {
+   "role": "베스",
+   "name": "홍지희"
+  },
+  {
+   "role": "베스",
+   "name": "정우연"
+  },
+  {
+   "role": "에이미",
+   "name": "박란주"
+  },
+  {
+   "role": "미세스 마치",
+   "name": "유연"
+  },
+  {
+   "role": "로리",
+   "name": "강상준"
+  },
+  {
+   "role": "로리",
+   "name": "서동현"
+  },
+  {
+   "role": "",
+   "name": "김우진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908040732/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167185"
+ }
 }

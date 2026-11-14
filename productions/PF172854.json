@@ -1,0 +1,76 @@
+{
+ "id": "PF172854",
+ "title": "해롤드와 모드",
+ "genre": "연극",
+ "from": "2021-05-01",
+ "to": "2021-05-23",
+ "venue": "KT&G 상상마당 대치아트홀 (KT&G 상상마당 대치아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF172854_210326_093008.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박정자",
+  "임준혁",
+  "오승훈",
+  "오세준",
+  "최명경",
+  "이경미"
+ ],
+ "facilityId": "FC000052",
+ "runtime": "2시간 10분",
+ "age": "만 13세 이상",
+ "crew": "윤석화, 김태근, 황지영 등",
+ "producer": "(주)신시컴퍼니",
+ "price": "전석 65,000원",
+ "schedule": "화요일(19:30), 수요일(15:00,19:30), 목요일 ~ 금요일(19:30), 토요일(14:00,18:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF172854_210326_0930080.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21002133"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000005635"
+  }
+ ],
+ "updated": "2021-03-26 12:03:01",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "모드",
+   "name": "박정자"
+  },
+  {
+   "role": "해롤드",
+   "name": "임준혁"
+  },
+  {
+   "role": "해롤드",
+   "name": "오승훈"
+  },
+  {
+   "role": "신부",
+   "name": "오세준"
+  },
+  {
+   "role": "의사 외",
+   "name": "최명경"
+  },
+  {
+   "role": "체이슨 부인",
+   "name": "홍지영"
+  },
+  {
+   "role": "선샤인 외",
+   "name": "이경미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240813150408/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164117"
+ }
+}

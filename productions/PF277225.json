@@ -35,5 +35,67 @@
  ],
  "updated": "2025-10-24 15:00:04.090705",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#2F6DA3",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "다니엘&다웃파이어",
+   "name": "황정민"
+  },
+  {
+   "role": "다니엘&다웃파이어",
+   "name": "정성화"
+  },
+  {
+   "role": "다니엘&다웃파이어",
+   "name": "정상훈"
+  },
+  {
+   "role": "미란다",
+   "name": "박혜나"
+  },
+  {
+   "role": "미란다",
+   "name": "린아"
+  },
+  {
+   "role": "스튜어트",
+   "name": "김다현"
+  },
+  {
+   "role": "완다",
+   "name": "김나윤"
+  },
+  {
+   "role": "완다",
+   "name": "윤사봉"
+  },
+  {
+   "role": "프랭크",
+   "name": "임기홍"
+  },
+  {
+   "role": "프랭크",
+   "name": "최호중"
+  },
+  {
+   "role": "안드레",
+   "name": "이경욱"
+  },
+  {
+   "role": "안드레",
+   "name": "서동진"
+  },
+  {
+   "role": "",
+   "name": "원종환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251217041019/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=223334"
+ }
 }

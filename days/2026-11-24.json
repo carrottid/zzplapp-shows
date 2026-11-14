@@ -88,10 +88,10 @@
      "name": "김준현"
     },
     {
-     "name": "김흥수"
+     "name": "설윤희"
     },
     {
-     "name": "설윤희"
+     "name": "김흥수"
     }
    ],
    "color": {
@@ -151,7 +151,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -253,7 +261,11 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5A6B7D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304394",
@@ -261,7 +273,54 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유희제"
+    },
+    {
+     "name": "오현서"
+    },
+    {
+     "name": "장태민"
+    },
+    {
+     "name": "정명군"
+    },
+    {
+     "name": "김동준"
+    },
+    {
+     "name": "도예준"
+    },
+    {
+     "name": "탁승빈"
+    },
+    {
+     "name": "김보정"
+    },
+    {
+     "name": "김수정"
+    },
+    {
+     "name": "박초록"
+    },
+    {
+     "name": "이정현"
+    },
+    {
+     "name": "심우성"
+    },
+    {
+     "name": "윤상호"
+    },
+    {
+     "name": "고태진"
+    },
+    {
+     "name": "이세호"
+    }
+   ],
    "color": {
     "bg": "#F0287F",
     "fg": "#FFFFFF"
@@ -365,6 +424,9 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "박혜원"
+    },
+    {
      "name": "안현석"
     },
     {
@@ -372,9 +434,6 @@
     },
     {
      "name": "이후림"
-    },
-    {
-     "name": "박혜원"
     }
    ],
    "color": {
@@ -391,13 +450,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "박준형"
-    },
-    {
      "name": "반정모"
     },
     {
      "name": "이동수"
+    },
+    {
+     "name": "박준형"
     }
    ],
    "color": {
@@ -414,10 +473,10 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이승준"
+     "name": "권태하"
     },
     {
-     "name": "권태하"
+     "name": "이승준"
     },
     {
      "name": "함태규"
@@ -509,12 +568,6 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "김찬종"
-    },
-    {
-     "name": "온주완"
-    },
-    {
      "name": "김한결"
     },
     {
@@ -525,6 +578,12 @@
     },
     {
      "name": "박민주"
+    },
+    {
+     "name": "온주완"
+    },
+    {
+     "name": "김찬종"
     }
    ],
    "color": {
@@ -613,13 +672,15 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "김이담"
+     "name": "김이담",
+     "personId": "35919"
     },
     {
-     "name": "동현"
+     "name": "동현",
+     "personId": "37550"
     }
    ],
    "color": {
@@ -658,6 +719,9 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "박소리"
+    },
+    {
      "name": "김서연"
     },
     {
@@ -665,9 +729,6 @@
     },
     {
      "name": "김이진"
-    },
-    {
-     "name": "박소리"
     }
    ],
    "color": {
@@ -684,13 +745,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이진혁"
-    },
-    {
      "name": "정재환"
     },
     {
      "name": "진호"
+    },
+    {
+     "name": "이진혁"
     }
    ],
    "color": {
@@ -843,6 +904,9 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "정다예"
+    },
+    {
      "name": "현석준"
     },
     {
@@ -850,9 +914,6 @@
     },
     {
      "name": "이주순"
-    },
-    {
-     "name": "정다예"
     },
     {
      "name": "한비"
@@ -909,6 +970,12 @@
      "name": "신의정"
     },
     {
+     "name": "박세훈"
+    },
+    {
+     "name": "김현기"
+    },
+    {
      "name": "표바하"
     },
     {
@@ -916,12 +983,6 @@
     },
     {
      "name": "선한국"
-    },
-    {
-     "name": "박세훈"
-    },
-    {
-     "name": "김현기"
     }
    ],
    "color": {
@@ -1036,10 +1097,10 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "제이민"
+     "name": "정가희"
     },
     {
-     "name": "정가희"
+     "name": "제이민"
     },
     {
      "name": "전해주"

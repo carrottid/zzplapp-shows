@@ -44,5 +44,63 @@
  ],
  "updated": "2025-10-31 11:55:07",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#A73F59",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "강해옥",
+   "name": "정혜선"
+  },
+  {
+   "role": "강해옥",
+   "name": "박정수"
+  },
+  {
+   "role": "이지영",
+   "name": "송선미"
+  },
+  {
+   "role": "이지영",
+   "name": "이태란"
+  },
+  {
+   "role": "김현욱",
+   "name": "정찬"
+  },
+  {
+   "role": "김현욱",
+   "name": "공정환"
+  },
+  {
+   "role": "김태리",
+   "name": "김수연"
+  },
+  {
+   "role": "김태리",
+   "name": "임성언"
+  },
+  {
+   "role": "김민우",
+   "name": "정대성"
+  },
+  {
+   "role": "김민우",
+   "name": "이신행"
+  },
+  {
+   "role": "최하니",
+   "name": "이수연"
+  },
+  {
+   "role": "최하니",
+   "name": "한솔"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424044141/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212432"
+ }
 }

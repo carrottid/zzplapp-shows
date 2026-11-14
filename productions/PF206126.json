@@ -41,5 +41,39 @@
  ],
  "updated": "2023-01-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "노스체",
+   "name": "최희진"
+  },
+  {
+   "role": "옥",
+   "name": "김은희"
+  },
+  {
+   "role": "필",
+   "name": "선명균"
+  },
+  {
+   "role": "연",
+   "name": "박윤정"
+  },
+  {
+   "role": "현",
+   "name": "윤정로"
+  },
+  {
+   "role": "희",
+   "name": "김민주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250714205712/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=183382"
+ }
 }

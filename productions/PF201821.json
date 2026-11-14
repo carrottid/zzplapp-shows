@@ -12,7 +12,7 @@
   "김설진",
   "이동하",
   "오의식",
-  "박은석",
+  "박재윤",
   "길은성",
   "양경원",
   "이시언"
@@ -47,5 +47,47 @@
  ],
  "updated": "2022-11-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8AA3BE",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "남자1",
+   "name": "김설진"
+  },
+  {
+   "role": "남자1",
+   "name": "이동하"
+  },
+  {
+   "role": "남자1",
+   "name": "오의식"
+  },
+  {
+   "role": "남자1",
+   "name": "박재윤"
+  },
+  {
+   "role": "남자2",
+   "name": "길은성"
+  },
+  {
+   "role": "남자2",
+   "name": "양경원"
+  },
+  {
+   "role": "남자2",
+   "name": "이시언"
+  },
+  {
+   "role": "남자2",
+   "name": "차용학"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260509222600/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181309"
+ }
 }

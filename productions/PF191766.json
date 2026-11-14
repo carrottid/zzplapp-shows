@@ -1,0 +1,38 @@
+{
+ "id": "PF191766",
+ "title": "나는 쏘다녔지",
+ "genre": "연극",
+ "from": "2022-05-31",
+ "to": "2022-06-05",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF191766_220526_111727.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "조지현",
+  "김현정",
+  "손현준",
+  "김경호",
+  "김민채"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "김현희, 김애자, 문현정 등",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF191766_220526_1117272.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF191766_220526_1117271.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF191766_220526_1117270.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22006450"
+  }
+ ],
+ "updated": "2022-05-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

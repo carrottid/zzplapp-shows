@@ -55,5 +55,51 @@
  ],
  "updated": "2024-10-07 17:08:25",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#010755",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "경종",
+   "name": "주민진"
+  },
+  {
+   "role": "경종",
+   "name": "박규원"
+  },
+  {
+   "role": "경종",
+   "name": "유승현"
+  },
+  {
+   "role": "연잉군",
+   "name": "김지온"
+  },
+  {
+   "role": "연잉군",
+   "name": "박준휘"
+  },
+  {
+   "role": "연잉군",
+   "name": "홍기범"
+  },
+  {
+   "role": "홍수찬",
+   "name": "강찬"
+  },
+  {
+   "role": "홍수찬",
+   "name": "유태율"
+  },
+  {
+   "role": "홍수찬",
+   "name": "이진혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250718143247/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=205627"
+ }
 }

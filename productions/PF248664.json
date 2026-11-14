@@ -57,5 +57,35 @@
  ],
  "updated": "2024-10-24 10:18:02",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#1B2F5C",
+  "fg": "#F5D152"
+ },
+ "roleCast": [
+  {
+   "role": "빈센트 반 고흐",
+   "name": "정상윤"
+  },
+  {
+   "role": "빈센트 반 고흐",
+   "name": "홍승안"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "황민수"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "박좌헌"
+  },
+  {
+   "role": "테오 반 고흐",
+   "name": "김기택"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260615041627/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207901"
+ }
 }

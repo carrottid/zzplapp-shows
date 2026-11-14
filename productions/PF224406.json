@@ -11,7 +11,7 @@
  "cast": [
   "정상윤",
   "성연",
-  "김진욱",
+  "차윤해",
   "김준호",
   "소정화",
   "박새힘",
@@ -67,7 +67,7 @@
   },
   {
    "role": "이헌",
-   "name": "김진욱"
+   "name": "차윤해"
   },
   {
    "role": "이헌",
@@ -121,5 +121,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3195"
+ },
+ "color": {
+  "bg": "#1B2A4A",
+  "fg": "#FFFFFF"
  }
 }

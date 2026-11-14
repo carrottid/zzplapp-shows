@@ -7,7 +7,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "12:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이준혁"
+    },
+    {
+     "name": "이주희"
+    },
+    {
+     "name": "선우현"
+    },
+    {
+     "name": "나르샤"
+    },
+    {
+     "name": "임창섭"
+    },
+    {
+     "name": "김서희"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF303043",
@@ -321,7 +345,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김소정"
+    },
+    {
+     "name": "김소진"
+    },
+    {
+     "name": "강현동"
+    },
+    {
+     "name": "김준"
+    },
+    {
+     "name": "조재철"
+    },
+    {
+     "name": "여은"
+    },
+    {
+     "name": "한재원"
+    },
+    {
+     "name": "양정현"
+    }
+   ]
   },
   {
    "id": "PF302677",
@@ -384,7 +434,24 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오주언"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "최현희"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -408,7 +475,7 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "14:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
      "name": "임찬민"
@@ -732,14 +799,6 @@
    }
   },
   {
-   "id": "PF305855",
-   "title": "창작ing, 멜로드라마 열차",
-   "genre": "연극",
-   "venue": "국립정동극장 세실 (구.세실극장)",
-   "time": "14:00",
-   "castSource": "none"
-  },
-  {
    "id": "PF296104",
    "title": "콰이어 오브 맨",
    "genre": "뮤지컬",
@@ -854,7 +913,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "정우연"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "전민지"
+    }
+   ],
    "color": {
     "bg": "#C0392B",
     "fg": "#FFFFFF"
@@ -996,7 +1066,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "도연우"
+    },
+    {
+     "name": "서태인"
+    },
+    {
+     "name": "최찬이"
+    },
+    {
+     "name": "한아름"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "송영주"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305824",
@@ -1004,7 +1098,11 @@
    "genre": "연극",
    "venue": "아르코예술극장 (소극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3C5A7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305450",
@@ -1074,7 +1172,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "16:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -1107,6 +1213,29 @@
    "color": {
     "bg": "#111111",
     "fg": "#F2C500"
+   }
+  },
+  {
+   "id": "PF305855",
+   "title": "창작ing, 멜로드라마 열차",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "16:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박지윤"
+    },
+    {
+     "name": "이래인"
+    },
+    {
+     "name": "정대진"
+    }
+   ],
+   "color": {
+    "bg": "#E0287A",
+    "fg": "#FFFFFF"
    }
   },
   {
@@ -1302,7 +1431,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "임강성"
+    },
+    {
+     "name": "김소진"
+    },
+    {
+     "name": "강현동"
+    },
+    {
+     "name": "김준"
+    },
+    {
+     "name": "양정현"
+    },
+    {
+     "name": "김태형"
+    },
+    {
+     "name": "김보미"
+    },
+    {
+     "name": "임지은"
+    }
+   ]
   },
   {
    "id": "PF303594",
@@ -1339,7 +1494,7 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "18:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
      "name": "김담현"
@@ -1546,7 +1701,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "도연우"
+    },
+    {
+     "name": "서태인"
+    },
+    {
+     "name": "최찬이"
+    },
+    {
+     "name": "엄선영"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "김지후"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF303908",
@@ -1636,14 +1815,6 @@
     "bg": "#2E7FA8",
     "fg": "#FFFFFF"
    }
-  },
-  {
-   "id": "PF305855",
-   "title": "창작ing, 멜로드라마 열차",
-   "genre": "연극",
-   "venue": "국립정동극장 세실 (구.세실극장)",
-   "time": "18:00",
-   "castSource": "none"
   },
   {
    "id": "PF296104",
@@ -1760,7 +1931,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "이한별"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "이채원"
+    }
+   ],
    "color": {
     "bg": "#C0392B",
     "fg": "#FFFFFF"
@@ -1851,7 +2033,24 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오주언"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "최현희"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"

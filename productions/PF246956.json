@@ -39,5 +39,79 @@
  ],
  "updated": "2025-01-23 15:33:42",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3F7DA6",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "박지석",
+   "name": "황두현"
+  },
+  {
+   "role": "박지석",
+   "name": "이동수"
+  },
+  {
+   "role": "박지석",
+   "name": "류동휘"
+  },
+  {
+   "role": "박지석",
+   "name": "조용휘"
+  },
+  {
+   "role": "오준혁",
+   "name": "이한솔"
+  },
+  {
+   "role": "오준혁",
+   "name": "최반석"
+  },
+  {
+   "role": "오준혁",
+   "name": "박주혁"
+  },
+  {
+   "role": "정성호",
+   "name": "이종석"
+  },
+  {
+   "role": "정성호",
+   "name": "한승윤"
+  },
+  {
+   "role": "정성호",
+   "name": "박준형"
+  },
+  {
+   "role": "임정민",
+   "name": "이주순"
+  },
+  {
+   "role": "임정민",
+   "name": "김방언"
+  },
+  {
+   "role": "임정민",
+   "name": "신은총"
+  },
+  {
+   "role": "이유석",
+   "name": "영오"
+  },
+  {
+   "role": "이유석",
+   "name": "한상훈"
+  },
+  {
+   "role": "이유석",
+   "name": "조모세"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251212145827/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206746"
+ }
 }

@@ -43,5 +43,75 @@
  ],
  "updated": "2025-01-15 13:57:47",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#232423",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "그윈플렌",
+   "name": "박은태"
+  },
+  {
+   "role": "그윈플렌",
+   "name": "이석훈"
+  },
+  {
+   "role": "그윈플렌",
+   "name": "규현"
+  },
+  {
+   "role": "그윈플렌",
+   "name": "도영"
+  },
+  {
+   "role": "우르수스",
+   "name": "서범석"
+  },
+  {
+   "role": "우르수스",
+   "name": "민영기"
+  },
+  {
+   "role": "데아",
+   "name": "이수빈"
+  },
+  {
+   "role": "데아",
+   "name": "장혜린"
+  },
+  {
+   "role": "조시아나",
+   "name": "리사"
+  },
+  {
+   "role": "조시아나",
+   "name": "김소향"
+  },
+  {
+   "role": "데이빗경",
+   "name": "박시원"
+  },
+  {
+   "role": "데이빗경",
+   "name": "강태을"
+  },
+  {
+   "role": "페드로",
+   "name": "문성혁"
+  },
+  {
+   "role": "",
+   "name": "김영주"
+  },
+  {
+   "role": "",
+   "name": "김지선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250209043855/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=210786"
+ }
 }

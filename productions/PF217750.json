@@ -42,5 +42,23 @@
  ],
  "updated": "2023-05-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#44619E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아브람",
+   "name": "문영동"
+  },
+  {
+   "role": "",
+   "name": "이성희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241214191406/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187891"
+ }
 }

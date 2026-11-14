@@ -56,5 +56,83 @@
  ],
  "updated": "2022-12-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1D1107",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윌 셰익스피어",
+   "name": "정문성"
+  },
+  {
+   "role": "윌 셰익스피어",
+   "name": "이상이"
+  },
+  {
+   "role": "윌 셰익스피어",
+   "name": "김성철"
+  },
+  {
+   "role": "비올라 드 레셉스",
+   "name": "정소민"
+  },
+  {
+   "role": "비올라 드 레셉스",
+   "name": "채수빈"
+  },
+  {
+   "role": "비올라 드 레셉스",
+   "name": "김유정"
+  },
+  {
+   "role": "페니맨",
+   "name": "임철형"
+  },
+  {
+   "role": "페니맨",
+   "name": "송영규"
+  },
+  {
+   "role": "헨슬로",
+   "name": "오용"
+  },
+  {
+   "role": "웨섹스 경",
+   "name": "이호영"
+  },
+  {
+   "role": "웨섹스 경",
+   "name": "김도빈"
+  },
+  {
+   "role": "키트 말로우",
+   "name": "박정원"
+  },
+  {
+   "role": "",
+   "name": "오종훈"
+  },
+  {
+   "role": "",
+   "name": "구름"
+  },
+  {
+   "role": "",
+   "name": "이승복"
+  },
+  {
+   "role": "",
+   "name": "이성훈"
+  },
+  {
+   "role": "",
+   "name": "정인지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250808085300/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=182876"
+ }
 }

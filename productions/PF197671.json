@@ -43,5 +43,43 @@
  ],
  "updated": "2022-09-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#8F6247",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "요하네스 브람스",
+   "name": "강은일"
+  },
+  {
+   "role": "요하네스 브람스",
+   "name": "김지훈"
+  },
+  {
+   "role": "클라라 비크",
+   "name": "박혜민"
+  },
+  {
+   "role": "클라라 비크",
+   "name": "홍미금"
+  },
+  {
+   "role": "로베르트 알렉산더 슈만",
+   "name": "김수용"
+  },
+  {
+   "role": "로베르트 알렉산더 슈만",
+   "name": "김지휘"
+  },
+  {
+   "role": "막스 클링거",
+   "name": "김담현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804230121/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178613"
+ }
 }

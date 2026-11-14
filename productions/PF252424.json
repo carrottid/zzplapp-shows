@@ -43,5 +43,43 @@
  ],
  "updated": "2024-12-06 11:16:53",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#B63031",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "미셸",
+   "name": "김상경"
+  },
+  {
+   "role": "미셸",
+   "name": "이희준"
+  },
+  {
+   "role": "베로니끄",
+   "name": "신동미"
+  },
+  {
+   "role": "베로니끄",
+   "name": "정연"
+  },
+  {
+   "role": "알랭",
+   "name": "민영기"
+  },
+  {
+   "role": "알랭",
+   "name": "조영규"
+  },
+  {
+   "role": "아네뜨",
+   "name": "임강희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251009151936/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209967"
+ }
 }

@@ -42,5 +42,23 @@
  ],
  "updated": "2021-01-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1B3D5C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "서술자 외",
+   "name": "손상규"
+  },
+  {
+   "role": "서술자 외",
+   "name": "윤나무"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618110839/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164557"
+ }
 }

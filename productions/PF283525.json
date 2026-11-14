@@ -40,5 +40,83 @@
  ],
  "updated": "2026-06-04 11:28:34",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4F5B57",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "타마라 드 렘피카",
+   "name": "김선영"
+  },
+  {
+   "role": "타마라 드 렘피카",
+   "name": "박혜나"
+  },
+  {
+   "role": "타마라 드 렘피카",
+   "name": "정선아"
+  },
+  {
+   "role": "라파엘라",
+   "name": "차지연"
+  },
+  {
+   "role": "라파엘라",
+   "name": "린아"
+  },
+  {
+   "role": "라파엘라",
+   "name": "손승연"
+  },
+  {
+   "role": "마리네티",
+   "name": "김호영"
+  },
+  {
+   "role": "마리네티",
+   "name": "조형균"
+  },
+  {
+   "role": "타데우스 렘피키",
+   "name": "김우형"
+  },
+  {
+   "role": "타데우스 렘피키",
+   "name": "김민철"
+  },
+  {
+   "role": "수지 솔리도르",
+   "name": "최정원"
+  },
+  {
+   "role": "수지 솔리도르",
+   "name": "김혜미"
+  },
+  {
+   "role": "남작부인",
+   "name": "김현숙"
+  },
+  {
+   "role": "남작부인",
+   "name": "윤사봉"
+  },
+  {
+   "role": "",
+   "name": "김민수"
+  },
+  {
+   "role": "",
+   "name": "김남수"
+  },
+  {
+   "role": "",
+   "name": "차유은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260417221346/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=226571"
+ }
 }

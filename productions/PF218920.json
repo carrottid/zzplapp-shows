@@ -1,0 +1,85 @@
+{
+ "id": "PF218920",
+ "title": "플레이위드 햄릿",
+ "genre": "연극",
+ "from": "2023-06-23",
+ "to": "2023-07-09",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF218920_230522_172731.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박동욱",
+  "이상홍",
+  "이섬",
+  "김영욱",
+  "임승범",
+  "서성영",
+  "은해성"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "박선희, 장산, 이진석 등",
+ "producer": "소극장 산울림(극단 산울림), 플레이위드",
+ "price": "전석 40,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218920_230522_0527310.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/710845"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006933"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000009980"
+  }
+ ],
+ "updated": "2023-05-22 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "블랙/다크",
+   "name": "박동욱"
+  },
+  {
+   "role": "블랙/다크",
+   "name": "이상홍"
+  },
+  {
+   "role": "레드/앰버",
+   "name": "이섬"
+  },
+  {
+   "role": "레드/앰버",
+   "name": "김영욱"
+  },
+  {
+   "role": "블루/그린",
+   "name": "임승범"
+  },
+  {
+   "role": "블루/그린",
+   "name": "서성영"
+  },
+  {
+   "role": "화이트/핑크",
+   "name": "은해성"
+  },
+  {
+   "role": "화이트/핑크",
+   "name": "신윤재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241014152334/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188553"
+ }
+}

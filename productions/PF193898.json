@@ -35,5 +35,35 @@
  ],
  "updated": "2022-07-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#A36142",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "정연",
+   "name": "송영광"
+  },
+  {
+   "role": "선혜",
+   "name": "차민엽"
+  },
+  {
+   "role": "현구",
+   "name": "홍성락"
+  },
+  {
+   "role": "소영",
+   "name": "신서진"
+  },
+  {
+   "role": "소영",
+   "name": "고한비"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803123915/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=182767"
+ }
 }

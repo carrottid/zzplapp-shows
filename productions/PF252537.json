@@ -38,5 +38,67 @@
  ],
  "updated": "2025-01-16 09:10:39",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#F5C518",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "고애심",
+   "name": "고민지"
+  },
+  {
+   "role": "고풍기",
+   "name": "고용선"
+  },
+  {
+   "role": "김진경",
+   "name": "김보경"
+  },
+  {
+   "role": "김수연",
+   "name": "김언이"
+  },
+  {
+   "role": "박사라",
+   "name": "박미르"
+  },
+  {
+   "role": "이민주",
+   "name": "이강호"
+  },
+  {
+   "role": "",
+   "name": "이시래"
+  },
+  {
+   "role": "",
+   "name": "장우영"
+  },
+  {
+   "role": "",
+   "name": "하민욱"
+  },
+  {
+   "role": "",
+   "name": "하재성"
+  },
+  {
+   "role": "",
+   "name": "한지혜"
+  },
+  {
+   "role": "",
+   "name": "황예원"
+  },
+  {
+   "role": "",
+   "name": "이명열"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516201421/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209819"
+ }
 }

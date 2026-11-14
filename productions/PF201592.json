@@ -1,0 +1,38 @@
+{
+ "id": "PF201592",
+ "title": "딜쿠샤",
+ "genre": "뮤지컬",
+ "from": "2022-12-11",
+ "to": "2022-12-23",
+ "venue": "국립정동극장 세실 (구.세실극장) (국립정동극장 세실 (구.세실극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF201592_221107_151923.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최인형",
+  "하은섬",
+  "이지숙",
+  "구옥분",
+  "조영태",
+  "이성주",
+  "정일현"
+ ],
+ "facilityId": "FC001125",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "맹성연, 박재현, 양준모 등",
+ "price": "전석 20,000원",
+ "schedule": "월요일(19:30), 수요일(16:00,19:30), 목요일(19:30), 금요일(16:00,19:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201592_221110_0438211.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22015387"
+  }
+ ],
+ "updated": "2022-11-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

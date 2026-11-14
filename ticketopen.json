@@ -1,0 +1,232 @@
+{
+  "updatedAt": "2026-11-12T12:12",
+  "items": [
+    {
+      "id": "2026-11-12T15:00|콰이어오브맨|마지막 티켓오픈",
+      "productionId": "PF296104",
+      "title": "콰이어 오브 맨",
+      "name": "마지막 티켓오픈",
+      "openAt": "2026-11-12T15:00",
+      "presales": [
+        {
+          "name": "토핑 선예매",
+          "openAt": "2026-11-12T14:00"
+        }
+      ],
+      "venue": "NOL 씨어터 대학로 우리투자증권홀",
+      "from": "2026-09-18",
+      "to": "2027-01-03",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26009193_p.gif",
+      "vendors": [
+        {
+          "name": "NOL 티켓",
+          "url": "https://nol.yanolja.com/ticket/products/26009193"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13T11:00|수레바퀴아래서|마지막 티켓오픈",
+      "productionId": "PF300598",
+      "title": "수레바퀴 아래서",
+      "name": "마지막 티켓오픈",
+      "openAt": "2026-11-13T11:00",
+      "venue": "SH아트홀",
+      "from": "2026-10-13",
+      "to": "2027-01-03",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300598_260910_131601.jpg",
+      "vendors": [
+        {
+          "name": "티켓링크",
+          "url": "https://www.ticketlink.co.kr/product/65502"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13T11:00|오픈더도어|2차 티켓오픈",
+      "productionId": "PF303908",
+      "title": "오픈 더 도어",
+      "name": "2차 티켓오픈",
+      "openAt": "2026-11-13T11:00",
+      "venue": "예스24아트원 3관",
+      "from": "2026-12-05",
+      "to": "2027-03-07",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26015045_p.gif",
+      "vendors": [
+        {
+          "name": "NOL 티켓",
+          "url": "https://nol.yanolja.com/ticket/products/26015045"
+        },
+        {
+          "name": "예스24",
+          "url": "http://ticket.yes24.com/Perf/60711"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13T13:00|인트라무로스|판매보류석 오픈",
+      "productionId": "PF303133",
+      "title": "인트라 무로스 (INTRA MUROS)",
+      "name": "판매보류석 오픈",
+      "openAt": "2026-11-13T13:00",
+      "venue": "충무아트센터 중극장 블랙",
+      "from": "2026-11-10",
+      "to": "2027-02-14",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014594_p.gif",
+      "vendors": [
+        {
+          "name": "NOL 티켓",
+          "url": "https://nol.yanolja.com/ticket/products/26014594"
+        },
+        {
+          "name": "예스24",
+          "url": "http://ticket.yes24.com/Perf/60587"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13T14:00|두도시이야기|3차 티켓오픈",
+      "productionId": "PF300974",
+      "title": "두 도시 이야기",
+      "name": "3차 티켓오픈",
+      "openAt": "2026-11-13T14:00",
+      "venue": "광림아트센터 BBCH홀",
+      "from": "2026-11-11",
+      "to": "2027-02-08",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26013098_p.gif",
+      "vendors": [
+        {
+          "name": "NOL 티켓",
+          "url": "https://nol.yanolja.com/ticket/products/26013098"
+        },
+        {
+          "name": "예스24",
+          "url": "http://ticket.yes24.com/Perf/60128"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-13T15:00|여신님이보고계셔|2차 티켓오픈",
+      "productionId": "PF303673",
+      "title": "여신님이 보고 계셔",
+      "name": "2차 티켓오픈",
+      "openAt": "2026-11-13T15:00",
+      "presales": [
+        {
+          "name": "연우 선예매",
+          "openAt": "2026-11-13T11:00"
+        },
+        {
+          "name": "토핑 선예매",
+          "openAt": "2026-11-13T14:00"
+        }
+      ],
+      "venue": "NOL 유니플렉스 1관",
+      "from": "2026-11-24",
+      "to": "2027-03-01",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26014511_p.gif",
+      "vendors": [
+        {
+          "name": "NOL 티켓",
+          "url": "https://nol.yanolja.com/ticket/products/26014511"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16T14:00|인간실격사양편|1차 티켓오픈",
+      "productionId": "PF304574",
+      "title": "인간실격: 사양 편",
+      "name": "1차 티켓오픈",
+      "openAt": "2026-11-16T14:00",
+      "venue": "예스24 스테이지 3관",
+      "from": "2026-12-11",
+      "to": "2027-03-07",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304574_261027_130640.jpg",
+      "vendors": [
+        {
+          "name": "예스24",
+          "url": "http://ticket.yes24.com/Perf/60772"
+        },
+        {
+          "name": "티켓링크",
+          "url": "https://www.ticketlink.co.kr/product/66527"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16T15:00|마하고니|티켓오픈",
+      "productionId": "PF301746",
+      "title": "마하고니",
+      "name": "티켓오픈",
+      "openAt": "2026-11-16T15:00",
+      "venue": "링크아트센터 페이코홀",
+      "from": "2026-12-08",
+      "to": "2026-12-09",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301746_260928_114407.jpg",
+      "vendors": [
+        {
+          "name": "티켓링크",
+          "url": "https://www.ticketlink.co.kr/help/notice/66509"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-16T15:00|사춘기|3차 티켓오픈",
+      "productionId": "PF300941",
+      "title": "사춘기",
+      "name": "3차 티켓오픈",
+      "openAt": "2026-11-16T15:00",
+      "venue": "예그린씨어터",
+      "from": "2026-11-09",
+      "to": "2027-01-31",
+      "poster": "https://ticketimage.interpark.com/Play/image/large/26/26013198_p.gif",
+      "vendors": [
+        {
+          "name": "NOL 티켓",
+          "url": "https://nol.yanolja.com/ticket/products/26013198"
+        },
+        {
+          "name": "티켓링크",
+          "url": "https://www.ticketlink.co.kr/product/65623"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-17T15:00|v에버애프터|3차 티켓오픈",
+      "productionId": "PF302270",
+      "title": "V 에버 애프터",
+      "name": "3차 티켓오픈",
+      "openAt": "2026-11-17T15:00",
+      "venue": "링크아트센터드림 드림1관",
+      "from": "2026-10-21",
+      "to": "2027-01-17",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302270_261001_150418.jpg",
+      "vendors": [
+        {
+          "name": "티켓링크",
+          "url": "https://www.ticketlink.co.kr/product/65969"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-20T11:00|풍월주|1차 티켓오픈",
+      "productionId": "PF305499",
+      "title": "풍월주",
+      "name": "1차 티켓오픈",
+      "openAt": "2026-11-20T11:00",
+      "venue": "플러스씨어터",
+      "from": "2026-12-09",
+      "to": "2027-03-01",
+      "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF305499_261105_101442.jpg",
+      "vendors": [
+        {
+          "name": "예스24",
+          "url": "http://ticket.yes24.com/Perf/60967"
+        },
+        {
+          "name": "티켓링크",
+          "url": "https://www.ticketlink.co.kr/product/66746"
+        }
+      ]
+    }
+  ]
+}

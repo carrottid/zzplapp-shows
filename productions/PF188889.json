@@ -43,5 +43,47 @@
  ],
  "updated": "2022-04-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1C1C1D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "닉",
+   "name": "김주헌"
+  },
+  {
+   "role": "닉",
+   "name": "성태준"
+  },
+  {
+   "role": "바시르",
+   "name": "김동원"
+  },
+  {
+   "role": "바시르",
+   "name": "장인섭"
+  },
+  {
+   "role": "이맘 살림",
+   "name": "김용준"
+  },
+  {
+   "role": "이맘 살림",
+   "name": "이종무"
+  },
+  {
+   "role": "다르",
+   "name": "류원준"
+  },
+  {
+   "role": "다르",
+   "name": "황규찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250712070501/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173418"
+ }
 }

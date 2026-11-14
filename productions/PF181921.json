@@ -35,5 +35,59 @@
  ],
  "updated": "2021-10-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#606057",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "카세 나루미",
+   "name": "한송희"
+  },
+  {
+   "role": "카세 신지",
+   "name": "윤성원"
+  },
+  {
+   "role": "사쿠라이 쇼조",
+   "name": "권동호"
+  },
+  {
+   "role": "사쿠라이 쇼조",
+   "name": "이강우"
+  },
+  {
+   "role": "아마노 마코토",
+   "name": "장세환"
+  },
+  {
+   "role": "타치바나 아키라",
+   "name": "한수림"
+  },
+  {
+   "role": "후나코시 아스미",
+   "name": "김희연"
+  },
+  {
+   "role": "후나코시 아스미",
+   "name": "김대웅"
+  },
+  {
+   "role": "",
+   "name": "고영민"
+  },
+  {
+   "role": "",
+   "name": "임현국"
+  },
+  {
+   "role": "",
+   "name": "김연우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240921000435/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166506"
+ }
 }

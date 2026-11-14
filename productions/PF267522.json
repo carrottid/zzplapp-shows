@@ -35,5 +35,27 @@
  ],
  "updated": "2025-09-19 11:42:42",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#F2C230",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "아드리앙",
+   "name": "윤나무"
+  },
+  {
+   "role": "아드리앙",
+   "name": "강기둥"
+  },
+  {
+   "role": "아드리앙",
+   "name": "강승호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251125150102/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=218303"
+ }
 }

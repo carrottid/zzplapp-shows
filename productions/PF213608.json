@@ -1,0 +1,50 @@
+{
+ "id": "PF213608",
+ "title": "스물아홉",
+ "genre": "뮤지컬",
+ "from": "2023-03-01",
+ "to": "2023-03-05",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF213608_230220_112309.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "손경미",
+  "김정연",
+  "주승진",
+  "박예찬",
+  "박준우",
+  "홍준영",
+  "신지원"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "이강윤, 이서아",
+ "producer": "비온뒤",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:00), HOL(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213608_230220_1123090.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213608_230220_1124354.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213608_230220_1124353.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213608_230220_1124352.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/848675"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23002307"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD22642"
+  }
+ ],
+ "updated": "2023-02-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

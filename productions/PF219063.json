@@ -61,5 +61,55 @@
  ],
  "updated": "2023-05-24 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1D7AC8",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "알린",
+   "name": "이경미"
+  },
+  {
+   "role": "알리",
+   "name": "유유진"
+  },
+  {
+   "role": "베니",
+   "name": "정원조"
+  },
+  {
+   "role": "루비",
+   "name": "최나라"
+  },
+  {
+   "role": "알리엄마",
+   "name": "박윤정"
+  },
+  {
+   "role": "칼",
+   "name": "서우진"
+  },
+  {
+   "role": "",
+   "name": "강신구"
+  },
+  {
+   "role": "",
+   "name": "김신기"
+  },
+  {
+   "role": "",
+   "name": "이승우"
+  },
+  {
+   "role": "",
+   "name": "구도균"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250617233935/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188640"
+ }
 }

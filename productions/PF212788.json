@@ -43,5 +43,63 @@
  ],
  "updated": "2023-02-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#131313",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "A",
+   "name": "송옥숙"
+  },
+  {
+   "role": "A",
+   "name": "황석정"
+  },
+  {
+   "role": "A",
+   "name": "김선화"
+  },
+  {
+   "role": "B",
+   "name": "서영희"
+  },
+  {
+   "role": "B",
+   "name": "백현주"
+  },
+  {
+   "role": "B",
+   "name": "방주란"
+  },
+  {
+   "role": "C",
+   "name": "이일화"
+  },
+  {
+   "role": "C",
+   "name": "임강희"
+  },
+  {
+   "role": "C",
+   "name": "황순미"
+  },
+  {
+   "role": "D",
+   "name": "함은정"
+  },
+  {
+   "role": "D",
+   "name": "박정원"
+  },
+  {
+   "role": "D",
+   "name": "김주연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251113051958/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=184473"
+ }
 }

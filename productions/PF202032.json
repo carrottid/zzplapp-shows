@@ -58,5 +58,95 @@
  ],
  "updated": "2022-11-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아르까지나",
+   "name": "이항나"
+  },
+  {
+   "role": "아르까지나",
+   "name": "소유진"
+  },
+  {
+   "role": "뜨리고린",
+   "name": "오만석"
+  },
+  {
+   "role": "뜨리고린",
+   "name": "권해성"
+  },
+  {
+   "role": "뜨레블례프",
+   "name": "정동화"
+  },
+  {
+   "role": "뜨레블례프",
+   "name": "권화운"
+  },
+  {
+   "role": "니나",
+   "name": "진지희"
+  },
+  {
+   "role": "니나",
+   "name": "김서안"
+  },
+  {
+   "role": "쏘린",
+   "name": "이순재"
+  },
+  {
+   "role": "쏘린",
+   "name": "주호성"
+  },
+  {
+   "role": "도른",
+   "name": "김수로"
+  },
+  {
+   "role": "도른",
+   "name": "이윤건"
+  },
+  {
+   "role": "",
+   "name": "강성진"
+  },
+  {
+   "role": "",
+   "name": "이계구"
+  },
+  {
+   "role": "",
+   "name": "이경실"
+  },
+  {
+   "role": "",
+   "name": "고수희"
+  },
+  {
+   "role": "",
+   "name": "신도현"
+  },
+  {
+   "role": "",
+   "name": "김나영"
+  },
+  {
+   "role": "",
+   "name": "전대현"
+  },
+  {
+   "role": "",
+   "name": "김아론"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250515072105/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180767"
+ }
 }

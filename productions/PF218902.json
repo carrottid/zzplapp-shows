@@ -1,0 +1,76 @@
+{
+ "id": "PF218902",
+ "title": "두만이 태만이",
+ "genre": "연극",
+ "from": "2023-06-28",
+ "to": "2023-07-09",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF218902_230616_103901.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김형균",
+  "강민석",
+  "이태윤",
+  "김율",
+  "김태영",
+  "연우석"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "박유정, 나호성, 임순택 등",
+ "producer": "(주) 후플러스(Who+), 극단 그림일기",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(16:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218902_230616_1039011.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/582359"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006589"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5158"
+  }
+ ],
+ "updated": "2023-05-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "두만",
+   "name": "김형균"
+  },
+  {
+   "role": "두만",
+   "name": "이태윤"
+  },
+  {
+   "role": "두만",
+   "name": "연우석"
+  },
+  {
+   "role": "태만",
+   "name": "강민석"
+  },
+  {
+   "role": "태만",
+   "name": "김율"
+  },
+  {
+   "role": "태만",
+   "name": "김태영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240415085939/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188203"
+ }
+}

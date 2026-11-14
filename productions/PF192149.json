@@ -35,5 +35,51 @@
  ],
  "updated": "2022-06-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#535F70",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조",
+   "name": "신성민"
+  },
+  {
+   "role": "조",
+   "name": "김선호"
+  },
+  {
+   "role": "조",
+   "name": "이휘종"
+  },
+  {
+   "role": "새라",
+   "name": "이진희"
+  },
+  {
+   "role": "새라",
+   "name": "손지윤"
+  },
+  {
+   "role": "사이먼",
+   "name": "오정택"
+  },
+  {
+   "role": "사이먼",
+   "name": "정환"
+  },
+  {
+   "role": "리처드",
+   "name": "조훈"
+  },
+  {
+   "role": "리처드",
+   "name": "정지우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250522195907/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175096"
+ }
 }

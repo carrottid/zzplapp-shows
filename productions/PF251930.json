@@ -47,5 +47,79 @@
  ],
  "updated": "2025-05-27 10:58:03",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#757170",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "드라큘라",
+   "name": "김법래"
+  },
+  {
+   "role": "드라큘라",
+   "name": "테이"
+  },
+  {
+   "role": "드라큘라",
+   "name": "최진혁"
+  },
+  {
+   "role": "반헬싱",
+   "name": "김형묵"
+  },
+  {
+   "role": "반헬싱",
+   "name": "김준현"
+  },
+  {
+   "role": "아드리아나",
+   "name": "김아선"
+  },
+  {
+   "role": "아드리아나",
+   "name": "정명은"
+  },
+  {
+   "role": "디미트루",
+   "name": "후이"
+  },
+  {
+   "role": "디미트루",
+   "name": "남우현"
+  },
+  {
+   "role": "디미트루",
+   "name": "상연"
+  },
+  {
+   "role": "디미트루",
+   "name": "유태양"
+  },
+  {
+   "role": "",
+   "name": "원혁"
+  },
+  {
+   "role": "로레인",
+   "name": "여은"
+  },
+  {
+   "role": "로레인",
+   "name": "이윤하"
+  },
+  {
+   "role": "",
+   "name": "김형석"
+  },
+  {
+   "role": "",
+   "name": "이하연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250419121530/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209651"
+ }
 }

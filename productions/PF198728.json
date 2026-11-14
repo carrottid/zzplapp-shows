@@ -1,0 +1,38 @@
+{
+ "id": "PF198728",
+ "title": "쵸크",
+ "genre": "연극",
+ "from": "2022-10-06",
+ "to": "2022-10-16",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF198728_220926_110459.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "노윤정",
+  "한해린"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 10분",
+ "age": "만 11세 이상",
+ "crew": "이필주, 노윤정, 권미령 등",
+ "producer": "극단 냇돌",
+ "price": "전석 30,000원",
+ "schedule": "월요일(15:00), 수요일 ~ 금요일(16:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198728_220926_1104590.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22012348"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD21713"
+  }
+ ],
+ "updated": "2022-09-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

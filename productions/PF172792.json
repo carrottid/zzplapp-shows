@@ -1,0 +1,73 @@
+{
+ "id": "PF172792",
+ "title": "제6회 SF연극제 낭독극전, 극단적 연극",
+ "genre": "연극",
+ "from": "2021-04-20",
+ "to": "2021-04-22",
+ "venue": "소극장 혜화당 (구. 까망소극장) (소극장 혜화당 (구. 까망소극장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF172792_210324_095720.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고다희",
+  "라선영",
+  "민아람",
+  "서현우",
+  "심진혁",
+  "조현민",
+  "주하성"
+ ],
+ "facilityId": "FC001085",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "양지모, 김민우, 노이슬 등",
+ "producer": "극단 도움닫기 (구. 프로젝트 럼버잭)",
+ "price": "전석 10,000원",
+ "schedule": "화요일 ~ 목요일(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF172792_210324_0957200.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21002229"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD17813"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1400"
+  }
+ ],
+ "updated": "2021-03-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "배우2,사회자",
+   "name": "고다희"
+  },
+  {
+   "role": "배우1,모모,고도",
+   "name": "라선영"
+  },
+  {
+   "role": "파파,도슨트,배우6",
+   "name": "민아람"
+  },
+  {
+   "role": "연출",
+   "name": "심진혁"
+  },
+  {
+   "role": "배우4,삥땅",
+   "name": "조현민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250515064444/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164703"
+ }
+}

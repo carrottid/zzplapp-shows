@@ -1,0 +1,59 @@
+{
+ "id": "PF171066",
+ "title": "자이니치",
+ "genre": "연극",
+ "from": "2021-01-21",
+ "to": "2021-01-31",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171066_210118_101255.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "권태원",
+  "이웅호",
+  "문태수",
+  "윤상현",
+  "유재동"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 30분",
+ "age": "만 8세 이상",
+ "crew": "김유신정, 차현석, 이재민 등",
+ "producer": "JH대학로무대",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(17:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171066_210118_1012550.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000150"
+  }
+ ],
+ "updated": "2021-02-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "셋째",
+   "name": "윤상현"
+  },
+  {
+   "role": "넷째",
+   "name": "문태수"
+  },
+  {
+   "role": "막내",
+   "name": "유재동"
+  },
+  {
+   "role": "한국인 사채업자",
+   "name": "이웅호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250807001747/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162660"
+ }
+}

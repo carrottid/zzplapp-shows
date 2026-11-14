@@ -39,5 +39,67 @@
  ],
  "updated": "2025-01-23 17:26:12",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#102531",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "홍련",
+   "name": "한재아"
+  },
+  {
+   "role": "홍련",
+   "name": "김이후"
+  },
+  {
+   "role": "홍련",
+   "name": "홍나현"
+  },
+  {
+   "role": "바리",
+   "name": "이아름솔"
+  },
+  {
+   "role": "바리",
+   "name": "김경민"
+  },
+  {
+   "role": "바리",
+   "name": "이지연"
+  },
+  {
+   "role": "강림",
+   "name": "고상호"
+  },
+  {
+   "role": "강림",
+   "name": "신창주"
+  },
+  {
+   "role": "강림",
+   "name": "이종영"
+  },
+  {
+   "role": "월직차사",
+   "name": "김대현"
+  },
+  {
+   "role": "월직차사",
+   "name": "임태현"
+  },
+  {
+   "role": "일직차사",
+   "name": "신윤철"
+  },
+  {
+   "role": "일직차사",
+   "name": "정백선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241114073816/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=204816"
+ }
 }

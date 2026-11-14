@@ -51,5 +51,55 @@
  ],
  "updated": "2022-04-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#9936B0",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "정하람",
+   "name": "온유"
+  },
+  {
+   "role": "정하람",
+   "name": "하성운"
+  },
+  {
+   "role": "정하람",
+   "name": "진호"
+  },
+  {
+   "role": "정하람",
+   "name": "송건희"
+  },
+  {
+   "role": "",
+   "name": "Y"
+  },
+  {
+   "role": "서해나",
+   "name": "김남주"
+  },
+  {
+   "role": "서해나",
+   "name": "이상아"
+  },
+  {
+   "role": "서해나",
+   "name": "권은비"
+  },
+  {
+   "role": "",
+   "name": "신혜민"
+  },
+  {
+   "role": "",
+   "name": "허지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250317210307/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173616"
+ }
 }

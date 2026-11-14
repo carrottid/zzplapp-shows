@@ -47,5 +47,47 @@
  ],
  "updated": "2024-03-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2E2E2E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "앨리스",
+   "name": "안소희"
+  },
+  {
+   "role": "앨리스",
+   "name": "김주연"
+  },
+  {
+   "role": "댄",
+   "name": "최석진"
+  },
+  {
+   "role": "댄",
+   "name": "유현석"
+  },
+  {
+   "role": "안나",
+   "name": "이진희"
+  },
+  {
+   "role": "안나",
+   "name": "진서연"
+  },
+  {
+   "role": "래리",
+   "name": "이상윤"
+  },
+  {
+   "role": "래리",
+   "name": "김다흰"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717151807/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200239"
+ }
 }

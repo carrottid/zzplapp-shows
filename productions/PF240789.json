@@ -51,5 +51,79 @@
  ],
  "updated": "2024-05-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#131A1D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "애쉬",
+   "name": "장지후"
+  },
+  {
+   "role": "애쉬",
+   "name": "기세중"
+  },
+  {
+   "role": "애쉬",
+   "name": "배나라"
+  },
+  {
+   "role": "애니/셀리",
+   "name": "린지"
+  },
+  {
+   "role": "애니/셀리",
+   "name": "안상은"
+  },
+  {
+   "role": "스캇",
+   "name": "서동진"
+  },
+  {
+   "role": "스캇",
+   "name": "조권"
+  },
+  {
+   "role": "셰럴",
+   "name": "송나영"
+  },
+  {
+   "role": "셰럴",
+   "name": "김단이"
+  },
+  {
+   "role": "린다",
+   "name": "정다예"
+  },
+  {
+   "role": "린다",
+   "name": "이상아"
+  },
+  {
+   "role": "제이크",
+   "name": "김지훈"
+  },
+  {
+   "role": "제이크",
+   "name": "이경욱"
+  },
+  {
+   "role": "",
+   "name": "주민우"
+  },
+  {
+   "role": "",
+   "name": "이건희"
+  },
+  {
+   "role": "",
+   "name": "김경목"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260113080745/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202692"
+ }
 }

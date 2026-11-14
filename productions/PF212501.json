@@ -62,5 +62,35 @@
  ],
  "updated": "2023-02-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4A3A36",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아메드",
+   "name": "정원조"
+  },
+  {
+   "role": "하딜",
+   "name": "김유림"
+  },
+  {
+   "role": "유세프",
+   "name": "김세환"
+  },
+  {
+   "role": "바나",
+   "name": "이다해"
+  },
+  {
+   "role": "통역사",
+   "name": "이승우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231129090755/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=184634"
+ }
 }

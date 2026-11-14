@@ -34,5 +34,55 @@
  ],
  "updated": "2022-12-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "표도르",
+   "name": "임동진"
+  },
+  {
+   "role": "드미트리",
+   "name": "윤여성"
+  },
+  {
+   "role": "그리고리",
+   "name": "강희영"
+  },
+  {
+   "role": "미하일",
+   "name": "이윤상"
+  },
+  {
+   "role": "마르파",
+   "name": "조정은"
+  },
+  {
+   "role": "이반",
+   "name": "오승현"
+  },
+  {
+   "role": "",
+   "name": "조소현"
+  },
+  {
+   "role": "",
+   "name": "송하민"
+  },
+  {
+   "role": "",
+   "name": "김동윤"
+  },
+  {
+   "role": "",
+   "name": "한지율"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516202416/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=182236"
+ }
 }

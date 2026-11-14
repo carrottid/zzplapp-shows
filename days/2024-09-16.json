@@ -2,12 +2,24 @@
  "date": "2024-09-16",
  "sessions": [
   {
+   "id": "PF246583",
+   "title": "창작ing 일곱 번째, 굿모닝 홍콩",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF247254",
    "title": "마우스트랩",
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF243081",
@@ -15,7 +27,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A2B18",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF245726",
@@ -23,7 +39,11 @@
    "genre": "연극",
    "venue": "산울림소극장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#717070",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

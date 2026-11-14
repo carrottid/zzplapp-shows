@@ -43,5 +43,59 @@
  ],
  "updated": "2023-12-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#D9420D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "가은비",
+   "name": "정인지"
+  },
+  {
+   "role": "가은비",
+   "name": "최수진"
+  },
+  {
+   "role": "가은비",
+   "name": "김이후"
+  },
+  {
+   "role": "후량",
+   "name": "조풍래"
+  },
+  {
+   "role": "후량",
+   "name": "조훈"
+  },
+  {
+   "role": "매화",
+   "name": "정다예"
+  },
+  {
+   "role": "매화",
+   "name": "장보람"
+  },
+  {
+   "role": "계화",
+   "name": "백예은"
+  },
+  {
+   "role": "계화",
+   "name": "곽나윤"
+  },
+  {
+   "role": "강아지",
+   "name": "이찬렬"
+  },
+  {
+   "role": "강아지",
+   "name": "류찬열"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251114195302/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=197410"
+ }
 }

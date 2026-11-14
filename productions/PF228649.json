@@ -44,5 +44,71 @@
  ],
  "updated": "2023-10-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#16191E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤이선",
+   "name": "홍광호"
+  },
+  {
+   "role": "윤이선",
+   "name": "박은태"
+  },
+  {
+   "role": "윤이선",
+   "name": "서경수"
+  },
+  {
+   "role": "서진연",
+   "name": "김지현"
+  },
+  {
+   "role": "서진연",
+   "name": "박지연"
+  },
+  {
+   "role": "서진연",
+   "name": "홍지희"
+  },
+  {
+   "role": "이수한",
+   "name": "전재홍"
+  },
+  {
+   "role": "이수한",
+   "name": "신성민"
+  },
+  {
+   "role": "최철",
+   "name": "최호중"
+  },
+  {
+   "role": "베커 여사",
+   "name": "브룩 프린스"
+  },
+  {
+   "role": "베커 여사",
+   "name": "아드리아나 토메우"
+  },
+  {
+   "role": "",
+   "name": "남궁혜인"
+  },
+  {
+   "role": "",
+   "name": "김수영"
+  },
+  {
+   "role": "",
+   "name": "김한비"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250515062024/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195191"
+ }
 }

@@ -35,5 +35,47 @@
  ],
  "updated": "2022-10-17 17:29:04",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#3A444F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "안중근",
+   "name": "정성화"
+  },
+  {
+   "role": "안중근",
+   "name": "양준모"
+  },
+  {
+   "role": "안중근",
+   "name": "민우혁"
+  },
+  {
+   "role": "이토 히로부미",
+   "name": "김도형"
+  },
+  {
+   "role": "이토 히로부미",
+   "name": "서영주"
+  },
+  {
+   "role": "이토 히로부미",
+   "name": "최민철"
+  },
+  {
+   "role": "설희",
+   "name": "정재은"
+  },
+  {
+   "role": "설희",
+   "name": "린지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230930053435/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180116"
+ }
 }

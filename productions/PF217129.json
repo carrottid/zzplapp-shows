@@ -42,5 +42,23 @@
  ],
  "updated": "2023-04-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#E6A900",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "아드리앙",
+   "name": "윤나무"
+  },
+  {
+   "role": "아드리앙",
+   "name": "강기둥"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251205145207/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187499"
+ }
 }

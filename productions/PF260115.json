@@ -43,5 +43,79 @@
  ],
  "updated": "2025-05-27 13:50:43",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1E2D52",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "티모스",
+   "name": "전성우"
+  },
+  {
+   "role": "티모스",
+   "name": "윤은오"
+  },
+  {
+   "role": "티모스",
+   "name": "이석준"
+  },
+  {
+   "role": "다나에/시타스",
+   "name": "송상은"
+  },
+  {
+   "role": "다나에/시타스",
+   "name": "이수빈"
+  },
+  {
+   "role": "다나에/시타스",
+   "name": "장민제"
+  },
+  {
+   "role": "페테고레/파빌로스/왕",
+   "name": "김도빈"
+  },
+  {
+   "role": "페테고레/파빌로스/왕",
+   "name": "김대현"
+  },
+  {
+   "role": "페테고레/파빌로스/왕",
+   "name": "이형훈"
+  },
+  {
+   "role": "Whisper(대지)",
+   "name": "강연정"
+  },
+  {
+   "role": "Whisper(대지)",
+   "name": "송나영"
+  },
+  {
+   "role": "Whisper(바람)",
+   "name": "임태현"
+  },
+  {
+   "role": "Whisper(바람)",
+   "name": "조성필"
+  },
+  {
+   "role": "Whisper(바람)",
+   "name": "김태환"
+  },
+  {
+   "role": "Whisper(물)",
+   "name": "이휴"
+  },
+  {
+   "role": "Whisper(물)",
+   "name": "이정화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260105162150/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214406"
+ }
 }

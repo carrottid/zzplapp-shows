@@ -44,5 +44,31 @@
  ],
  "updated": "2023-12-05 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "캐시",
+   "name": "민경아"
+  },
+  {
+   "role": "캐시",
+   "name": "박지연"
+  },
+  {
+   "role": "제이미",
+   "name": "이충주"
+  },
+  {
+   "role": "제이미",
+   "name": "최재림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240914112029/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196920"
+ }
 }

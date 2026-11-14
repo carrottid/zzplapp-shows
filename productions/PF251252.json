@@ -42,5 +42,59 @@
  ],
  "updated": "2024-12-09 11:04:35",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#550D11",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "케이",
+   "name": "김순택"
+  },
+  {
+   "role": "케이",
+   "name": "권오성"
+  },
+  {
+   "role": "푸욱",
+   "name": "김윤하"
+  },
+  {
+   "role": "푸욱",
+   "name": "최원종"
+  },
+  {
+   "role": "푸욱",
+   "name": "김찰리"
+  },
+  {
+   "role": "샤론",
+   "name": "이하린"
+  },
+  {
+   "role": "샤론",
+   "name": "정아인"
+  },
+  {
+   "role": "샤론",
+   "name": "이도경"
+  },
+  {
+   "role": "제이",
+   "name": "김담현"
+  },
+  {
+   "role": "제이",
+   "name": "강인대"
+  },
+  {
+   "role": "제이",
+   "name": "봉경복"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260607165159/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209367"
+ }
 }

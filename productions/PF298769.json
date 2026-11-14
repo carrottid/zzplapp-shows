@@ -1,0 +1,51 @@
+{
+ "id": "PF298769",
+ "title": "서울어텀페스타, 당신의 손",
+ "genre": "연극",
+ "from": "2026-09-04",
+ "to": "2026-09-20",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298769_260818_170014.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "남권아",
+  "안다정",
+  "정의천"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 35분",
+ "age": "만 13세 이상",
+ "crew": "김수희, 이창원, 박그림 등",
+ "producer": "코르코르디움",
+ "price": "전석 40,000원",
+ "schedule": "월요일 ~ 수요일(19:30), 금요일(16:00,19:30), 토요일 ~ 일요일(15:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF298769_202608180502142910.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13977"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1717377"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26011952"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD30713"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1787017323"
+  }
+ ],
+ "updated": "2026-09-08 10:51:22",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

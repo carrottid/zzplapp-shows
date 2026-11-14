@@ -51,5 +51,147 @@
  ],
  "updated": "2025-05-08 14:00:14",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "배우",
+   "name": "박정자"
+  },
+  {
+   "role": "배우",
+   "name": "박상원"
+  },
+  {
+   "role": "배우",
+   "name": "남명렬"
+  },
+  {
+   "role": "배우",
+   "name": "송옥숙"
+  },
+  {
+   "role": "",
+   "name": "김경일"
+  },
+  {
+   "role": "",
+   "name": "이건명"
+  },
+  {
+   "role": "",
+   "name": "이석준"
+  },
+  {
+   "role": "",
+   "name": "박호산"
+  },
+  {
+   "role": "",
+   "name": "오용"
+  },
+  {
+   "role": "",
+   "name": "홍경민"
+  },
+  {
+   "role": "",
+   "name": "하도권"
+  },
+  {
+   "role": "",
+   "name": "박기영"
+  },
+  {
+   "role": "",
+   "name": "지현준"
+  },
+  {
+   "role": "",
+   "name": "김동완"
+  },
+  {
+   "role": "",
+   "name": "김다현"
+  },
+  {
+   "role": "",
+   "name": "최영준"
+  },
+  {
+   "role": "",
+   "name": "임강성"
+  },
+  {
+   "role": "",
+   "name": "이시언"
+  },
+  {
+   "role": "",
+   "name": "박혜나"
+  },
+  {
+   "role": "",
+   "name": "이엘"
+  },
+  {
+   "role": "",
+   "name": "김찬호"
+  },
+  {
+   "role": "",
+   "name": "김재욱"
+  },
+  {
+   "role": "",
+   "name": "정동화"
+  },
+  {
+   "role": "",
+   "name": "주민진"
+  },
+  {
+   "role": "",
+   "name": "최연우"
+  },
+  {
+   "role": "",
+   "name": "한지은"
+  },
+  {
+   "role": "",
+   "name": "박정원"
+  },
+  {
+   "role": "",
+   "name": "송유택"
+  },
+  {
+   "role": "",
+   "name": "강형석"
+  },
+  {
+   "role": "",
+   "name": "원태민"
+  },
+  {
+   "role": "",
+   "name": "최정우"
+  },
+  {
+   "role": "",
+   "name": "문유강"
+  },
+  {
+   "role": "",
+   "name": "김도연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260615041730/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216171"
+ }
 }

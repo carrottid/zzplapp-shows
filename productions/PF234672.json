@@ -63,5 +63,39 @@
  ],
  "updated": "2024-11-06 14:55:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#F2B820",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "조정석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "유연석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "전동석"
+  },
+  {
+   "role": "이츠학",
+   "name": "장은아"
+  },
+  {
+   "role": "이츠학",
+   "name": "이예은"
+  },
+  {
+   "role": "이츠학",
+   "name": "여은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250515065623/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198805"
+ }
 }

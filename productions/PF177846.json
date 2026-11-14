@@ -61,5 +61,63 @@
  ],
  "updated": "2021-08-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#111010",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "강산",
+   "name": "박영수"
+  },
+  {
+   "role": "강산",
+   "name": "조성윤"
+  },
+  {
+   "role": "강호",
+   "name": "현석준"
+  },
+  {
+   "role": "강호",
+   "name": "최민우"
+  },
+  {
+   "role": "강호",
+   "name": "윤은오"
+  },
+  {
+   "role": "병연",
+   "name": "제이민"
+  },
+  {
+   "role": "병연",
+   "name": "여은"
+  },
+  {
+   "role": "병연",
+   "name": "장민제"
+  },
+  {
+   "role": "두치",
+   "name": "최호승"
+  },
+  {
+   "role": "두치",
+   "name": "조현우"
+  },
+  {
+   "role": "마사오 외",
+   "name": "김윤하"
+  },
+  {
+   "role": "명희 외",
+   "name": "백예은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250518012610/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166852"
+ }
 }

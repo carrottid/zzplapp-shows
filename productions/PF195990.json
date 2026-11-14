@@ -1,0 +1,75 @@
+{
+ "id": "PF195990",
+ "title": "반쪼가리 자작",
+ "genre": "연극",
+ "from": "2022-09-02",
+ "to": "2022-09-25",
+ "venue": "국립극단 [용산] (백성희장민호극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF195990_220810_100501.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이경민",
+  "김륜호",
+  "김상보",
+  "장원경",
+  "전민영",
+  "최예경",
+  "백효성"
+ ],
+ "facilityId": "FC001111",
+ "runtime": "1시간 35분",
+ "age": "만 7세 이상",
+ "crew": "박성찬, 배미진, 김종석 등",
+ "producer": "창작조직 성찬파",
+ "price": "전석 35,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 금요일 ~ 일요일(15:00)",
+ "images": [],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/257106"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010363"
+  }
+ ],
+ "updated": "2022-08-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "배우1",
+   "name": "김상보"
+  },
+  {
+   "role": "배우2",
+   "name": "장원경"
+  },
+  {
+   "role": "배우3",
+   "name": "이경민"
+  },
+  {
+   "role": "배우3",
+   "name": "김륜호"
+  },
+  {
+   "role": "배우4",
+   "name": "전민영"
+  },
+  {
+   "role": "배우5",
+   "name": "최예경"
+  },
+  {
+   "role": "배우6",
+   "name": "백준헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251113055328/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181181"
+ }
+}

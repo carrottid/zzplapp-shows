@@ -14,7 +14,7 @@
   "이시언",
   "차용학",
   "오의식",
-  "박은석"
+  "박재윤"
  ],
  "facilityId": "FC001877",
  "runtime": "1시간 40분",
@@ -46,5 +46,39 @@
  ],
  "updated": "2021-12-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3F53A7",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "남자1",
+   "name": "오의식"
+  },
+  {
+   "role": "남자1",
+   "name": "박재윤"
+  },
+  {
+   "role": "남자1",
+   "name": "김설진"
+  },
+  {
+   "role": "남자2",
+   "name": "이시언"
+  },
+  {
+   "role": "남자2",
+   "name": "이희준"
+  },
+  {
+   "role": "남자2",
+   "name": "차용학"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260418223330/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170712"
+ }
 }

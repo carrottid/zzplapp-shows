@@ -50,5 +50,27 @@
  ],
  "updated": "2023-03-29 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8A5A12",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "와일드 외",
+   "name": "양지원"
+  },
+  {
+   "role": "와일드 외",
+   "name": "홍승안"
+  },
+  {
+   "role": "와일드 외",
+   "name": "이휘종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260306175641/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186647"
+ }
 }

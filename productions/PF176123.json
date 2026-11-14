@@ -37,5 +37,35 @@
  ],
  "updated": "2021-06-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0A0504",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "루리",
+   "name": "이윤재"
+  },
+  {
+   "role": "루시",
+   "name": "이세영"
+  },
+  {
+   "role": "베브 쇼 외",
+   "name": "윤현길"
+  },
+  {
+   "role": "페트루스 외",
+   "name": "마두영"
+  },
+  {
+   "role": "",
+   "name": "이송아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221001055349/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166043"
+ }
 }

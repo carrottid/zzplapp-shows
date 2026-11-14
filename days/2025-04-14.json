@@ -7,6 +7,34 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1F2E",
+    "fg": "#F2C14E"
+   }
+  },
+  {
+   "id": "PF260893",
+   "title": "국립극단 청소년극, 록산느를 위한 발라드",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262091",
+   "title": "안전연극제 불완전",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261812",
+   "title": "안전연극제 불완전, 각방프로젝트: n개의 안전",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -15,7 +43,11 @@
    "genre": "연극",
    "venue": "연우소극장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2E2E2E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF262724",
@@ -23,7 +55,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1F2E",
+    "fg": "#F2C14E"
+   }
   }
  ]
 }

@@ -47,5 +47,95 @@
  ],
  "updated": "2020-10-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#17120E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "안토니오 살리에리",
+   "name": "지현준"
+  },
+  {
+   "role": "안토니오 살리에리",
+   "name": "김재범"
+  },
+  {
+   "role": "안토니오 살리에리",
+   "name": "차지연"
+  },
+  {
+   "role": "볼프강 아마데우스 모차르트",
+   "name": "최재웅"
+  },
+  {
+   "role": "볼프강 아마데우스 모차르트",
+   "name": "백석광"
+  },
+  {
+   "role": "볼프강 아마데우스 모차르트",
+   "name": "박은석"
+  },
+  {
+   "role": "볼프강 아마데우스 모차르트",
+   "name": "김성규"
+  },
+  {
+   "role": "",
+   "name": "강영석"
+  },
+  {
+   "role": "콘스탄체 베버",
+   "name": "이봄소리"
+  },
+  {
+   "role": "콘스탄체 베버",
+   "name": "홍금비"
+  },
+  {
+   "role": "작은 바람들",
+   "name": "김태한"
+  },
+  {
+   "role": "작은 바람들",
+   "name": "육현욱"
+  },
+  {
+   "role": "작은 바람들",
+   "name": "이상훈"
+  },
+  {
+   "role": "작은 바람들",
+   "name": "박소리"
+  },
+  {
+   "role": "",
+   "name": "김하나"
+  },
+  {
+   "role": "",
+   "name": "배훈"
+  },
+  {
+   "role": "카테리나 카발리에리",
+   "name": "유희지"
+  },
+  {
+   "role": "요제프 황제 / 코러스",
+   "name": "한동훈"
+  },
+  {
+   "role": "요제프 황제 / 코러스",
+   "name": "도유안"
+  },
+  {
+   "role": "",
+   "name": "김예진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250617203120/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160139"
+ }
 }

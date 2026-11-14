@@ -39,5 +39,75 @@
  ],
  "updated": "2023-02-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#444334",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "만석",
+   "name": "김늘메"
+  },
+  {
+   "role": "만석",
+   "name": "김대곤"
+  },
+  {
+   "role": "만석",
+   "name": "김건호"
+  },
+  {
+   "role": "천석",
+   "name": "테이"
+  },
+  {
+   "role": "천석",
+   "name": "최영우"
+  },
+  {
+   "role": "천석",
+   "name": "서창원"
+  },
+  {
+   "role": "덕수",
+   "name": "태항호"
+  },
+  {
+   "role": "덕수",
+   "name": "심우성"
+  },
+  {
+   "role": "덕수",
+   "name": "정명군"
+  },
+  {
+   "role": "소출",
+   "name": "유일한"
+  },
+  {
+   "role": "소출",
+   "name": "김천"
+  },
+  {
+   "role": "소출",
+   "name": "이형훈"
+  },
+  {
+   "role": "순옥",
+   "name": "서태인"
+  },
+  {
+   "role": "덕자",
+   "name": "조은진"
+  },
+  {
+   "role": "덕자",
+   "name": "곽나윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913131757/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185477"
+ }
 }

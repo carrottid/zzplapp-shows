@@ -1,0 +1,54 @@
+{
+ "id": "PF174817",
+ "title": "우주대스타",
+ "genre": "뮤지컬",
+ "from": "2021-05-25",
+ "to": "2021-06-13",
+ "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF174817_210520_110126.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김순택",
+  "정선기",
+  "영오"
+ ],
+ "facilityId": "FC000098",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "한지안, 박정아, 정선기 등",
+ "producer": "별들의고향",
+ "price": "장미 성운석 55,000원, 말머리 성운석 55,000원, 안드로메다석 55,000원, 밀키웨이석 44,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 목요일(20:00), 토요일(19:00), 일요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174817_210520_1101261.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174817_210520_1101260.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21004079"
+  }
+ ],
+ "updated": "2021-05-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "노바",
+   "name": "김순택"
+  },
+  {
+   "role": "외계인 요원 O126",
+   "name": "영오"
+  },
+  {
+   "role": "펍 오너",
+   "name": "정선기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260607174213/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165304"
+ }
+}

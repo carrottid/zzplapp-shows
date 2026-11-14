@@ -43,5 +43,39 @@
  ],
  "updated": "2022-11-02 16:48:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#B43250",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "질",
+   "name": "송인성"
+  },
+  {
+   "role": "질",
+   "name": "최미소"
+  },
+  {
+   "role": "올리",
+   "name": "배윤범"
+  },
+  {
+   "role": "올리",
+   "name": "오정택"
+  },
+  {
+   "role": "미스 디",
+   "name": "황석정"
+  },
+  {
+   "role": "미스 디",
+   "name": "정다희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521014027/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180763"
+ }
 }

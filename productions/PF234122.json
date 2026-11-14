@@ -1,0 +1,125 @@
+{
+ "id": "PF234122",
+ "title": "다락방",
+ "genre": "연극",
+ "from": "2024-02-06",
+ "to": "2024-02-25",
+ "venue": "미마지아트센터 (눈빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF234122_240118_120559.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "곽지수",
+  "김병규",
+  "황규환",
+  "임지수",
+  "남동욱",
+  "고우진",
+  "김서연"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "2시간 45분",
+ "age": "만 15세 이상",
+ "crew": "최규선, 박정현, 한현수 등",
+ "producer": "백상 白象 Co.",
+ "price": "전석 40,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일(14:00,18:00), 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234122_240118_1205590.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000405"
+  }
+ ],
+ "updated": "2024-01-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "바이어,하루야마",
+   "name": "이재희"
+  },
+  {
+   "role": "바이어,하루야마",
+   "name": "김해리"
+  },
+  {
+   "role": "시체",
+   "name": "황규환"
+  },
+  {
+   "role": "젊은 여자",
+   "name": "오유민"
+  },
+  {
+   "role": "젊은 여자",
+   "name": "임지수"
+  },
+  {
+   "role": "소녀",
+   "name": "김서연"
+  },
+  {
+   "role": "소녀",
+   "name": "김지나"
+  },
+  {
+   "role": "소년",
+   "name": "강은일"
+  },
+  {
+   "role": "여자",
+   "name": "곽지수"
+  },
+  {
+   "role": "",
+   "name": "박상준"
+  },
+  {
+   "role": "",
+   "name": "최원재"
+  },
+  {
+   "role": "",
+   "name": "박보현"
+  },
+  {
+   "role": "",
+   "name": "이한아"
+  },
+  {
+   "role": "",
+   "name": "한현수"
+  },
+  {
+   "role": "",
+   "name": "고우진"
+  },
+  {
+   "role": "",
+   "name": "남동욱"
+  },
+  {
+   "role": "",
+   "name": "김병규"
+  },
+  {
+   "role": "",
+   "name": "이장건"
+  },
+  {
+   "role": "",
+   "name": "이창주"
+  },
+  {
+   "role": "",
+   "name": "배지완"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250515070815/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=197961"
+ }
+}

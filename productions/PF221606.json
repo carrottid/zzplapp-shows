@@ -1,0 +1,40 @@
+{
+ "id": "PF221606",
+ "title": "사라지네",
+ "genre": "연극",
+ "from": "2023-07-17",
+ "to": "2023-07-23",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF221606_230706_142349.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "권귀빈",
+  "이세준",
+  "이해선",
+  "장용현"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 05분",
+ "age": "만 13세 이상",
+ "crew": "황동우, 서형덕, 전하경 등",
+ "price": "전석 20,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221606_230706_0223491.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221606_230706_0223490.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/930199"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2446"
+  }
+ ],
+ "updated": "2023-07-06 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

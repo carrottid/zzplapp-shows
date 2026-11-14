@@ -55,5 +55,79 @@
  ],
  "updated": "2022-11-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#333235",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조지",
+   "name": "정석용"
+  },
+  {
+   "role": "조지",
+   "name": "송재룡"
+  },
+  {
+   "role": "올리버",
+   "name": "강신일"
+  },
+  {
+   "role": "올리버",
+   "name": "박원상"
+  },
+  {
+   "role": "지미",
+   "name": "윤상화"
+  },
+  {
+   "role": "지미",
+   "name": "오용"
+  },
+  {
+   "role": "해리",
+   "name": "김중기"
+  },
+  {
+   "role": "해리",
+   "name": "오대석"
+  },
+  {
+   "role": "라이언 선생",
+   "name": "이대연"
+  },
+  {
+   "role": "라이언 선생",
+   "name": "민성욱"
+  },
+  {
+   "role": "헬렌",
+   "name": "문소리"
+  },
+  {
+   "role": "헬렌",
+   "name": "송선미"
+  },
+  {
+   "role": "",
+   "name": "노기용"
+  },
+  {
+   "role": "",
+   "name": "김두진"
+  },
+  {
+   "role": "",
+   "name": "노수산나"
+  },
+  {
+   "role": "",
+   "name": "김한나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622121226/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181084"
+ }
 }

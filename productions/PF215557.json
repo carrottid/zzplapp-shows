@@ -34,5 +34,63 @@
  ],
  "updated": "2023-03-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#7A6B6F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "어머니",
+   "name": "박경은"
+  },
+  {
+   "role": "아버지",
+   "name": "권태건"
+  },
+  {
+   "role": "크루그",
+   "name": "오두원"
+  },
+  {
+   "role": "총사령관",
+   "name": "김명기"
+  },
+  {
+   "role": "갈렌",
+   "name": "김규도"
+  },
+  {
+   "role": "아테트",
+   "name": "이상숙"
+  },
+  {
+   "role": "",
+   "name": "김혁민"
+  },
+  {
+   "role": "",
+   "name": "이현직"
+  },
+  {
+   "role": "",
+   "name": "김가빈"
+  },
+  {
+   "role": "",
+   "name": "안소영"
+  },
+  {
+   "role": "",
+   "name": "홍수민"
+  },
+  {
+   "role": "",
+   "name": "홍명환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251003112259/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186432"
+ }
 }

@@ -1,0 +1,70 @@
+{
+ "id": "PF272661",
+ "title": "나의 여운에게",
+ "genre": "연극",
+ "from": "2025-09-23",
+ "to": "2025-09-28",
+ "venue": "소극장 혜화당 (구. 까망소극장) (소극장 혜화당 (구. 까망소극장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF272661_250826_135836.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이기창",
+  "김노진",
+  "정유현",
+  "설종환",
+  "김도율",
+  "송은",
+  "양소연"
+ ],
+ "facilityId": "FC001085",
+ "runtime": "1시간 15분",
+ "age": "만 6세 이상",
+ "crew": "임진혁, 김영인, 강건일 등",
+ "producer": "소하컴퍼니(SOHA COMPANY)",
+ "price": "전석 40,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일(20:00), 금요일(16:00,20:00), 토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272661_202508260158365990.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF272661_202508260159079320.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25012319"
+  }
+ ],
+ "updated": "2025-08-26 15:00:03.11229",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "진영",
+   "name": "이기창"
+  },
+  {
+   "role": "여운",
+   "name": "김노진"
+  },
+  {
+   "role": "여운",
+   "name": "정유현"
+  },
+  {
+   "role": "승남",
+   "name": "설종환"
+  },
+  {
+   "role": "여진",
+   "name": "송은"
+  },
+  {
+   "role": "여진",
+   "name": "양소연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250827165354/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=221082"
+ }
+}

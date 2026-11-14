@@ -38,5 +38,47 @@
  ],
  "updated": "2023-03-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#8E5BA6",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이만달",
+   "name": "홍정호"
+  },
+  {
+   "role": "이만달",
+   "name": "한길훈"
+  },
+  {
+   "role": "남자",
+   "name": "전승우"
+  },
+  {
+   "role": "남자",
+   "name": "이원장"
+  },
+  {
+   "role": "여자",
+   "name": "황려진"
+  },
+  {
+   "role": "여자",
+   "name": "노혜영"
+  },
+  {
+   "role": "다정화",
+   "name": "고샛별"
+  },
+  {
+   "role": "다정화",
+   "name": "김도희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250325183454/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185666"
+ }
 }

@@ -39,5 +39,63 @@
  ],
  "updated": "2022-08-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3B1F2B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "데미안",
+   "name": "김도빈"
+  },
+  {
+   "role": "데미안",
+   "name": "조풍래"
+  },
+  {
+   "role": "데미안",
+   "name": "성연"
+  },
+  {
+   "role": "싱클레어",
+   "name": "최호승"
+  },
+  {
+   "role": "싱클레어",
+   "name": "손유동"
+  },
+  {
+   "role": "싱클레어",
+   "name": "강은빈"
+  },
+  {
+   "role": "크나우어",
+   "name": "허영손"
+  },
+  {
+   "role": "크나우어",
+   "name": "서보성"
+  },
+  {
+   "role": "크나우어",
+   "name": "김기택"
+  },
+  {
+   "role": "알폰스 벡",
+   "name": "김기리"
+  },
+  {
+   "role": "알폰스 벡",
+   "name": "오정택"
+  },
+  {
+   "role": "알폰스 벡",
+   "name": "안창용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250327040254/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176941"
+ }
 }

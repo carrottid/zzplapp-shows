@@ -39,5 +39,55 @@
  ],
  "updated": "2021-11-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#5A4E60",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "디아길레프",
+   "name": "김종구"
+  },
+  {
+   "role": "디아길레프",
+   "name": "박민성"
+  },
+  {
+   "role": "디아길레프",
+   "name": "조성윤"
+  },
+  {
+   "role": "브누아",
+   "name": "강정우"
+  },
+  {
+   "role": "브누아",
+   "name": "박정원"
+  },
+  {
+   "role": "브누아",
+   "name": "유현석"
+  },
+  {
+   "role": "니진스키",
+   "name": "권기중"
+  },
+  {
+   "role": "니진스키",
+   "name": "정민찬"
+  },
+  {
+   "role": "스트라빈스키",
+   "name": "최호승"
+  },
+  {
+   "role": "스트라빈스키",
+   "name": "김도하"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250519150332/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168698"
+ }
 }

@@ -44,5 +44,31 @@
  ],
  "updated": "2021-11-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0D1436",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "지그문트 프로이트",
+   "name": "신구"
+  },
+  {
+   "role": "지그문트 프로이트",
+   "name": "오영수"
+  },
+  {
+   "role": "C.S. 루이스",
+   "name": "이상윤"
+  },
+  {
+   "role": "C.S. 루이스",
+   "name": "전박찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250316064717/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170153"
+ }
 }

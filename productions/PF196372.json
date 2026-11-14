@@ -1,0 +1,38 @@
+{
+ "id": "PF196372",
+ "title": "고해",
+ "genre": "연극",
+ "from": "2022-08-17",
+ "to": "2022-08-21",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF196372_220816_155446.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "곽민승",
+  "김창민",
+  "이호경",
+  "정재희",
+  "김선영",
+  "조덕철"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 30분",
+ "age": "만 14세 이상",
+ "crew": "서지환, 김재희, 김정건 등",
+ "producer": "극단 서사",
+ "price": "전석 20,000원",
+ "schedule": "수요일 ~ 금요일(19:00), 토요일(14:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF196372_220816_0354460.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010513"
+  }
+ ],
+ "updated": "2022-08-16 17:26:19",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

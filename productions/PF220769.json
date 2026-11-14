@@ -1,0 +1,45 @@
+{
+ "id": "PF220769",
+ "title": "세자매",
+ "genre": "연극",
+ "from": "2023-07-19",
+ "to": "2023-07-23",
+ "venue": "예그린씨어터 (예그린씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF220769_230623_120115.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "우영희",
+  "이동규",
+  "이경진",
+  "김가은",
+  "이한성",
+  "김건",
+  "이선준"
+ ],
+ "facilityId": "FC001212",
+ "runtime": "3시간",
+ "age": "만 12세 이상",
+ "price": "전석 60,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220769_230623_1201150.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/943697"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008641"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/46447"
+  }
+ ],
+ "updated": "2023-06-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

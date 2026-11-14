@@ -2,12 +2,40 @@
  "date": "2025-09-29",
  "sessions": [
   {
+   "id": "PF271631",
+   "title": "고도를 기다리며",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF272381",
+   "title": "창작ing, 도비왈라",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF273997",
+   "title": "혜화동1번지 동인 페스티벌, 관객 대축제: 착생 안티 식물 고네",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF268919",
    "title": "관부연락선",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B2A41",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF270364",
@@ -15,7 +43,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FF5A5F"
+   }
   },
   {
    "id": "PF274759",
@@ -23,7 +55,11 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E9D8B0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF267527",
@@ -31,7 +67,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#252525",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

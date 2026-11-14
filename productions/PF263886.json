@@ -39,5 +39,67 @@
  ],
  "updated": "2025-05-08 10:48:53",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#097729",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "프리다",
+   "name": "김소향"
+  },
+  {
+   "role": "프리다",
+   "name": "김지우"
+  },
+  {
+   "role": "프리다",
+   "name": "김히어라"
+  },
+  {
+   "role": "프리다",
+   "name": "정유지"
+  },
+  {
+   "role": "레플레하",
+   "name": "전수미"
+  },
+  {
+   "role": "레플레하",
+   "name": "장은아"
+  },
+  {
+   "role": "레플레하",
+   "name": "아이키"
+  },
+  {
+   "role": "데스티노",
+   "name": "이아름솔"
+  },
+  {
+   "role": "데스티노",
+   "name": "이지연"
+  },
+  {
+   "role": "데스티노",
+   "name": "박선영"
+  },
+  {
+   "role": "메모리아",
+   "name": "박시인"
+  },
+  {
+   "role": "메모리아",
+   "name": "허윤슬"
+  },
+  {
+   "role": "메모리아",
+   "name": "유연정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260422134550/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216535"
+ }
 }

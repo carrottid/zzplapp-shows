@@ -59,5 +59,63 @@
  ],
  "updated": "2026-03-03 15:31:35",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#7A1419",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "안나 카레니나",
+   "name": "옥주현"
+  },
+  {
+   "role": "안나 카레니나",
+   "name": "김소향"
+  },
+  {
+   "role": "안나 카레니나",
+   "name": "이지혜"
+  },
+  {
+   "role": "알렉세이 브론스키",
+   "name": "윤형렬"
+  },
+  {
+   "role": "알렉세이 브론스키",
+   "name": "문유강"
+  },
+  {
+   "role": "알렉세이 브론스키",
+   "name": "정승원"
+  },
+  {
+   "role": "알렉세이 카레닌",
+   "name": "이건명"
+  },
+  {
+   "role": "알렉세이 카레닌",
+   "name": "민영기"
+  },
+  {
+   "role": "콘스탄틴 레빈",
+   "name": "백승렬"
+  },
+  {
+   "role": "콘스탄틴 레빈",
+   "name": "노윤"
+  },
+  {
+   "role": "키티 세르바츠카야",
+   "name": "정유지"
+  },
+  {
+   "role": "키티 세르바츠카야",
+   "name": "유소리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260421141115/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=226317"
+ }
 }

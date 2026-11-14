@@ -38,5 +38,39 @@
  ],
  "updated": "2023-03-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#8F171A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "재희",
+   "name": "이봄"
+  },
+  {
+   "role": "윤영",
+   "name": "김민주"
+  },
+  {
+   "role": "주원",
+   "name": "류세일"
+  },
+  {
+   "role": "슈랭",
+   "name": "김지훈"
+  },
+  {
+   "role": "빅쿤",
+   "name": "이세준"
+  },
+  {
+   "role": "혜정",
+   "name": "김보경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622161446/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186389"
+ }
 }

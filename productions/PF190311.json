@@ -55,7 +55,7 @@
   },
   {
    "role": "제니",
-   "name": "홍서영"
+   "name": "홍금비"
   },
   {
    "role": "제니",
@@ -97,5 +97,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3104"
+ },
+ "color": {
+  "bg": "#3A1C18",
+  "fg": "#FFFFFF"
  }
 }

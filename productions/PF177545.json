@@ -55,5 +55,95 @@
  ],
  "updated": "2021-07-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#794D39",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아가사",
+   "name": "임강희"
+  },
+  {
+   "role": "아가사",
+   "name": "백은혜"
+  },
+  {
+   "role": "아가사",
+   "name": "이정화"
+  },
+  {
+   "role": "로이",
+   "name": "김재범"
+  },
+  {
+   "role": "로이",
+   "name": "김경수"
+  },
+  {
+   "role": "로이",
+   "name": "고상호"
+  },
+  {
+   "role": "레이몬드",
+   "name": "안지환"
+  },
+  {
+   "role": "레이몬드",
+   "name": "김리현"
+  },
+  {
+   "role": "레이몬드",
+   "name": "강은일"
+  },
+  {
+   "role": "아치볼드",
+   "name": "정평"
+  },
+  {
+   "role": "아치볼드",
+   "name": "임별"
+  },
+  {
+   "role": "폴",
+   "name": "안두호"
+  },
+  {
+   "role": "폴",
+   "name": "최호승"
+  },
+  {
+   "role": "뉴먼",
+   "name": "김지훈"
+  },
+  {
+   "role": "뉴먼",
+   "name": "무현"
+  },
+  {
+   "role": "",
+   "name": "이아현"
+  },
+  {
+   "role": "",
+   "name": "한세라"
+  },
+  {
+   "role": "",
+   "name": "정다예"
+  },
+  {
+   "role": "",
+   "name": "주다온"
+  },
+  {
+   "role": "",
+   "name": "강인대"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240716020823/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166461"
+ }
 }

@@ -1,0 +1,94 @@
+{
+ "id": "PF237184",
+ "title": "국립극단, 스카팽",
+ "genre": "연극",
+ "from": "2024-04-12",
+ "to": "2024-05-06",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF237184_240312_105811.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이중현",
+  "박경주",
+  "이호철",
+  "이다혜",
+  "안창현",
+  "정다연",
+  "문예주"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "정승호, 유미양, 채송화 등",
+ "producer": "(재) 국립극단",
+ "price": "R석 60,000원, S석 45,000원, A석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF237184_240312_1058112.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF237184_240312_1058111.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/257199"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24003306"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12144"
+  }
+ ],
+ "updated": "2024-11-28 16:05:11",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "스카팽",
+   "name": "이중현"
+  },
+  {
+   "role": "몰리에르",
+   "name": "성원"
+  },
+  {
+   "role": "실베스트르",
+   "name": "박경주"
+  },
+  {
+   "role": "옥따브",
+   "name": "이호철"
+  },
+  {
+   "role": "이아상뜨",
+   "name": "이다혜"
+  },
+  {
+   "role": "레앙드르",
+   "name": "안창현"
+  },
+  {
+   "role": "",
+   "name": "정다연"
+  },
+  {
+   "role": "",
+   "name": "문예주"
+  },
+  {
+   "role": "",
+   "name": "이혜미"
+  },
+  {
+   "role": "",
+   "name": "이후징"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250319223403/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200348"
+ }
+}

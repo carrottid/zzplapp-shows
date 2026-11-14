@@ -71,5 +71,75 @@
  ],
  "updated": "2021-11-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#766F70",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "X-WHITE",
+   "name": "박민성"
+  },
+  {
+   "role": "X-WHITE",
+   "name": "고훈정"
+  },
+  {
+   "role": "X-WHITE",
+   "name": "백형훈"
+  },
+  {
+   "role": "X-WHITE",
+   "name": "조환지"
+  },
+  {
+   "role": "X-BLACK",
+   "name": "김찬호"
+  },
+  {
+   "role": "X-BLACK",
+   "name": "박규원"
+  },
+  {
+   "role": "X-BLACK",
+   "name": "장지후"
+  },
+  {
+   "role": "존 파우스트",
+   "name": "이승헌"
+  },
+  {
+   "role": "존 파우스트",
+   "name": "배나라"
+  },
+  {
+   "role": "존 파우스트",
+   "name": "이석준"
+  },
+  {
+   "role": "그레첸",
+   "name": "여은"
+  },
+  {
+   "role": "그레첸",
+   "name": "김수연"
+  },
+  {
+   "role": "그레첸",
+   "name": "이지연"
+  },
+  {
+   "role": "가디언",
+   "name": "조민호"
+  },
+  {
+   "role": "가디언",
+   "name": "신윤재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618001612/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168883"
+ }
 }

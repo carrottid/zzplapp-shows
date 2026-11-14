@@ -35,5 +35,79 @@
  ],
  "updated": "2021-03-12 13:00:02",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#231E1B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "크뤼거",
+   "name": "김선경"
+  },
+  {
+   "role": "크뤼거",
+   "name": "김선영"
+  },
+  {
+   "role": "제니",
+   "name": "김환희"
+  },
+  {
+   "role": "제니",
+   "name": "김수하"
+  },
+  {
+   "role": "뮈체",
+   "name": "정상윤"
+  },
+  {
+   "role": "뮈체",
+   "name": "육현욱"
+  },
+  {
+   "role": "뢰벤",
+   "name": "임현수"
+  },
+  {
+   "role": "교도소장",
+   "name": "김늘봄"
+  },
+  {
+   "role": "한나",
+   "name": "박란주"
+  },
+  {
+   "role": "한나",
+   "name": "홍지희"
+  },
+  {
+   "role": "",
+   "name": "노지연"
+  },
+  {
+   "role": "",
+   "name": "김하연"
+  },
+  {
+   "role": "",
+   "name": "안현아"
+  },
+  {
+   "role": "",
+   "name": "이동수"
+  },
+  {
+   "role": "",
+   "name": "조재철"
+  },
+  {
+   "role": "",
+   "name": "오은철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250520041956/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=161243"
+ }
 }

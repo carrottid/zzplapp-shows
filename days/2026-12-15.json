@@ -122,7 +122,29 @@
    "genre": "뮤지컬",
    "venue": "광림아트센터 (BBCH홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "신성록",
+     "personId": "3676"
+    },
+    {
+     "name": "진태화",
+     "personId": "38583"
+    },
+    {
+     "name": "선민",
+     "personId": "23492"
+    },
+    {
+     "name": "이영미",
+     "personId": "316"
+    },
+    {
+     "name": "최나래",
+     "personId": "3594"
+    }
+   ],
    "color": {
     "bg": "#1B2A4A",
     "fg": "#E8B65A"
@@ -134,7 +156,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -390,7 +420,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이준혁"
+    },
+    {
+     "name": "서태인"
+    },
+    {
+     "name": "최찬이"
+    },
+    {
+     "name": "문민경"
+    },
+    {
+     "name": "임창섭"
+    },
+    {
+     "name": "박희경"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF303908",
@@ -424,7 +478,22 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박지윤"
+    },
+    {
+     "name": "이래인"
+    },
+    {
+     "name": "정대진"
+    }
+   ],
+   "color": {
+    "bg": "#E0287A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301565",
@@ -456,7 +525,17 @@
    "genre": "연극",
    "venue": "LG아트센터 서울 (U+ 스테이지)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "손우현",
+     "personId": "51803"
+    }
+   ],
+   "color": {
+    "bg": "#F4C430",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF301746",
@@ -464,7 +543,27 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "김한결"
+    },
+    {
+     "name": "마이삭"
+    },
+    {
+     "name": "최민경"
+    },
+    {
+     "name": "박민주"
+    },
+    {
+     "name": "이종석"
+    }
+   ],
    "color": {
     "bg": "#2A2350",
     "fg": "#FFFFFF"
@@ -505,7 +604,7 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
      "name": "김이담"
@@ -542,7 +641,21 @@
    "genre": "뮤지컬",
    "venue": "SH아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "황만익"
+    },
+    {
+     "name": "홍성원"
+    },
+    {
+     "name": "황건우"
+    },
+    {
+     "name": "임재윤"
+    }
+   ],
    "color": {
     "bg": "#3A2A1E",
     "fg": "#E8C88A"
@@ -554,7 +667,25 @@
    "genre": "연극",
    "venue": "링크아트센터 (벅스홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "송종호"
+    },
+    {
+     "name": "오용"
+    },
+    {
+     "name": "남민우"
+    },
+    {
+     "name": "김승욱"
+    }
+   ],
+   "color": {
+    "bg": "#6B4A2E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302744",
@@ -594,7 +725,37 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "윤지성",
+     "personId": "44097"
+    },
+    {
+     "name": "김우진",
+     "personId": "52506"
+    },
+    {
+     "name": "홍륜희",
+     "personId": "3535"
+    },
+    {
+     "name": "조현우",
+     "personId": "33620"
+    },
+    {
+     "name": "김병영",
+     "personId": "58079"
+    },
+    {
+     "name": "박혜원",
+     "personId": "48845"
+    }
+   ],
+   "color": {
+    "bg": "#1C2433",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303673",
@@ -684,7 +845,45 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213"
+    }
+   ],
    "color": {
     "bg": "#3A2A20",
     "fg": "#F2C14E"

@@ -59,5 +59,75 @@
  ],
  "updated": "2021-10-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#544D33",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "퍼씨",
+   "name": "유주혜"
+  },
+  {
+   "role": "퍼씨",
+   "name": "이예은"
+  },
+  {
+   "role": "퍼씨",
+   "name": "나하나"
+  },
+  {
+   "role": "한나",
+   "name": "임선애"
+  },
+  {
+   "role": "한나",
+   "name": "유보영"
+  },
+  {
+   "role": "셸비",
+   "name": "방진의"
+  },
+  {
+   "role": "셸비",
+   "name": "정명은"
+  },
+  {
+   "role": "조",
+   "name": "이주순"
+  },
+  {
+   "role": "조",
+   "name": "최재웅"
+  },
+  {
+   "role": "케일럽",
+   "name": "최수형"
+  },
+  {
+   "role": "케일럽",
+   "name": "임강성"
+  },
+  {
+   "role": "에피",
+   "name": "이일진"
+  },
+  {
+   "role": "에피",
+   "name": "민채원"
+  },
+  {
+   "role": "",
+   "name": "허채윤"
+  },
+  {
+   "role": "",
+   "name": "성우진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620111541/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169336"
+ }
 }

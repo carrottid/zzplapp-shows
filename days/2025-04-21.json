@@ -2,12 +2,32 @@
  "date": "2025-04-21",
  "sessions": [
   {
+   "id": "PF260893",
+   "title": "국립극단 청소년극, 록산느를 위한 발라드",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF261994",
+   "title": "남겨진 사람들: 생일대본",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF262268",
    "title": "뽁",
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#090A0C",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

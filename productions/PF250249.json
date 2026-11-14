@@ -14,7 +14,7 @@
   "손우현",
   "정문성",
   "이규형",
-  "허혜진",
+  "허윤슬",
   "류인아"
  ],
  "facilityId": "FC000518",
@@ -35,5 +35,51 @@
  ],
  "updated": "2024-11-18 17:13:15",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#DA7A0C",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "몬티 나바로",
+   "name": "송원근"
+  },
+  {
+   "role": "몬티 나바로",
+   "name": "김범"
+  },
+  {
+   "role": "몬티 나바로",
+   "name": "손우현"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "정문성"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "이규형"
+  },
+  {
+   "role": "시벨라 홀워드",
+   "name": "허윤슬"
+  },
+  {
+   "role": "시벨라 홀워드",
+   "name": "류인아"
+  },
+  {
+   "role": "피비 다이스퀴스",
+   "name": "김아선"
+  },
+  {
+   "role": "피비 다이스퀴스",
+   "name": "이지수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803125757/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=208605"
+ }
 }

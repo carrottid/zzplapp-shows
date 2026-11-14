@@ -46,5 +46,95 @@
  ],
  "updated": "2025-05-21 17:18:44",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#E4C801",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "장보고",
+   "name": "한서원"
+  },
+  {
+   "role": "장보고",
+   "name": "태호"
+  },
+  {
+   "role": "장보고",
+   "name": "니엘"
+  },
+  {
+   "role": "장보고",
+   "name": "이지함"
+  },
+  {
+   "role": "고은호",
+   "name": "리키"
+  },
+  {
+   "role": "고은호",
+   "name": "홍은기"
+  },
+  {
+   "role": "고은호",
+   "name": "박주혁"
+  },
+  {
+   "role": "고은호",
+   "name": "김영웅"
+  },
+  {
+   "role": "최다연",
+   "name": "오승희"
+  },
+  {
+   "role": "최다연",
+   "name": "소연"
+  },
+  {
+   "role": "최다연",
+   "name": "김도희"
+  },
+  {
+   "role": "윤지석",
+   "name": "김찰리"
+  },
+  {
+   "role": "윤지석",
+   "name": "이홍섭"
+  },
+  {
+   "role": "윤지석",
+   "name": "정이운"
+  },
+  {
+   "role": "안성준",
+   "name": "이든"
+  },
+  {
+   "role": "안성준",
+   "name": "김담현"
+  },
+  {
+   "role": "안성준",
+   "name": "정재헌"
+  },
+  {
+   "role": "서영미",
+   "name": "강웅곤"
+  },
+  {
+   "role": "서영미",
+   "name": "간미연"
+  },
+  {
+   "role": "서영미",
+   "name": "여은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250716212005/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214351"
+ }
 }

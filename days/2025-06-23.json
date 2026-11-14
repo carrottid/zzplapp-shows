@@ -7,6 +7,26 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "14:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#011257",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF265468",
+   "title": "제33회 젊은연극제, 만나러 갈게, 비는 오지만",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264966",
+   "title": "국립극단, 십이야",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -14,6 +34,18 @@
    "title": "멤피스",
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#011257",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF266280",
+   "title": "벽",
+   "genre": "연극",
+   "venue": "연우소극장",
    "time": "19:30",
    "castSource": "none"
   },
@@ -23,7 +55,11 @@
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#022234",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

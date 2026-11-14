@@ -35,5 +35,43 @@
  ],
  "updated": "2021-01-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#094277",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "우먼",
+   "name": "구옥분"
+  },
+  {
+   "role": "우먼",
+   "name": "김은지"
+  },
+  {
+   "role": "맨",
+   "name": "하성훈"
+  },
+  {
+   "role": "맨",
+   "name": "고동균"
+  },
+  {
+   "role": "걸",
+   "name": "정현진"
+  },
+  {
+   "role": "걸",
+   "name": "유희리"
+  },
+  {
+   "role": "보이",
+   "name": "이충곤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240810015545/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162742"
+ }
 }

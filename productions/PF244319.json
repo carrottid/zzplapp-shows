@@ -1,0 +1,38 @@
+{
+ "id": "PF244319",
+ "title": "장도",
+ "genre": "연극",
+ "from": "2024-07-29",
+ "to": "2024-08-08",
+ "venue": "국립정동극장 세실 (구.세실극장) (국립정동극장 세실 (구.세실극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF244319_240704_105356.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "지민제",
+  "최이레",
+  "편해준",
+  "조수연",
+  "권도균",
+  "정예지",
+  "김대현"
+ ],
+ "facilityId": "FC001125",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "김승철, 백지원, 함채연 등",
+ "price": "전석 20,000원",
+ "schedule": "월요일 ~ 수요일(19:30), 목요일(15:00,19:30), 금요일(19:30), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF244319_240704_1053560.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24009484"
+  }
+ ],
+ "updated": "2024-07-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

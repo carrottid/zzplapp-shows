@@ -1,0 +1,36 @@
+{
+ "id": "PF266280",
+ "title": "벽",
+ "genre": "연극",
+ "from": "2025-06-19",
+ "to": "2025-06-29",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF266280_250602_110729.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신장환",
+  "양지운",
+  "박형욱",
+  "장준서"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 15분",
+ "age": "만 12세 이상",
+ "crew": "남기헌, 한필용, 양은숙 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF266280_250602_1107291.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF266280_250602_1107290.png"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/5/bizes/1418924"
+  }
+ ],
+ "updated": "2025-06-05 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PF228247",
+ "title": "로젤",
+ "genre": "연극",
+ "from": "2023-11-15",
+ "to": "2023-11-26",
+ "venue": "소극장 혜화당 (구. 까망소극장) (소극장 혜화당 (구. 까망소극장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228247_231020_130408.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김채윤",
+  "이은경",
+  "이주명",
+  "양지선",
+  "최혜정",
+  "최정윤",
+  "한서희"
+ ],
+ "facilityId": "FC001085",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "류미선, 이건종, 최민욱 등",
+ "producer": "피지컬 씨어터 디앙스",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228247_231020_0104080.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015067"
+  }
+ ],
+ "updated": "2023-10-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

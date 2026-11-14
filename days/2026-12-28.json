@@ -6,8 +6,64 @@
    "title": "연모",
    "genre": "연극",
    "venue": "열린극장",
+   "time": "17:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "도연우"
+    },
+    {
+     "name": "서태인"
+    },
+    {
+     "name": "선우현"
+    },
+    {
+     "name": "나르샤"
+    },
+    {
+     "name": "임창섭"
+    },
+    {
+     "name": "송영주"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "venue": "열린극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "서태인"
+    },
+    {
+     "name": "선우현"
+    },
+    {
+     "name": "한아름"
+    },
+    {
+     "name": "임창섭"
+    },
+    {
+     "name": "송영주"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304638",

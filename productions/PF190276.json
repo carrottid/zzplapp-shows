@@ -1,0 +1,62 @@
+{
+ "id": "PF190276",
+ "title": "그 순간, 시간이 멈춘다",
+ "genre": "연극",
+ "from": "2022-05-19",
+ "to": "2022-05-29",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190276_220429_110746.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정윤경",
+  "이현호",
+  "박창순",
+  "이현지"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "2시간",
+ "age": "만 13세 이상",
+ "crew": "신명민, 이승희, 정유석 등",
+ "producer": "(유)극단기일게",
+ "price": "전석 40,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일 ~ 일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190276_220429_1107460.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/690323"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005035"
+  }
+ ],
+ "updated": "2022-04-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "세라",
+   "name": "정윤경"
+  },
+  {
+   "role": "제임스",
+   "name": "이현호"
+  },
+  {
+   "role": "리처드",
+   "name": "박창순"
+  },
+  {
+   "role": "멘디",
+   "name": "이현지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220701024138/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174205"
+ }
+}

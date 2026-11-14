@@ -1,0 +1,36 @@
+{
+ "id": "PF256508",
+ "title": "다른 부영",
+ "genre": "연극",
+ "from": "2025-01-23",
+ "to": "2025-01-26",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF256508_241231_120601.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "백혜경",
+  "이세준",
+  "이영주",
+  "장샘이"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 20분",
+ "age": "만 11세 이상",
+ "crew": "김미란, 송성원, 박유진 등",
+ "producer": "극작가동인 괄호",
+ "price": "전석 35,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF256508_241231_1206010.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24018318"
+  }
+ ],
+ "updated": "2024-12-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

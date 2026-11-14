@@ -1,0 +1,80 @@
+{
+ "id": "PF187880",
+ "title": "만세는 부르지 않겠다",
+ "genre": "연극",
+ "from": "2022-03-16",
+ "to": "2022-03-20",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF187880_220311_112553.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김천",
+  "황윤희",
+  "유지훈",
+  "고예본",
+  "류제원",
+  "이혁근",
+  "조민주"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 50분",
+ "age": "만 15세 이상",
+ "crew": "윤상호, 정보성, 서경교 등",
+ "producer": "극단 같이 가치, 프로젝트 식사",
+ "price": "전석 10,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187880_220315_0409494.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187880_220315_0409493.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187880_220315_0409492.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF187880_220315_0409491.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22002493"
+  }
+ ],
+ "updated": "2022-03-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "시라토리",
+   "name": "고예본"
+  },
+  {
+   "role": "사에구사",
+   "name": "이혁근"
+  },
+  {
+   "role": "시마자키",
+   "name": "유지훈"
+  },
+  {
+   "role": "타시로",
+   "name": "류제원"
+  },
+  {
+   "role": "사요코",
+   "name": "김금인"
+  },
+  {
+   "role": "사요코",
+   "name": "조민주"
+  },
+  {
+   "role": "남자",
+   "name": "김천"
+  },
+  {
+   "role": "",
+   "name": "황윤희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230526072758/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172897"
+ }
+}

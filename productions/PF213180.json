@@ -37,5 +37,35 @@
  ],
  "updated": "2023-02-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#242424",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "슈미",
+   "name": "이주영"
+  },
+  {
+   "role": "도규",
+   "name": "장재호"
+  },
+  {
+   "role": "애경",
+   "name": "김시영"
+  },
+  {
+   "role": "유완",
+   "name": "권일"
+  },
+  {
+   "role": "경만",
+   "name": "마광현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424032421/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=184793"
+ }
 }

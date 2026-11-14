@@ -2,18 +2,42 @@
  "date": "2025-04-07",
  "sessions": [
   {
+   "id": "PF261738",
+   "title": "봄눈",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF260278",
    "title": "On cloud nine",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3F4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF260576",
    "title": "밑바닥에서",
    "genre": "연극",
    "venue": "연우소극장",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E2E2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF259744",
+   "title": "얼떨결에 종언",
+   "genre": "연극",
+   "venue": "산울림소극장",
    "time": "20:00",
    "castSource": "none"
   }

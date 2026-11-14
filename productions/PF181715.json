@@ -44,5 +44,63 @@
  ],
  "updated": "2021-10-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#877C5F",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "할머니",
+   "name": "백은경"
+  },
+  {
+   "role": "할머니",
+   "name": "이자령"
+  },
+  {
+   "role": "엄마",
+   "name": "유담연"
+  },
+  {
+   "role": "엄마",
+   "name": "조주경"
+  },
+  {
+   "role": "김선생/중개인/아빠",
+   "name": "공재민"
+  },
+  {
+   "role": "김선생/중개인/아빠",
+   "name": "정지호"
+  },
+  {
+   "role": "딸",
+   "name": "임예나"
+  },
+  {
+   "role": "딸",
+   "name": "장희재"
+  },
+  {
+   "role": "사위",
+   "name": "홍서준"
+  },
+  {
+   "role": "사위",
+   "name": "박수연"
+  },
+  {
+   "role": "아들",
+   "name": "김동규"
+  },
+  {
+   "role": "아들",
+   "name": "김호준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250807000928/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169202"
+ }
 }

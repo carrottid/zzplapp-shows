@@ -1,0 +1,97 @@
+{
+ "id": "PF238317",
+ "title": "만세는 부르지 않겠다",
+ "genre": "연극",
+ "from": "2024-04-11",
+ "to": "2024-04-21",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF238317_240329_101810.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김민중",
+  "심태식",
+  "황지훈",
+  "이의현",
+  "이규태",
+  "이홍재",
+  "조철훈"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 45분",
+ "age": "만 12세 이상",
+ "crew": "윤상호, 이장욱, 김민재 등",
+ "producer": "나온씨어터",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238317_240329_1018100.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24004729"
+  }
+ ],
+ "updated": "2024-03-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "사라토리",
+   "name": "김민중"
+  },
+  {
+   "role": "사라토리",
+   "name": "심태식"
+  },
+  {
+   "role": "사에구사",
+   "name": "황지훈"
+  },
+  {
+   "role": "사에구사",
+   "name": "이의현"
+  },
+  {
+   "role": "사마자키",
+   "name": "이규태"
+  },
+  {
+   "role": "사마자키",
+   "name": "이홍재"
+  },
+  {
+   "role": "타시로",
+   "name": "이창형"
+  },
+  {
+   "role": "사요코",
+   "name": "이주희"
+  },
+  {
+   "role": "사요코",
+   "name": "신예온"
+  },
+  {
+   "role": "남자",
+   "name": "서민균"
+  },
+  {
+   "role": "남자",
+   "name": "정유신"
+  },
+  {
+   "role": "",
+   "name": "황재희"
+  },
+  {
+   "role": "",
+   "name": "이수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250207184518/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201216"
+ }
+}

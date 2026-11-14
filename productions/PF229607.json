@@ -55,5 +55,83 @@
  ],
  "updated": "2023-11-09 09:54:27",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#392622",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "템플",
+   "name": "김주연"
+  },
+  {
+   "role": "템플",
+   "name": "박희정"
+  },
+  {
+   "role": "템플",
+   "name": "김세정"
+  },
+  {
+   "role": "엄마",
+   "name": "유연"
+  },
+  {
+   "role": "엄마",
+   "name": "박선혜"
+  },
+  {
+   "role": "칼락 외",
+   "name": "윤성원"
+  },
+  {
+   "role": "칼락 외",
+   "name": "이종훈"
+  },
+  {
+   "role": "목사 외",
+   "name": "마현진"
+  },
+  {
+   "role": "목사 외",
+   "name": "이승일"
+  },
+  {
+   "role": "의사 외",
+   "name": "문경초"
+  },
+  {
+   "role": "의사 외",
+   "name": "김유상"
+  },
+  {
+   "role": "찰스 피터 외",
+   "name": "이종혁"
+  },
+  {
+   "role": "찰스 피터 외",
+   "name": "노재현"
+  },
+  {
+   "role": "",
+   "name": "정선기"
+  },
+  {
+   "role": "",
+   "name": "최미령"
+  },
+  {
+   "role": "",
+   "name": "윤철주"
+  },
+  {
+   "role": "",
+   "name": "배솔비"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251012115250/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195669"
+ }
 }

@@ -51,5 +51,95 @@
  ],
  "updated": "2025-06-23 14:00:22",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1B2A44",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "박덕배",
+   "name": "김동현"
+  },
+  {
+   "role": "배민국",
+   "name": "정상훈"
+  },
+  {
+   "role": "길자중",
+   "name": "이갑선"
+  },
+  {
+   "role": "저승사자 외",
+   "name": "김왕근"
+  },
+  {
+   "role": "김구 외",
+   "name": "공재민"
+  },
+  {
+   "role": "향이 외",
+   "name": "강정윤"
+  },
+  {
+   "role": "",
+   "name": "오세철"
+  },
+  {
+   "role": "",
+   "name": "박신운"
+  },
+  {
+   "role": "",
+   "name": "박도하"
+  },
+  {
+   "role": "",
+   "name": "오문강"
+  },
+  {
+   "role": "",
+   "name": "이창민"
+  },
+  {
+   "role": "",
+   "name": "김설빈"
+  },
+  {
+   "role": "",
+   "name": "강기혁"
+  },
+  {
+   "role": "",
+   "name": "권나현"
+  },
+  {
+   "role": "",
+   "name": "고선우"
+  },
+  {
+   "role": "",
+   "name": "김민석"
+  },
+  {
+   "role": "",
+   "name": "최재림"
+  },
+  {
+   "role": "",
+   "name": "차호진"
+  },
+  {
+   "role": "",
+   "name": "배문섭"
+  },
+  {
+   "role": "",
+   "name": "이지은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250719075700/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=217079"
+ }
 }

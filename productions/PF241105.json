@@ -47,5 +47,91 @@
  ],
  "updated": "2025-04-04 15:23:02",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "맥베스",
+   "name": "황정민"
+  },
+  {
+   "role": "레이디 맥베스",
+   "name": "김소진"
+  },
+  {
+   "role": "뱅코우",
+   "name": "송일국"
+  },
+  {
+   "role": "덩컨",
+   "name": "송영창"
+  },
+  {
+   "role": "맥더프",
+   "name": "남윤호"
+  },
+  {
+   "role": "맬컴",
+   "name": "홍성원"
+  },
+  {
+   "role": "",
+   "name": "임기홍"
+  },
+  {
+   "role": "",
+   "name": "윤영균"
+  },
+  {
+   "role": "",
+   "name": "김범진"
+  },
+  {
+   "role": "",
+   "name": "박종태"
+  },
+  {
+   "role": "",
+   "name": "김대진"
+  },
+  {
+   "role": "",
+   "name": "도광원"
+  },
+  {
+   "role": "",
+   "name": "김연수"
+  },
+  {
+   "role": "",
+   "name": "이원"
+  },
+  {
+   "role": "",
+   "name": "이재웅"
+  },
+  {
+   "role": "",
+   "name": "김정현"
+  },
+  {
+   "role": "",
+   "name": "유지리산"
+  },
+  {
+   "role": "",
+   "name": "이주원"
+  },
+  {
+   "role": "",
+   "name": "강예찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814112401/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202805"
+ }
 }

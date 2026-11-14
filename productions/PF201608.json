@@ -1,0 +1,60 @@
+{
+ "id": "PF201608",
+ "title": "강은효",
+ "genre": "연극",
+ "from": "2022-11-17",
+ "to": "2022-11-27",
+ "venue": "미마지아트센터 (눈빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF201608_221107_162407.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최태용",
+  "주수정",
+  "정미소",
+  "최종원",
+  "노준영",
+  "김지형",
+  "정준호"
+ ],
+ "facilityId": "FC000227",
+ "age": "만 15세 이상",
+ "crew": "남상식, 궁도환, 정미소 등",
+ "producer": "극단 퍼포먼스 온",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201608_221107_0424074.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201608_221107_0424073.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201608_221107_0424072.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201608_221107_0424071.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201608_221107_0424070.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22015106"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2052"
+  }
+ ],
+ "updated": "2022-11-07 17:49:30",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "박영도",
+   "name": "김태균"
+  },
+  {
+   "role": "조현섭",
+   "name": "김지형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250208085417/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180942"
+ }
+}

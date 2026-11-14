@@ -47,5 +47,79 @@
  ],
  "updated": "2024-03-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#956450",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "김수미"
+  },
+  {
+   "role": "엄마",
+   "name": "이효춘"
+  },
+  {
+   "role": "딸",
+   "name": "신이현"
+  },
+  {
+   "role": "딸",
+   "name": "선예"
+  },
+  {
+   "role": "사위",
+   "name": "김도현"
+  },
+  {
+   "role": "사위",
+   "name": "박장현"
+  },
+  {
+   "role": "서울댁",
+   "name": "김혜민"
+  },
+  {
+   "role": "서울댁",
+   "name": "김명희"
+  },
+  {
+   "role": "시어머니",
+   "name": "박지원"
+  },
+  {
+   "role": "시어머니",
+   "name": "한세라"
+  },
+  {
+   "role": "아역",
+   "name": "이서하"
+  },
+  {
+   "role": "아역",
+   "name": "박미성"
+  },
+  {
+   "role": "",
+   "name": "이규명"
+  },
+  {
+   "role": "",
+   "name": "임고은"
+  },
+  {
+   "role": "",
+   "name": "정문"
+  },
+  {
+   "role": "",
+   "name": "최태원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717144929/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200821"
+ }
 }

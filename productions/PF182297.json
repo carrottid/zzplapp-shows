@@ -47,5 +47,71 @@
  ],
  "updated": "2021-11-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#C8B43C",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "한웅교",
+   "name": "오주환"
+  },
+  {
+   "role": "한웅교",
+   "name": "손승택"
+  },
+  {
+   "role": "조현숙",
+   "name": "변세영"
+  },
+  {
+   "role": "조현숙",
+   "name": "홍이주"
+  },
+  {
+   "role": "박숙희",
+   "name": "조유진"
+  },
+  {
+   "role": "박숙희",
+   "name": "박진호"
+  },
+  {
+   "role": "강철호",
+   "name": "김상균"
+  },
+  {
+   "role": "강철호",
+   "name": "김주희"
+  },
+  {
+   "role": "한근교",
+   "name": "김미리내"
+  },
+  {
+   "role": "한근교",
+   "name": "최소라"
+  },
+  {
+   "role": "원상원",
+   "name": "오하성"
+  },
+  {
+   "role": "원상원",
+   "name": "박상민"
+  },
+  {
+   "role": "",
+   "name": "임영준"
+  },
+  {
+   "role": "",
+   "name": "정현규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240223043311/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169536"
+ }
 }

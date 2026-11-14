@@ -46,5 +46,39 @@
  ],
  "updated": "2024-12-23 16:59:48",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#534C54",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "애들린 버지니아 스티븐",
+   "name": "박란주"
+  },
+  {
+   "role": "애들린 버지니아 스티븐",
+   "name": "주다온"
+  },
+  {
+   "role": "애들린 버지니아 스티븐",
+   "name": "전혜주"
+  },
+  {
+   "role": "조슈아 워렌 스미스",
+   "name": "윤은오"
+  },
+  {
+   "role": "조슈아 워렌 스미스",
+   "name": "김리현"
+  },
+  {
+   "role": "조슈아 워렌 스미스",
+   "name": "황순종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250427163723/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200573"
+ }
 }

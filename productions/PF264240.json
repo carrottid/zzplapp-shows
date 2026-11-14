@@ -47,5 +47,95 @@
  ],
  "updated": "2025-08-14 11:21:59",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#35302E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "단",
+   "name": "양희준"
+  },
+  {
+   "role": "단",
+   "name": "임규형"
+  },
+  {
+   "role": "단",
+   "name": "박정혁"
+  },
+  {
+   "role": "단",
+   "name": "김서형"
+  },
+  {
+   "role": "진",
+   "name": "김수하"
+  },
+  {
+   "role": "진",
+   "name": "주다온"
+  },
+  {
+   "role": "진",
+   "name": "김세영"
+  },
+  {
+   "role": "홍국",
+   "name": "임현수"
+  },
+  {
+   "role": "홍국",
+   "name": "조휘"
+  },
+  {
+   "role": "십주",
+   "name": "이경수"
+  },
+  {
+   "role": "십주",
+   "name": "진태화"
+  },
+  {
+   "role": "호로쇠",
+   "name": "장재웅"
+  },
+  {
+   "role": "호로쇠",
+   "name": "황성재"
+  },
+  {
+   "role": "기선",
+   "name": "정선기"
+  },
+  {
+   "role": "기선",
+   "name": "임동섭"
+  },
+  {
+   "role": "",
+   "name": "정아영"
+  },
+  {
+   "role": "",
+   "name": "강경현"
+  },
+  {
+   "role": "",
+   "name": "최일우"
+  },
+  {
+   "role": "",
+   "name": "변재준"
+  },
+  {
+   "role": "",
+   "name": "오승현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260607164151/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216558"
+ }
 }

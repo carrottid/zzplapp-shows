@@ -54,5 +54,63 @@
  ],
  "updated": "2023-05-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#9BE600",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "존",
+   "name": "렉스"
+  },
+  {
+   "role": "존",
+   "name": "정현준"
+  },
+  {
+   "role": "존",
+   "name": "천관우"
+  },
+  {
+   "role": "캣",
+   "name": "김안젤라"
+  },
+  {
+   "role": "캣",
+   "name": "박혜원"
+  },
+  {
+   "role": "캣",
+   "name": "한수민"
+  },
+  {
+   "role": "잭",
+   "name": "문준혁"
+  },
+  {
+   "role": "잭",
+   "name": "임창민"
+  },
+  {
+   "role": "잭",
+   "name": "오태후"
+  },
+  {
+   "role": "캐서린",
+   "name": "이미경"
+  },
+  {
+   "role": "캐서린",
+   "name": "김소정"
+  },
+  {
+   "role": "캐서린",
+   "name": "김솔"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240919013443/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188624"
+ }
 }

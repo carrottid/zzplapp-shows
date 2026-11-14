@@ -47,5 +47,47 @@
  ],
  "updated": "2022-11-11 17:46:15",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#34292F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "김정팔"
+  },
+  {
+   "role": "남자",
+   "name": "김동훈"
+  },
+  {
+   "role": "남자",
+   "name": "오재균"
+  },
+  {
+   "role": "남자",
+   "name": "이의령"
+  },
+  {
+   "role": "여자",
+   "name": "김제인"
+  },
+  {
+   "role": "여자",
+   "name": "이한희"
+  },
+  {
+   "role": "여자",
+   "name": "김설"
+  },
+  {
+   "role": "여자",
+   "name": "박지은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240908122710/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181363"
+ }
 }

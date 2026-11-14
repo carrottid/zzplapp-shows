@@ -1,0 +1,35 @@
+{
+ "id": "PF240374",
+ "title": "인피니트 에이크",
+ "genre": "연극",
+ "from": "2024-06-14",
+ "to": "2024-06-30",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF240374_240502_171249.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김준삼",
+  "김혜리",
+  "권재은",
+  "허진"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 50분",
+ "age": "만 15세 이상",
+ "crew": "김혜리, 김민지, 김태성 등",
+ "price": "전석 50,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF240374_240502_0512490.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006248"
+  }
+ ],
+ "updated": "2024-05-02 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

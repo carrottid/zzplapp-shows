@@ -1,0 +1,61 @@
+{
+ "id": "PF189862",
+ "title": "고래",
+ "genre": "연극",
+ "from": "2022-05-19",
+ "to": "2022-06-05",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF189862_220421_103411.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [],
+ "facilityId": "FC000526",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/678595"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1743"
+  }
+ ],
+ "updated": "2022-04-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "정장",
+   "name": "신현종"
+  },
+  {
+   "role": "기관장",
+   "name": "전형재"
+  },
+  {
+   "role": "부기관장",
+   "name": "홍철희"
+  },
+  {
+   "role": "저격수1",
+   "name": "이요셉"
+  },
+  {
+   "role": "저격수2",
+   "name": "문종철"
+  },
+  {
+   "role": "무전장",
+   "name": "박형욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250426211352/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175711"
+ }
+}

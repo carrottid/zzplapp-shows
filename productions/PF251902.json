@@ -43,5 +43,67 @@
  ],
  "updated": "2024-10-23 09:48:04",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#000000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마타하리",
+   "name": "옥주현"
+  },
+  {
+   "role": "마타하리",
+   "name": "솔라"
+  },
+  {
+   "role": "아르망",
+   "name": "에녹"
+  },
+  {
+   "role": "아르망",
+   "name": "김성식"
+  },
+  {
+   "role": "아르망",
+   "name": "윤소호"
+  },
+  {
+   "role": "라두",
+   "name": "최민철"
+  },
+  {
+   "role": "라두",
+   "name": "노윤"
+  },
+  {
+   "role": "안나",
+   "name": "최나래"
+  },
+  {
+   "role": "안나",
+   "name": "윤사봉"
+  },
+  {
+   "role": "팽르베",
+   "name": "김주호"
+  },
+  {
+   "role": "팽르베",
+   "name": "홍경수"
+  },
+  {
+   "role": "키레예브스키",
+   "name": "김연준"
+  },
+  {
+   "role": "",
+   "name": "김찬후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013093922/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209569"
+ }
 }

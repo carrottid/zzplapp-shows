@@ -42,5 +42,67 @@
  ],
  "updated": "2025-05-27 10:44:22",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#000000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "지킬/하이드",
+   "name": "신성록"
+  },
+  {
+   "role": "지킬/하이드",
+   "name": "최재림"
+  },
+  {
+   "role": "지킬/하이드",
+   "name": "김성철"
+  },
+  {
+   "role": "루시",
+   "name": "윤공주"
+  },
+  {
+   "role": "루시",
+   "name": "아이비"
+  },
+  {
+   "role": "루시",
+   "name": "린아"
+  },
+  {
+   "role": "엠마",
+   "name": "최수진"
+  },
+  {
+   "role": "엠마",
+   "name": "손지수"
+  },
+  {
+   "role": "엠마",
+   "name": "이지혜"
+  },
+  {
+   "role": "댄버스 경",
+   "name": "김봉환"
+  },
+  {
+   "role": "댄버스 경",
+   "name": "김용수"
+  },
+  {
+   "role": "어터슨",
+   "name": "이희정"
+  },
+  {
+   "role": "어터슨",
+   "name": "윤영석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250523214236/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216417"
+ }
 }

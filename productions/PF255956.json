@@ -51,5 +51,51 @@
  ],
  "updated": "2025-05-07 12:06:29",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#000000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "GUY",
+   "name": "윤형렬"
+  },
+  {
+   "role": "GUY",
+   "name": "이충주"
+  },
+  {
+   "role": "GUY",
+   "name": "한승윤"
+  },
+  {
+   "role": "Girl",
+   "name": "박지연"
+  },
+  {
+   "role": "Girl",
+   "name": "이예은"
+  },
+  {
+   "role": "Da",
+   "name": "박지일"
+  },
+  {
+   "role": "Da",
+   "name": "이정열"
+  },
+  {
+   "role": "Andrej",
+   "name": "김민성"
+  },
+  {
+   "role": "Reza",
+   "name": "최수지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250317150001/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211790"
+ }
 }

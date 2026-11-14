@@ -1,0 +1,39 @@
+{
+ "id": "PF176831",
+ "title": "후성이네",
+ "genre": "연극",
+ "from": "2021-07-14",
+ "to": "2021-07-25",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF176831_210705_111142.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이후성",
+  "조부현",
+  "민신혜",
+  "도창선"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 25분",
+ "age": "만 14세 이상",
+ "crew": "최재성, 임성빈, 이상주 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF176831_210705_1111420.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21005832"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1471"
+  }
+ ],
+ "updated": "2021-07-05 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

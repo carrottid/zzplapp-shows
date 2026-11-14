@@ -54,5 +54,47 @@
  ],
  "updated": "2025-09-29 16:16:44",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#022234",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "박사",
+   "name": "박민성"
+  },
+  {
+   "role": "박사",
+   "name": "정인지"
+  },
+  {
+   "role": "박사",
+   "name": "이형훈"
+  },
+  {
+   "role": "박사",
+   "name": "신은호"
+  },
+  {
+   "role": "괴물",
+   "name": "문태유"
+  },
+  {
+   "role": "괴물",
+   "name": "전성민"
+  },
+  {
+   "role": "괴물",
+   "name": "조환지"
+  },
+  {
+   "role": "괴물",
+   "name": "옥진욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010070226/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216750"
+ }
 }

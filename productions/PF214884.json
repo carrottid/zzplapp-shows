@@ -1,0 +1,41 @@
+{
+ "id": "PF214884",
+ "title": "금붕어",
+ "genre": "연극",
+ "from": "2023-03-23",
+ "to": "2023-03-26",
+ "venue": "삼일로창고극장 (삼일로창고극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF214884_230313_153522.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "오유민",
+  "이재희",
+  "김서연",
+  "이존승",
+  "장주환",
+  "최원재",
+  "정영훈"
+ ],
+ "facilityId": "FC000248",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "이규현, 장주환, 이시온 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일(19:30), 금요일 ~ 토요일(16:00,19:30), 일요일(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214884_230313_0335223.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214884_230313_0335222.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214884_230313_0335221.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214884_230313_0335220.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003524"
+  }
+ ],
+ "updated": "2023-03-13 18:00:32",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

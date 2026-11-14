@@ -39,5 +39,51 @@
  ],
  "updated": "2021-10-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F2B4D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "연준석",
+   "name": "김명수"
+  },
+  {
+   "role": "연준석",
+   "name": "정대현"
+  },
+  {
+   "role": "라만",
+   "name": "박찬열"
+  },
+  {
+   "role": "윤선호",
+   "name": "문시온"
+  },
+  {
+   "role": "사령관",
+   "name": "브래드 리틀"
+  },
+  {
+   "role": "사령관",
+   "name": "마이클 리"
+  },
+  {
+   "role": "서은아",
+   "name": "오진영"
+  },
+  {
+   "role": "자하라",
+   "name": "홍미금"
+  },
+  {
+   "role": "",
+   "name": "김리안"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220628205913/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168928"
+ }
 }

@@ -34,5 +34,99 @@
  ],
  "updated": "2021-10-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#232A44",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "원준&성준",
+   "name": "김재우"
+  },
+  {
+   "role": "원준&성준",
+   "name": "한국정"
+  },
+  {
+   "role": "원준&성준",
+   "name": "김찬우"
+  },
+  {
+   "role": "원준&성준",
+   "name": "최기동"
+  },
+  {
+   "role": "하은&민정",
+   "name": "최보배"
+  },
+  {
+   "role": "하은&민정",
+   "name": "노현정"
+  },
+  {
+   "role": "하은&민정",
+   "name": "박정인"
+  },
+  {
+   "role": "다은&선영",
+   "name": "오가현"
+  },
+  {
+   "role": "다은&선영",
+   "name": "이예솔"
+  },
+  {
+   "role": "다은&선영",
+   "name": "심고은"
+  },
+  {
+   "role": "다은&선영",
+   "name": "황도원"
+  },
+  {
+   "role": "",
+   "name": "황나영"
+  },
+  {
+   "role": "나영&빌런",
+   "name": "최솔휘"
+  },
+  {
+   "role": "나영&빌런",
+   "name": "강나영"
+  },
+  {
+   "role": "나영&빌런",
+   "name": "김민지"
+  },
+  {
+   "role": "나영&빌런",
+   "name": "황다경"
+  },
+  {
+   "role": "정기&지석&휘우",
+   "name": "김성한"
+  },
+  {
+   "role": "정기&지석&휘우",
+   "name": "박찬혁"
+  },
+  {
+   "role": "세훈&민호",
+   "name": "이규동"
+  },
+  {
+   "role": "세훈&민호",
+   "name": "강진우"
+  },
+  {
+   "role": "세훈&민호",
+   "name": "최승규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240420133532/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168694"
+ }
 }

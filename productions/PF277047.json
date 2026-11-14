@@ -1,0 +1,35 @@
+{
+ "id": "PF277047",
+ "title": "홀",
+ "genre": "연극",
+ "from": "2025-10-22",
+ "to": "2025-10-26",
+ "venue": "삼일로창고극장 (삼일로창고극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF277047_251022_145303.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김효배",
+  "이동준"
+ ],
+ "facilityId": "FC000248",
+ "runtime": "1시간 10분",
+ "age": "만 7세 이상",
+ "crew": "김진만, 조정민, 장필강 등",
+ "producer": "극단 앙상블 [서울]",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF277047_202510220253034481.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF277047_202510220253034380.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25015044"
+  }
+ ],
+ "updated": "2025-10-22 15:00:04.182748",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

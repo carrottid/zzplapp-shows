@@ -42,5 +42,95 @@
  ],
  "updated": "2023-06-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#366C7A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "한강산",
+   "name": "홍성민"
+  },
+  {
+   "role": "한강산",
+   "name": "박승일"
+  },
+  {
+   "role": "백지연",
+   "name": "문수아"
+  },
+  {
+   "role": "백지연",
+   "name": "조슬아"
+  },
+  {
+   "role": "이용식",
+   "name": "여동훈"
+  },
+  {
+   "role": "박지성",
+   "name": "김경환"
+  },
+  {
+   "role": "백두산",
+   "name": "강혁"
+  },
+  {
+   "role": "리철희",
+   "name": "이정근"
+  },
+  {
+   "role": "",
+   "name": "채승혜"
+  },
+  {
+   "role": "",
+   "name": "채송화"
+  },
+  {
+   "role": "",
+   "name": "이진경"
+  },
+  {
+   "role": "",
+   "name": "윤예솔"
+  },
+  {
+   "role": "",
+   "name": "최정화"
+  },
+  {
+   "role": "",
+   "name": "이슬비"
+  },
+  {
+   "role": "",
+   "name": "정수한"
+  },
+  {
+   "role": "",
+   "name": "전시연"
+  },
+  {
+   "role": "",
+   "name": "이예은"
+  },
+  {
+   "role": "",
+   "name": "김지인"
+  },
+  {
+   "role": "",
+   "name": "황준우"
+  },
+  {
+   "role": "",
+   "name": "남현우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241108051007/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=189946"
+ }
 }

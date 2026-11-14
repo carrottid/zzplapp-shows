@@ -43,5 +43,63 @@
  ],
  "updated": "2023-11-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#040404",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "수잔나",
+   "name": "박지아"
+  },
+  {
+   "role": "수잔나",
+   "name": "김소진"
+  },
+  {
+   "role": "데이지",
+   "name": "김려은"
+  },
+  {
+   "role": "데이지",
+   "name": "최수영"
+  },
+  {
+   "role": "피터",
+   "name": "정웅인"
+  },
+  {
+   "role": "피터",
+   "name": "오용"
+  },
+  {
+   "role": "로버트",
+   "name": "이승주"
+  },
+  {
+   "role": "로버트",
+   "name": "송재림"
+  },
+  {
+   "role": "에릭",
+   "name": "정환"
+  },
+  {
+   "role": "에릭",
+   "name": "홍성원"
+  },
+  {
+   "role": "마조리",
+   "name": "신혜옥"
+  },
+  {
+   "role": "마조리",
+   "name": "표지은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618112041/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196481"
+ }
 }

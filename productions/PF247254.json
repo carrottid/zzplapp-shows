@@ -51,5 +51,79 @@
  ],
  "updated": "2024-10-04 10:21:26",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "트롯터",
+   "name": "김한결"
+  },
+  {
+   "role": "트롯터",
+   "name": "류지완"
+  },
+  {
+   "role": "몰리",
+   "name": "강별"
+  },
+  {
+   "role": "몰리",
+   "name": "정지우"
+  },
+  {
+   "role": "자일즈",
+   "name": "주광현"
+  },
+  {
+   "role": "자일즈",
+   "name": "조준호"
+  },
+  {
+   "role": "크리스토퍼",
+   "name": "김락현"
+  },
+  {
+   "role": "크리스토퍼",
+   "name": "김민석"
+  },
+  {
+   "role": "보일",
+   "name": "김민체"
+  },
+  {
+   "role": "보일",
+   "name": "한세라"
+  },
+  {
+   "role": "메카프",
+   "name": "전광진"
+  },
+  {
+   "role": "메카프",
+   "name": "한수호"
+  },
+  {
+   "role": "",
+   "name": "노시아"
+  },
+  {
+   "role": "",
+   "name": "정아영"
+  },
+  {
+   "role": "",
+   "name": "박성현"
+  },
+  {
+   "role": "",
+   "name": "정민혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260717110444/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206815"
+ }
 }

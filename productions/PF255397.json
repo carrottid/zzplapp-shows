@@ -47,5 +47,47 @@
  ],
  "updated": "2025-07-03 07:56:05",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#49403D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이방인/ 자크",
+   "name": "정동화"
+  },
+  {
+   "role": "이방인/ 자크",
+   "name": "유태율"
+  },
+  {
+   "role": "이방인/ 자크",
+   "name": "현석준"
+  },
+  {
+   "role": "카트린/ 루시",
+   "name": "안유진"
+  },
+  {
+   "role": "카트린/ 루시",
+   "name": "전성민"
+  },
+  {
+   "role": "앙리",
+   "name": "김우성"
+  },
+  {
+   "role": "샤를로트",
+   "name": "장예원"
+  },
+  {
+   "role": "샤를로트",
+   "name": "박세화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251005132924/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=215148"
+ }
 }

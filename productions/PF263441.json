@@ -47,5 +47,83 @@
  ],
  "updated": "2025-07-17 16:27:28",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#011257",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "휴이",
+   "name": "박강현"
+  },
+  {
+   "role": "휴이",
+   "name": "고은성"
+  },
+  {
+   "role": "휴이",
+   "name": "정택운"
+  },
+  {
+   "role": "휴이",
+   "name": "이창섭"
+  },
+  {
+   "role": "펠리샤",
+   "name": "정선아"
+  },
+  {
+   "role": "펠리샤",
+   "name": "유리아"
+  },
+  {
+   "role": "펠리샤",
+   "name": "손승연"
+  },
+  {
+   "role": "델레이",
+   "name": "최민철"
+  },
+  {
+   "role": "델레이",
+   "name": "심재현"
+  },
+  {
+   "role": "글래디스",
+   "name": "최정원"
+  },
+  {
+   "role": "글래디스",
+   "name": "김나윤"
+  },
+  {
+   "role": "미스터 시몬스",
+   "name": "이종문"
+  },
+  {
+   "role": "바비",
+   "name": "전재현"
+  },
+  {
+   "role": "바비",
+   "name": "박광선"
+  },
+  {
+   "role": "",
+   "name": "조성린"
+  },
+  {
+   "role": "",
+   "name": "이정하"
+  },
+  {
+   "role": "",
+   "name": "이소연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260615042655/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216278"
+ }
 }

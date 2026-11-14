@@ -56,5 +56,95 @@
  ],
  "updated": "2026-07-02 16:21:12",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A2420",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이상설",
+   "name": "송일국"
+  },
+  {
+   "role": "이상설",
+   "name": "오만석"
+  },
+  {
+   "role": "이상설",
+   "name": "원종환"
+  },
+  {
+   "role": "이준",
+   "name": "유승현"
+  },
+  {
+   "role": "이준",
+   "name": "이시강"
+  },
+  {
+   "role": "이준",
+   "name": "임준혁"
+  },
+  {
+   "role": "이위종",
+   "name": "이호석"
+  },
+  {
+   "role": "이위종",
+   "name": "이주순"
+  },
+  {
+   "role": "이위종",
+   "name": "금준현"
+  },
+  {
+   "role": "나정우",
+   "name": "강찬"
+  },
+  {
+   "role": "나정우",
+   "name": "강승식"
+  },
+  {
+   "role": "나정우",
+   "name": "이세온"
+  },
+  {
+   "role": "나선우",
+   "name": "조상웅"
+  },
+  {
+   "role": "나선우",
+   "name": "윤은오"
+  },
+  {
+   "role": "나선우",
+   "name": "김태오"
+  },
+  {
+   "role": "홍채경",
+   "name": "효은"
+  },
+  {
+   "role": "홍채경",
+   "name": "송다혜"
+  },
+  {
+   "role": "홍채경",
+   "name": "주다온"
+  },
+  {
+   "role": "",
+   "name": "임현준"
+  },
+  {
+   "role": "",
+   "name": "최찬우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260608083957/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=227585"
+ }
 }

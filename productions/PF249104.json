@@ -1,0 +1,72 @@
+{
+ "id": "PF249104",
+ "title": "제3회 연극 판 페스티벌, 한 판: 남자들",
+ "genre": "연극",
+ "from": "2024-10-17",
+ "to": "2024-10-20",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF249104_240913_155744.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이시훈",
+  "김현회",
+  "마광현",
+  "전민호",
+  "이은",
+  "강신희"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "2시간",
+ "age": "만 15세 이상",
+ "crew": "김현회, 이홍이, 정하영 등",
+ "producer": "극단 위대한 모험",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF249104_240913_0357440.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24013085"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12537"
+  }
+ ],
+ "updated": "2024-10-07 11:59:34",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "김현수",
+   "name": "이시훈"
+  },
+  {
+   "role": "조상호",
+   "name": "김현회"
+  },
+  {
+   "role": "박용기",
+   "name": "마광현"
+  },
+  {
+   "role": "신광수",
+   "name": "전민호"
+  },
+  {
+   "role": "배영란",
+   "name": "이은"
+  },
+  {
+   "role": "최은영/고민희",
+   "name": "강신희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913173441/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207903"
+ }
+}

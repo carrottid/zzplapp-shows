@@ -51,6 +51,10 @@
  "updated": "2023-06-13 15:00:00",
  "castSource": "none",
  "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#737373",
+  "fg": "#FFFFFF"
+ },
  "roleCast": [
   {
    "role": "A",
@@ -82,7 +86,7 @@
   },
   {
    "role": "B",
-   "name": "신혁수"
+   "name": "신수빈"
   }
  ],
  "roleCastSource": {

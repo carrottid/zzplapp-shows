@@ -51,5 +51,95 @@
  ],
  "updated": "2022-04-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#010000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마타하리",
+   "name": "옥주현"
+  },
+  {
+   "role": "마타하리",
+   "name": "솔라"
+  },
+  {
+   "role": "아르망",
+   "name": "김성식"
+  },
+  {
+   "role": "아르망",
+   "name": "이홍기"
+  },
+  {
+   "role": "아르망",
+   "name": "이창섭"
+  },
+  {
+   "role": "아르망",
+   "name": "윤소호"
+  },
+  {
+   "role": "라두 대령",
+   "name": "최민철"
+  },
+  {
+   "role": "라두 대령",
+   "name": "김바울"
+  },
+  {
+   "role": "안나",
+   "name": "한지연"
+  },
+  {
+   "role": "안나",
+   "name": "최나래"
+  },
+  {
+   "role": "가수/팽르베",
+   "name": "홍경수"
+  },
+  {
+   "role": "가수/팽르베",
+   "name": "육현욱"
+  },
+  {
+   "role": "마가레타",
+   "name": "김지혜"
+  },
+  {
+   "role": "마가레타",
+   "name": "최진"
+  },
+  {
+   "role": "",
+   "name": "정영일"
+  },
+  {
+   "role": "",
+   "name": "서정"
+  },
+  {
+   "role": "",
+   "name": "김연준"
+  },
+  {
+   "role": "",
+   "name": "한정우"
+  },
+  {
+   "role": "",
+   "name": "유지현"
+  },
+  {
+   "role": "",
+   "name": "박소은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250714215746/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173715"
+ }
 }

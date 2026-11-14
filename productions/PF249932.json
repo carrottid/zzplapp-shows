@@ -47,5 +47,63 @@
  ],
  "updated": "2024-12-17 14:01:38",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#523D26",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "존",
+   "name": "배두훈"
+  },
+  {
+   "role": "존",
+   "name": "장지후"
+  },
+  {
+   "role": "존",
+   "name": "이해준"
+  },
+  {
+   "role": "수잔",
+   "name": "방민아"
+  },
+  {
+   "role": "수잔",
+   "name": "김수하"
+  },
+  {
+   "role": "마이클",
+   "name": "김대웅"
+  },
+  {
+   "role": "마이클",
+   "name": "양희준"
+  },
+  {
+   "role": "",
+   "name": "홍동하"
+  },
+  {
+   "role": "",
+   "name": "서정"
+  },
+  {
+   "role": "",
+   "name": "백중훈"
+  },
+  {
+   "role": "",
+   "name": "권수정"
+  },
+  {
+   "role": "",
+   "name": "권릴리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208060857/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=208371"
+ }
 }

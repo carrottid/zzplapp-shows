@@ -1,0 +1,46 @@
+{
+ "id": "PF199258",
+ "title": "오슬로에서 온 남자",
+ "genre": "연극",
+ "from": "2022-10-28",
+ "to": "2022-11-13",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF199258_221004_131800.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강애심",
+  "엄옥란",
+  "백익남",
+  "정나진",
+  "이동영",
+  "이상홍",
+  "박윤정"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "2시간",
+ "age": "만 13세 이상",
+ "crew": "박상현, 남경식, 김형연 등",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF199258_221004_0118000.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22013158"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD21872"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1991"
+  }
+ ],
+ "updated": "2022-10-04 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

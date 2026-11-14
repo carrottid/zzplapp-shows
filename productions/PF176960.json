@@ -47,5 +47,47 @@
  ],
  "updated": "2021-07-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#703931",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "A",
+   "name": "서이숙"
+  },
+  {
+   "role": "A",
+   "name": "정재은"
+  },
+  {
+   "role": "B",
+   "name": "배종옥"
+  },
+  {
+   "role": "B",
+   "name": "황영희"
+  },
+  {
+   "role": "C",
+   "name": "손지윤"
+  },
+  {
+   "role": "C",
+   "name": "우정원"
+  },
+  {
+   "role": "D",
+   "name": "이상아"
+  },
+  {
+   "role": "D",
+   "name": "지우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240423111138/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166434"
+ }
 }

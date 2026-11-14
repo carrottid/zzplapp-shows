@@ -38,5 +38,67 @@
  ],
  "updated": "2023-07-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#05A3E0",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "아르강",
+   "name": "문영동"
+  },
+  {
+   "role": "아르강",
+   "name": "김진우"
+  },
+  {
+   "role": "뜨와네뜨",
+   "name": "천윤경"
+  },
+  {
+   "role": "뜨와네뜨",
+   "name": "이문현"
+  },
+  {
+   "role": "디아프와뤼스, 퓌르공, 플뢰랑, 의장",
+   "name": "한승도"
+  },
+  {
+   "role": "디아프와뤼스, 퓌르공, 플뢰랑, 의장",
+   "name": "김류하"
+  },
+  {
+   "role": "또마 디아프와뤼스",
+   "name": "신세윤"
+  },
+  {
+   "role": "베랄드",
+   "name": "이얀"
+  },
+  {
+   "role": "벨린느",
+   "name": "김소미"
+  },
+  {
+   "role": "",
+   "name": "강동주"
+  },
+  {
+   "role": "",
+   "name": "김민진"
+  },
+  {
+   "role": "",
+   "name": "김지은"
+  },
+  {
+   "role": "",
+   "name": "장보인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241012200102/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=191274"
+ }
 }

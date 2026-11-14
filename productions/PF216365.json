@@ -47,5 +47,31 @@
  ],
  "updated": "2023-04-06 16:13:48",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#09232D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "다이",
+   "name": "곽지숙"
+  },
+  {
+   "role": "데이빗",
+   "name": "남수현"
+  },
+  {
+   "role": "닉",
+   "name": "성근창"
+  },
+  {
+   "role": "카라",
+   "name": "박수빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250809021029/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186887"
+ }
 }

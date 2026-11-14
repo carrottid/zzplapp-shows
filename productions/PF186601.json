@@ -55,5 +55,71 @@
  ],
  "updated": "2022-02-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#262FC0",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "박도경",
+   "name": "손호영"
+  },
+  {
+   "role": "박도경",
+   "name": "장동우"
+  },
+  {
+   "role": "박도경",
+   "name": "재윤"
+  },
+  {
+   "role": "오해영",
+   "name": "레이나"
+  },
+  {
+   "role": "오해영",
+   "name": "양서윤"
+  },
+  {
+   "role": "오해영",
+   "name": "길하은"
+  },
+  {
+   "role": "한태진",
+   "name": "조현우"
+  },
+  {
+   "role": "한태진",
+   "name": "손지환"
+  },
+  {
+   "role": "또해영",
+   "name": "한서윤"
+  },
+  {
+   "role": "또해영",
+   "name": "김혜라"
+  },
+  {
+   "role": "박수경/엄마",
+   "name": "허순미"
+  },
+  {
+   "role": "박수경/엄마",
+   "name": "김연진"
+  },
+  {
+   "role": "이진상",
+   "name": "심진혁"
+  },
+  {
+   "role": "이진상",
+   "name": "신중우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260510045841/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171694"
+ }
 }

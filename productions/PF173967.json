@@ -1,0 +1,137 @@
+{
+ "id": "PF173967",
+ "title": "박정희",
+ "genre": "뮤지컬",
+ "from": "2021-06-17",
+ "to": "2021-06-20",
+ "venue": "구. LG아트센터 (구. LG아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF173967_210426_134031.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최수형",
+  "김민균",
+  "송민경",
+  "노민아",
+  "인재현",
+  "국지용",
+  "김형근"
+ ],
+ "facilityId": "FC000002",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "김세의, 강용석, 구충길 등",
+ "producer": "가로세로연구소",
+ "price": "VIP석 45,000원, R석 30,000원, S석 15,000원, A석 7,500원",
+ "schedule": "목요일 ~ 금요일(19:30), 금요일(14:30,19:30), 토요일(14:30,19:30), 일요일(14:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF173967_210812_0348341.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "-"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/483003"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21003434"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Pages/Perf/Detail/Detail.aspx?IdPerf=38950"
+  }
+ ],
+ "updated": "2021-05-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "박정희",
+   "name": "최수형"
+  },
+  {
+   "role": "박정희",
+   "name": "김민균"
+  },
+  {
+   "role": "육영수",
+   "name": "송민경"
+  },
+  {
+   "role": "박태준",
+   "name": "김형근"
+  },
+  {
+   "role": "정주영",
+   "name": "김태균"
+  },
+  {
+   "role": "백선엽",
+   "name": "기정수"
+  },
+  {
+   "role": "이병철",
+   "name": "김태규"
+  },
+  {
+   "role": "",
+   "name": "조재곤"
+  },
+  {
+   "role": "",
+   "name": "신시온"
+  },
+  {
+   "role": "",
+   "name": "조효정"
+  },
+  {
+   "role": "",
+   "name": "김유리"
+  },
+  {
+   "role": "",
+   "name": "배우리"
+  },
+  {
+   "role": "",
+   "name": "이창섭"
+  },
+  {
+   "role": "",
+   "name": "오경택"
+  },
+  {
+   "role": "",
+   "name": "윤주아"
+  },
+  {
+   "role": "",
+   "name": "온유가"
+  },
+  {
+   "role": "",
+   "name": "최국"
+  },
+  {
+   "role": "",
+   "name": "송치호"
+  },
+  {
+   "role": "",
+   "name": "이운재"
+  },
+  {
+   "role": "",
+   "name": "홍승연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013092829/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164861"
+ }
+}

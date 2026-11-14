@@ -1,0 +1,42 @@
+{
+ "id": "PF239332",
+ "title": "ROMEO ⅹ JULIET (로미오와 줄리엣)",
+ "genre": "연극",
+ "from": "2024-05-15",
+ "to": "2024-05-19",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF239332_240416_143228.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박대원",
+  "표민엽",
+  "이지안",
+  "황다경",
+  "최재현",
+  "이규현",
+  "이규동"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "김재우, 이봉근, 김시율 등",
+ "price": "전석 56,000원",
+ "schedule": "목요일 ~ 금요일(19:00), 토요일 ~ 일요일(15:00,19:00), HOL(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF239332_240416_0232280.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24005484"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5609"
+  }
+ ],
+ "updated": "2024-04-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -2,12 +2,32 @@
  "date": "2024-09-30",
  "sessions": [
   {
+   "id": "PF247764",
+   "title": "국립극단, 간과 강",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF248775",
+   "title": "혜화동1번지 동인 페스티벌: 장르 대축제, 김치찌개 웨스턴: 밥주걱과 45구경 권총의 결투",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF247254",
    "title": "마우스트랩",
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF248007",
@@ -15,7 +35,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#C39222",
+    "fg": "#111111"
+   }
   }
  ]
 }

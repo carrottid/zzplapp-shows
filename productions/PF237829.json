@@ -54,5 +54,35 @@
  ],
  "updated": "2024-03-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#372E30",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "검열관",
+   "name": "송승환"
+  },
+  {
+   "role": "검열관",
+   "name": "서현철"
+  },
+  {
+   "role": "작가",
+   "name": "주민진"
+  },
+  {
+   "role": "작가",
+   "name": "신주협"
+  },
+  {
+   "role": "사환",
+   "name": "손원근"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250808084857/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200243"
+ }
 }

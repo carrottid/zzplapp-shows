@@ -39,5 +39,39 @@
  ],
  "updated": "2025-03-10 15:54:46",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#D14214",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "태섭",
+   "name": "박성웅"
+  },
+  {
+   "role": "태섭",
+   "name": "박건형"
+  },
+  {
+   "role": "태섭",
+   "name": "민호"
+  },
+  {
+   "role": "지희",
+   "name": "이수경"
+  },
+  {
+   "role": "지희",
+   "name": "범도하"
+  },
+  {
+   "role": "지희",
+   "name": "김하리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251209213316/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214604"
+ }
 }

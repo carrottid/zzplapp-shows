@@ -19,7 +19,40 @@
    "genre": "뮤지컬",
    "venue": "이화여자대학교 삼성홀",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김서연"
+    },
+    {
+     "name": "김푸름"
+    },
+    {
+     "name": "박영수"
+    },
+    {
+     "name": "백형훈"
+    },
+    {
+     "name": "송용진"
+    },
+    {
+     "name": "윤도영"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "윤태호"
+    },
+    {
+     "name": "윤형렬"
+    }
+   ],
+   "color": {
+    "bg": "#2E2A22",
+    "fg": "#E8C77A"
+   }
   },
   {
    "id": "PF304638",
@@ -56,7 +89,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "최수진"
+    },
+    {
+     "name": "이한별"
+    },
+    {
+     "name": "이채원"
+    }
+   ],
    "color": {
     "bg": "#C0392B",
     "fg": "#FFFFFF"

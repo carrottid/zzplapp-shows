@@ -38,5 +38,39 @@
  ],
  "updated": "2021-05-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1B1F3B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "미주",
+   "name": "조혜안"
+  },
+  {
+   "role": "도운",
+   "name": "신진호"
+  },
+  {
+   "role": "여자",
+   "name": "유민경"
+  },
+  {
+   "role": "여자",
+   "name": "안현정"
+  },
+  {
+   "role": "남자",
+   "name": "이현석"
+  },
+  {
+   "role": "남자",
+   "name": "박민재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428030712/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164933"
+ }
 }

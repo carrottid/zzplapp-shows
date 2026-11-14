@@ -64,5 +64,55 @@
  ],
  "updated": "2022-02-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#18120E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "오르페우스",
+   "name": "조형균"
+  },
+  {
+   "role": "오르페우스",
+   "name": "박강현"
+  },
+  {
+   "role": "헤르메스",
+   "name": "최재림"
+  },
+  {
+   "role": "헤르메스",
+   "name": "강홍석"
+  },
+  {
+   "role": "페르세포네",
+   "name": "김선영"
+  },
+  {
+   "role": "페르세포네",
+   "name": "박혜나"
+  },
+  {
+   "role": "에우리디케",
+   "name": "김환희"
+  },
+  {
+   "role": "에우리디케",
+   "name": "김수하"
+  },
+  {
+   "role": "하데스",
+   "name": "지현준"
+  },
+  {
+   "role": "하데스",
+   "name": "김우형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220301124736/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172105"
+ }
 }

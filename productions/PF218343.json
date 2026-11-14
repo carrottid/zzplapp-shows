@@ -52,5 +52,63 @@
  ],
  "updated": "2023-06-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윌리 로먼",
+   "name": "장두이"
+  },
+  {
+   "role": "린다 로먼",
+   "name": "홍성경"
+  },
+  {
+   "role": "비프 로먼",
+   "name": "김승대"
+  },
+  {
+   "role": "비프 로먼",
+   "name": "김은우"
+  },
+  {
+   "role": "해피 로먼",
+   "name": "권오성"
+  },
+  {
+   "role": "찰리",
+   "name": "김영"
+  },
+  {
+   "role": "버나드",
+   "name": "문장원"
+  },
+  {
+   "role": "",
+   "name": "김왕근"
+  },
+  {
+   "role": "",
+   "name": "김진철"
+  },
+  {
+   "role": "",
+   "name": "박종호"
+  },
+  {
+   "role": "",
+   "name": "강유정"
+  },
+  {
+   "role": "",
+   "name": "김도연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717150525/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188122"
+ }
 }

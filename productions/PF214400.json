@@ -1,0 +1,36 @@
+{
+ "id": "PF214400",
+ "title": "내 탓이야",
+ "genre": "연극",
+ "from": "2023-03-11",
+ "to": "2023-03-12",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF214400_230306_114526.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "차선민",
+  "오순조",
+  "윤지원"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 10분",
+ "age": "만 7세 이상",
+ "crew": "이윤성, 박건호, 김영환 등",
+ "price": "전석 20,000원",
+ "schedule": "토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214400_230306_1145262.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214400_230306_1145261.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF214400_230306_1145260.jpg"
+ ],
+ "links": [
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/45189"
+  }
+ ],
+ "updated": "2023-03-06 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

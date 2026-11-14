@@ -52,5 +52,55 @@
  ],
  "updated": "2024-11-28 16:20:25",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#AF3774",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이스마일",
+   "name": "윤상화"
+  },
+  {
+   "role": "윌프리드",
+   "name": "이승우"
+  },
+  {
+   "role": "잔, 기로믈랑",
+   "name": "최나라"
+  },
+  {
+   "role": "에밀, 영화감독, 와자안",
+   "name": "강신구"
+  },
+  {
+   "role": "젊은 이스마일, 프랑수아, 검안의",
+   "name": "송철호"
+  },
+  {
+   "role": "시몬",
+   "name": "윤현길"
+  },
+  {
+   "role": "",
+   "name": "이미숙"
+  },
+  {
+   "role": "",
+   "name": "공지수"
+  },
+  {
+   "role": "",
+   "name": "정연주"
+  },
+  {
+   "role": "",
+   "name": "조한나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251008101531/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198213"
+ }
 }

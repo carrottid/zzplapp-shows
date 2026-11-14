@@ -11,7 +11,7 @@
  "cast": [
   "김주호",
   "이석준",
-  "성두섭",
+  "성태준",
   "양지원",
   "정욱진",
   "정민",
@@ -47,5 +47,79 @@
  ],
  "updated": "2020-10-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#18121C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이홍",
+   "name": "김주호"
+  },
+  {
+   "role": "이홍",
+   "name": "이석준"
+  },
+  {
+   "role": "진평군",
+   "name": "고상호"
+  },
+  {
+   "role": "진평군",
+   "name": "양지원"
+  },
+  {
+   "role": "진평군",
+   "name": "정욱진"
+  },
+  {
+   "role": "안영대군",
+   "name": "정민"
+  },
+  {
+   "role": "안영대군",
+   "name": "이형훈"
+  },
+  {
+   "role": "안영대군",
+   "name": "조환지"
+  },
+  {
+   "role": "지안",
+   "name": "정연"
+  },
+  {
+   "role": "지안",
+   "name": "신의정"
+  },
+  {
+   "role": "칠성군",
+   "name": "최호중"
+  },
+  {
+   "role": "칠성군",
+   "name": "심우성"
+  },
+  {
+   "role": "완덕군",
+   "name": "신창주"
+  },
+  {
+   "role": "",
+   "name": "구준모"
+  },
+  {
+   "role": "",
+   "name": "김건호"
+  },
+  {
+   "role": "",
+   "name": "이승우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220812051547/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=160800"
+ }
 }

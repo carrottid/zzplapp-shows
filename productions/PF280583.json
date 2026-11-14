@@ -49,5 +49,87 @@
  ],
  "updated": "2026-01-28 11:27:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#E9B8C7",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "춘애",
+   "name": "김영옥"
+  },
+  {
+   "role": "춘애",
+   "name": "김용림"
+  },
+  {
+   "role": "춘애",
+   "name": "손숙"
+  },
+  {
+   "role": "봄희",
+   "name": "하희라"
+  },
+  {
+   "role": "봄희",
+   "name": "이일화"
+  },
+  {
+   "role": "봄희",
+   "name": "신은정"
+  },
+  {
+   "role": "상길",
+   "name": "남경읍"
+  },
+  {
+   "role": "상길",
+   "name": "박지일"
+  },
+  {
+   "role": "상길",
+   "name": "김승욱"
+  },
+  {
+   "role": "채운",
+   "name": "강성진"
+  },
+  {
+   "role": "채운",
+   "name": "이필모"
+  },
+  {
+   "role": "채운",
+   "name": "윤희석"
+  },
+  {
+   "role": "꽃님",
+   "name": "진지희"
+  },
+  {
+   "role": "꽃님",
+   "name": "윤봄"
+  },
+  {
+   "role": "꽃님",
+   "name": "최서윤"
+  },
+  {
+   "role": "어린 춘애/봄희/꽃님",
+   "name": "손지유"
+  },
+  {
+   "role": "어린 춘애/봄희/꽃님",
+   "name": "임로하"
+  },
+  {
+   "role": "어린 춘애/봄희/꽃님",
+   "name": "박채린"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260311012515/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=224812"
+ }
 }

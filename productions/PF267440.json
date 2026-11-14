@@ -1,0 +1,35 @@
+{
+ "id": "PF267440",
+ "title": "굿 위도우",
+ "genre": "연극",
+ "from": "2025-07-17",
+ "to": "2025-07-20",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF267440_250617_134612.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박영민",
+  "박연하",
+  "서원"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "crew": "정보나, 임승태, 한태곤 등",
+ "producer": "예시공 프로젝트",
+ "price": "전석 44,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(14:00,19:30), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF267440_250617_0146120.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25008549"
+  }
+ ],
+ "updated": "2025-06-17 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

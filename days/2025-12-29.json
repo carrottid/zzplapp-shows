@@ -7,6 +7,26 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#B0306A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF279046",
+   "title": "산울림 편지콘서트: 에릭 사티와 벨 에포크의 예술가들",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF280913",
+   "title": "악령",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -15,7 +35,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2D4F",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

@@ -1,0 +1,109 @@
+{
+ "id": "PF236126",
+ "title": "넓은 하늘의 무지개를 보면 내 마음은 춤춘다",
+ "genre": "연극",
+ "from": "2024-03-28",
+ "to": "2024-04-07",
+ "venue": "동덕여대공연예술센터 (코튼홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF236126_240226_101616.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "전무송",
+  "성노진",
+  "손병호",
+  "박윤희",
+  "임지환",
+  "한윤춘",
+  "김성철"
+ ],
+ "facilityId": "FC000528",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "구태환, 손지형, 김춘경 등",
+ "producer": "(주)앰비즈",
+ "price": "R석 50,000원, S석 40,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF236126_240226_1016160.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1086669"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002509"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/48876"
+  }
+ ],
+ "updated": "2024-02-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "조병식",
+   "name": "전무송"
+  },
+  {
+   "role": "조병식",
+   "name": "성노진"
+  },
+  {
+   "role": "조한수",
+   "name": "손병호"
+  },
+  {
+   "role": "조한수",
+   "name": "박윤희"
+  },
+  {
+   "role": "조원우",
+   "name": "임지환"
+  },
+  {
+   "role": "조원우",
+   "name": "데니안"
+  },
+  {
+   "role": "신태호",
+   "name": "한윤춘"
+  },
+  {
+   "role": "신태호",
+   "name": "김성철"
+  },
+  {
+   "role": "박수영",
+   "name": "조창희"
+  },
+  {
+   "role": "박수영",
+   "name": "박종호"
+  },
+  {
+   "role": "김정숙",
+   "name": "황세원"
+  },
+  {
+   "role": "",
+   "name": "김민경"
+  },
+  {
+   "role": "",
+   "name": "배현아"
+  },
+  {
+   "role": "",
+   "name": "김정아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250316191545/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199671"
+ }
+}

@@ -55,5 +55,39 @@
  ],
  "updated": "2024-01-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#7A6548",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "캐서린",
+   "name": "방은진"
+  },
+  {
+   "role": "캐서린",
+   "name": "강명주"
+  },
+  {
+   "role": "비",
+   "name": "이지혜"
+  },
+  {
+   "role": "비",
+   "name": "김주연"
+  },
+  {
+   "role": "레이",
+   "name": "강기둥"
+  },
+  {
+   "role": "레이",
+   "name": "김세환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250617234650/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198267"
+ }
 }

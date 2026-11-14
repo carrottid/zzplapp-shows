@@ -38,5 +38,39 @@
  ],
  "updated": "2023-03-30 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#C10003",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "스크루테이프1",
+   "name": "황만익"
+  },
+  {
+   "role": "스크루테이프1",
+   "name": "정의욱"
+  },
+  {
+   "role": "스크루테이프2",
+   "name": "구시연"
+  },
+  {
+   "role": "스크루테이프2",
+   "name": "이은주"
+  },
+  {
+   "role": "스크루테이프2",
+   "name": "노은하"
+  },
+  {
+   "role": "스크루테이프3",
+   "name": "김동민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231201190905/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186691"
+ }
 }

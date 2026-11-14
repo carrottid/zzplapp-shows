@@ -47,5 +47,55 @@
  ],
  "updated": "2023-11-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#954439",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "안토니오, 수리오",
+   "name": "김은희"
+  },
+  {
+   "role": "공작",
+   "name": "박하진"
+  },
+  {
+   "role": "란스",
+   "name": "박정민"
+  },
+  {
+   "role": "프로테우",
+   "name": "김기분"
+  },
+  {
+   "role": "줄리아",
+   "name": "남승혜"
+  },
+  {
+   "role": "실비아",
+   "name": "정수영"
+  },
+  {
+   "role": "",
+   "name": "이화정"
+  },
+  {
+   "role": "",
+   "name": "김수정"
+  },
+  {
+   "role": "",
+   "name": "정인혜"
+  },
+  {
+   "role": "",
+   "name": "황수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814104914/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195820"
+ }
 }

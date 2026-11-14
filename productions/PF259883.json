@@ -56,5 +56,43 @@
  ],
  "updated": "2025-03-10 11:02:36",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#E3C602",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "헤다",
+   "name": "이영애"
+  },
+  {
+   "role": "조지 테스만",
+   "name": "김정호"
+  },
+  {
+   "role": "브라크",
+   "name": "지현준"
+  },
+  {
+   "role": "에일레트 뢰브보그",
+   "name": "이승주"
+  },
+  {
+   "role": "테아 엘브스테드",
+   "name": "백지원"
+  },
+  {
+   "role": "줄리아나 테스만",
+   "name": "이정미"
+  },
+  {
+   "role": "",
+   "name": "조어진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250521023708/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212899"
+ }
 }

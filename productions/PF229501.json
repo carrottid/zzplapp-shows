@@ -49,5 +49,55 @@
  ],
  "updated": "2023-11-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#D8C9AE",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "이은수",
+   "name": "김슬기"
+  },
+  {
+   "role": "이은수",
+   "name": "김나영"
+  },
+  {
+   "role": "김우진",
+   "name": "이동하"
+  },
+  {
+   "role": "김우진",
+   "name": "김선호"
+  },
+  {
+   "role": "김우진",
+   "name": "안우연"
+  },
+  {
+   "role": "정지용",
+   "name": "임철수"
+  },
+  {
+   "role": "정지용",
+   "name": "이시형"
+  },
+  {
+   "role": "정지용",
+   "name": "최정헌"
+  },
+  {
+   "role": "서태영",
+   "name": "이지해"
+  },
+  {
+   "role": "서태영",
+   "name": "오세미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251009152031/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195614"
+ }
 }

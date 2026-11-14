@@ -1,0 +1,34 @@
+{
+ "id": "PF225185",
+ "title": "파란 피",
+ "genre": "연극",
+ "from": "2023-09-20",
+ "to": "2023-09-24",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF225185_230904_161050.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김선아",
+  "김정훈",
+  "양혜지"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 40분",
+ "age": "만 14세 이상",
+ "crew": "편재민, 권민희, 이율구 등",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225185_230904_0410500.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012280"
+  }
+ ],
+ "updated": "2023-09-04 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

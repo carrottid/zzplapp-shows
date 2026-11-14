@@ -28,5 +28,19 @@
  ],
  "updated": "2021-08-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#000000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "진행",
+   "name": "이석준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220527220115/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167058"
+ }
 }

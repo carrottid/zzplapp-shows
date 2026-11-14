@@ -59,6 +59,10 @@
  "updated": "2023-06-02 15:00:00",
  "castSource": "none",
  "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
  "roleCast": [
   {
    "role": "오페라의 유령",
@@ -106,7 +110,7 @@
   },
   {
    "role": "칼롯타",
-   "name": "이지영"
+   "name": "에블린"
   },
   {
    "role": "칼롯타",

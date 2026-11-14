@@ -47,5 +47,63 @@
  ],
  "updated": "2023-02-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#020001",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "프레이저",
+   "name": "이주순"
+  },
+  {
+   "role": "프레이저",
+   "name": "윤재호"
+  },
+  {
+   "role": "프레이저",
+   "name": "최재웅"
+  },
+  {
+   "role": "고든",
+   "name": "이진우"
+  },
+  {
+   "role": "고든",
+   "name": "김서환"
+  },
+  {
+   "role": "고든",
+   "name": "이봉준"
+  },
+  {
+   "role": "폴",
+   "name": "김찰리"
+  },
+  {
+   "role": "폴",
+   "name": "김영국"
+  },
+  {
+   "role": "폴",
+   "name": "양병열"
+  },
+  {
+   "role": "앨런",
+   "name": "이형훈"
+  },
+  {
+   "role": "앨런",
+   "name": "최아론"
+  },
+  {
+   "role": "앨런",
+   "name": "박건우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251205045049/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=184223"
+ }
 }

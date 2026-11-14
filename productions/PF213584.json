@@ -62,5 +62,95 @@
  ],
  "updated": "2023-02-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#97574E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "크리스",
+   "name": "강성진"
+  },
+  {
+   "role": "크리스",
+   "name": "정상훈"
+  },
+  {
+   "role": "가이",
+   "name": "이다은"
+  },
+  {
+   "role": "제임스",
+   "name": "김아론"
+  },
+  {
+   "role": "제임스",
+   "name": "윤대성"
+  },
+  {
+   "role": "알리스터",
+   "name": "정지우"
+  },
+  {
+   "role": "알리스터",
+   "name": "김준호"
+  },
+  {
+   "role": "해리",
+   "name": "조선기"
+  },
+  {
+   "role": "해리",
+   "name": "김준식"
+  },
+  {
+   "role": "휴고",
+   "name": "지승찬"
+  },
+  {
+   "role": "",
+   "name": "윤수아"
+  },
+  {
+   "role": "",
+   "name": "홍준기"
+  },
+  {
+   "role": "",
+   "name": "차예준"
+  },
+  {
+   "role": "",
+   "name": "강승우"
+  },
+  {
+   "role": "",
+   "name": "지소예"
+  },
+  {
+   "role": "",
+   "name": "송보근"
+  },
+  {
+   "role": "",
+   "name": "한민우"
+  },
+  {
+   "role": "",
+   "name": "김예별"
+  },
+  {
+   "role": "",
+   "name": "김한빈"
+  },
+  {
+   "role": "",
+   "name": "유강민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240811154013/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185512"
+ }
 }

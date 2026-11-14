@@ -46,5 +46,39 @@
  ],
  "updated": "2022-05-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#473835",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "촐랭이",
+   "name": "임하룡"
+  },
+  {
+   "role": "분이",
+   "name": "양금석"
+  },
+  {
+   "role": "분이",
+   "name": "강효성"
+  },
+  {
+   "role": "진호",
+   "name": "임호"
+  },
+  {
+   "role": "진호",
+   "name": "정운택"
+  },
+  {
+   "role": "에리",
+   "name": "김미주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240919072745/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175004"
+ }
 }

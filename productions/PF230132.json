@@ -1,0 +1,44 @@
+{
+ "id": "PF230132",
+ "title": "안녕! B612: 어린왕자",
+ "genre": "뮤지컬",
+ "from": "2023-12-06",
+ "to": "2023-12-10",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230132_231116_123602.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김지현",
+  "신서아",
+  "이희성",
+  "최윤석",
+  "한상우",
+  "최보정",
+  "최미선"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 10분",
+ "age": "만 6세 이상",
+ "crew": "오현진, 김연화, 이진희 등",
+ "producer": "하랑씨어터",
+ "price": "전석 45,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(11:00,15:00,18:00), 일요일(11:00,15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230132_231116_1238052.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230132_231116_1238051.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016711"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5336"
+  }
+ ],
+ "updated": "2023-11-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

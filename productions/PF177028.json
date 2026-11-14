@@ -35,5 +35,43 @@
  ],
  "updated": "2021-07-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0D0C0A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아르토",
+   "name": "유승현"
+  },
+  {
+   "role": "아르토",
+   "name": "안재영"
+  },
+  {
+   "role": "고흐",
+   "name": "유현석"
+  },
+  {
+   "role": "고흐",
+   "name": "김준영"
+  },
+  {
+   "role": "고흐",
+   "name": "박좌헌"
+  },
+  {
+   "role": "박사",
+   "name": "김주호"
+  },
+  {
+   "role": "박사",
+   "name": "이형훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717151932/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166482"
+ }
 }

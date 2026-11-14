@@ -34,5 +34,39 @@
  ],
  "updated": "2022-01-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#12130C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "나르치스",
+   "name": "박유덕"
+  },
+  {
+   "role": "나르치스",
+   "name": "유승현"
+  },
+  {
+   "role": "나르치스",
+   "name": "임별"
+  },
+  {
+   "role": "골드문트",
+   "name": "강찬"
+  },
+  {
+   "role": "골드문트",
+   "name": "김지온"
+  },
+  {
+   "role": "골드문트",
+   "name": "안지환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221007020600/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170888"
+ }
 }

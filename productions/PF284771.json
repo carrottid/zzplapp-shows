@@ -47,5 +47,55 @@
  ],
  "updated": "2026-02-09 15:00:04.151301",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#E9C7BE",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "투리",
+   "name": "윤승우"
+  },
+  {
+   "role": "투리",
+   "name": "이진우"
+  },
+  {
+   "role": "투리",
+   "name": "강병훈"
+  },
+  {
+   "role": "투리",
+   "name": "윤여백"
+  },
+  {
+   "role": "캐롤리나",
+   "name": "박새힘"
+  },
+  {
+   "role": "캐롤리나",
+   "name": "성민재"
+  },
+  {
+   "role": "캐롤리나",
+   "name": "조영화"
+  },
+  {
+   "role": "도미니코",
+   "name": "임별"
+  },
+  {
+   "role": "도미니코",
+   "name": "최민우"
+  },
+  {
+   "role": "도미니코",
+   "name": "박좌헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260421141545/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=227090"
+ }
 }

@@ -47,5 +47,75 @@
  ],
  "updated": "2025-08-28 11:37:05",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#30084E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "알라딘",
+   "name": "김준수"
+  },
+  {
+   "role": "알라딘",
+   "name": "서경수"
+  },
+  {
+   "role": "알라딘",
+   "name": "박강현"
+  },
+  {
+   "role": "지니",
+   "name": "정성화"
+  },
+  {
+   "role": "지니",
+   "name": "정원영"
+  },
+  {
+   "role": "지니",
+   "name": "강홍석"
+  },
+  {
+   "role": "자스민",
+   "name": "이성경"
+  },
+  {
+   "role": "자스민",
+   "name": "민경아"
+  },
+  {
+   "role": "자스민",
+   "name": "최지혜"
+  },
+  {
+   "role": "술탄",
+   "name": "이상준"
+  },
+  {
+   "role": "술탄",
+   "name": "황만익"
+  },
+  {
+   "role": "자파",
+   "name": "윤선용"
+  },
+  {
+   "role": "자파",
+   "name": "임별"
+  },
+  {
+   "role": "밥칵",
+   "name": "방보용"
+  },
+  {
+   "role": "밥칵",
+   "name": "양병철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250521021927/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216247"
+ }
 }

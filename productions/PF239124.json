@@ -35,5 +35,39 @@
  ],
  "updated": "2024-04-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#856261",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "절구통개미",
+   "name": "본주"
+  },
+  {
+   "role": "돈키똥키",
+   "name": "김태현"
+  },
+  {
+   "role": "정글살쾡이",
+   "name": "김정호"
+  },
+  {
+   "role": "라쿤롤",
+   "name": "이민주"
+  },
+  {
+   "role": "기복숭이",
+   "name": "현채아"
+  },
+  {
+   "role": "개늑대",
+   "name": "김현섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013114550/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=204438"
+ }
 }

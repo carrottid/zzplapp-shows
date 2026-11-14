@@ -62,5 +62,67 @@
  ],
  "updated": "2024-11-28 15:46:08",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E4C601",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "조셉 메를랑",
+   "name": "강찬"
+  },
+  {
+   "role": "조셉 메를랑",
+   "name": "김범준"
+  },
+  {
+   "role": "끌로이 시빌",
+   "name": "서유진"
+  },
+  {
+   "role": "끌로이 시빌",
+   "name": "김이후"
+  },
+  {
+   "role": "아이샤 외",
+   "name": "김아영"
+  },
+  {
+   "role": "이브 메를랑 외",
+   "name": "이연경"
+  },
+  {
+   "role": "오드리 델피 외",
+   "name": "조희수"
+  },
+  {
+   "role": "매튜 그린 외",
+   "name": "고준식"
+  },
+  {
+   "role": "매튜 그린 외",
+   "name": "정선영"
+  },
+  {
+   "role": "",
+   "name": "이승재"
+  },
+  {
+   "role": "",
+   "name": "신대성"
+  },
+  {
+   "role": "",
+   "name": "임소라"
+  },
+  {
+   "role": "",
+   "name": "서예림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251114110850/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198211"
+ }
 }

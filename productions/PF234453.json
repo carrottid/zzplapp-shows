@@ -39,5 +39,95 @@
  ],
  "updated": "2024-01-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#B80203",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "최수호",
+   "name": "송용진"
+  },
+  {
+   "role": "최수호",
+   "name": "김준원"
+  },
+  {
+   "role": "최수호",
+   "name": "김대곤"
+  },
+  {
+   "role": "이명제",
+   "name": "한서원"
+  },
+  {
+   "role": "이명제",
+   "name": "윤지현"
+  },
+  {
+   "role": "이명제",
+   "name": "김건호"
+  },
+  {
+   "role": "민현수",
+   "name": "이성희"
+  },
+  {
+   "role": "민현수",
+   "name": "김려은"
+  },
+  {
+   "role": "민현수",
+   "name": "진예"
+  },
+  {
+   "role": "유격수",
+   "name": "강신철"
+  },
+  {
+   "role": "유격수",
+   "name": "정명군"
+  },
+  {
+   "role": "이석규",
+   "name": "김천"
+  },
+  {
+   "role": "이석규",
+   "name": "정형렬"
+  },
+  {
+   "role": "문송면",
+   "name": "서창원"
+  },
+  {
+   "role": "문송면",
+   "name": "도예준"
+  },
+  {
+   "role": "",
+   "name": "유일한"
+  },
+  {
+   "role": "",
+   "name": "최경식"
+  },
+  {
+   "role": "",
+   "name": "문수아"
+  },
+  {
+   "role": "",
+   "name": "김계림"
+  },
+  {
+   "role": "",
+   "name": "소준성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618113818/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198536"
+ }
 }

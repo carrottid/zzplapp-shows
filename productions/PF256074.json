@@ -36,5 +36,63 @@
  ],
  "updated": "2025-07-08 11:16:07",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#665D5D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "춘자",
+   "name": "서나영"
+  },
+  {
+   "role": "춘자",
+   "name": "김소리"
+  },
+  {
+   "role": "진수",
+   "name": "성열석"
+  },
+  {
+   "role": "진수",
+   "name": "김준현"
+  },
+  {
+   "role": "성찬",
+   "name": "김대웅"
+  },
+  {
+   "role": "성찬",
+   "name": "김선제"
+  },
+  {
+   "role": "다정",
+   "name": "하미미"
+  },
+  {
+   "role": "다정",
+   "name": "강나리"
+  },
+  {
+   "role": "백정언",
+   "name": "이상은"
+  },
+  {
+   "role": "백정언",
+   "name": "서인권"
+  },
+  {
+   "role": "영혼의 물고기",
+   "name": "엄현수"
+  },
+  {
+   "role": "영혼의 물고기",
+   "name": "양나은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250426184633/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212078"
+ }
 }

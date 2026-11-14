@@ -7,13 +7,29 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0F1B33",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF278899",
    "title": "제10회 한국뮤지컬어워즈, 뮤이어 (MU: YEAR) 콘서트",
    "genre": "뮤지컬",
    "venue": "이화여자대학교 삼성홀",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1F38",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF277627",
+   "title": "창작ing, DRAGx남장신사",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
    "castSource": "none"
   },
@@ -23,7 +39,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2D4F",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

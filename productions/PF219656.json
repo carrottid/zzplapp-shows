@@ -35,5 +35,83 @@
  ],
  "updated": "2023-06-05 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#258FC1",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "프로스페로",
+   "name": "문대한"
+  },
+  {
+   "role": "미랜더",
+   "name": "이음"
+  },
+  {
+   "role": "미랜더",
+   "name": "오상의"
+  },
+  {
+   "role": "퍼디낸드",
+   "name": "최윤석"
+  },
+  {
+   "role": "알론조",
+   "name": "유가은"
+  },
+  {
+   "role": "세바스찬",
+   "name": "최준영"
+  },
+  {
+   "role": "곤잘로",
+   "name": "송설"
+  },
+  {
+   "role": "",
+   "name": "곡성진"
+  },
+  {
+   "role": "",
+   "name": "이매진"
+  },
+  {
+   "role": "",
+   "name": "최용성"
+  },
+  {
+   "role": "",
+   "name": "김기현"
+  },
+  {
+   "role": "",
+   "name": "강정탁"
+  },
+  {
+   "role": "",
+   "name": "서승백"
+  },
+  {
+   "role": "",
+   "name": "최보정"
+  },
+  {
+   "role": "",
+   "name": "추효지"
+  },
+  {
+   "role": "",
+   "name": "임창욱"
+  },
+  {
+   "role": "",
+   "name": "한상우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014230432/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=189068"
+ }
 }

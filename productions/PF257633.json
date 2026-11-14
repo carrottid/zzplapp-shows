@@ -59,5 +59,47 @@
  ],
  "updated": "2025-07-03 16:13:21",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#D44411",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "친구 외",
+   "name": "김신기"
+  },
+  {
+   "role": "사장 외",
+   "name": "정은영"
+  },
+  {
+   "role": "출판사 직원 외",
+   "name": "성원"
+  },
+  {
+   "role": "남편 외",
+   "name": "박경주"
+  },
+  {
+   "role": "새장수 외",
+   "name": "이승우"
+  },
+  {
+   "role": "환자 외",
+   "name": "구본혁"
+  },
+  {
+   "role": "",
+   "name": "정다연"
+  },
+  {
+   "role": "",
+   "name": "박신혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250616130623/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214116"
+ }
 }

@@ -1,0 +1,85 @@
+{
+ "id": "PF174107",
+ "title": "문 밖에서",
+ "genre": "연극",
+ "from": "2021-05-12",
+ "to": "2021-05-16",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF174107_210429_112259.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "공찬호",
+  "이주한",
+  "정인지",
+  "김종성",
+  "강지덕",
+  "강일범",
+  "임준호"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "강준택, 이주한, 박민수 등",
+ "producer": "달팽이주파수",
+ "price": "전석 25,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174107_210429_1122590.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21003460"
+  }
+ ],
+ "updated": "2021-04-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "베크만",
+   "name": "강지덕"
+  },
+  {
+   "role": "타아",
+   "name": "최지원"
+  },
+  {
+   "role": "신",
+   "name": "공찬호"
+  },
+  {
+   "role": "죽음",
+   "name": "임준호"
+  },
+  {
+   "role": "엘베 / 크라머부인",
+   "name": "윤소연"
+  },
+  {
+   "role": "젊은 여인",
+   "name": "배경민"
+  },
+  {
+   "role": "",
+   "name": "이주한"
+  },
+  {
+   "role": "",
+   "name": "정인지"
+  },
+  {
+   "role": "",
+   "name": "강일범"
+  },
+  {
+   "role": "",
+   "name": "김종성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620072457/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164872"
+ }
+}

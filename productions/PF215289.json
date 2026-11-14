@@ -1,0 +1,32 @@
+{
+ "id": "PF215289",
+ "title": "마하",
+ "genre": "연극",
+ "from": "2023-04-07",
+ "to": "2023-04-09",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF215289_230320_141917.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이정원",
+  "신윤재"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 5분",
+ "age": "만 12세 이상",
+ "crew": "김세온, 전채린, 안소정 등",
+ "schedule": "금요일(17:00,20:00), 토요일 ~ 일요일(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF215289_230320_0219170.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/860716"
+  }
+ ],
+ "updated": "2023-03-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

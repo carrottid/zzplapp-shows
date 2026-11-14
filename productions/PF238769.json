@@ -1,0 +1,92 @@
+{
+ "id": "PF238769",
+ "title": "창작ing 세 번째, 거의 인간",
+ "genre": "연극",
+ "from": "2024-05-08",
+ "to": "2024-05-22",
+ "venue": "국립정동극장 세실 (구.세실극장) (국립정동극장 세실 (구.세실극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF238769_240408_102538.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강해진",
+  "강현우",
+  "김선경",
+  "김유민",
+  "김정은",
+  "서창호",
+  "성여진"
+ ],
+ "facilityId": "FC001125",
+ "runtime": "1시간 50분",
+ "age": "만 12세 이상",
+ "crew": "구두리, 김수희, 이정은 등",
+ "price": "전석 20,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 일요일(14:00), HOL(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238769_240408_1025380.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24004970"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1714374488"
+  },
+  {
+   "name": "코스타",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1714374487"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12223"
+  }
+ ],
+ "updated": "2024-04-08 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "이재영",
+   "name": "강해진"
+  },
+  {
+   "role": "박율 외",
+   "name": "강현우"
+  },
+  {
+   "role": "최사라 외",
+   "name": "김유민"
+  },
+  {
+   "role": "권복희 외",
+   "name": "김정은"
+  },
+  {
+   "role": "장민호 외",
+   "name": "서창호"
+  },
+  {
+   "role": "김수현",
+   "name": "성여진"
+  },
+  {
+   "role": "",
+   "name": "안병찬"
+  },
+  {
+   "role": "",
+   "name": "양지민"
+  },
+  {
+   "role": "",
+   "name": "김선경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618110915/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201554"
+ }
+}

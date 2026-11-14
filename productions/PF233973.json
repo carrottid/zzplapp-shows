@@ -39,5 +39,95 @@
  ],
  "updated": "2024-01-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#021E3E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "장발장",
+   "name": "민우혁"
+  },
+  {
+   "role": "장발장",
+   "name": "최재림"
+  },
+  {
+   "role": "자베르",
+   "name": "김우형"
+  },
+  {
+   "role": "자베르",
+   "name": "카이"
+  },
+  {
+   "role": "판틴",
+   "name": "조정은"
+  },
+  {
+   "role": "판틴",
+   "name": "린아"
+  },
+  {
+   "role": "떼나르디에",
+   "name": "임기홍"
+  },
+  {
+   "role": "떼나르디에",
+   "name": "육현욱"
+  },
+  {
+   "role": "떼나르디에 부인",
+   "name": "박준면"
+  },
+  {
+   "role": "떼나르디에 부인",
+   "name": "김영주"
+  },
+  {
+   "role": "앙졸라",
+   "name": "김성식"
+  },
+  {
+   "role": "앙졸라",
+   "name": "차윤해"
+  },
+  {
+   "role": "",
+   "name": "김수하"
+  },
+  {
+   "role": "",
+   "name": "루미나"
+  },
+  {
+   "role": "",
+   "name": "윤은오"
+  },
+  {
+   "role": "",
+   "name": "김경록"
+  },
+  {
+   "role": "",
+   "name": "이상아"
+  },
+  {
+   "role": "",
+   "name": "류인아"
+  },
+  {
+   "role": "",
+   "name": "이지윤"
+  },
+  {
+   "role": "",
+   "name": "신은총"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250327043258/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198162"
+ }
 }

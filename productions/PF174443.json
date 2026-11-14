@@ -1,0 +1,42 @@
+{
+ "id": "PF174443",
+ "title": "소년이 그랬다",
+ "genre": "연극",
+ "from": "2021-05-21",
+ "to": "2021-06-13",
+ "venue": "국립극단 [용산] (백성희장민호극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF174443_210510_110438.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김우진",
+  "윤동원",
+  "남수현",
+  "이문식",
+  "김정민",
+  "한지수",
+  "김솔지"
+ ],
+ "facilityId": "FC001111",
+ "runtime": "1시간 10분",
+ "age": "만 11세 이상",
+ "crew": "한현주, 남인우, 여신동 등",
+ "producer": "(재) 국립극단",
+ "price": "전석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174443_210510_1104383.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174443_210510_1104382.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174443_210510_1104381.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF174443_210510_1104380.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/256996"
+  }
+ ],
+ "updated": "2021-05-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

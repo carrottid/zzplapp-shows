@@ -38,5 +38,67 @@
  ],
  "updated": "2021-08-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5B312D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "프로스페로",
+   "name": "황규헌"
+  },
+  {
+   "role": "미렌더",
+   "name": "최보정"
+  },
+  {
+   "role": "알론조",
+   "name": "유가은"
+  },
+  {
+   "role": "퍼디낸드",
+   "name": "정용석"
+  },
+  {
+   "role": "곤잘로",
+   "name": "추효지"
+  },
+  {
+   "role": "안토니오",
+   "name": "곡성진"
+  },
+  {
+   "role": "",
+   "name": "최준영"
+  },
+  {
+   "role": "",
+   "name": "김동현"
+  },
+  {
+   "role": "",
+   "name": "이매진"
+  },
+  {
+   "role": "",
+   "name": "김성환"
+  },
+  {
+   "role": "",
+   "name": "이태화"
+  },
+  {
+   "role": "",
+   "name": "한상우"
+  },
+  {
+   "role": "",
+   "name": "강세영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014231853/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167548"
+ }
 }

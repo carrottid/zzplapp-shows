@@ -35,5 +35,55 @@
  ],
  "updated": "2026-02-24 16:15:14",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#221F18",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에릭",
+   "name": "강정우"
+  },
+  {
+   "role": "에릭",
+   "name": "유현석"
+  },
+  {
+   "role": "에릭",
+   "name": "박좌헌"
+  },
+  {
+   "role": "에릭",
+   "name": "최재웅"
+  },
+  {
+   "role": "메레데스",
+   "name": "신의정"
+  },
+  {
+   "role": "메레데스",
+   "name": "이서영"
+  },
+  {
+   "role": "메레데스",
+   "name": "전혜주"
+  },
+  {
+   "role": "에드몬드",
+   "name": "조풍래"
+  },
+  {
+   "role": "에드몬드",
+   "name": "반정모"
+  },
+  {
+   "role": "에드몬드",
+   "name": "김기택"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622122359/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=217220"
+ }
 }

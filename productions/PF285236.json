@@ -43,5 +43,43 @@
  ],
  "updated": "2026-09-08 17:45:22",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2E5E7E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "고연심",
+   "name": "이혜미"
+  },
+  {
+   "role": "수자",
+   "name": "권지숙"
+  },
+  {
+   "role": "기자",
+   "name": "김소진"
+  },
+  {
+   "role": "모든남자",
+   "name": "박완규"
+  },
+  {
+   "role": "화자",
+   "name": "김선화"
+  },
+  {
+   "role": "유미",
+   "name": "김해서"
+  },
+  {
+   "role": "",
+   "name": "정수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521023424/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=227399"
+ }
 }

@@ -70,5 +70,51 @@
  ],
  "updated": "2022-06-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#010101",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "의사",
+   "name": "강지훈"
+  },
+  {
+   "role": "의사",
+   "name": "곽민호"
+  },
+  {
+   "role": "의사",
+   "name": "박상준"
+  },
+  {
+   "role": "엄마",
+   "name": "김경란"
+  },
+  {
+   "role": "엄마",
+   "name": "박소영"
+  },
+  {
+   "role": "엄마",
+   "name": "송아경"
+  },
+  {
+   "role": "아들",
+   "name": "김민준"
+  },
+  {
+   "role": "아들",
+   "name": "정지환"
+  },
+  {
+   "role": "아들",
+   "name": "윤운영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251012114927/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176081"
+ }
 }

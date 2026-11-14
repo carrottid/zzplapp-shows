@@ -2,12 +2,24 @@
  "date": "2024-09-02",
  "sessions": [
   {
+   "id": "PF245617",
+   "title": "기획초청 Pick크닉, 배소고지 이야기; 기억의 연못",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF243081",
    "title": "유진과 유진",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A2B18",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF242869",
@@ -15,7 +27,11 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DA120B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF245726",
@@ -23,7 +39,11 @@
    "genre": "연극",
    "venue": "산울림소극장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#717070",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

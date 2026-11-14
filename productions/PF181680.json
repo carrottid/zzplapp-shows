@@ -1,0 +1,54 @@
+{
+ "id": "PF181680",
+ "title": "미드나잇 통조림",
+ "genre": "연극",
+ "from": "2021-10-29",
+ "to": "2021-11-06",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF181680_211025_131726.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최주원",
+  "성백인",
+  "고정경",
+  "윤수현",
+  "하영주",
+  "정은선",
+  "정이재"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 40분",
+ "age": "만 15세 이상",
+ "crew": "김수연, 고정경, 김나은 등",
+ "producer": "컴퍼니 익연",
+ "price": "전석 38,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181680_211025_0117260.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF181680_211025_0157173.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21010076"
+  }
+ ],
+ "updated": "2021-10-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "일방통행로 - 김영훈",
+   "name": "임이규"
+  },
+  {
+   "role": "물고기들 - 박선정",
+   "name": "윤수민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250325182933/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169174"
+ }
+}

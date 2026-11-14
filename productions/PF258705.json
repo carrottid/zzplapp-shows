@@ -50,5 +50,95 @@
  ],
  "updated": "2025-03-05 11:18:55",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#27180B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이정환",
+   "name": "김동현"
+  },
+  {
+   "role": "이정환",
+   "name": "정상훈"
+  },
+  {
+   "role": "최현도",
+   "name": "최영도"
+  },
+  {
+   "role": "김원태",
+   "name": "공재민"
+  },
+  {
+   "role": "백승재",
+   "name": "김수아"
+  },
+  {
+   "role": "임기찬",
+   "name": "김수민"
+  },
+  {
+   "role": "윤상준",
+   "name": "차호진"
+  },
+  {
+   "role": "",
+   "name": "김설빈"
+  },
+  {
+   "role": "",
+   "name": "이창민"
+  },
+  {
+   "role": "",
+   "name": "권나현"
+  },
+  {
+   "role": "",
+   "name": "고선우"
+  },
+  {
+   "role": "",
+   "name": "김민석"
+  },
+  {
+   "role": "",
+   "name": "최재림"
+  },
+  {
+   "role": "",
+   "name": "배문섭"
+  },
+  {
+   "role": "",
+   "name": "유기원"
+  },
+  {
+   "role": "",
+   "name": "김원경"
+  },
+  {
+   "role": "",
+   "name": "강나림"
+  },
+  {
+   "role": "",
+   "name": "최예원"
+  },
+  {
+   "role": "",
+   "name": "김하영"
+  },
+  {
+   "role": "",
+   "name": "이지은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622113945/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=213318"
+ }
 }

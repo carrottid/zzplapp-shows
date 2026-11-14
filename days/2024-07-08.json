@@ -7,7 +7,11 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1605",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF242455",
@@ -15,6 +19,26 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1606",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF242516",
+   "title": "국립극단, 햄릿",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF242321",
+   "title": "극단 가탄 10주년 기념공연, 가족의 탄생",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -23,7 +47,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A2B18",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF244177",
@@ -31,7 +59,11 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#132B37",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

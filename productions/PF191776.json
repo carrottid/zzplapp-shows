@@ -39,5 +39,79 @@
  ],
  "updated": "2022-05-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#25242A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "무덤파기",
+   "name": "권성덕"
+  },
+  {
+   "role": "유령",
+   "name": "전무송"
+  },
+  {
+   "role": "배우1",
+   "name": "박정자"
+  },
+  {
+   "role": "배우2",
+   "name": "손숙"
+  },
+  {
+   "role": "배우2",
+   "name": "길해연"
+  },
+  {
+   "role": "폴로니어스",
+   "name": "정동환"
+  },
+  {
+   "role": "거투르드",
+   "name": "김성녀"
+  },
+  {
+   "role": "",
+   "name": "유인촌"
+  },
+  {
+   "role": "",
+   "name": "윤석화"
+  },
+  {
+   "role": "",
+   "name": "손봉숙"
+  },
+  {
+   "role": "",
+   "name": "김수현"
+  },
+  {
+   "role": "",
+   "name": "박건형"
+  },
+  {
+   "role": "",
+   "name": "강필석"
+  },
+  {
+   "role": "",
+   "name": "김명기"
+  },
+  {
+   "role": "",
+   "name": "이호철"
+  },
+  {
+   "role": "",
+   "name": "박지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250824155008/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175153"
+ }
 }

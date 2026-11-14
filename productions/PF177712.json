@@ -38,5 +38,67 @@
  ],
  "updated": "2021-08-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3A3C33",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "키타하라 타게루",
+   "name": "김용준"
+  },
+  {
+   "role": "키타하라 무쓰미",
+   "name": "우미화"
+  },
+  {
+   "role": "쿠시마 카쓰히로",
+   "name": "신용진"
+  },
+  {
+   "role": "쿠시마 히사코",
+   "name": "김선미"
+  },
+  {
+   "role": "키타하라 히요리",
+   "name": "박시유"
+  },
+  {
+   "role": "이오카 타쿠미",
+   "name": "반인환"
+  },
+  {
+   "role": "",
+   "name": "강선영"
+  },
+  {
+   "role": "",
+   "name": "김신영"
+  },
+  {
+   "role": "",
+   "name": "홍성호"
+  },
+  {
+   "role": "",
+   "name": "서유덕"
+  },
+  {
+   "role": "",
+   "name": "윤수현"
+  },
+  {
+   "role": "",
+   "name": "손필재"
+  },
+  {
+   "role": "",
+   "name": "황비홍"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620073234/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166855"
+ }
 }

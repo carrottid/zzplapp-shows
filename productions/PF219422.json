@@ -39,5 +39,79 @@
  ],
  "updated": "2023-06-01 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#665643",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "그 친구",
+   "name": "혁"
+  },
+  {
+   "role": "그 친구",
+   "name": "최승열"
+  },
+  {
+   "role": "그 친구",
+   "name": "송유택"
+  },
+  {
+   "role": "창기",
+   "name": "임호"
+  },
+  {
+   "role": "창기",
+   "name": "임강성"
+  },
+  {
+   "role": "창기",
+   "name": "강두"
+  },
+  {
+   "role": "준열",
+   "name": "김바다"
+  },
+  {
+   "role": "준열",
+   "name": "장민수"
+  },
+  {
+   "role": "준열",
+   "name": "김이담"
+  },
+  {
+   "role": "기영",
+   "name": "성유빈"
+  },
+  {
+   "role": "기영",
+   "name": "오성민"
+  },
+  {
+   "role": "경찬",
+   "name": "최신권"
+  },
+  {
+   "role": "경찬",
+   "name": "정인지"
+  },
+  {
+   "role": "경찬",
+   "name": "심수호"
+  },
+  {
+   "role": "철호 외",
+   "name": "김성수"
+  },
+  {
+   "role": "철호 외",
+   "name": "김성현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250712071557/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188989"
+ }
 }

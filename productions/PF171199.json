@@ -1,0 +1,35 @@
+{
+ "id": "PF171199",
+ "title": "제2회 딜레마극장, FLASH MEMORY",
+ "genre": "연극",
+ "from": "2021-01-26",
+ "to": "2021-01-31",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF171199_210126_093450.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김성태",
+  "한승현",
+  "서채은",
+  "남현정"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 20분",
+ "age": "만 14세 이상",
+ "crew": "김성태, 한원균, 류혜리 등",
+ "price": "전석 10,000원",
+ "schedule": "화요일 ~ 금요일(19:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF171199_210201_1222141.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21000267"
+  }
+ ],
+ "updated": "2021-02-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

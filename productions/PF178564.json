@@ -52,5 +52,87 @@
  ],
  "updated": "2021-08-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F1A12",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "클림트",
+   "name": "박시원"
+  },
+  {
+   "role": "클림트",
+   "name": "서승원"
+  },
+  {
+   "role": "클림트",
+   "name": "곽동현"
+  },
+  {
+   "role": "에밀리",
+   "name": "김수아"
+  },
+  {
+   "role": "에밀리",
+   "name": "박기량"
+  },
+  {
+   "role": "에밀리",
+   "name": "서은교"
+  },
+  {
+   "role": "에밀리",
+   "name": "해윤"
+  },
+  {
+   "role": "쉴레",
+   "name": "이무현"
+  },
+  {
+   "role": "쉴레",
+   "name": "유회승"
+  },
+  {
+   "role": "쉴레",
+   "name": "최승엽"
+  },
+  {
+   "role": "아델레",
+   "name": "채시현"
+  },
+  {
+   "role": "아델레",
+   "name": "남가현"
+  },
+  {
+   "role": "아델레",
+   "name": "박주은"
+  },
+  {
+   "role": "프란츠",
+   "name": "김형석"
+  },
+  {
+   "role": "프란츠",
+   "name": "안태준"
+  },
+  {
+   "role": "프란츠",
+   "name": "류수아"
+  },
+  {
+   "role": "크라우스",
+   "name": "임춘길"
+  },
+  {
+   "role": "크라우스",
+   "name": "최성원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250210040736/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166892"
+ }
 }

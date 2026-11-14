@@ -44,5 +44,59 @@
  ],
  "updated": "2024-12-23 16:49:03",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#574052",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "카르밀라",
+   "name": "유주혜"
+  },
+  {
+   "role": "카르밀라",
+   "name": "전민지"
+  },
+  {
+   "role": "카르밀라",
+   "name": "정예인"
+  },
+  {
+   "role": "로라",
+   "name": "이서영"
+  },
+  {
+   "role": "로라",
+   "name": "박새힘"
+  },
+  {
+   "role": "로라",
+   "name": "이재림"
+  },
+  {
+   "role": "닉",
+   "name": "송영미"
+  },
+  {
+   "role": "닉",
+   "name": "민도희"
+  },
+  {
+   "role": "닉",
+   "name": "김서연"
+  },
+  {
+   "role": "슈필스도르프",
+   "name": "한상훈"
+  },
+  {
+   "role": "슈필스도르프",
+   "name": "반정모"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622112707/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202933"
+ }
 }

@@ -41,5 +41,35 @@
  ],
  "updated": "2021-02-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#A19644",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "A1",
+   "name": "정운선"
+  },
+  {
+   "role": "A1",
+   "name": "백은혜"
+  },
+  {
+   "role": "A2",
+   "name": "홍우진"
+  },
+  {
+   "role": "A2",
+   "name": "신성민"
+  },
+  {
+   "role": "A2",
+   "name": "이형훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220628010140/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163131"
+ }
 }

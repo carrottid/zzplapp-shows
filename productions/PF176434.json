@@ -36,5 +36,35 @@
  ],
  "updated": "2021-06-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#343029",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "A",
+   "name": "강예은"
+  },
+  {
+   "role": "B",
+   "name": "이지훈"
+  },
+  {
+   "role": "C",
+   "name": "박다혜"
+  },
+  {
+   "role": "D",
+   "name": "장영철"
+  },
+  {
+   "role": "어떤관객, 어떤농민",
+   "name": "이현주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240910105642/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166137"
+ }
 }

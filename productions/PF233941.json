@@ -35,5 +35,95 @@
  ],
  "updated": "2024-01-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#626D84",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "노을",
+   "name": "임은희"
+  },
+  {
+   "role": "노을",
+   "name": "김동민"
+  },
+  {
+   "role": "노을",
+   "name": "김경환"
+  },
+  {
+   "role": "동진",
+   "name": "박지선"
+  },
+  {
+   "role": "동진",
+   "name": "최보윤"
+  },
+  {
+   "role": "동진",
+   "name": "김동연"
+  },
+  {
+   "role": "동진",
+   "name": "우민제"
+  },
+  {
+   "role": "동희",
+   "name": "허동원"
+  },
+  {
+   "role": "동희",
+   "name": "정선희"
+  },
+  {
+   "role": "민영",
+   "name": "안혜경"
+  },
+  {
+   "role": "민영",
+   "name": "김사랑"
+  },
+  {
+   "role": "민영",
+   "name": "김혜민"
+  },
+  {
+   "role": "경진",
+   "name": "손우혁"
+  },
+  {
+   "role": "경진",
+   "name": "신동원"
+  },
+  {
+   "role": "경진",
+   "name": "이희택"
+  },
+  {
+   "role": "우서",
+   "name": "황준우"
+  },
+  {
+   "role": "우서",
+   "name": "전봉석"
+  },
+  {
+   "role": "우서",
+   "name": "김태현"
+  },
+  {
+   "role": "",
+   "name": "김현지"
+  },
+  {
+   "role": "",
+   "name": "이지예"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240920202808/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198007"
+ }
 }

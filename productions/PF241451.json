@@ -1,0 +1,88 @@
+{
+ "id": "PF241451",
+ "title": "제45회 서울연극제, 속살",
+ "genre": "연극",
+ "from": "2024-06-20",
+ "to": "2024-06-30",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF241451_240521_110716.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이원재",
+  "오순태",
+  "김규도",
+  "심원석",
+  "이상숙",
+  "이정주",
+  "민재원"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "이은준, 이상숙, 박구용 등",
+ "price": "전석 40,000원",
+ "schedule": "화요일(19:30), 수요일(15:00), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF241451_240521_1107160.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1144413"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/49749"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "https://playticket.co.kr/nav/detail.html?idx=3069"
+  }
+ ],
+ "updated": "2025-01-09 15:50:21",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "상필",
+   "name": "이원재"
+  },
+  {
+   "role": "형기",
+   "name": "오두원"
+  },
+  {
+   "role": "안경",
+   "name": "김규도"
+  },
+  {
+   "role": "경식",
+   "name": "심원석"
+  },
+  {
+   "role": "상준",
+   "name": "이정주"
+  },
+  {
+   "role": "영석,남자손님",
+   "name": "민재원"
+  },
+  {
+   "role": "",
+   "name": "이상숙"
+  },
+  {
+   "role": "",
+   "name": "김가빈"
+  },
+  {
+   "role": "",
+   "name": "이유진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250320154958/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=204769"
+ }
+}

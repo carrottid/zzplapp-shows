@@ -58,5 +58,79 @@
  ],
  "updated": "2021-04-05 17:09:24",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#412A2D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "포카",
+   "name": "김재건"
+  },
+  {
+   "role": "사내",
+   "name": "신현종"
+  },
+  {
+   "role": "스쿠라토프",
+   "name": "강신구"
+  },
+  {
+   "role": "스테판",
+   "name": "김신기"
+  },
+  {
+   "role": "아넨코프",
+   "name": "주성환"
+  },
+  {
+   "role": "안나",
+   "name": "김지원"
+  },
+  {
+   "role": "",
+   "name": "최나라"
+  },
+  {
+   "role": "",
+   "name": "구도균"
+  },
+  {
+   "role": "",
+   "name": "김시유"
+  },
+  {
+   "role": "",
+   "name": "김단경"
+  },
+  {
+   "role": "",
+   "name": "김강태"
+  },
+  {
+   "role": "",
+   "name": "주은주"
+  },
+  {
+   "role": "",
+   "name": "김남표"
+  },
+  {
+   "role": "",
+   "name": "석서현"
+  },
+  {
+   "role": "",
+   "name": "김윤지"
+  },
+  {
+   "role": "",
+   "name": "김기붕"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424034407/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163376"
+ }
 }

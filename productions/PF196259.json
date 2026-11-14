@@ -87,11 +87,15 @@
   },
   {
    "role": "싱어",
-   "name": "심수영"
+   "name": "심수호"
   }
  ],
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3089"
+ },
+ "color": {
+  "bg": "#CB451B",
+  "fg": "#FFFFFF"
  }
 }

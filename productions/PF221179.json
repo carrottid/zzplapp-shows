@@ -1,0 +1,94 @@
+{
+ "id": "PF221179",
+ "title": "산울림고전극장, 용의 아이",
+ "genre": "연극",
+ "from": "2023-07-12",
+ "to": "2023-07-23",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF221179_230629_142205.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "유영욱",
+  "이해진",
+  "김형균",
+  "전정욱",
+  "박서안",
+  "백승문",
+  "채우일"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 45분",
+ "age": "만 14세 이상",
+ "crew": "김광훈, 백승훈, 이준성 등",
+ "producer": "소극장 산울림(극단 산울림)",
+ "price": "전석 30,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221179_230629_0222050.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221179_230629_0223083.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://search.naver.com/search.naver?where=nexearch&sm=tab_etc&pkid=269&os=31756852&qvt=0&query=%EC%A0%9C11%ED%9A%8C%20%EC%82%B0%EC%9A%B8%EB%A6%BC%20%EA%B3%A0%EC%A0%84%EA%B7%B9%EC%9E%A5%20%EC%9A%A9%EC%9D%98%20%EC%95%84%EC%9D%B4"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008917"
+  }
+ ],
+ "updated": "2023-06-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "김통정",
+   "name": "유영욱"
+  },
+  {
+   "role": "김방경",
+   "name": "이해진"
+  },
+  {
+   "role": "사자",
+   "name": "김형균"
+  },
+  {
+   "role": "배중손",
+   "name": "전정욱"
+  },
+  {
+   "role": "여월",
+   "name": "박서안"
+  },
+  {
+   "role": "부관",
+   "name": "백승문"
+  },
+  {
+   "role": "",
+   "name": "이수연"
+  },
+  {
+   "role": "",
+   "name": "김도하"
+  },
+  {
+   "role": "",
+   "name": "권승구"
+  },
+  {
+   "role": "",
+   "name": "채우일"
+  },
+  {
+   "role": "",
+   "name": "주재현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260410083029/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=190128"
+ }
+}

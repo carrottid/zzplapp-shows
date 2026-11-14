@@ -2,12 +2,24 @@
  "date": "2025-05-26",
  "sessions": [
   {
+   "id": "PF262726",
+   "title": "국립극단, 헤다 가블러",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF262549",
    "title": "지킬앤하이드",
    "genre": "뮤지컬",
    "venue": "계명아트센터",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

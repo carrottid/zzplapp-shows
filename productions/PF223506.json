@@ -1,0 +1,43 @@
+{
+ "id": "PF223506",
+ "title": "사천의 선인",
+ "genre": "연극",
+ "from": "2023-08-24",
+ "to": "2023-08-27",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF223506_230808_110003.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "권은협",
+  "김성웅",
+  "김자빈",
+  "김현모",
+  "노별",
+  "박지아",
+  "윤세빈"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "2시간",
+ "age": "만 11세 이상",
+ "crew": "이용성, 김자빈",
+ "producer": "극단 37",
+ "price": "전석 15,000원",
+ "schedule": "목요일(19:00), 금요일(15:00,19:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223506_230808_1100030.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/961072"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23010961"
+  }
+ ],
+ "updated": "2023-08-28 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

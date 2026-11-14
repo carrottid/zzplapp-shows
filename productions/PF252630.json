@@ -62,5 +62,59 @@
  ],
  "updated": "2024-11-28 10:04:27",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5C5148",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "나스따샤",
+   "name": "아나스타샤 크세노폰토바"
+  },
+  {
+   "role": "미쉬킨 공작",
+   "name": "한윤춘"
+  },
+  {
+   "role": "예빤친, 레베제프",
+   "name": "박근수"
+  },
+  {
+   "role": "로고진",
+   "name": "이강준"
+  },
+  {
+   "role": "아글라야",
+   "name": "장다경"
+  },
+  {
+   "role": "가브릴라",
+   "name": "진성웅"
+  },
+  {
+   "role": "",
+   "name": "안성채"
+  },
+  {
+   "role": "",
+   "name": "나진희"
+  },
+  {
+   "role": "",
+   "name": "김태명"
+  },
+  {
+   "role": "",
+   "name": "주인서"
+  },
+  {
+   "role": "",
+   "name": "하다율"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260301121832/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=210123"
+ }
 }

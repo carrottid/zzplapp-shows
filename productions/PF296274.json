@@ -1,0 +1,109 @@
+{
+ "id": "PF296274",
+ "title": "장군슈퍼",
+ "genre": "연극",
+ "from": "2026-08-26",
+ "to": "2026-09-13",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296274_260716_143153.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이승연",
+  "권아름",
+  "이동규",
+  "정현규",
+  "이세형",
+  "장우정",
+  "박서은"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "손건우, 이호선, 이동규 등",
+ "producer": "극단 가족의탄생(극단 가탄)",
+ "price": "전석 45,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF296274_202607160231534310.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1703453"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009942"
+  }
+ ],
+ "updated": "2026-07-29 15:10:14",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "이승연"
+  },
+  {
+   "role": "엄마",
+   "name": "권아름"
+  },
+  {
+   "role": "장군",
+   "name": "이동규"
+  },
+  {
+   "role": "장군",
+   "name": "정현규"
+  },
+  {
+   "role": "장군",
+   "name": "이세형"
+  },
+  {
+   "role": "선희",
+   "name": "장우정"
+  },
+  {
+   "role": "선희",
+   "name": "박서은"
+  },
+  {
+   "role": "선희",
+   "name": "문민경"
+  },
+  {
+   "role": "미선",
+   "name": "기혜유"
+  },
+  {
+   "role": "미선",
+   "name": "유희리"
+  },
+  {
+   "role": "미남",
+   "name": "이태검"
+  },
+  {
+   "role": "미남",
+   "name": "유용"
+  },
+  {
+   "role": "성환",
+   "name": "손윤필"
+  },
+  {
+   "role": "성환",
+   "name": "이현진"
+  },
+  {
+   "role": "성환",
+   "name": "강이성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260714193649/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=232514"
+ }
+}

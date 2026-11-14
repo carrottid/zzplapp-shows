@@ -46,5 +46,39 @@
  ],
  "updated": "2023-05-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A6FAF",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "S",
+   "name": "이석준"
+  },
+  {
+   "role": "S",
+   "name": "정희태"
+  },
+  {
+   "role": "S",
+   "name": "길은성"
+  },
+  {
+   "role": "마르틴/페데리코",
+   "name": "이주승"
+  },
+  {
+   "role": "마르틴/페데리코",
+   "name": "손우현"
+  },
+  {
+   "role": "마르틴/페데리코",
+   "name": "정택운"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251206232753/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188101"
+ }
 }

@@ -113,7 +113,45 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정연"
+    },
+    {
+     "name": "이지숙"
+    },
+    {
+     "name": "이시안"
+    },
+    {
+     "name": "김대웅"
+    },
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "윤석원"
+    },
+    {
+     "name": "이예지"
+    },
+    {
+     "name": "하미미"
+    },
+    {
+     "name": "이민규"
+    },
+    {
+     "name": "안리나"
+    },
+    {
+     "name": "임별"
+    },
+    {
+     "name": "정소리"
+    }
+   ],
    "color": {
     "bg": "#5F8F96",
     "fg": "#FFFFFF"
@@ -148,12 +186,6 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이진혁"
-    },
-    {
-     "name": "이종석"
-    },
-    {
      "name": "김한결"
     },
     {
@@ -164,6 +196,12 @@
     },
     {
      "name": "박민주"
+    },
+    {
+     "name": "이진혁"
+    },
+    {
+     "name": "이종석"
     }
    ],
    "color": {
@@ -203,13 +241,10 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "선유하"
-    },
-    {
      "name": "김초하"
     },
     {
-     "name": "류비"
+     "name": "김현기"
     },
     {
      "name": "김이담"
@@ -218,7 +253,10 @@
      "name": "최반석"
     },
     {
-     "name": "김현기"
+     "name": "선유하"
+    },
+    {
+     "name": "류비"
     }
    ],
    "color": {
@@ -232,7 +270,42 @@
    "genre": "연극",
    "venue": "미마지아트센터 (물빛극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍인아"
+    },
+    {
+     "name": "송용진"
+    },
+    {
+     "name": "정수환"
+    },
+    {
+     "name": "백하빈"
+    },
+    {
+     "name": "황준우"
+    },
+    {
+     "name": "이강준"
+    },
+    {
+     "name": "노주희"
+    },
+    {
+     "name": "임동진"
+    },
+    {
+     "name": "윤예솔"
+    },
+    {
+     "name": "박현기"
+    },
+    {
+     "name": "채지영"
+    }
+   ],
    "color": {
     "bg": "#3F4A44",
     "fg": "#F2C94C"
@@ -369,16 +442,16 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "이신행"
-    },
-    {
      "name": "김준현"
     },
     {
-     "name": "김흥수"
+     "name": "이신행"
     },
     {
      "name": "임주은"
+    },
+    {
+     "name": "김흥수"
     }
    ],
    "color": {
@@ -516,7 +589,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "이진우"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "서인권"
+    },
+    {
+     "name": "최현희"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -540,7 +639,45 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정연"
+    },
+    {
+     "name": "이지숙"
+    },
+    {
+     "name": "이시안"
+    },
+    {
+     "name": "김대웅"
+    },
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "윤석원"
+    },
+    {
+     "name": "이예지"
+    },
+    {
+     "name": "하미미"
+    },
+    {
+     "name": "이민규"
+    },
+    {
+     "name": "안리나"
+    },
+    {
+     "name": "임별"
+    },
+    {
+     "name": "정소리"
+    }
+   ],
    "color": {
     "bg": "#5F8F96",
     "fg": "#FFFFFF"
@@ -619,7 +756,33 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "남기애"
+    },
+    {
+     "name": "남동진"
+    },
+    {
+     "name": "조영규"
+    },
+    {
+     "name": "김시영"
+    },
+    {
+     "name": "이진경"
+    },
+    {
+     "name": "최무인"
+    },
+    {
+     "name": "한윤춘"
+    },
+    {
+     "name": "홍준기"
+    }
+   ],
    "color": {
     "bg": "#C98AA0",
     "fg": "#FFFFFF"
@@ -688,13 +851,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "최민우"
+    },
+    {
      "name": "유주연"
     },
     {
      "name": "성연"
-    },
-    {
-     "name": "최민우"
     }
    ],
    "color": {
@@ -720,7 +883,54 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유희제"
+    },
+    {
+     "name": "오현서"
+    },
+    {
+     "name": "장태민"
+    },
+    {
+     "name": "정명군"
+    },
+    {
+     "name": "김동준"
+    },
+    {
+     "name": "도예준"
+    },
+    {
+     "name": "탁승빈"
+    },
+    {
+     "name": "김보정"
+    },
+    {
+     "name": "김수정"
+    },
+    {
+     "name": "박초록"
+    },
+    {
+     "name": "이정현"
+    },
+    {
+     "name": "심우성"
+    },
+    {
+     "name": "윤상호"
+    },
+    {
+     "name": "고태진"
+    },
+    {
+     "name": "이세호"
+    }
+   ],
    "color": {
     "bg": "#F0287F",
     "fg": "#FFFFFF"
@@ -968,12 +1178,6 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "임예진"
-    },
-    {
-     "name": "이지연"
-    },
-    {
      "name": "김한결"
     },
     {
@@ -984,6 +1188,12 @@
     },
     {
      "name": "박민주"
+    },
+    {
+     "name": "임예진"
+    },
+    {
+     "name": "이지연"
     }
    ],
    "color": {
@@ -1072,13 +1282,15 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "이승준"
+     "name": "이승준",
+     "personId": "51846"
     },
     {
-     "name": "김시유"
+     "name": "김시유",
+     "personId": "34017"
     }
    ],
    "color": {
@@ -1120,13 +1332,13 @@
      "name": "김서환"
     },
     {
+     "name": "황만익"
+    },
+    {
      "name": "황건우"
     },
     {
      "name": "신은호"
-    },
-    {
-     "name": "황만익"
     }
    ],
    "color": {
@@ -1143,10 +1355,10 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "최호승"
+     "name": "정재환"
     },
     {
-     "name": "정재환"
+     "name": "최호승"
     },
     {
      "name": "박준형"
@@ -1307,9 +1519,6 @@
      "name": "현석준"
     },
     {
-     "name": "전혜주"
-    },
-    {
      "name": "이주순"
     },
     {
@@ -1317,6 +1526,9 @@
     },
     {
      "name": "한비"
+    },
+    {
+     "name": "전혜주"
     }
    ],
    "color": {
@@ -1367,6 +1579,12 @@
    "castSource": "ticketlink",
    "cast": [
     {
+     "name": "박세훈"
+    },
+    {
+     "name": "김현기"
+    },
+    {
      "name": "주다온"
     },
     {
@@ -1377,12 +1595,6 @@
     },
     {
      "name": "선한국"
-    },
-    {
-     "name": "박세훈"
-    },
-    {
-     "name": "김현기"
     }
    ],
    "color": {
@@ -1497,16 +1709,16 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "제이민"
-    },
-    {
      "name": "정가희"
     },
     {
-     "name": "전해주"
+     "name": "권슬아"
     },
     {
-     "name": "권슬아"
+     "name": "제이민"
+    },
+    {
+     "name": "전해주"
     }
    ],
    "color": {
@@ -1523,13 +1735,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "김이후"
-    },
-    {
      "name": "한재아"
     },
     {
      "name": "전민지"
+    },
+    {
+     "name": "김이후"
     }
    ],
    "color": {

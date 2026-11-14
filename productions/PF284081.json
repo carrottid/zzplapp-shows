@@ -52,5 +52,95 @@
  ],
  "updated": "2026-06-23 14:27:05",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#A9C4D6",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "빌리",
+   "name": "김승주"
+  },
+  {
+   "role": "빌리",
+   "name": "박지후"
+  },
+  {
+   "role": "빌리",
+   "name": "김우진"
+  },
+  {
+   "role": "빌리",
+   "name": "조윤우"
+  },
+  {
+   "role": "마이클",
+   "name": "이서준"
+  },
+  {
+   "role": "마이클",
+   "name": "이루리"
+  },
+  {
+   "role": "마이클",
+   "name": "김효빈"
+  },
+  {
+   "role": "마이클",
+   "name": "지윤호"
+  },
+  {
+   "role": "데비",
+   "name": "김예은"
+  },
+  {
+   "role": "데비",
+   "name": "박예솔"
+  },
+  {
+   "role": "데비",
+   "name": "김서윤"
+  },
+  {
+   "role": "미세스 윌킨슨",
+   "name": "최정원"
+  },
+  {
+   "role": "미세스 윌킨슨",
+   "name": "전수미"
+  },
+  {
+   "role": "아빠",
+   "name": "조정근"
+  },
+  {
+   "role": "아빠",
+   "name": "최동원"
+  },
+  {
+   "role": "할머니",
+   "name": "박정자"
+  },
+  {
+   "role": "할머니",
+   "name": "민경옥"
+  },
+  {
+   "role": "할머니",
+   "name": "홍윤희"
+  },
+  {
+   "role": "",
+   "name": "김명윤"
+  },
+  {
+   "role": "",
+   "name": "임선우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260608083951/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=226839"
+ }
 }

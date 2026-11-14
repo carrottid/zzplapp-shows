@@ -10,7 +10,7 @@
  "state": "공연완료",
  "cast": [
   "이동하",
-  "성두섭",
+  "성태준",
   "오의식",
   "이진희",
   "류현경",
@@ -42,5 +42,39 @@
  ],
  "updated": "2021-05-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#817B65",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "남자",
+   "name": "이동하"
+  },
+  {
+   "role": "남자",
+   "name": "성태준"
+  },
+  {
+   "role": "남자",
+   "name": "오의식"
+  },
+  {
+   "role": "여자",
+   "name": "이진희"
+  },
+  {
+   "role": "여자",
+   "name": "류현경"
+  },
+  {
+   "role": "여자",
+   "name": "정인지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250317214827/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165216"
+ }
 }

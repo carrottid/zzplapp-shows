@@ -1,0 +1,38 @@
+{
+ "id": "PF281800",
+ "title": "단편소녀",
+ "genre": "연극",
+ "from": "2026-01-16",
+ "to": "2026-01-18",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF281800_251218_112435.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "심시온",
+  "송가현",
+  "공필주",
+  "이원호",
+  "김기린",
+  "최소연",
+  "송민"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "김현범, 이무영, 이윤재 등",
+ "price": "R석 35,000원, S석 25,000원",
+ "schedule": "금요일(20:00), 토요일 ~ 일요일(18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF281800_202512181124358850.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25017940"
+  }
+ ],
+ "updated": "2025-12-18 15:00:03.043294",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

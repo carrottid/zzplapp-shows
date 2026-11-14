@@ -51,5 +51,83 @@
  ],
  "updated": "2021-10-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4D353C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김옥균",
+   "name": "강필석"
+  },
+  {
+   "role": "김옥균",
+   "name": "최재웅"
+  },
+  {
+   "role": "김옥균",
+   "name": "송원근"
+  },
+  {
+   "role": "김옥균",
+   "name": "노윤"
+  },
+  {
+   "role": "한정훈",
+   "name": "김재범"
+  },
+  {
+   "role": "한정훈",
+   "name": "신성민"
+  },
+  {
+   "role": "한정훈",
+   "name": "이해준"
+  },
+  {
+   "role": "한정훈",
+   "name": "윤소호"
+  },
+  {
+   "role": "고종",
+   "name": "고영빈"
+  },
+  {
+   "role": "고종",
+   "name": "박영수"
+  },
+  {
+   "role": "고종",
+   "name": "김준수"
+  },
+  {
+   "role": "이완",
+   "name": "김태한"
+  },
+  {
+   "role": "이완",
+   "name": "신재희"
+  },
+  {
+   "role": "종윤",
+   "name": "한동훈"
+  },
+  {
+   "role": "스윙",
+   "name": "이승준"
+  },
+  {
+   "role": "",
+   "name": "김제하"
+  },
+  {
+   "role": "",
+   "name": "노재현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250316191632/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168373"
+ }
 }

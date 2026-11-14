@@ -1,0 +1,38 @@
+{
+ "id": "PF268125",
+ "title": "흐르는 강",
+ "genre": "연극",
+ "from": "2025-07-08",
+ "to": "2025-07-13",
+ "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF268125_250626_103841.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "한다경",
+  "김재희",
+  "최재윤",
+  "안재린",
+  "이호",
+  "정유진",
+  "홍승우"
+ ],
+ "facilityId": "FC000098",
+ "runtime": "1시간 10분",
+ "age": "만 12세 이상",
+ "crew": "양이쿤, 김미화 등",
+ "price": "전석 20,000원",
+ "schedule": "화요일(20:00), 수요일(15:00,20:00), 금요일(20:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF268125_250626_1038410.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25008753"
+  }
+ ],
+ "updated": "2025-06-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

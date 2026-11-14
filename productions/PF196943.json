@@ -1,0 +1,76 @@
+{
+ "id": "PF196943",
+ "title": "소년 대로",
+ "genre": "연극",
+ "from": "2022-09-23",
+ "to": "2022-10-02",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF196943_220824_133504.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "권슬아",
+  "조수연",
+  "조하나",
+  "최호영",
+  "조혜안",
+  "이은지",
+  "한성현"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "고정민, 신진호, 곽태준 등",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF196943_220824_0135040.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22010829"
+  }
+ ],
+ "updated": "2022-08-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "은아",
+   "name": "권슬아"
+  },
+  {
+   "role": "은아",
+   "name": "조수연"
+  },
+  {
+   "role": "캣맘",
+   "name": "조하나"
+  },
+  {
+   "role": "세훈",
+   "name": "최호영"
+  },
+  {
+   "role": "경선",
+   "name": "조혜안"
+  },
+  {
+   "role": "민",
+   "name": "이은지"
+  },
+  {
+   "role": "철수",
+   "name": "한성현"
+  },
+  {
+   "role": "",
+   "name": "우윤구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250522202315/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178132"
+ }
+}

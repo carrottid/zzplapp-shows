@@ -51,5 +51,55 @@
  ],
  "updated": "2022-02-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1C1515",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "리지 보든",
+   "name": "전성민"
+  },
+  {
+   "role": "리지 보든",
+   "name": "유리아"
+  },
+  {
+   "role": "리지 보든",
+   "name": "이소정"
+  },
+  {
+   "role": "엠마 보든",
+   "name": "김려원"
+  },
+  {
+   "role": "엠마 보든",
+   "name": "여은"
+  },
+  {
+   "role": "앨리스 러셀",
+   "name": "제이민"
+  },
+  {
+   "role": "앨리스 러셀",
+   "name": "김수연"
+  },
+  {
+   "role": "앨리스 러셀",
+   "name": "유연정"
+  },
+  {
+   "role": "브리짓 설리번",
+   "name": "이영미"
+  },
+  {
+   "role": "브리짓 설리번",
+   "name": "최현선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230616052509/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172124"
+ }
 }

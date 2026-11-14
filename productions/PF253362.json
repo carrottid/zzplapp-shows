@@ -47,5 +47,47 @@
  ],
  "updated": "2025-01-15 11:13:10",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#621A17",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "티볼트",
+   "name": "정동화"
+  },
+  {
+   "role": "티볼트",
+   "name": "박정복"
+  },
+  {
+   "role": "티볼트",
+   "name": "양지원"
+  },
+  {
+   "role": "머큐쇼",
+   "name": "김경수"
+  },
+  {
+   "role": "머큐쇼",
+   "name": "김찬호"
+  },
+  {
+   "role": "머큐쇼",
+   "name": "신주협"
+  },
+  {
+   "role": "플레이어",
+   "name": "정상윤"
+  },
+  {
+   "role": "플레이어",
+   "name": "조성윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622150150/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212001"
+ }
 }

@@ -38,5 +38,79 @@
  ],
  "updated": "2025-11-05 15:31:51",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1F2E26",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤봉길",
+   "name": "김현진"
+  },
+  {
+   "role": "김구",
+   "name": "방용원"
+  },
+  {
+   "role": "해설2/안공근",
+   "name": "손인찬"
+  },
+  {
+   "role": "해설1/어머니",
+   "name": "유미경"
+  },
+  {
+   "role": "해설3/신문팔이",
+   "name": "고현지"
+  },
+  {
+   "role": "해설4/김광",
+   "name": "이다운"
+  },
+  {
+   "role": "",
+   "name": "조영길"
+  },
+  {
+   "role": "",
+   "name": "김정현"
+  },
+  {
+   "role": "",
+   "name": "황병준"
+  },
+  {
+   "role": "",
+   "name": "전민규"
+  },
+  {
+   "role": "",
+   "name": "김태윤"
+  },
+  {
+   "role": "",
+   "name": "김태영"
+  },
+  {
+   "role": "",
+   "name": "정민철"
+  },
+  {
+   "role": "",
+   "name": "심영준"
+  },
+  {
+   "role": "",
+   "name": "강민수"
+  },
+  {
+   "role": "",
+   "name": "문창주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250618001452/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175454"
+ }
 }

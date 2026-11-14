@@ -1,0 +1,50 @@
+{
+ "id": "PF192029",
+ "title": "입체낭독극, 월간운석발굴모임",
+ "genre": "연극",
+ "from": "2022-06-23",
+ "to": "2022-06-26",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF192029_220531_111223.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박정민",
+  "박정인"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간",
+ "age": "만 7세 이상",
+ "crew": "이지민, 김인주, 강은정 등",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192029_220531_1112233.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192029_220531_1112232.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192029_220531_1112231.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192029_220531_1112230.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1791"
+  }
+ ],
+ "updated": "2024-11-13 08:48:39",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "지은",
+   "name": "박정민"
+  },
+  {
+   "role": "토리",
+   "name": "박정인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220626193947/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175560"
+ }
+}

@@ -1,0 +1,36 @@
+{
+ "id": "PF226129",
+ "title": "기승X결",
+ "genre": "연극",
+ "from": "2023-10-26",
+ "to": "2023-10-29",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF226129_230918_163431.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김형태",
+  "장채은",
+  "이화원",
+  "송선효"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 20분",
+ "age": "만 15세 이상",
+ "crew": "임효섭, 이랑 등",
+ "producer": "플레이풀리",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF226129_230918_0434310.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012964"
+  }
+ ],
+ "updated": "2023-09-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

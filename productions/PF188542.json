@@ -1,0 +1,52 @@
+{
+ "id": "PF188542",
+ "title": "세월호, 7일",
+ "genre": "연극",
+ "from": "2022-04-14",
+ "to": "2022-04-15",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF188542_220325_121028.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "전석찬",
+  "조의진",
+  "강혜련",
+  "이유주",
+  "노기용",
+  "이지수"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 15분",
+ "age": "만 7세 이상",
+ "crew": "윤혜숙, 임서진, 박소연 등",
+ "producer": "극단 래빗홀씨어터",
+ "price": "전석 8,000원",
+ "schedule": "목요일 ~ 금요일(20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF188542_220325_1210280.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22003216"
+  }
+ ],
+ "updated": "2022-03-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "초우한",
+   "name": "이지수"
+  },
+  {
+   "role": "",
+   "name": "이유주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250718172905/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173318"
+ }
+}

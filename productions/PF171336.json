@@ -39,5 +39,47 @@
  ],
  "updated": "2021-02-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2B201D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "태일",
+   "name": "진선규"
+  },
+  {
+   "role": "태일",
+   "name": "강기둥"
+  },
+  {
+   "role": "태일",
+   "name": "박정원"
+  },
+  {
+   "role": "태일",
+   "name": "이봉준"
+  },
+  {
+   "role": "태일 외",
+   "name": "정운선"
+  },
+  {
+   "role": "태일 외",
+   "name": "한보라"
+  },
+  {
+   "role": "태일 외",
+   "name": "김국희"
+  },
+  {
+   "role": "태일 외",
+   "name": "백은혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260211175310/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162851"
+ }
 }

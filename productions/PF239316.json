@@ -47,5 +47,51 @@
  ],
  "updated": "2024-04-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1F1B1A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "도스토옙스키,표도르,대심문관,식객",
+   "name": "정동환"
+  },
+  {
+   "role": "이반",
+   "name": "한윤춘"
+  },
+  {
+   "role": "카체리나",
+   "name": "리다해"
+  },
+  {
+   "role": "스메르자코프",
+   "name": "이기돈"
+  },
+  {
+   "role": "드미트리",
+   "name": "유건우"
+  },
+  {
+   "role": "그리고리 외",
+   "name": "안성채"
+  },
+  {
+   "role": "",
+   "name": "하다율"
+  },
+  {
+   "role": "",
+   "name": "권수빈"
+  },
+  {
+   "role": "",
+   "name": "주인서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250327040058/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201864"
+ }
 }

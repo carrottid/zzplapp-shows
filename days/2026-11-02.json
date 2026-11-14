@@ -31,7 +31,33 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "남기애"
+    },
+    {
+     "name": "남동진"
+    },
+    {
+     "name": "조영규"
+    },
+    {
+     "name": "김시영"
+    },
+    {
+     "name": "이진경"
+    },
+    {
+     "name": "최무인"
+    },
+    {
+     "name": "한윤춘"
+    },
+    {
+     "name": "홍준기"
+    }
+   ],
    "color": {
     "bg": "#C98AA0",
     "fg": "#FFFFFF"
@@ -43,7 +69,27 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이봉련"
+    },
+    {
+     "name": "황영희"
+    },
+    {
+     "name": "강신구"
+    },
+    {
+     "name": "마두영"
+    },
+    {
+     "name": "이강욱"
+    },
+    {
+     "name": "박세은"
+    }
+   ],
    "color": {
     "bg": "#5B7FA6",
     "fg": "#FFFFFF"
@@ -89,7 +135,18 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "오승현"
+    },
+    {
+     "name": "박한들"
+    },
+    {
+     "name": "서원"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#F2B01E"
@@ -101,7 +158,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "이한별"
+    },
+    {
+     "name": "효은"
+    },
+    {
+     "name": "임예진"
+    }
+   ],
    "color": {
     "bg": "#C0392B",
     "fg": "#FFFFFF"

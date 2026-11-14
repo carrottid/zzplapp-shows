@@ -50,5 +50,39 @@
  ],
  "updated": "2025-07-03 08:15:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#A6C92F",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "헬렐",
+   "name": "고상호"
+  },
+  {
+   "role": "헬렐",
+   "name": "강찬"
+  },
+  {
+   "role": "헬렐",
+   "name": "임태현"
+  },
+  {
+   "role": "정인",
+   "name": "김경록"
+  },
+  {
+   "role": "정인",
+   "name": "홍성원"
+  },
+  {
+   "role": "정인",
+   "name": "최민영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250621044605/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212288"
+ }
 }

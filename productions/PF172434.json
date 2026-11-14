@@ -55,5 +55,79 @@
  ],
  "updated": "2021-03-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#735B8B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "정하람",
+   "name": "온유"
+  },
+  {
+   "role": "정하람",
+   "name": "원필"
+  },
+  {
+   "role": "정하람",
+   "name": "조훈"
+  },
+  {
+   "role": "정하람",
+   "name": "백호"
+  },
+  {
+   "role": "",
+   "name": "영재"
+  },
+  {
+   "role": "서해나",
+   "name": "강혜인"
+  },
+  {
+   "role": "서해나",
+   "name": "케이"
+  },
+  {
+   "role": "서해나",
+   "name": "이아진"
+  },
+  {
+   "role": "서준우",
+   "name": "김주호"
+  },
+  {
+   "role": "서준우",
+   "name": "정의욱"
+  },
+  {
+   "role": "이봄",
+   "name": "정다예"
+  },
+  {
+   "role": "이봄",
+   "name": "주다온"
+  },
+  {
+   "role": "박노아",
+   "name": "이찬렬"
+  },
+  {
+   "role": "강한결",
+   "name": "김경록"
+  },
+  {
+   "role": "",
+   "name": "남궁혜인"
+  },
+  {
+   "role": "",
+   "name": "박상준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240519142359/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164289"
+ }
 }

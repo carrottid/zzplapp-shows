@@ -1,0 +1,101 @@
+{
+ "id": "PF245617",
+ "title": "기획초청 Pick크닉, 배소고지 이야기; 기억의 연못",
+ "genre": "연극",
+ "from": "2024-08-31",
+ "to": "2024-09-08",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245617_240723_135046.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "황세원",
+  "임정은",
+  "서미영",
+  "임다은",
+  "김승환",
+  "윤일식",
+  "김솔빈"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "1시간 40분",
+ "age": "만 12세 이상",
+ "crew": "진주, 김희영, 박상봉 등",
+ "producer": "프로덕션IDA",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245617_240723_0146290.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "https://www.ntck.or.kr/ko/performance/info/257232"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010330"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12427"
+  }
+ ],
+ "updated": "2024-12-23 08:54:03",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "김순희",
+   "name": "황세원"
+  },
+  {
+   "role": "정입분",
+   "name": "임정은"
+  },
+  {
+   "role": "백소녀",
+   "name": "서미영"
+  },
+  {
+   "role": "박씨",
+   "name": "김승환"
+  },
+  {
+   "role": "공씨",
+   "name": "윤일식"
+  },
+  {
+   "role": "코러스(외팔이)",
+   "name": "김솔빈"
+  },
+  {
+   "role": "",
+   "name": "조희윤"
+  },
+  {
+   "role": "",
+   "name": "김동하"
+  },
+  {
+   "role": "",
+   "name": "오준석"
+  },
+  {
+   "role": "",
+   "name": "김윤서"
+  },
+  {
+   "role": "",
+   "name": "안선하"
+  },
+  {
+   "role": "",
+   "name": "박지수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250708024015/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=205672"
+ }
+}

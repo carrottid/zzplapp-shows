@@ -56,5 +56,95 @@
  ],
  "updated": "2022-08-30 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#250E14",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이자상",
+   "name": "김건혜"
+  },
+  {
+   "role": "이자상",
+   "name": "하은서"
+  },
+  {
+   "role": "김윤신",
+   "name": "김백현"
+  },
+  {
+   "role": "김윤신",
+   "name": "최인형"
+  },
+  {
+   "role": "매화",
+   "name": "송문선"
+  },
+  {
+   "role": "매화",
+   "name": "서연정"
+  },
+  {
+   "role": "영이",
+   "name": "이혜수"
+  },
+  {
+   "role": "윤구연",
+   "name": "김용한"
+  },
+  {
+   "role": "윤구연",
+   "name": "이한수"
+  },
+  {
+   "role": "윤구연",
+   "name": "권성찬"
+  },
+  {
+   "role": "마담",
+   "name": "고미경"
+  },
+  {
+   "role": "마담",
+   "name": "정유희"
+  },
+  {
+   "role": "",
+   "name": "민병상"
+  },
+  {
+   "role": "",
+   "name": "오현정"
+  },
+  {
+   "role": "",
+   "name": "이은솔"
+  },
+  {
+   "role": "",
+   "name": "오지은"
+  },
+  {
+   "role": "",
+   "name": "윤제원"
+  },
+  {
+   "role": "",
+   "name": "박재은"
+  },
+  {
+   "role": "",
+   "name": "고석진"
+  },
+  {
+   "role": "",
+   "name": "이종한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250121230420/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178461"
+ }
 }

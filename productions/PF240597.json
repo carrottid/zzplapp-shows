@@ -43,5 +43,51 @@
  ],
  "updated": "2024-05-14 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#010003",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "도원",
+   "name": "변희상"
+  },
+  {
+   "role": "도원",
+   "name": "유태율"
+  },
+  {
+   "role": "도원",
+   "name": "황민수"
+  },
+  {
+   "role": "본하",
+   "name": "이종석"
+  },
+  {
+   "role": "본하",
+   "name": "박좌헌"
+  },
+  {
+   "role": "본하",
+   "name": "신주협"
+  },
+  {
+   "role": "오수",
+   "name": "이지연"
+  },
+  {
+   "role": "오수",
+   "name": "조영화"
+  },
+  {
+   "role": "오수",
+   "name": "박소현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250815215916/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202562"
+ }
 }

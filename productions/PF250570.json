@@ -1,0 +1,77 @@
+{
+ "id": "PF250570",
+ "title": "가리봉동 87번지",
+ "genre": "연극",
+ "from": "2024-10-16",
+ "to": "2024-10-20",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF250570_241007_110304.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "서광재",
+  "조은영",
+  "문경민",
+  "김필주",
+  "김마음",
+  "이지혜",
+  "최태욱"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 35분",
+ "age": "만 11세 이상",
+ "crew": "이광복, 최민주, 박다시 등",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250570_241007_1103532.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF250570_241007_1103531.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24014237"
+  }
+ ],
+ "updated": "2024-10-07 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "리원일",
+   "name": "서광재"
+  },
+  {
+   "role": "윤필순",
+   "name": "조은영"
+  },
+  {
+   "role": "임주상",
+   "name": "문경민"
+  },
+  {
+   "role": "리진철",
+   "name": "김필주"
+  },
+  {
+   "role": "리금영",
+   "name": "김마음"
+  },
+  {
+   "role": "부이티안",
+   "name": "소연"
+  },
+  {
+   "role": "",
+   "name": "이지혜"
+  },
+  {
+   "role": "",
+   "name": "최태욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250519212656/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=208876"
+ }
+}

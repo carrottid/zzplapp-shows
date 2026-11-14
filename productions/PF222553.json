@@ -43,5 +43,55 @@
  ],
  "updated": "2025-04-04 09:34:43",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#009A44",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "오합",
+   "name": "홍준기"
+  },
+  {
+   "role": "오체",
+   "name": "강은일"
+  },
+  {
+   "role": "계도사",
+   "name": "박두호"
+  },
+  {
+   "role": "지니",
+   "name": "정다예"
+  },
+  {
+   "role": "아빠",
+   "name": "김유남"
+  },
+  {
+   "role": "엄마",
+   "name": "김은영"
+  },
+  {
+   "role": "",
+   "name": "김지윤"
+  },
+  {
+   "role": "",
+   "name": "박민경"
+  },
+  {
+   "role": "",
+   "name": "양민석"
+  },
+  {
+   "role": "",
+   "name": "이형동"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250713035140/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=191111"
+ }
 }

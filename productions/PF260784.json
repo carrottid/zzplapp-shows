@@ -46,5 +46,39 @@
  ],
  "updated": "2025-09-29 16:25:25",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#BB3A1F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "양희",
+   "name": "이봄소리"
+  },
+  {
+   "role": "양희",
+   "name": "이지수"
+  },
+  {
+   "role": "양희",
+   "name": "박새힘"
+  },
+  {
+   "role": "해준",
+   "name": "정욱진"
+  },
+  {
+   "role": "해준",
+   "name": "윤은오"
+  },
+  {
+   "role": "해준",
+   "name": "임규형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010062258/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214761"
+ }
 }

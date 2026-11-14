@@ -2,12 +2,32 @@
  "date": "2025-04-28",
  "sessions": [
   {
+   "id": "PF261994",
+   "title": "남겨진 사람들: 생일대본",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF262640",
+   "title": "무언극, 화담의 날개",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF262268",
    "title": "뽁",
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#090A0C",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

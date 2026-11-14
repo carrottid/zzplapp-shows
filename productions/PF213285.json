@@ -1,0 +1,103 @@
+{
+ "id": "PF213285",
+ "title": "세일즈맨의 죽음",
+ "genre": "연극",
+ "from": "2023-02-24",
+ "to": "2023-02-26",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF213285_230214_104112.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "지승환",
+  "조민기",
+  "하다율",
+  "윤현식",
+  "이창엽",
+  "김태환",
+  "송형관"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "2시간",
+ "age": "만 15세 이상",
+ "crew": "김주호, 이유진, 김지원 등",
+ "price": "전석 15,000원",
+ "schedule": "금요일(15:00,19:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213285_230214_1041122.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213285_230214_1041121.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213285_230214_1041120.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF213285_230214_1041389.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23001936"
+  }
+ ],
+ "updated": "2023-02-14 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "윌리 로먼",
+   "name": "지승환"
+  },
+  {
+   "role": "윌리 로먼",
+   "name": "조민기"
+  },
+  {
+   "role": "비프",
+   "name": "윤현식"
+  },
+  {
+   "role": "비프",
+   "name": "이창엽"
+  },
+  {
+   "role": "해피",
+   "name": "김태환"
+  },
+  {
+   "role": "린다",
+   "name": "하다율"
+  },
+  {
+   "role": "벤",
+   "name": "송형관"
+  },
+  {
+   "role": "찰리",
+   "name": "김상진"
+  },
+  {
+   "role": "",
+   "name": "함은상"
+  },
+  {
+   "role": "",
+   "name": "진하영"
+  },
+  {
+   "role": "",
+   "name": "김가영"
+  },
+  {
+   "role": "",
+   "name": "이유진"
+  },
+  {
+   "role": "",
+   "name": "위준호"
+  },
+  {
+   "role": "",
+   "name": "유상현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250319225143/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=184814"
+ }
+}

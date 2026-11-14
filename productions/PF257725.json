@@ -36,5 +36,71 @@
  ],
  "updated": "2025-01-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#050F24",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "정호",
+   "name": "석현"
+  },
+  {
+   "role": "정호",
+   "name": "김용준"
+  },
+  {
+   "role": "재생",
+   "name": "김일현"
+  },
+  {
+   "role": "재생",
+   "name": "김경태"
+  },
+  {
+   "role": "정현",
+   "name": "성혜민"
+  },
+  {
+   "role": "정현",
+   "name": "이은비"
+  },
+  {
+   "role": "정현",
+   "name": "임다혜"
+  },
+  {
+   "role": "선영",
+   "name": "권세은"
+  },
+  {
+   "role": "선영",
+   "name": "이윤나"
+  },
+  {
+   "role": "선영",
+   "name": "김유경"
+  },
+  {
+   "role": "정수",
+   "name": "김은수"
+  },
+  {
+   "role": "정수",
+   "name": "이재석"
+  },
+  {
+   "role": "유까",
+   "name": "백재아"
+  },
+  {
+   "role": "유까",
+   "name": "윤지원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250810063732/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212762"
+ }
 }

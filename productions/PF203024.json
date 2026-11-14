@@ -1,0 +1,37 @@
+{
+ "id": "PF203024",
+ "title": "제2회 두드림 페스티벌, 다랑쉬특별전",
+ "genre": "연극",
+ "from": "2022-12-15",
+ "to": "2022-12-18",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF203024_221125_130450.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강경완",
+  "김유민",
+  "서윤슬",
+  "정희원",
+  "지우",
+  "한주연"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "박예슬, 유다미, 최인수 등",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF203024_221125_0104500.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22016163"
+  }
+ ],
+ "updated": "2022-11-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

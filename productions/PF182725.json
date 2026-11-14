@@ -47,5 +47,55 @@
  ],
  "updated": "2021-11-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#5C3C55",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마이클",
+   "name": "전성우"
+  },
+  {
+   "role": "마이클",
+   "name": "김현진"
+  },
+  {
+   "role": "마이클",
+   "name": "강승호"
+  },
+  {
+   "role": "마이클",
+   "name": "신주협"
+  },
+  {
+   "role": "그린버그",
+   "name": "이석준"
+  },
+  {
+   "role": "그린버그",
+   "name": "정원조"
+  },
+  {
+   "role": "그린버그",
+   "name": "정상윤"
+  },
+  {
+   "role": "피터슨",
+   "name": "박현미"
+  },
+  {
+   "role": "피터슨",
+   "name": "고수희"
+  },
+  {
+   "role": "피터슨",
+   "name": "이현진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011225445/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169527"
+ }
 }

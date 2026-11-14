@@ -1,0 +1,44 @@
+{
+ "id": "PF239396",
+ "title": "제45회 서울연극제, Be",
+ "genre": "연극",
+ "from": "2024-05-29",
+ "to": "2024-06-02",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF239396_240417_123357.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "홍서준",
+  "백은경",
+  "정서연",
+  "박수연"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 40분",
+ "age": "만 14세 이상",
+ "crew": "김민재, 설재서, 김호준 등",
+ "producer": "창작집단 오늘도 봄",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF239396_240417_1233572.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1124609"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/49473"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2966"
+  }
+ ],
+ "updated": "2024-09-25 16:45:47",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

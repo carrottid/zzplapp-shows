@@ -47,5 +47,51 @@
  ],
  "updated": "2025-10-13 12:48:55",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3E2A1C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "사무엘",
+   "name": "김수용"
+  },
+  {
+   "role": "사무엘",
+   "name": "이경수"
+  },
+  {
+   "role": "사무엘",
+   "name": "박유덕"
+  },
+  {
+   "role": "H",
+   "name": "임강성"
+  },
+  {
+   "role": "H",
+   "name": "김지철"
+  },
+  {
+   "role": "H",
+   "name": "이석준"
+  },
+  {
+   "role": "헨리",
+   "name": "강찬"
+  },
+  {
+   "role": "헨리",
+   "name": "이진우"
+  },
+  {
+   "role": "헨리",
+   "name": "강병훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521020511/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=220071"
+ }
 }

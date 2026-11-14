@@ -51,5 +51,95 @@
  ],
  "updated": "2023-11-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#86895C",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "한민우",
+   "name": "이창섭"
+  },
+  {
+   "role": "한민우",
+   "name": "김인성"
+  },
+  {
+   "role": "한민우",
+   "name": "MJ"
+  },
+  {
+   "role": "한민우",
+   "name": "렌"
+  },
+  {
+   "role": "박현태",
+   "name": "세븐"
+  },
+  {
+   "role": "박현태",
+   "name": "려욱"
+  },
+  {
+   "role": "박현태",
+   "name": "진진"
+  },
+  {
+   "role": "정다혜",
+   "name": "한재아"
+  },
+  {
+   "role": "정다혜",
+   "name": "임예진"
+  },
+  {
+   "role": "제니",
+   "name": "선예"
+  },
+  {
+   "role": "제니",
+   "name": "여은"
+  },
+  {
+   "role": "로라킴",
+   "name": "주아"
+  },
+  {
+   "role": "로라킴",
+   "name": "오진영"
+  },
+  {
+   "role": "허버트",
+   "name": "김상현"
+  },
+  {
+   "role": "허버트",
+   "name": "진상현"
+  },
+  {
+   "role": "",
+   "name": "서영주"
+  },
+  {
+   "role": "",
+   "name": "서범석"
+  },
+  {
+   "role": "",
+   "name": "신혜민"
+  },
+  {
+   "role": "",
+   "name": "송창근"
+  },
+  {
+   "role": "",
+   "name": "이성우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241208003859/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196057"
+ }
 }

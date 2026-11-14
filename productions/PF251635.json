@@ -39,5 +39,55 @@
  ],
  "updated": "2025-01-16 12:34:08",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#C45221",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "노든",
+   "name": "홍우진"
+  },
+  {
+   "role": "노든",
+   "name": "강정우"
+  },
+  {
+   "role": "노든",
+   "name": "이형훈"
+  },
+  {
+   "role": "펭귄",
+   "name": "연지현"
+  },
+  {
+   "role": "펭귄",
+   "name": "이정화"
+  },
+  {
+   "role": "펭귄",
+   "name": "설가은"
+  },
+  {
+   "role": "앙가부/윔보",
+   "name": "박근식"
+  },
+  {
+   "role": "앙가부/윔보",
+   "name": "박선영"
+  },
+  {
+   "role": "치쿠",
+   "name": "유동훈"
+  },
+  {
+   "role": "치쿠",
+   "name": "이규학"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250719082135/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207790"
+ }
 }

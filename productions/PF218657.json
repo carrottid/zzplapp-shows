@@ -39,5 +39,39 @@
  ],
  "updated": "2023-05-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#056DE0",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "유원",
+   "name": "강민지"
+  },
+  {
+   "role": "수현",
+   "name": "김계림"
+  },
+  {
+   "role": "동훈",
+   "name": "민재원"
+  },
+  {
+   "role": "진석",
+   "name": "윤일식"
+  },
+  {
+   "role": "신아",
+   "name": "이지향"
+  },
+  {
+   "role": "목사님 외",
+   "name": "홍재이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240714105529/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188521"
+ }
 }

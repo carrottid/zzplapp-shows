@@ -39,5 +39,87 @@
  ],
  "updated": "2025-10-31 14:39:09",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#472F2A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤재(선윤재)",
+   "name": "문태유"
+  },
+  {
+   "role": "윤재(선윤재)",
+   "name": "홍승안"
+  },
+  {
+   "role": "곤이(윤이수)",
+   "name": "이해준"
+  },
+  {
+   "role": "곤이(윤이수)",
+   "name": "조환지"
+  },
+  {
+   "role": "도라(이도라)",
+   "name": "임찬민"
+  },
+  {
+   "role": "도라(이도라)",
+   "name": "송영미"
+  },
+  {
+   "role": "엄마(지은)",
+   "name": "김선경"
+  },
+  {
+   "role": "엄마(지은)",
+   "name": "오진영"
+  },
+  {
+   "role": "할머니",
+   "name": "유보영"
+  },
+  {
+   "role": "심박사(심재영)",
+   "name": "김태한"
+  },
+  {
+   "role": "심박사(심재영)",
+   "name": "정상윤"
+  },
+  {
+   "role": "",
+   "name": "김수용"
+  },
+  {
+   "role": "",
+   "name": "김승용"
+  },
+  {
+   "role": "",
+   "name": "금보미"
+  },
+  {
+   "role": "",
+   "name": "박진서"
+  },
+  {
+   "role": "",
+   "name": "김태인"
+  },
+  {
+   "role": "",
+   "name": "강윤정"
+  },
+  {
+   "role": "",
+   "name": "김효성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250321171627/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172299"
+ }
 }

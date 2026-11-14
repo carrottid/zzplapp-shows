@@ -1,0 +1,42 @@
+{
+ "id": "PF283676",
+ "title": "입력중 쩜쩜쩜",
+ "genre": "연극",
+ "from": "2026-02-06",
+ "to": "2026-02-08",
+ "venue": "삼일로창고극장 (삼일로창고극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF283676_260122_140529.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박은정",
+  "강성근",
+  "송시현",
+  "박우주",
+  "신유빈",
+  "이유준",
+  "장다현"
+ ],
+ "facilityId": "FC000248",
+ "runtime": "1시간 20분",
+ "age": "만 15세 이상",
+ "crew": "박은정, 강민정, 안동선 등",
+ "price": "전석 18,000원",
+ "schedule": "금요일(19:30), 토요일(15:00,19:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF283676_202601220205290774.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF283676_202601220205290673.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF283676_202601220205290442.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF283676_202601220205290391.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF283676_202601220205290260.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=4109"
+  }
+ ],
+ "updated": "2026-01-22 15:00:04.042187",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

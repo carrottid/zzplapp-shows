@@ -67,5 +67,79 @@
  ],
  "updated": "2022-10-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0B1B1E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김요아",
+   "name": "윤지원"
+  },
+  {
+   "role": "김요아",
+   "name": "박서휘"
+  },
+  {
+   "role": "김요아",
+   "name": "채빈"
+  },
+  {
+   "role": "김안나",
+   "name": "서지우"
+  },
+  {
+   "role": "김안나",
+   "name": "하지영"
+  },
+  {
+   "role": "김안나",
+   "name": "정경화"
+  },
+  {
+   "role": "이무길",
+   "name": "김호창"
+  },
+  {
+   "role": "이무길",
+   "name": "정휘욱"
+  },
+  {
+   "role": "이무길",
+   "name": "고동균"
+  },
+  {
+   "role": "황지희",
+   "name": "박정윤"
+  },
+  {
+   "role": "황지희",
+   "name": "민하람"
+  },
+  {
+   "role": "황지희",
+   "name": "박소정"
+  },
+  {
+   "role": "보이",
+   "name": "한종두"
+  },
+  {
+   "role": "보이",
+   "name": "임재성"
+  },
+  {
+   "role": "보이",
+   "name": "이태현"
+  },
+  {
+   "role": "보이",
+   "name": "맥스리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013121214/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180671"
+ }
 }

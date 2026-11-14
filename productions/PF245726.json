@@ -47,5 +47,39 @@
  ],
  "updated": "2024-08-28 13:35:45",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#717070",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "뫼르소",
+   "name": "전박찬"
+  },
+  {
+   "role": "뫼르소",
+   "name": "차예준"
+  },
+  {
+   "role": "검사",
+   "name": "박윤석"
+  },
+  {
+   "role": "변호사",
+   "name": "임영식"
+  },
+  {
+   "role": "레이몽",
+   "name": "장세환"
+  },
+  {
+   "role": "마리",
+   "name": "이현지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250716204304/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=205866"
+ }
 }

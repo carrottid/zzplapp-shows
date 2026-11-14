@@ -63,5 +63,95 @@
  ],
  "updated": "2023-04-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "존",
+   "name": "류정한"
+  },
+  {
+   "role": "존",
+   "name": "안재욱"
+  },
+  {
+   "role": "존",
+   "name": "이건명"
+  },
+  {
+   "role": "존",
+   "name": "임태경"
+  },
+  {
+   "role": "다니엘",
+   "name": "이홍기"
+  },
+  {
+   "role": "다니엘",
+   "name": "박장현"
+  },
+  {
+   "role": "다니엘",
+   "name": "이병찬"
+  },
+  {
+   "role": "다니엘",
+   "name": "홍주찬"
+  },
+  {
+   "role": "라일리",
+   "name": "김륜호"
+  },
+  {
+   "role": "라일리",
+   "name": "안세하"
+  },
+  {
+   "role": "나탈리",
+   "name": "백주연"
+  },
+  {
+   "role": "나탈리",
+   "name": "정명은"
+  },
+  {
+   "role": "배질",
+   "name": "엄준식"
+  },
+  {
+   "role": "배질",
+   "name": "이재진"
+  },
+  {
+   "role": "배질",
+   "name": "강리운"
+  },
+  {
+   "role": "엘레나",
+   "name": "이윤하"
+  },
+  {
+   "role": "엘레나",
+   "name": "지수연"
+  },
+  {
+   "role": "",
+   "name": "강성진"
+  },
+  {
+   "role": "",
+   "name": "김상현"
+  },
+  {
+   "role": "",
+   "name": "최오식"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260412114032/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187079"
+ }
 }

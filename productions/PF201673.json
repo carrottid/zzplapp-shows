@@ -39,5 +39,51 @@
  ],
  "updated": "2022-11-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4D192D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "왼 팔뚝/남자괴물",
+   "name": "오현종"
+  },
+  {
+   "role": "조교/판사/타아시",
+   "name": "윤희민"
+  },
+  {
+   "role": "지수/로미",
+   "name": "장호인"
+  },
+  {
+   "role": "원정",
+   "name": "정고운"
+  },
+  {
+   "role": "아르테미시아",
+   "name": "정선경"
+  },
+  {
+   "role": "오른 팔뚝/교수/홀로페르네스",
+   "name": "허상진"
+  },
+  {
+   "role": "",
+   "name": "황혜원"
+  },
+  {
+   "role": "",
+   "name": "박서현"
+  },
+  {
+   "role": "",
+   "name": "정윤진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250427063614/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181131"
+ }
 }

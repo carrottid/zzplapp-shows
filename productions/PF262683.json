@@ -39,5 +39,79 @@
  ],
  "updated": "2025-07-18 14:36:37",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1D2230",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "피터",
+   "name": "진호"
+  },
+  {
+   "role": "피터",
+   "name": "강병훈"
+  },
+  {
+   "role": "피터",
+   "name": "홍기범"
+  },
+  {
+   "role": "제이슨",
+   "name": "윤승우"
+  },
+  {
+   "role": "제이슨",
+   "name": "김재한"
+  },
+  {
+   "role": "제이슨",
+   "name": "김수호"
+  },
+  {
+   "role": "아이비",
+   "name": "성민재"
+  },
+  {
+   "role": "아이비",
+   "name": "남가현"
+  },
+  {
+   "role": "맷",
+   "name": "장현동"
+  },
+  {
+   "role": "맷",
+   "name": "황건우"
+  },
+  {
+   "role": "나디아",
+   "name": "정예주"
+  },
+  {
+   "role": "나디아",
+   "name": "김이진"
+  },
+  {
+   "role": "샨텔&클레어",
+   "name": "문진아"
+  },
+  {
+   "role": "샨텔&클레어",
+   "name": "배수정"
+  },
+  {
+   "role": "",
+   "name": "김주호"
+  },
+  {
+   "role": "",
+   "name": "유세선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250823203813/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=215956"
+ }
 }

@@ -39,5 +39,47 @@
  ],
  "updated": "2025-07-03 16:23:17",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#8F7256",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "분옥",
+   "name": "홍윤희"
+  },
+  {
+   "role": "현정",
+   "name": "김광덕"
+  },
+  {
+   "role": "현성",
+   "name": "윤현길"
+  },
+  {
+   "role": "상원",
+   "name": "이윤재"
+  },
+  {
+   "role": "영서",
+   "name": "권은혜"
+  },
+  {
+   "role": "연서",
+   "name": "신윤지"
+  },
+  {
+   "role": "",
+   "name": "라소영"
+  },
+  {
+   "role": "",
+   "name": "김하람"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250520035117/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211825"
+ }
 }

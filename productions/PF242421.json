@@ -1,0 +1,46 @@
+{
+ "id": "PF242421",
+ "title": "세소녀",
+ "genre": "연극",
+ "from": "2024-07-04",
+ "to": "2024-07-07",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF242421_240607_101441.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이은지",
+  "한여경",
+  "최하연",
+  "전재현",
+  "방영덕",
+  "정일주",
+  "채지웅"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 30분",
+ "age": "만 9세 이상",
+ "crew": "송천영, 김종성, 김지현 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF242421_240607_1013210.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1172243"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24007716"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/49906"
+  }
+ ],
+ "updated": "2025-01-09 15:49:08",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

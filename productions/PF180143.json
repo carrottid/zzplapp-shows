@@ -43,5 +43,51 @@
  ],
  "updated": "2021-09-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#435AA1",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "랜디/데이브",
+   "name": "표지훈"
+  },
+  {
+   "role": "웨이트리스/마시/론다",
+   "name": "고태연"
+  },
+  {
+   "role": "이스트/필",
+   "name": "김기주"
+  },
+  {
+   "role": "피트",
+   "name": "이한솔"
+  },
+  {
+   "role": "샌드린/게일",
+   "name": "정다은"
+  },
+  {
+   "role": "렌달",
+   "name": "임동진"
+  },
+  {
+   "role": "",
+   "name": "이충호"
+  },
+  {
+   "role": "",
+   "name": "선주연"
+  },
+  {
+   "role": "",
+   "name": "황준우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011225410/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168322"
+ }
 }

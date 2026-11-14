@@ -54,5 +54,39 @@
  ],
  "updated": "2022-04-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#22223B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조반니",
+   "name": "박정원"
+  },
+  {
+   "role": "조반니",
+   "name": "김리현"
+  },
+  {
+   "role": "조반니",
+   "name": "정지우"
+  },
+  {
+   "role": "캄파넬라",
+   "name": "정상윤"
+  },
+  {
+   "role": "캄파넬라",
+   "name": "윤승우"
+  },
+  {
+   "role": "캄파넬라",
+   "name": "박좌헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220809201419/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173563"
+ }
 }

@@ -45,68 +45,10 @@
   }
  ],
  "updated": "2023-08-09 14:43:29",
- "castSource": "none",
+ "castSource": "plapp",
  "fetchedAt": "2026-11-07T13:16:04",
- "roleCast": [
-  {
-   "role": "네불라",
-   "name": "윤나무"
-  },
-  {
-   "role": "네불라",
-   "name": "신성민"
-  },
-  {
-   "role": "네불라",
-   "name": "강기둥"
-  },
-  {
-   "role": "수아",
-   "name": "정운선"
-  },
-  {
-   "role": "수아",
-   "name": "박란주"
-  },
-  {
-   "role": "수아",
-   "name": "이수빈"
-  },
-  {
-   "role": "첫 번째 배우",
-   "name": "안창용"
-  },
-  {
-   "role": "첫 번째 배우",
-   "name": "장민수"
-  },
-  {
-   "role": "두 번째 배우",
-   "name": "이현진"
-  },
-  {
-   "role": "두 번째 배우",
-   "name": "김연진"
-  },
-  {
-   "role": "세 번째 배우",
-   "name": "김대웅"
-  },
-  {
-   "role": "세 번째 배우",
-   "name": "장두환"
-  },
-  {
-   "role": "다섯 번째 배우",
-   "name": "이다정"
-  },
-  {
-   "role": "다섯 번째 배우",
-   "name": "전성혜"
-  }
- ],
- "roleCastSource": {
-  "name": "더뮤지컬",
-  "url": "https://www.themusical.co.kr/Musical/Detail?num=3187"
+ "color": {
+  "bg": "#1C042C",
+  "fg": "#FFFFFF"
  }
 }

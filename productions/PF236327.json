@@ -39,5 +39,43 @@
  ],
  "updated": "2024-02-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#68342E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "셰익스피어",
+   "name": "원종환"
+  },
+  {
+   "role": "셰익스피어",
+   "name": "김아영"
+  },
+  {
+   "role": "햄릿",
+   "name": "임진섭"
+  },
+  {
+   "role": "햄릿",
+   "name": "정지우"
+  },
+  {
+   "role": "줄리엣",
+   "name": "김수연"
+  },
+  {
+   "role": "줄리엣",
+   "name": "김이후"
+  },
+  {
+   "role": "로미오",
+   "name": "유태율"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814053523/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199879"
+ }
 }

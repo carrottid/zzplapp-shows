@@ -39,5 +39,95 @@
  ],
  "updated": "2025-08-11 14:58:32",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#517994",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "나영",
+   "name": "김도원"
+  },
+  {
+   "role": "나영",
+   "name": "기영수"
+  },
+  {
+   "role": "나영",
+   "name": "오주언"
+  },
+  {
+   "role": "솔롱고",
+   "name": "문남권"
+  },
+  {
+   "role": "솔롱고",
+   "name": "류석호"
+  },
+  {
+   "role": "솔롱고",
+   "name": "정형석"
+  },
+  {
+   "role": "주인할매",
+   "name": "최정화"
+  },
+  {
+   "role": "주인할매",
+   "name": "조영임"
+  },
+  {
+   "role": "주인할매",
+   "name": "이새롬"
+  },
+  {
+   "role": "희정엄마",
+   "name": "허순미"
+  },
+  {
+   "role": "희정엄마",
+   "name": "백지예"
+  },
+  {
+   "role": "희정엄마",
+   "name": "김은지"
+  },
+  {
+   "role": "구씨",
+   "name": "한우열"
+  },
+  {
+   "role": "구씨",
+   "name": "김영환"
+  },
+  {
+   "role": "구씨",
+   "name": "김학규"
+  },
+  {
+   "role": "빵",
+   "name": "심우성"
+  },
+  {
+   "role": "빵",
+   "name": "박준성"
+  },
+  {
+   "role": "빵",
+   "name": "강인영"
+  },
+  {
+   "role": "",
+   "name": "서인권"
+  },
+  {
+   "role": "",
+   "name": "박존정민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622214626/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=213753"
+ }
 }

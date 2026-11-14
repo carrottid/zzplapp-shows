@@ -34,5 +34,55 @@
  ],
  "updated": "2024-08-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#67797E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "허생원",
+   "name": "강신일"
+  },
+  {
+   "role": "허생원",
+   "name": "안덕용"
+  },
+  {
+   "role": "충주댁",
+   "name": "류비"
+  },
+  {
+   "role": "나귀",
+   "name": "서도민"
+  },
+  {
+   "role": "엄니",
+   "name": "이지연"
+  },
+  {
+   "role": "땜장이",
+   "name": "강연호"
+  },
+  {
+   "role": "처녀1",
+   "name": "정나율"
+  },
+  {
+   "role": "",
+   "name": "안동기"
+  },
+  {
+   "role": "",
+   "name": "최다영"
+  },
+  {
+   "role": "",
+   "name": "이지용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240912115651/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207223"
+ }
 }

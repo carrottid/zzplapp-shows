@@ -51,5 +51,91 @@
  ],
  "updated": "2024-11-28 14:47:45",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "다윈 영",
+   "name": "윤태호"
+  },
+  {
+   "role": "다윈 영",
+   "name": "김인성"
+  },
+  {
+   "role": "니스 영",
+   "name": "최인형"
+  },
+  {
+   "role": "니스 영",
+   "name": "김승대"
+  },
+  {
+   "role": "러너 영",
+   "name": "이한수"
+  },
+  {
+   "role": "루미 헌터",
+   "name": "송문선"
+  },
+  {
+   "role": "루미 헌터",
+   "name": "서연정"
+  },
+  {
+   "role": "레오 마샬",
+   "name": "이기완"
+  },
+  {
+   "role": "버즈 마샬",
+   "name": "금승훈"
+  },
+  {
+   "role": "",
+   "name": "김용한"
+  },
+  {
+   "role": "",
+   "name": "김백현"
+  },
+  {
+   "role": "",
+   "name": "최병규"
+  },
+  {
+   "role": "",
+   "name": "고미경"
+  },
+  {
+   "role": "",
+   "name": "정유희"
+  },
+  {
+   "role": "",
+   "name": "김건혜"
+  },
+  {
+   "role": "",
+   "name": "하은서"
+  },
+  {
+   "role": "",
+   "name": "고석진"
+  },
+  {
+   "role": "",
+   "name": "이종한"
+  },
+  {
+   "role": "",
+   "name": "이영규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250321174045/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198669"
+ }
 }

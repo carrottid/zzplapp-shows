@@ -47,5 +47,55 @@
  ],
  "updated": "2023-10-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#642227",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "모딜리아니",
+   "name": "양지원"
+  },
+  {
+   "role": "모딜리아니",
+   "name": "김준영"
+  },
+  {
+   "role": "모딜리아니",
+   "name": "황민수"
+  },
+  {
+   "role": "모딜리아니",
+   "name": "최민우"
+  },
+  {
+   "role": "잔",
+   "name": "금조"
+  },
+  {
+   "role": "잔",
+   "name": "박새힘"
+  },
+  {
+   "role": "잔",
+   "name": "선유하"
+  },
+  {
+   "role": "화상",
+   "name": "김민강"
+  },
+  {
+   "role": "화상",
+   "name": "심수호"
+  },
+  {
+   "role": "화상",
+   "name": "신수빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240414132036/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=194728"
+ }
 }

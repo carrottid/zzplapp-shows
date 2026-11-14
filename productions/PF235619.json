@@ -1,0 +1,39 @@
+{
+ "id": "PF235619",
+ "title": "자살극장",
+ "genre": "연극",
+ "from": "2024-02-29",
+ "to": "2024-03-03",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF235619_240216_121207.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "진하영",
+  "권수정",
+  "강경천",
+  "이재영",
+  "안효리",
+  "박윤주",
+  "주현정"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 10분",
+ "age": "만 13세 이상",
+ "crew": "김민주, 민태림, 김채연 등",
+ "producer": "카타르디엠",
+ "price": "전석 30,000원",
+ "schedule": "목요일(19:30), 토요일 ~ 일요일(14:00,18:00), HOL(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235619_240216_1212070.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002073"
+  }
+ ],
+ "updated": "2024-02-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

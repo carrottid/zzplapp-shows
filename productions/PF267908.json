@@ -1,0 +1,38 @@
+{
+ "id": "PF267908",
+ "title": "다우트 (DOUBT)",
+ "genre": "연극",
+ "from": "2025-07-18",
+ "to": "2025-07-20",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF267908_250624_113122.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김태희",
+  "박정원",
+  "윤유진",
+  "신솔비",
+  "도경진"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 20분",
+ "age": "만 11세 이상",
+ "crew": "민필준, 민경태, 최자명 등",
+ "producer": "공연단체 ON",
+ "price": "전석 20,000원",
+ "schedule": "금요일(19:30), 토요일(13:00,16:00,19:00), 일요일(13:00,16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF267908_250624_1131221.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF267908_250624_1131220.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25008823"
+  }
+ ],
+ "updated": "2025-06-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

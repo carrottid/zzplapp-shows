@@ -47,5 +47,107 @@
  ],
  "updated": "2025-12-22 13:02:42",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#7A5A3A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김해진",
+   "name": "에녹"
+  },
+  {
+   "role": "김해진",
+   "name": "김종구"
+  },
+  {
+   "role": "김해진",
+   "name": "김경수"
+  },
+  {
+   "role": "김해진",
+   "name": "이규형"
+  },
+  {
+   "role": "정세훈",
+   "name": "문성일"
+  },
+  {
+   "role": "정세훈",
+   "name": "윤소호"
+  },
+  {
+   "role": "정세훈",
+   "name": "김리현"
+  },
+  {
+   "role": "정세훈",
+   "name": "원태민"
+  },
+  {
+   "role": "히카루",
+   "name": "소정화"
+  },
+  {
+   "role": "히카루",
+   "name": "김히어라"
+  },
+  {
+   "role": "히카루",
+   "name": "강혜인"
+  },
+  {
+   "role": "히카루",
+   "name": "김이후"
+  },
+  {
+   "role": "이윤",
+   "name": "박정표"
+  },
+  {
+   "role": "이윤",
+   "name": "정민"
+  },
+  {
+   "role": "이윤",
+   "name": "이형훈"
+  },
+  {
+   "role": "이윤",
+   "name": "김지철"
+  },
+  {
+   "role": "이태준",
+   "name": "이한밀"
+  },
+  {
+   "role": "이태준",
+   "name": "김승용"
+  },
+  {
+   "role": "이태준",
+   "name": "김지욱"
+  },
+  {
+   "role": "김수남",
+   "name": "이승현"
+  },
+  {
+   "role": "김수남",
+   "name": "손유동"
+  },
+  {
+   "role": "김수남",
+   "name": "장민수"
+  },
+  {
+   "role": "김수남",
+   "name": "김태인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251121154512/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=223304"
+ }
 }

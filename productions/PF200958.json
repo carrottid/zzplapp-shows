@@ -1,0 +1,36 @@
+{
+ "id": "PF200958",
+ "title": "Meet Again",
+ "genre": "연극",
+ "from": "2022-11-17",
+ "to": "2022-11-20",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF200958_221027_135940.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김일교",
+  "안중현",
+  "민정아",
+  "김광만",
+  "강진우"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 15분",
+ "age": "만 13세 이상",
+ "crew": "이민준, 김자연, 박성실 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(14:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF200958_221027_0159400.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22014785"
+  }
+ ],
+ "updated": "2022-10-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

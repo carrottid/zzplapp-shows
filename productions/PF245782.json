@@ -1,0 +1,43 @@
+{
+ "id": "PF245782",
+ "title": "사이클 cycle",
+ "genre": "연극",
+ "from": "2024-08-01",
+ "to": "2024-08-11",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245782_240725_150613.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "리다해",
+  "최지은",
+  "이성순",
+  "이영숙",
+  "김정국",
+  "황지훈",
+  "김진우"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 30분",
+ "age": "만 10세 이상",
+ "crew": "최지은, 박문수, 이교준 등",
+ "producer": "극단 창작심, 대학로스타시티",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 목요일(19:30), 금요일(15:00,19:30), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245782_240725_0306130.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010337"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=3141"
+  }
+ ],
+ "updated": "2024-07-25 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

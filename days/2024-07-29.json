@@ -7,7 +7,11 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1605",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF242455",
@@ -15,7 +19,11 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1606",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF244530",
@@ -23,6 +31,42 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#3F1908",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF242516",
+   "title": "국립극단, 햄릿",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF244319",
+   "title": "장도",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243515",
+   "title": "My Dear Anger",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF244003",
+   "title": "세 여자, 세 남자",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -31,7 +75,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A2B18",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF242869",
@@ -39,7 +87,11 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DA120B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF244127",
@@ -47,7 +99,11 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B45F32",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

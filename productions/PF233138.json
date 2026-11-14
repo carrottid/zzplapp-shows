@@ -51,5 +51,55 @@
  ],
  "updated": "2023-12-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2F1A8A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "주영",
+   "name": "김가은"
+  },
+  {
+   "role": "주영",
+   "name": "이휴"
+  },
+  {
+   "role": "주영",
+   "name": "박슬기"
+  },
+  {
+   "role": "병삼",
+   "name": "성기윤"
+  },
+  {
+   "role": "병삼",
+   "name": "정의욱"
+  },
+  {
+   "role": "체셔고양이",
+   "name": "정현우"
+  },
+  {
+   "role": "시계토끼",
+   "name": "홍준기"
+  },
+  {
+   "role": "도도새",
+   "name": "박혜원"
+  },
+  {
+   "role": "스윙",
+   "name": "박이안"
+  },
+  {
+   "role": "스윙",
+   "name": "김선오"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250915195335/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=197470"
+ }
 }

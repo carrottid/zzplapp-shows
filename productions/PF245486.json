@@ -33,5 +33,19 @@
  ],
  "updated": "2024-12-23 16:54:50",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#466089",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "베벌리",
+   "name": "이지오"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251108034922/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=205508"
+ }
 }

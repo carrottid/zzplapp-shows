@@ -48,5 +48,75 @@
  ],
  "updated": "2022-10-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2C3E50",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조병식",
+   "name": "신구"
+  },
+  {
+   "role": "조병식",
+   "name": "김재건"
+  },
+  {
+   "role": "조한수",
+   "name": "손병호"
+  },
+  {
+   "role": "조한수",
+   "name": "박윤희"
+  },
+  {
+   "role": "조한수",
+   "name": "성노진"
+  },
+  {
+   "role": "조원우",
+   "name": "이성열"
+  },
+  {
+   "role": "조원우",
+   "name": "임지환"
+  },
+  {
+   "role": "조원우",
+   "name": "이시강"
+  },
+  {
+   "role": "신태호",
+   "name": "한윤춘"
+  },
+  {
+   "role": "신태호",
+   "name": "김성철"
+  },
+  {
+   "role": "신태호",
+   "name": "박장면"
+  },
+  {
+   "role": "박수영",
+   "name": "조성국"
+  },
+  {
+   "role": "김정숙",
+   "name": "황세원"
+  },
+  {
+   "role": "",
+   "name": "배현아"
+  },
+  {
+   "role": "",
+   "name": "유빛나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010022723/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181549"
+ }
 }

@@ -47,92 +47,10 @@
   }
  ],
  "updated": "2023-07-19 18:00:00",
- "castSource": "none",
+ "castSource": "plapp",
  "fetchedAt": "2026-11-07T13:16:04",
- "roleCast": [
-  {
-   "role": "시스터 1",
-   "name": "유연"
-  },
-  {
-   "role": "시스터 1",
-   "name": "신의정"
-  },
-  {
-   "role": "시스터 1",
-   "name": "선민"
-  },
-  {
-   "role": "시스터 2",
-   "name": "김려원"
-  },
-  {
-   "role": "시스터 2",
-   "name": "하유진"
-  },
-  {
-   "role": "시스터 2",
-   "name": "정유지"
-  },
-  {
-   "role": "시스터 3",
-   "name": "유연"
-  },
-  {
-   "role": "시스터 3",
-   "name": "신의정"
-  },
-  {
-   "role": "시스터 3",
-   "name": "이예은"
-  },
-  {
-   "role": "시스터 3",
-   "name": "이서영"
-  },
-  {
-   "role": "시스터 4",
-   "name": "신의정"
-  },
-  {
-   "role": "시스터 4",
-   "name": "김려원"
-  },
-  {
-   "role": "시스터 4",
-   "name": "이예은"
-  },
-  {
-   "role": "시스터 4",
-   "name": "정연"
-  },
-  {
-   "role": "시스터 5",
-   "name": "하유진"
-  },
-  {
-   "role": "시스터 5",
-   "name": "정연"
-  },
-  {
-   "role": "시스터 5",
-   "name": "홍서영"
-  },
-  {
-   "role": "시스터 5",
-   "name": "이서영"
-  },
-  {
-   "role": "시스터 6",
-   "name": "정유지"
-  },
-  {
-   "role": "시스터 6",
-   "name": "홍서영"
-  }
- ],
- "roleCastSource": {
-  "name": "더뮤지컬",
-  "url": "https://www.themusical.co.kr/Musical/Detail?num=3171"
+ "color": {
+  "bg": "#2C2953",
+  "fg": "#FFFFFF"
  }
 }

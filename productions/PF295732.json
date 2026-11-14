@@ -1,0 +1,39 @@
+{
+ "id": "PF295732",
+ "title": "이상한 나의 A-list",
+ "genre": "연극",
+ "from": "2026-07-23",
+ "to": "2026-07-26",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295732_260709_132405.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "곽초원",
+  "김광호",
+  "김준섭",
+  "박한샘",
+  "안시연",
+  "안정민",
+  "이라결"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 30분",
+ "age": "만 14세 이상",
+ "crew": "현철",
+ "producer": "C9 THEATER",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295732_202607090124057930.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=4461"
+  }
+ ],
+ "updated": "2026-07-09 15:00:02.041677",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

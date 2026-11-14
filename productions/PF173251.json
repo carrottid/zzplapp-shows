@@ -51,5 +51,87 @@
  ],
  "updated": "2021-04-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0D1B22",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "드라큘라",
+   "name": "김준수"
+  },
+  {
+   "role": "드라큘라",
+   "name": "전동석"
+  },
+  {
+   "role": "드라큘라",
+   "name": "신성록"
+  },
+  {
+   "role": "미나",
+   "name": "조정은"
+  },
+  {
+   "role": "미나",
+   "name": "임혜영"
+  },
+  {
+   "role": "미나",
+   "name": "박지연"
+  },
+  {
+   "role": "반헬싱",
+   "name": "강태을"
+  },
+  {
+   "role": "반헬싱",
+   "name": "손준호"
+  },
+  {
+   "role": "조나단",
+   "name": "조성윤"
+  },
+  {
+   "role": "조나단",
+   "name": "백형훈"
+  },
+  {
+   "role": "루시",
+   "name": "선민"
+  },
+  {
+   "role": "루시",
+   "name": "이예은"
+  },
+  {
+   "role": "렌필드",
+   "name": "김도현"
+  },
+  {
+   "role": "렌필드",
+   "name": "조성린"
+  },
+  {
+   "role": "",
+   "name": "이재현"
+  },
+  {
+   "role": "",
+   "name": "김서안"
+  },
+  {
+   "role": "",
+   "name": "정서인"
+  },
+  {
+   "role": "",
+   "name": "지원선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250805035702/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164087"
+ }
 }

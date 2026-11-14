@@ -54,5 +54,39 @@
  ],
  "updated": "2022-06-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#432713",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아니타",
+   "name": "남기애"
+  },
+  {
+   "role": "아니타",
+   "name": "정재은"
+  },
+  {
+   "role": "아니타",
+   "name": "우미화"
+  },
+  {
+   "role": "데이비",
+   "name": "이주승"
+  },
+  {
+   "role": "데이비",
+   "name": "김현진"
+  },
+  {
+   "role": "데이비",
+   "name": "강승호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612161119/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175740"
+ }
 }

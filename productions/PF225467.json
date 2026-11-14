@@ -50,5 +50,71 @@
  ],
  "updated": "2023-09-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#7C6969",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "도나",
+   "name": "최정원"
+  },
+  {
+   "role": "도나",
+   "name": "신영숙"
+  },
+  {
+   "role": "소피",
+   "name": "김환희"
+  },
+  {
+   "role": "소피",
+   "name": "최태이"
+  },
+  {
+   "role": "타냐",
+   "name": "홍지민"
+  },
+  {
+   "role": "타냐",
+   "name": "김영주"
+  },
+  {
+   "role": "로지",
+   "name": "박준면"
+  },
+  {
+   "role": "로지",
+   "name": "김경선"
+  },
+  {
+   "role": "샘",
+   "name": "장현성"
+  },
+  {
+   "role": "샘",
+   "name": "김정민"
+  },
+  {
+   "role": "해리",
+   "name": "이현우"
+  },
+  {
+   "role": "해리",
+   "name": "민영기"
+  },
+  {
+   "role": "",
+   "name": "김진수"
+  },
+  {
+   "role": "",
+   "name": "송일국"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251013125132/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193001"
+ }
 }

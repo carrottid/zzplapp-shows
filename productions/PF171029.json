@@ -71,5 +71,75 @@
  ],
  "updated": "2021-01-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#09080D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "최부제",
+   "name": "김경수"
+  },
+  {
+   "role": "최부제",
+   "name": "김찬호"
+  },
+  {
+   "role": "최부제",
+   "name": "조형균"
+  },
+  {
+   "role": "최부제",
+   "name": "장지후"
+  },
+  {
+   "role": "김신부",
+   "name": "이건명"
+  },
+  {
+   "role": "김신부",
+   "name": "송용진"
+  },
+  {
+   "role": "김신부",
+   "name": "박유덕"
+  },
+  {
+   "role": "이영신",
+   "name": "박가은"
+  },
+  {
+   "role": "이영신",
+   "name": "김수진"
+  },
+  {
+   "role": "이영신",
+   "name": "장민제"
+  },
+  {
+   "role": "총장신부",
+   "name": "지혜근"
+  },
+  {
+   "role": "",
+   "name": "심건우"
+  },
+  {
+   "role": "",
+   "name": "김정민"
+  },
+  {
+   "role": "",
+   "name": "이동희"
+  },
+  {
+   "role": "",
+   "name": "이지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814111324/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162169"
+ }
 }

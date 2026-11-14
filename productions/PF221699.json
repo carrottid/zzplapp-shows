@@ -39,5 +39,27 @@
  ],
  "updated": "2023-07-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#7D6869",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "여자",
+   "name": "손숙"
+  },
+  {
+   "role": "남자",
+   "name": "김수현"
+  },
+  {
+   "role": "춤추는 사람",
+   "name": "정영두"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240724032157/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=190539"
+ }
 }

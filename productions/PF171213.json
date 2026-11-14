@@ -11,7 +11,8 @@
  "cast": [
   "정욱진",
   "최민우",
-  "송나영 홍나현",
+  "송나영",
+  "홍나현",
   "한보라",
   "이아름솔",
   "원종환"
@@ -38,5 +39,59 @@
  ],
  "updated": "2021-01-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#420202",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "해웅",
+   "name": "정욱진"
+  },
+  {
+   "role": "해웅",
+   "name": "최민우"
+  },
+  {
+   "role": "옥희",
+   "name": "송나영"
+  },
+  {
+   "role": "옥희",
+   "name": "홍나현"
+  },
+  {
+   "role": "가네코/아기귀신",
+   "name": "한보라"
+  },
+  {
+   "role": "가네코/아기귀신",
+   "name": "이아름솔"
+  },
+  {
+   "role": "아저씨/선관귀신",
+   "name": "원종환"
+  },
+  {
+   "role": "아저씨/선관귀신",
+   "name": "유성재"
+  },
+  {
+   "role": "요시다/처녀귀신",
+   "name": "김지훈"
+  },
+  {
+   "role": "요시다/처녀귀신",
+   "name": "김남호"
+  },
+  {
+   "role": "노다/장군귀신",
+   "name": "황두현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220122020826/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162600"
+ }
 }

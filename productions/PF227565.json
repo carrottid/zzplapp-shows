@@ -15,7 +15,7 @@
   "김성철",
   "선민",
   "이지혜",
-  "허혜진"
+  "허윤슬"
  ],
  "facilityId": "FC000014",
  "runtime": "2시간 45분",
@@ -43,5 +43,95 @@
  ],
  "updated": "2023-10-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0E1D3D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에드몬드 단테스/몬테크리스토 백작",
+   "name": "이규형"
+  },
+  {
+   "role": "에드몬드 단테스/몬테크리스토 백작",
+   "name": "서인국"
+  },
+  {
+   "role": "에드몬드 단테스/몬테크리스토 백작",
+   "name": "고은성"
+  },
+  {
+   "role": "에드몬드 단테스/몬테크리스토 백작",
+   "name": "김성철"
+  },
+  {
+   "role": "메르세데스",
+   "name": "선민"
+  },
+  {
+   "role": "메르세데스",
+   "name": "이지혜"
+  },
+  {
+   "role": "메르세데스",
+   "name": "허윤슬"
+  },
+  {
+   "role": "몬데고",
+   "name": "최민철"
+  },
+  {
+   "role": "몬데고",
+   "name": "강태을"
+  },
+  {
+   "role": "빌포트",
+   "name": "김성민"
+  },
+  {
+   "role": "빌포트",
+   "name": "우재하"
+  },
+  {
+   "role": "당글라스",
+   "name": "이한밀"
+  },
+  {
+   "role": "당글라스",
+   "name": "김대호"
+  },
+  {
+   "role": "파리아 신부",
+   "name": "김용수"
+  },
+  {
+   "role": "파리아 신부",
+   "name": "서범석"
+  },
+  {
+   "role": "",
+   "name": "전수미"
+  },
+  {
+   "role": "",
+   "name": "박은미"
+  },
+  {
+   "role": "",
+   "name": "이주순"
+  },
+  {
+   "role": "",
+   "name": "장윤석"
+  },
+  {
+   "role": "",
+   "name": "성민재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250918133243/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=194401"
+ }
 }

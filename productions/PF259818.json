@@ -43,5 +43,63 @@
  ],
  "updated": "2025-07-03 07:56:18",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#27A6BE",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "영덕",
+   "name": "박선영"
+  },
+  {
+   "role": "영덕",
+   "name": "윤지우"
+  },
+  {
+   "role": "영덕",
+   "name": "우연"
+  },
+  {
+   "role": "청",
+   "name": "김태오"
+  },
+  {
+   "role": "청",
+   "name": "이선우"
+  },
+  {
+   "role": "청",
+   "name": "조환지"
+  },
+  {
+   "role": "레나윤",
+   "name": "김아영"
+  },
+  {
+   "role": "레나윤",
+   "name": "한유란"
+  },
+  {
+   "role": "레나윤",
+   "name": "이미경"
+  },
+  {
+   "role": "빈",
+   "name": "송유택"
+  },
+  {
+   "role": "빈",
+   "name": "이후림"
+  },
+  {
+   "role": "빈",
+   "name": "정백선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250802222912/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214192"
+ }
 }

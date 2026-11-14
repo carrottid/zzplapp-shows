@@ -87,7 +87,7 @@
   },
   {
    "role": "메모리아",
-   "name": "허혜진"
+   "name": "허윤슬"
   },
   {
    "role": "메모리아",
@@ -97,5 +97,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3169"
+ },
+ "color": {
+  "bg": "#097B2B",
+  "fg": "#FFFFFF"
  }
 }

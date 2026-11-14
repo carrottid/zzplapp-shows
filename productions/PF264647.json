@@ -47,5 +47,71 @@
  ],
  "updated": "2025-09-29 16:23:55",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1E2A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "제스 블레이크",
+   "name": "김지온"
+  },
+  {
+   "role": "제스 블레이크",
+   "name": "윤재호"
+  },
+  {
+   "role": "제스 블레이크",
+   "name": "강유찬"
+  },
+  {
+   "role": "카이만",
+   "name": "박규원"
+  },
+  {
+   "role": "카이만",
+   "name": "최호승"
+  },
+  {
+   "role": "카이만",
+   "name": "원태민"
+  },
+  {
+   "role": "리드 백작부인",
+   "name": "김은지"
+  },
+  {
+   "role": "리드 백작부인",
+   "name": "이유경"
+  },
+  {
+   "role": "이사벨 히튼",
+   "name": "장혜민"
+  },
+  {
+   "role": "이사벨 히튼",
+   "name": "이선주"
+  },
+  {
+   "role": "피터 리버모어 남작",
+   "name": "김지훈"
+  },
+  {
+   "role": "피터 리버모어 남작",
+   "name": "정휘욱"
+  },
+  {
+   "role": "패트릭 베이커",
+   "name": "이강혁"
+  },
+  {
+   "role": "패트릭 베이커",
+   "name": "김현기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011000027/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216907"
+ }
 }

@@ -47,5 +47,83 @@
  ],
  "updated": "2024-06-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#746B52",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤정호",
+   "name": "이정연"
+  },
+  {
+   "role": "윤정호",
+   "name": "신재열"
+  },
+  {
+   "role": "홍재생",
+   "name": "장서원"
+  },
+  {
+   "role": "홍재생",
+   "name": "김근혁"
+  },
+  {
+   "role": "윤정수",
+   "name": "김마로"
+  },
+  {
+   "role": "윤정수",
+   "name": "김민수"
+  },
+  {
+   "role": "윤정수",
+   "name": "안도진"
+  },
+  {
+   "role": "윤정현",
+   "name": "김소라"
+  },
+  {
+   "role": "윤정현",
+   "name": "재이"
+  },
+  {
+   "role": "윤정현",
+   "name": "조승희"
+  },
+  {
+   "role": "윤정현",
+   "name": "임현주"
+  },
+  {
+   "role": "유까",
+   "name": "고우리"
+  },
+  {
+   "role": "유까",
+   "name": "박소희"
+  },
+  {
+   "role": "유까",
+   "name": "박지예"
+  },
+  {
+   "role": "선영",
+   "name": "이수연"
+  },
+  {
+   "role": "선영",
+   "name": "이세빈"
+  },
+  {
+   "role": "선영",
+   "name": "김유리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251008095726/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203874"
+ }
 }

@@ -2,11 +2,39 @@
  "date": "2026-03-09",
  "sessions": [
   {
+   "id": "PF285885",
+   "title": "링스페, 모 베러 (More, Better) 콘서트",
+   "genre": "뮤지컬",
+   "venue": "링크더스페이스(LINK THE SPACE) (1관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286389",
+   "title": "체인지 로그인",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF283521",
    "title": "터치 (TOUCH)",
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (1관)",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#7A5C4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF285004",
+   "title": "제2회 자생 프로젝트, 하자!!",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "20:40",
    "castSource": "none"
   }
  ]

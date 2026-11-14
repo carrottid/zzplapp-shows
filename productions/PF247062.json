@@ -43,5 +43,59 @@
  ],
  "updated": "2025-01-16 08:55:33",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "매튜",
+   "name": "유현석"
+  },
+  {
+   "role": "매튜",
+   "name": "윤은오"
+  },
+  {
+   "role": "매튜",
+   "name": "최재웅"
+  },
+  {
+   "role": "테오",
+   "name": "윤승우"
+  },
+  {
+   "role": "테오",
+   "name": "문유강"
+  },
+  {
+   "role": "테오",
+   "name": "김재한"
+  },
+  {
+   "role": "이사벨",
+   "name": "정우연"
+  },
+  {
+   "role": "이사벨",
+   "name": "선유하"
+  },
+  {
+   "role": "이사벨",
+   "name": "이은정"
+  },
+  {
+   "role": "자크",
+   "name": "박희준"
+  },
+  {
+   "role": "자크",
+   "name": "고수민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260517093114/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206867"
+ }
 }

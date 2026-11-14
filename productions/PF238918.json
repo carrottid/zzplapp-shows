@@ -47,5 +47,79 @@
  ],
  "updated": "2024-04-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#16120F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "벤자민",
+   "name": "김재범"
+  },
+  {
+   "role": "벤자민",
+   "name": "심창민"
+  },
+  {
+   "role": "벤자민",
+   "name": "김성식"
+  },
+  {
+   "role": "블루",
+   "name": "김소향"
+  },
+  {
+   "role": "블루",
+   "name": "박은미"
+  },
+  {
+   "role": "블루",
+   "name": "이아름솔"
+  },
+  {
+   "role": "마마",
+   "name": "김나윤"
+  },
+  {
+   "role": "마마",
+   "name": "김지선"
+  },
+  {
+   "role": "제리",
+   "name": "민재완"
+  },
+  {
+   "role": "제리",
+   "name": "박광선"
+  },
+  {
+   "role": "스캇",
+   "name": "강은일"
+  },
+  {
+   "role": "스캇",
+   "name": "송창근"
+  },
+  {
+   "role": "모튼",
+   "name": "구백산"
+  },
+  {
+   "role": "모튼",
+   "name": "이승현"
+  },
+  {
+   "role": "",
+   "name": "신채림"
+  },
+  {
+   "role": "",
+   "name": "박국선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260713180213/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201589"
+ }
 }

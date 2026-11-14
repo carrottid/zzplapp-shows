@@ -1,0 +1,33 @@
+{
+ "id": "PF305171",
+ "source": "plapp",
+ "roles": {
+  "r:DAY 2": "DAY 2"
+ },
+ "people": {},
+ "sessions": [
+  {
+   "date": "2026-11-13",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "문경초",
+     "roleId": "r:DAY 2"
+    },
+    {
+     "name": "윤승우",
+     "roleId": "r:DAY 2"
+    },
+    {
+     "name": "황민수",
+     "roleId": "r:DAY 2"
+    },
+    {
+     "name": "이휘종",
+     "roleId": "r:DAY 2"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-13T10:04:32"
+}

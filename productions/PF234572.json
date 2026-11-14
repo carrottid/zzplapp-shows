@@ -44,5 +44,59 @@
  ],
  "updated": "2024-01-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#DA0B60",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "르네 갈리마르",
+   "name": "배수빈"
+  },
+  {
+   "role": "르네 갈리마르",
+   "name": "이동하"
+  },
+  {
+   "role": "르네 갈리마르",
+   "name": "이재균"
+  },
+  {
+   "role": "송 릴링",
+   "name": "김바다"
+  },
+  {
+   "role": "송 릴링",
+   "name": "정재환"
+  },
+  {
+   "role": "송 릴링",
+   "name": "최정우"
+  },
+  {
+   "role": "친",
+   "name": "송희정"
+  },
+  {
+   "role": "뚤롱/판사",
+   "name": "오대석"
+  },
+  {
+   "role": "아녜스",
+   "name": "김보나"
+  },
+  {
+   "role": "마끄",
+   "name": "이원준"
+  },
+  {
+   "role": "",
+   "name": "이서현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250719090430/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198597"
+ }
 }

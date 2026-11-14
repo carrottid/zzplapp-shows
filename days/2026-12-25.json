@@ -2,6 +2,38 @@
  "date": "2026-12-25",
  "sessions": [
   {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "12:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이준혁"
+    },
+    {
+     "name": "조윤슬"
+    },
+    {
+     "name": "최찬이"
+    },
+    {
+     "name": "엄선영"
+    },
+    {
+     "name": "임창섭"
+    },
+    {
+     "name": "박희경"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
+  },
+  {
    "id": "PF292160",
    "title": "겨울왕국",
    "genre": "뮤지컬",
@@ -93,6 +125,90 @@
    }
   },
   {
+   "id": "PF300974",
+   "title": "두 도시 이야기",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "신성록",
+     "personId": "3676"
+    },
+    {
+     "name": "진태화",
+     "personId": "38583"
+    },
+    {
+     "name": "김수연",
+     "personId": "43175"
+    },
+    {
+     "name": "김소향",
+     "personId": "3602"
+    },
+    {
+     "name": "나유진",
+     "personId": "12101"
+    }
+   ],
+   "color": {
+    "bg": "#1B2A4A",
+    "fg": "#E8B65A"
+   }
+  },
+  {
+   "id": "PF305728",
+   "title": "두 번째 아이",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김지온",
+     "personId": "28458"
+    }
+   ],
+   "color": {
+    "bg": "#F4C430",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF301746",
+   "title": "마하고니",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "14:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김한결"
+    },
+    {
+     "name": "마이삭"
+    },
+    {
+     "name": "한비"
+    },
+    {
+     "name": "박민주"
+    },
+    {
+     "name": "온주완"
+    },
+    {
+     "name": "임예진"
+    }
+   ],
+   "color": {
+    "bg": "#2A2350",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF302677",
    "title": "미세스 다웃파이어",
    "genre": "뮤지컬",
@@ -145,6 +261,86 @@
    "color": {
     "bg": "#151515",
     "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF291533",
+   "title": "빨래: 32차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "류찬열"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "허순미"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF306205",
+   "title": "샤이닝",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유태율"
+    },
+    {
+     "name": "김경록"
+    },
+    {
+     "name": "최호승"
+    }
+   ]
+  },
+  {
+   "id": "PF300598",
+   "title": "수레바퀴 아래서",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "14:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김서환"
+    },
+    {
+     "name": "황만익"
+    },
+    {
+     "name": "황건우"
+    },
+    {
+     "name": "신은호"
+    }
+   ],
+   "color": {
+    "bg": "#3A2A1E",
+    "fg": "#E8C88A"
    }
   },
   {
@@ -215,6 +411,44 @@
    }
   },
   {
+   "id": "PF305850",
+   "title": "언더 문보우 (UNDER MOONBOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "이주순",
+     "personId": "44957"
+    },
+    {
+     "name": "김우진",
+     "personId": "52506"
+    },
+    {
+     "name": "홍륜희",
+     "personId": "3535"
+    },
+    {
+     "name": "조현우",
+     "personId": "33620"
+    },
+    {
+     "name": "서예준",
+     "personId": "58077"
+    },
+    {
+     "name": "유지윤",
+     "personId": "58078"
+    }
+   ],
+   "color": {
+    "bg": "#1C2433",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF302842",
    "title": "오페라의 유령 40주년 스페셜 시즌",
    "genre": "뮤지컬",
@@ -242,6 +476,56 @@
    "color": {
     "bg": "#1B2A5A",
     "fg": "#E0B25A"
+   }
+  },
+  {
+   "id": "PF296104",
+   "title": "콰이어 오브 맨",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213"
+    }
+   ],
+   "color": {
+    "bg": "#3A2A20",
+    "fg": "#F2C14E"
    }
   },
   {
@@ -295,6 +579,70 @@
    }
   },
   {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "14:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이준혁"
+    },
+    {
+     "name": "이주희"
+    },
+    {
+     "name": "최찬이"
+    },
+    {
+     "name": "나르샤"
+    },
+    {
+     "name": "임창섭"
+    },
+    {
+     "name": "박희경"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF305999",
+   "title": "얼음나무 숲",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "15:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "장유정"
+    },
+    {
+     "name": "장준환"
+    },
+    {
+     "name": "이홍섭"
+    },
+    {
+     "name": "기세중"
+    },
+    {
+     "name": "박선영"
+    },
+    {
+     "name": "권태하"
+    }
+   ],
+   "color": {
+    "bg": "#2A4A6B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF304963",
    "title": "윌리엄과 윌리엄의 윌리엄들",
    "genre": "뮤지컬",
@@ -318,14 +666,22 @@
    }
   },
   {
-   "id": "PF301746",
-   "title": "마하고니",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터 (페이코홀)",
+   "id": "PF303036",
+   "title": "러브레터",
+   "genre": "연극",
+   "venue": "KT&G 상상마당 대치아트홀",
    "time": "16:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
-    "bg": "#2A2350",
+    "bg": "#2F5A3E",
     "fg": "#FFFFFF"
    }
   },
@@ -391,6 +747,50 @@
    }
   },
   {
+   "id": "PF305851",
+   "title": "연모",
+   "genre": "연극",
+   "venue": "열린극장",
+   "time": "17:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "도연우"
+    },
+    {
+     "name": "이주희"
+    },
+    {
+     "name": "선우현"
+    },
+    {
+     "name": "한아름"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "김서희"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF302270",
+   "title": "V 에버 애프터",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2038",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF304086",
    "title": "닥터 두리틀",
    "genre": "뮤지컬",
@@ -432,6 +832,56 @@
    }
   },
   {
+   "id": "PF305728",
+   "title": "두 번째 아이",
+   "genre": "연극",
+   "venue": "LG아트센터 서울 (U+ 스테이지)",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "손우현",
+     "personId": "51803"
+    }
+   ],
+   "color": {
+    "bg": "#F4C430",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF301746",
+   "title": "마하고니",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터 (페이코홀)",
+   "time": "18:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김한결"
+    },
+    {
+     "name": "마이삭"
+    },
+    {
+     "name": "한비"
+    },
+    {
+     "name": "박민주"
+    },
+    {
+     "name": "이율"
+    },
+    {
+     "name": "김찬종"
+    }
+   ],
+   "color": {
+    "bg": "#2A2350",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF303594",
    "title": "브로큰 넘버스 (BROKEN NUMBERS)",
    "genre": "뮤지컬",
@@ -458,6 +908,139 @@
    "color": {
     "bg": "#151515",
     "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF306205",
+   "title": "샤이닝",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "양지원"
+    },
+    {
+     "name": "김경록"
+    },
+    {
+     "name": "최호승"
+    }
+   ]
+  },
+  {
+   "id": "PF300598",
+   "title": "수레바퀴 아래서",
+   "genre": "뮤지컬",
+   "venue": "SH아트홀",
+   "time": "18:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "박새힘"
+    },
+    {
+     "name": "박소리"
+    },
+    {
+     "name": "조영화"
+    },
+    {
+     "name": "김이진"
+    }
+   ],
+   "color": {
+    "bg": "#3A2A1E",
+    "fg": "#E8C88A"
+   }
+  },
+  {
+   "id": "PF305850",
+   "title": "언더 문보우 (UNDER MOONBOW)",
+   "genre": "뮤지컬",
+   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "차서원",
+     "personId": "37504"
+    },
+    {
+     "name": "이시강",
+     "personId": "38269"
+    },
+    {
+     "name": "홍륜희",
+     "personId": "3535"
+    },
+    {
+     "name": "조현우",
+     "personId": "33620"
+    },
+    {
+     "name": "서예준",
+     "personId": "58077"
+    },
+    {
+     "name": "유지윤",
+     "personId": "58078"
+    }
+   ],
+   "color": {
+    "bg": "#1C2433",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF296104",
+   "title": "콰이어 오브 맨",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213"
+    }
+   ],
+   "color": {
+    "bg": "#3A2A20",
+    "fg": "#F2C14E"
    }
   },
   {
@@ -496,6 +1079,41 @@
    "color": {
     "bg": "#2F8F4E",
     "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF291533",
+   "title": "빨래: 32차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "18:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "류찬열"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "허순미"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
+   "color": {
+    "bg": "#D9A441",
+    "fg": "#111111"
    }
   },
   {
@@ -566,6 +1184,40 @@
    }
   },
   {
+   "id": "PF300974",
+   "title": "두 도시 이야기",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "카이",
+     "personId": "18104"
+    },
+    {
+     "name": "백형훈",
+     "personId": "20750"
+    },
+    {
+     "name": "선민",
+     "personId": "23492"
+    },
+    {
+     "name": "김소향",
+     "personId": "3602"
+    },
+    {
+     "name": "나유진",
+     "personId": "12101"
+    }
+   ],
+   "color": {
+    "bg": "#1B2A4A",
+    "fg": "#E8B65A"
+   }
+  },
+  {
    "id": "PF302677",
    "title": "미세스 다웃파이어",
    "genre": "뮤지컬",
@@ -627,6 +1279,38 @@
    "color": {
     "bg": "#1A1A1A",
     "fg": "#D01F1F"
+   }
+  },
+  {
+   "id": "PF305999",
+   "title": "얼음나무 숲",
+   "genre": "뮤지컬",
+   "venue": "동덕여대공연예술센터 (코튼홀)",
+   "time": "19:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "정민"
+    },
+    {
+     "name": "노희찬"
+    },
+    {
+     "name": "제진빈"
+    },
+    {
+     "name": "장준우"
+    },
+    {
+     "name": "김지호"
+    },
+    {
+     "name": "홍승안"
+    }
+   ],
+   "color": {
+    "bg": "#2A4A6B",
+    "fg": "#FFFFFF"
    }
   },
   {
@@ -743,18 +1427,6 @@
    }
   },
   {
-   "id": "PF300974",
-   "title": "두 도시 이야기",
-   "genre": "뮤지컬",
-   "venue": "광림아트센터 (BBCH홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1B2A4A",
-    "fg": "#E8B65A"
-   }
-  },
-  {
    "id": "PF302516",
    "title": "레베카",
    "genre": "뮤지컬",
@@ -799,18 +1471,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF291533",
-   "title": "빨래: 32차 프로덕션",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (2관(중극장))",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#D9A441",
-    "fg": "#111111"
-   }
-  },
-  {
    "id": "PF282162",
    "title": "서울시뮤지컬단, 크리스마스 캐럴",
    "genre": "뮤지컬",
@@ -852,7 +1512,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "도연우"
+    },
+    {
+     "name": "이주희"
+    },
+    {
+     "name": "선우현"
+    },
+    {
+     "name": "한아름"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "김서희"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF303908",
@@ -903,44 +1587,30 @@
    }
   },
   {
-   "id": "PF302270",
-   "title": "V 에버 애프터",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2A2038",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF305728",
-   "title": "두 번째 아이",
-   "genre": "연극",
-   "venue": "LG아트센터 서울 (U+ 스테이지)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF301746",
-   "title": "마하고니",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터 (페이코홀)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2A2350",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF306341",
    "title": "멘치카",
    "genre": "연극",
    "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "이동연",
+     "personId": "49344"
+    },
+    {
+     "name": "정찬호",
+     "personId": "49625"
+    },
+    {
+     "name": "표지은",
+     "personId": "43229"
+    },
+    {
+     "name": "송상훈",
+     "personId": "46237"
+    }
+   ]
   },
   {
    "id": "PF300941",
@@ -955,32 +1625,16 @@
    }
   },
   {
-   "id": "PF306205",
-   "title": "샤이닝",
-   "genre": "뮤지컬",
-   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF300598",
-   "title": "수레바퀴 아래서",
-   "genre": "뮤지컬",
-   "venue": "SH아트홀",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3A2A1E",
-    "fg": "#E8C88A"
-   }
-  },
-  {
    "id": "PF305968",
    "title": "슛 더 크로우 (Shoot the Crow)",
    "genre": "연극",
    "venue": "링크아트센터 (벅스홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#6B4A2E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304068",
@@ -993,22 +1647,6 @@
     "bg": "#9DB0C4",
     "fg": "#111111"
    }
-  },
-  {
-   "id": "PF305850",
-   "title": "언더 문보우 (UNDER MOONBOW)",
-   "genre": "뮤지컬",
-   "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF305999",
-   "title": "얼음나무 숲",
-   "genre": "뮤지컬",
-   "venue": "동덕여대공연예술센터 (코튼홀)",
-   "time": "20:00",
-   "castSource": "none"
   },
   {
    "id": "PF303673",
@@ -1044,18 +1682,6 @@
    "color": {
     "bg": "#2E7FA8",
     "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF296104",
-   "title": "콰이어 오브 맨",
-   "genre": "뮤지컬",
-   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3A2A20",
-    "fg": "#F2C14E"
    }
   },
   {

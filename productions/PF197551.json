@@ -1,0 +1,63 @@
+{
+ "id": "PF197551",
+ "title": "페스트",
+ "genre": "연극",
+ "from": "2022-09-15",
+ "to": "2022-09-18",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF197551_220902_133400.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박동욱",
+  "이섬",
+  "최승은",
+  "김영욱",
+  "은해성"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 30분",
+ "age": "만 12세 이상",
+ "crew": "박선희, 임수진, 임승범 등",
+ "producer": "소극장 산울림(극단 산울림)",
+ "price": "전석 15,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF197551_220902_0134000.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22011555"
+  }
+ ],
+ "updated": "2022-09-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "리유",
+   "name": "박동욱"
+  },
+  {
+   "role": "타루",
+   "name": "최승은"
+  },
+  {
+   "role": "랑베르",
+   "name": "이섬"
+  },
+  {
+   "role": "파늘루",
+   "name": "은해성"
+  },
+  {
+   "role": "코타루",
+   "name": "김영욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241106205940/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178578"
+ }
+}

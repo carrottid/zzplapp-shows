@@ -39,5 +39,71 @@
  ],
  "updated": "2022-05-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5C4A36",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "할머니",
+   "name": "강애심"
+  },
+  {
+   "role": "남자",
+   "name": "이대연"
+  },
+  {
+   "role": "남자",
+   "name": "이해성"
+  },
+  {
+   "role": "아내/엄마",
+   "name": "이경성"
+  },
+  {
+   "role": "아버지",
+   "name": "김성일"
+  },
+  {
+   "role": "성구",
+   "name": "한동훈"
+  },
+  {
+   "role": "대학생진구",
+   "name": "송현섭"
+  },
+  {
+   "role": "대학생진구",
+   "name": "이제우"
+  },
+  {
+   "role": "",
+   "name": "유은지"
+  },
+  {
+   "role": "",
+   "name": "나푸름"
+  },
+  {
+   "role": "",
+   "name": "이승은"
+  },
+  {
+   "role": "",
+   "name": "김보라"
+  },
+  {
+   "role": "",
+   "name": "윤슬기"
+  },
+  {
+   "role": "",
+   "name": "김태욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014231721/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175122"
+ }
 }

@@ -51,5 +51,63 @@
  ],
  "updated": "2025-04-17 13:25:14",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4F8396",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "향안",
+   "name": "이지숙"
+  },
+  {
+   "role": "향안",
+   "name": "최수진"
+  },
+  {
+   "role": "향안",
+   "name": "김려원"
+  },
+  {
+   "role": "환기",
+   "name": "김종구"
+  },
+  {
+   "role": "환기",
+   "name": "윤석원"
+  },
+  {
+   "role": "환기",
+   "name": "박영수"
+  },
+  {
+   "role": "동림",
+   "name": "홍지희"
+  },
+  {
+   "role": "동림",
+   "name": "김주연"
+  },
+  {
+   "role": "동림",
+   "name": "김이후"
+  },
+  {
+   "role": "이상",
+   "name": "변희상"
+  },
+  {
+   "role": "이상",
+   "name": "최재웅"
+  },
+  {
+   "role": "이상",
+   "name": "임진섭"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251206163540/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=213332"
+ }
 }

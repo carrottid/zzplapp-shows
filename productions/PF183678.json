@@ -32,5 +32,31 @@
  ],
  "updated": "2025-05-12 17:40:03",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#D15B14",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "피오나/에이드리언",
+   "name": "김정"
+  },
+  {
+   "role": "앨리스",
+   "name": "성수연"
+  },
+  {
+   "role": "렐라니",
+   "name": "김별"
+  },
+  {
+   "role": "조쉬",
+   "name": "마광현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428012804/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170320"
+ }
 }

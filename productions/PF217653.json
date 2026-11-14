@@ -1,0 +1,142 @@
+{
+ "id": "PF217653",
+ "title": "노르망디",
+ "genre": "연극",
+ "from": "2023-05-08",
+ "to": "2023-05-21",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217653_230509_094643.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최용민",
+  "윤상호",
+  "문태수",
+  "윤상현",
+  "김늘메",
+  "서삼석",
+  "김병수"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 10분",
+ "age": "만 8세 이상",
+ "producer": "대학로스타시티",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 목요일(19:30), 금요일(16:00,19:30), 토요일(16:00,19:30), 일요일(16:00)",
+ "images": [],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005851"
+  }
+ ],
+ "updated": "2023-05-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "창화",
+   "name": "최용민"
+  },
+  {
+   "role": "창화",
+   "name": "윤상호"
+  },
+  {
+   "role": "창화",
+   "name": "문태수"
+  },
+  {
+   "role": "창화",
+   "name": "윤상현"
+  },
+  {
+   "role": "",
+   "name": "김늘메"
+  },
+  {
+   "role": "",
+   "name": "서삼석"
+  },
+  {
+   "role": "",
+   "name": "김병수"
+  },
+  {
+   "role": "어른 박해미",
+   "name": "류주혜"
+  },
+  {
+   "role": "어른 박해미",
+   "name": "이란희"
+  },
+  {
+   "role": "어른 박해미",
+   "name": "이주화"
+  },
+  {
+   "role": "어른 박해미",
+   "name": "김루시아"
+  },
+  {
+   "role": "",
+   "name": "송경아"
+  },
+  {
+   "role": "박해미",
+   "name": "신아윤"
+  },
+  {
+   "role": "박해미",
+   "name": "이주희"
+  },
+  {
+   "role": "박해미",
+   "name": "박서연"
+  },
+  {
+   "role": "박해미",
+   "name": "마승지"
+  },
+  {
+   "role": "김소정",
+   "name": "오수윤"
+  },
+  {
+   "role": "김소정",
+   "name": "신예온"
+  },
+  {
+   "role": "김소정",
+   "name": "이소미"
+  },
+  {
+   "role": "정현주",
+   "name": "양은주"
+  },
+  {
+   "role": "정현주",
+   "name": "정혜임"
+  },
+  {
+   "role": "정현주",
+   "name": "김자영"
+  },
+  {
+   "role": "최대진",
+   "name": "최현섭"
+  },
+  {
+   "role": "최대진",
+   "name": "이슬기"
+  },
+  {
+   "role": "최대진",
+   "name": "김동국"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803123426/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187632"
+ }
+}

@@ -1,0 +1,39 @@
+{
+ "id": "PF190103",
+ "title": "물고기의 축제",
+ "genre": "연극",
+ "from": "2022-05-11",
+ "to": "2022-05-15",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190103_220426_133018.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "임향화",
+  "김학철",
+  "김수안",
+  "한정호",
+  "조혜선",
+  "서보찬",
+  "김은미"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 20분",
+ "age": "만 13세 이상",
+ "crew": "윤광진, 윤찬우, 황연희 등",
+ "producer": "공연제작센터",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190103_220426_1233510.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004862"
+  }
+ ],
+ "updated": "2022-04-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

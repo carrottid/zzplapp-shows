@@ -51,5 +51,35 @@
  ],
  "updated": "2021-01-22 11:22:04",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#51413D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김문옥",
+   "name": "윤복희"
+  },
+  {
+   "role": "홍정혜",
+   "name": "강효성"
+  },
+  {
+   "role": "지화자",
+   "name": "진도희"
+  },
+  {
+   "role": "강유미",
+   "name": "김하연"
+  },
+  {
+   "role": "방과장",
+   "name": "류비"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250423185242/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162490"
+ }
 }

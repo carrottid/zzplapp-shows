@@ -1,0 +1,36 @@
+{
+ "id": "PF285463",
+ "title": "허무맹달",
+ "genre": "연극",
+ "from": "2026-03-05",
+ "to": "2026-03-08",
+ "venue": "삼일로창고극장 (삼일로창고극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285463_260220_130811.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "함민구",
+  "정세인",
+  "이남혁"
+ ],
+ "facilityId": "FC000248",
+ "runtime": "1시간",
+ "age": "만 13세 이상",
+ "crew": "정세인, 최유나",
+ "producer": "극단 상하반기",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285463_202602200108110541.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285463_202602200108110290.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26002212"
+  }
+ ],
+ "updated": "2026-02-20 15:00:04.082119",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

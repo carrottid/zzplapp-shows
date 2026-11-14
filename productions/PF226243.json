@@ -39,5 +39,79 @@
  ],
  "updated": "2023-09-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#209D4D",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "마리 스클로도프스카 퀴리",
+   "name": "이정화"
+  },
+  {
+   "role": "안느 코발스키",
+   "name": "강혜인"
+  },
+  {
+   "role": "안느 코발스키",
+   "name": "최지혜"
+  },
+  {
+   "role": "피에르 퀴리",
+   "name": "김지철"
+  },
+  {
+   "role": "피에르 퀴리",
+   "name": "임별"
+  },
+  {
+   "role": "루벤 뒤퐁",
+   "name": "양승리"
+  },
+  {
+   "role": "루벤 뒤퐁",
+   "name": "안재영"
+  },
+  {
+   "role": "조쉬 바르다/이렌 퀴리",
+   "name": "민정아"
+  },
+  {
+   "role": "조쉬 바르다/이렌 퀴리",
+   "name": "옥경민"
+  },
+  {
+   "role": "폴 베타니/병원장",
+   "name": "이찬렬"
+  },
+  {
+   "role": "",
+   "name": "홍유정"
+  },
+  {
+   "role": "",
+   "name": "유낙원"
+  },
+  {
+   "role": "",
+   "name": "송상훈"
+  },
+  {
+   "role": "",
+   "name": "조배근"
+  },
+  {
+   "role": "",
+   "name": "윤수아"
+  },
+  {
+   "role": "",
+   "name": "황수빈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250810221642/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193776"
+ }
 }

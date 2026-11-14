@@ -43,5 +43,75 @@
  ],
  "updated": "2025-08-18 15:13:57",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#5C6A39",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "그 친구",
+   "name": "오승윤"
+  },
+  {
+   "role": "그 친구",
+   "name": "한승윤"
+  },
+  {
+   "role": "그 친구",
+   "name": "박종민"
+  },
+  {
+   "role": "김창기",
+   "name": "류제윤"
+  },
+  {
+   "role": "김창기",
+   "name": "정욱진"
+  },
+  {
+   "role": "김창기",
+   "name": "오경주"
+  },
+  {
+   "role": "유준열",
+   "name": "김이담"
+  },
+  {
+   "role": "유준열",
+   "name": "장민수"
+  },
+  {
+   "role": "유준열",
+   "name": "정이운"
+  },
+  {
+   "role": "박기영",
+   "name": "박상준"
+  },
+  {
+   "role": "박기영",
+   "name": "석현준"
+  },
+  {
+   "role": "박경찬",
+   "name": "문남권"
+  },
+  {
+   "role": "박경찬",
+   "name": "홍은기"
+  },
+  {
+   "role": "용삼",
+   "name": "김성현"
+  },
+  {
+   "role": "용삼",
+   "name": "조훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250719081417/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=217473"
+ }
 }

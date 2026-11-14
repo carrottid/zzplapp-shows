@@ -44,5 +44,95 @@
  ],
  "updated": "2025-04-28 14:17:41",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5A4E5C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "존 프락터",
+   "name": "엄기준"
+  },
+  {
+   "role": "존 프락터",
+   "name": "강필석"
+  },
+  {
+   "role": "사무엘 패리스",
+   "name": "박은석"
+  },
+  {
+   "role": "존 헤일",
+   "name": "박정복"
+  },
+  {
+   "role": "댄포스",
+   "name": "남명렬"
+  },
+  {
+   "role": "애비게일 윌리엄즈",
+   "name": "류인아"
+  },
+  {
+   "role": "엘리자베스 프락터",
+   "name": "여승희"
+  },
+  {
+   "role": "",
+   "name": "진지희"
+  },
+  {
+   "role": "",
+   "name": "주호성"
+  },
+  {
+   "role": "",
+   "name": "김곽경희"
+  },
+  {
+   "role": "",
+   "name": "김수로"
+  },
+  {
+   "role": "",
+   "name": "권해성"
+  },
+  {
+   "role": "",
+   "name": "김도희"
+  },
+  {
+   "role": "",
+   "name": "하준호"
+  },
+  {
+   "role": "",
+   "name": "신혜옥"
+  },
+  {
+   "role": "",
+   "name": "오종훈"
+  },
+  {
+   "role": "",
+   "name": "우범진"
+  },
+  {
+   "role": "",
+   "name": "김예지"
+  },
+  {
+   "role": "",
+   "name": "박인선"
+  },
+  {
+   "role": "",
+   "name": "송민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622110043/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214255"
+ }
 }

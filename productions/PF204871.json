@@ -43,5 +43,51 @@
  ],
  "updated": "2022-12-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A7A30",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "정진",
+   "name": "정성일"
+  },
+  {
+   "role": "정진",
+   "name": "최호승"
+  },
+  {
+   "role": "정진",
+   "name": "최정헌"
+  },
+  {
+   "role": "희수",
+   "name": "김지온"
+  },
+  {
+   "role": "희수",
+   "name": "유현석"
+  },
+  {
+   "role": "희수",
+   "name": "성연"
+  },
+  {
+   "role": "은우",
+   "name": "강연정"
+  },
+  {
+   "role": "은우",
+   "name": "박희정"
+  },
+  {
+   "role": "은우",
+   "name": "최유진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241105192445/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=183166"
+ }
 }

@@ -55,5 +55,55 @@
  ],
  "updated": "2022-09-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#082957",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "와타나베",
+   "name": "서현철"
+  },
+  {
+   "role": "와타나베",
+   "name": "손종학"
+  },
+  {
+   "role": "와타나베",
+   "name": "유병훈"
+  },
+  {
+   "role": "만춘",
+   "name": "기세중"
+  },
+  {
+   "role": "만춘",
+   "name": "유수빈"
+  },
+  {
+   "role": "만춘",
+   "name": "임진섭"
+  },
+  {
+   "role": "마사오",
+   "name": "신창주"
+  },
+  {
+   "role": "마사오",
+   "name": "임진구"
+  },
+  {
+   "role": "히데오",
+   "name": "정다함"
+  },
+  {
+   "role": "히데오",
+   "name": "조은진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250717070337/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=179213"
+ }
 }

@@ -55,5 +55,79 @@
  ],
  "updated": "2021-07-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#222325",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "주혁",
+   "name": "오종혁"
+  },
+  {
+   "role": "주혁",
+   "name": "임병근"
+  },
+  {
+   "role": "주혁",
+   "name": "김지철"
+  },
+  {
+   "role": "정배",
+   "name": "김찬호"
+  },
+  {
+   "role": "정배",
+   "name": "박유덕"
+  },
+  {
+   "role": "정배",
+   "name": "장유상"
+  },
+  {
+   "role": "승욱",
+   "name": "구준모"
+  },
+  {
+   "role": "승욱",
+   "name": "김건호"
+  },
+  {
+   "role": "돈결",
+   "name": "장민수"
+  },
+  {
+   "role": "돈결",
+   "name": "김찬종"
+  },
+  {
+   "role": "원달",
+   "name": "조영규"
+  },
+  {
+   "role": "원달",
+   "name": "이지현"
+  },
+  {
+   "role": "남자",
+   "name": "김현준"
+  },
+  {
+   "role": "남자",
+   "name": "임진구"
+  },
+  {
+   "role": "",
+   "name": "문현정"
+  },
+  {
+   "role": "",
+   "name": "조한나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014230803/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166718"
+ }
 }

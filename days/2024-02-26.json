@@ -2,12 +2,24 @@
  "date": "2024-02-26",
  "sessions": [
   {
+   "id": "PF235296",
+   "title": "실비아, 살다",
+   "genre": "뮤지컬",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF233941",
    "title": "정동진",
    "genre": "연극",
    "venue": "선돌극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#626D84",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF232946",
@@ -15,7 +27,11 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#955050",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

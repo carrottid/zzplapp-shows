@@ -47,5 +47,31 @@
  ],
  "updated": "2024-02-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1F6E78",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "앤디",
+   "name": "정보석"
+  },
+  {
+   "role": "앤디",
+   "name": "박혁권"
+  },
+  {
+   "role": "멜리사",
+   "name": "하희라"
+  },
+  {
+   "role": "멜리사",
+   "name": "유선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250214054152/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199599"
+ }
 }

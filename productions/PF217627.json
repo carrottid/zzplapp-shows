@@ -1,0 +1,96 @@
+{
+ "id": "PF217627",
+ "title": "창작공감: 작가, 보존과학자",
+ "genre": "연극",
+ "from": "2023-05-25",
+ "to": "2023-06-18",
+ "venue": "국립극단 [용산] (백성희장민호극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF217627_230502_114703.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김도원",
+  "김서연",
+  "김수아",
+  "김시영",
+  "박보현",
+  "백혜경",
+  "송인성"
+ ],
+ "facilityId": "FC001111",
+ "runtime": "1시간 50분",
+ "age": "만 7세 이상",
+ "crew": "윤미희, 이인수, 남경식 등",
+ "price": "전석 35,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF217627_230503_1045301.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "https://www.ntck.or.kr/ko/performance/info/257140"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006048"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr"
+  }
+ ],
+ "updated": "2023-05-02 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "보존과학자",
+   "name": "김서연"
+  },
+  {
+   "role": "철 전문가",
+   "name": "송인성"
+  },
+  {
+   "role": "유리 전문가",
+   "name": "조승연"
+  },
+  {
+   "role": "알루미늄 전문가",
+   "name": "이상은"
+  },
+  {
+   "role": "아버지",
+   "name": "지춘성"
+  },
+  {
+   "role": "첫째",
+   "name": "김시영"
+  },
+  {
+   "role": "",
+   "name": "김수아"
+  },
+  {
+   "role": "",
+   "name": "백혜경"
+  },
+  {
+   "role": "",
+   "name": "박보현"
+  },
+  {
+   "role": "",
+   "name": "임태섭"
+  },
+  {
+   "role": "",
+   "name": "신재환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250315141127/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187863"
+ }
+}

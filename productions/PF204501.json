@@ -1,0 +1,81 @@
+{
+ "id": "PF204501",
+ "title": "환절기에서",
+ "genre": "연극",
+ "from": "2022-12-28",
+ "to": "2023-01-08",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF204501_221220_104158.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이재영",
+  "이지영",
+  "윤원재",
+  "유용준",
+  "이정현",
+  "변혜림",
+  "장지은"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 30분",
+ "age": "만 8세 이상",
+ "crew": "김희진, 이지영, 이훈경 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일(15:00,18:00), 화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF204501_221220_1041581.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF204501_221220_1041580.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/823947"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22017605"
+  }
+ ],
+ "updated": "2022-12-20 14:41:15",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "난희",
+   "name": "변혜림"
+  },
+  {
+   "role": "난희",
+   "name": "정효정"
+  },
+  {
+   "role": "상우",
+   "name": "윤원재"
+  },
+  {
+   "role": "상우",
+   "name": "유용준"
+  },
+  {
+   "role": "희수",
+   "name": "이지영"
+  },
+  {
+   "role": "희수",
+   "name": "장지은"
+  },
+  {
+   "role": "우재",
+   "name": "이정현"
+  },
+  {
+   "role": "우재",
+   "name": "이재영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240814072341/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=182943"
+ }
+}

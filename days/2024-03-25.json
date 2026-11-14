@@ -7,6 +7,18 @@
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "16:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#506D95",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF236130",
+   "title": "메리골드",
+   "genre": "뮤지컬",
+   "venue": "열린극장",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -15,7 +27,11 @@
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#506D95",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF232946",
@@ -23,7 +39,11 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#955050",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234505",
@@ -31,7 +51,25 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이승헌"
+    },
+    {
+     "name": "양지원"
+    },
+    {
+     "name": "송상훈"
+    },
+    {
+     "name": "정경훈"
+    }
+   ],
+   "color": {
+    "bg": "#E6BC00",
+    "fg": "#111111"
+   }
   }
  ]
 }

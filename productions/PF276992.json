@@ -54,5 +54,39 @@
  ],
  "updated": "2026-01-27 10:23:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4B3A8F",
+  "fg": "#FFE14D"
+ },
+ "roleCast": [
+  {
+   "role": "마이클",
+   "name": "박호산"
+  },
+  {
+   "role": "마이클",
+   "name": "하도권"
+  },
+  {
+   "role": "마이클",
+   "name": "윤석원"
+  },
+  {
+   "role": "데이",
+   "name": "정동화"
+  },
+  {
+   "role": "데이",
+   "name": "유승현"
+  },
+  {
+   "role": "데이",
+   "name": "홍성원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260714192241/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=223149"
+ }
 }

@@ -43,5 +43,79 @@
  ],
  "updated": "2024-12-23 16:43:12",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2E4047",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "부치하난&누리",
+   "name": "정택운"
+  },
+  {
+   "role": "부치하난&누리",
+   "name": "유영재"
+  },
+  {
+   "role": "부치하난&누리",
+   "name": "노윤"
+  },
+  {
+   "role": "올라&태경",
+   "name": "임예진"
+  },
+  {
+   "role": "올라&태경",
+   "name": "지수연"
+  },
+  {
+   "role": "올라&태경",
+   "name": "이재림"
+  },
+  {
+   "role": "만다란투&하문",
+   "name": "양승리"
+  },
+  {
+   "role": "만다란투&하문",
+   "name": "정필립"
+  },
+  {
+   "role": "만다란투&하문",
+   "name": "김도현"
+  },
+  {
+   "role": "영봉도사",
+   "name": "이정수"
+  },
+  {
+   "role": "영봉도사",
+   "name": "류찬열"
+  },
+  {
+   "role": "곽사장",
+   "name": "하미미"
+  },
+  {
+   "role": "곽사장",
+   "name": "양성령"
+  },
+  {
+   "role": "돗대",
+   "name": "정재헌"
+  },
+  {
+   "role": "돗대",
+   "name": "장재웅"
+  },
+  {
+   "role": "",
+   "name": "김재윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260422144120/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206820"
+ }
 }

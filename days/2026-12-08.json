@@ -57,7 +57,11 @@
    "genre": "연극",
    "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#A8374B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304181",
@@ -164,7 +168,15 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -382,7 +394,31 @@
    "genre": "연극",
    "venue": "열린극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "도연우"
+    },
+    {
+     "name": "서태인"
+    },
+    {
+     "name": "선우현"
+    },
+    {
+     "name": "한아름"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "송영주"
+    }
+   ],
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305282",
@@ -428,7 +464,11 @@
    "genre": "연극",
    "venue": "아르코예술극장 (소극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3C5A7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305855",
@@ -436,7 +476,22 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박지윤"
+    },
+    {
+     "name": "이래인"
+    },
+    {
+     "name": "정대진"
+    }
+   ],
+   "color": {
+    "bg": "#E0287A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305450",
@@ -515,18 +570,16 @@
    "genre": "연극",
    "venue": "LG아트센터 서울 (U+ 스테이지)",
    "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF301746",
-   "title": "마하고니",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터 (페이코홀)",
-   "time": "20:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김지온",
+     "personId": "28458"
+    }
+   ],
    "color": {
-    "bg": "#2A2350",
-    "fg": "#FFFFFF"
+    "bg": "#F4C430",
+    "fg": "#111111"
    }
   },
   {
@@ -535,7 +588,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김도하"
+    },
+    {
+     "name": "김소정"
+    },
+    {
+     "name": "김솔"
+    },
+    {
+     "name": "강현동"
+    },
+    {
+     "name": "여은"
+    },
+    {
+     "name": "정우림"
+    },
+    {
+     "name": "신은규"
+    },
+    {
+     "name": "김동빈"
+    }
+   ]
   },
   {
    "id": "PF303594",
@@ -572,7 +651,7 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
      "name": "김이담"
@@ -609,7 +688,21 @@
    "genre": "뮤지컬",
    "venue": "SH아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "이서후"
+    },
+    {
+     "name": "박소리"
+    },
+    {
+     "name": "김서연"
+    },
+    {
+     "name": "조영화"
+    }
+   ],
    "color": {
     "bg": "#3A2A1E",
     "fg": "#E8C88A"
@@ -621,7 +714,25 @@
    "genre": "연극",
    "venue": "링크아트센터 (벅스홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "박지일"
+    },
+    {
+     "name": "박정복"
+    },
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "최정우"
+    }
+   ],
+   "color": {
+    "bg": "#6B4A2E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF297794",

@@ -54,5 +54,39 @@
  ],
  "updated": "2024-03-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#695D56",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "여자1 외",
+   "name": "윤현길"
+  },
+  {
+   "role": "여자2 외",
+   "name": "김은정"
+  },
+  {
+   "role": "남자1 외",
+   "name": "문성복"
+  },
+  {
+   "role": "남자2 외",
+   "name": "조성현"
+  },
+  {
+   "role": "여자4 외",
+   "name": "최지혜"
+  },
+  {
+   "role": "여자3 외",
+   "name": "베튤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516213242/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200503"
+ }
 }

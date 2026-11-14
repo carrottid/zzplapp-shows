@@ -57,5 +57,39 @@
  ],
  "updated": "2021-11-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#0D0F15",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "헤드윅",
+   "name": "오만석"
+  },
+  {
+   "role": "헤드윅",
+   "name": "고은성"
+  },
+  {
+   "role": "헤드윅",
+   "name": "렌"
+  },
+  {
+   "role": "이츠학",
+   "name": "이영미"
+  },
+  {
+   "role": "이츠학",
+   "name": "김려원"
+  },
+  {
+   "role": "이츠학",
+   "name": "제이민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221128014113/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170308"
+ }
 }

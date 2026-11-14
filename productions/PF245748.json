@@ -1,0 +1,37 @@
+{
+ "id": "PF245748",
+ "title": "투셰",
+ "genre": "연극",
+ "from": "2024-08-14",
+ "to": "2024-08-18",
+ "venue": "미마지아트센터 (눈빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245748_240725_104058.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "권윤영",
+  "김민재",
+  "김윤정",
+  "박서연",
+  "최정락",
+  "오원권"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 20분",
+ "age": "만 7세 이상",
+ "crew": "김주헌, 홍단비, 김다영 등",
+ "price": "전석 20,000원",
+ "schedule": "수요일(19:30), 일요일(15:00,19:00), 일요일(15:00), HOL(19:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245748_240725_1040580.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24010625"
+  }
+ ],
+ "updated": "2024-07-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

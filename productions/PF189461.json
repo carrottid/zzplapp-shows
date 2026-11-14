@@ -44,5 +44,55 @@
  ],
  "updated": "2022-04-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#87645F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "블랑세",
+   "name": "전국향"
+  },
+  {
+   "role": "오데트",
+   "name": "김정은"
+  },
+  {
+   "role": "미렐레",
+   "name": "김채원"
+  },
+  {
+   "role": "아리엘",
+   "name": "황재희"
+  },
+  {
+   "role": "사빈",
+   "name": "박문지"
+  },
+  {
+   "role": "졸리",
+   "name": "이상숙"
+  },
+  {
+   "role": "",
+   "name": "최유리"
+  },
+  {
+   "role": "",
+   "name": "배보람"
+  },
+  {
+   "role": "",
+   "name": "박하늘"
+  },
+  {
+   "role": "",
+   "name": "조지승"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241105191714/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173851"
+ }
 }

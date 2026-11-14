@@ -51,5 +51,87 @@
  ],
  "updated": "2026-06-02 14:24:34",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "유일형",
+   "name": "유준상"
+  },
+  {
+   "role": "유일형",
+   "name": "박은태"
+  },
+  {
+   "role": "유일형",
+   "name": "신성록"
+  },
+  {
+   "role": "베로니카",
+   "name": "김려원"
+  },
+  {
+   "role": "베로니카",
+   "name": "나하나"
+  },
+  {
+   "role": "베로니카",
+   "name": "김수연"
+  },
+  {
+   "role": "야스오",
+   "name": "고훈정"
+  },
+  {
+   "role": "야스오",
+   "name": "이창용"
+  },
+  {
+   "role": "야스오",
+   "name": "김건우"
+  },
+  {
+   "role": "황만용",
+   "name": "정상훈"
+  },
+  {
+   "role": "황만용",
+   "name": "하도권"
+  },
+  {
+   "role": "황만용",
+   "name": "김승용"
+  },
+  {
+   "role": "곤도",
+   "name": "성기윤"
+  },
+  {
+   "role": "곤도",
+   "name": "황만익"
+  },
+  {
+   "role": "호메리",
+   "name": "이지숙"
+  },
+  {
+   "role": "호메리",
+   "name": "이정화"
+  },
+  {
+   "role": "",
+   "name": "김지선"
+  },
+  {
+   "role": "",
+   "name": "오진영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521013632/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=226765"
+ }
 }

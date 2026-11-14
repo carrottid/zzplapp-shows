@@ -1,0 +1,35 @@
+{
+ "id": "PF225765",
+ "title": "안다미로 콘서트 시리즈 3",
+ "genre": "뮤지컬",
+ "from": "2023-09-27",
+ "to": "2023-09-27",
+ "venue": "예그린씨어터 (예그린씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF225765_230913_104629.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박채연",
+  "노기표"
+ ],
+ "facilityId": "FC001212",
+ "runtime": "1시간 15분",
+ "age": "만 5세 이상",
+ "crew": "정성모, 김진호, 송승민",
+ "price": "전석 30,000원",
+ "schedule": "수요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225765_230913_1117180.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225765_230913_1118023.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF225765_230913_1118022.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23012506"
+  }
+ ],
+ "updated": "2023-09-13 14:40:37",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

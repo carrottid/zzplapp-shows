@@ -1,0 +1,87 @@
+{
+ "id": "PF262911",
+ "title": "故임영웅 연출가 1주기 추모 낭독 공연",
+ "genre": "연극",
+ "from": "2025-05-08",
+ "to": "2025-05-11",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF262911_250411_135346.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김다흰",
+  "전박찬",
+  "박동욱",
+  "정원조",
+  "임승범",
+  "이다해",
+  "김영욱"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "임수진, 임수현, 박선희 등",
+ "price": "전석 20,000원",
+ "schedule": "목요일(20:00), 금요일(16:00,20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF262911_250411_0153463.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF262911_250411_0153462.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF262911_250411_0153461.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF262911_250411_0153460.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1396995"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25005248"
+  }
+ ],
+ "updated": "2025-04-28 14:42:54",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "덤 웨이터 - 벤",
+   "name": "김다흰"
+  },
+  {
+   "role": "덤 웨이터 - 거스",
+   "name": "전박찬"
+  },
+  {
+   "role": "덤 웨이터 - 지문",
+   "name": "박동욱"
+  },
+  {
+   "role": "영국인 애인- 질문자",
+   "name": "정원조"
+  },
+  {
+   "role": "영국인 애인- 피에르",
+   "name": "임승범"
+  },
+  {
+   "role": "영국인 애인- 클레르",
+   "name": "이다해"
+  },
+  {
+   "role": "",
+   "name": "김영욱"
+  },
+  {
+   "role": "",
+   "name": "강정윤"
+  },
+  {
+   "role": "",
+   "name": "이주희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622111919/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=215958"
+ }
+}

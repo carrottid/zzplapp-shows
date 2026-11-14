@@ -35,5 +35,27 @@
  ],
  "updated": "2025-05-12 17:38:32",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#303333",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "범순",
+   "name": "이주영"
+  },
+  {
+   "role": "은호",
+   "name": "장호인"
+  },
+  {
+   "role": "연출",
+   "name": "마두영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220628123316/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171961"
+ }
 }

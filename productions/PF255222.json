@@ -47,5 +47,95 @@
  ],
  "updated": "2024-12-06 12:06:51",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0D0F15",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윌리 로먼",
+   "name": "박근형"
+  },
+  {
+   "role": "윌리 로먼",
+   "name": "손병호"
+  },
+  {
+   "role": "린다 로먼",
+   "name": "손숙"
+  },
+  {
+   "role": "린다 로먼",
+   "name": "예수정"
+  },
+  {
+   "role": "비프 로먼",
+   "name": "이상윤"
+  },
+  {
+   "role": "비프 로먼",
+   "name": "박은석"
+  },
+  {
+   "role": "해피 로먼",
+   "name": "김보현"
+  },
+  {
+   "role": "해피 로먼",
+   "name": "고상호"
+  },
+  {
+   "role": "찰리",
+   "name": "신현종"
+  },
+  {
+   "role": "찰리",
+   "name": "이남희"
+  },
+  {
+   "role": "벤 로먼",
+   "name": "박윤희"
+  },
+  {
+   "role": "벤 로먼",
+   "name": "박민관"
+  },
+  {
+   "role": "",
+   "name": "구준모"
+  },
+  {
+   "role": "",
+   "name": "도지한"
+  },
+  {
+   "role": "",
+   "name": "김유진"
+  },
+  {
+   "role": "",
+   "name": "고은민"
+  },
+  {
+   "role": "",
+   "name": "김태향"
+  },
+  {
+   "role": "",
+   "name": "박승재"
+  },
+  {
+   "role": "",
+   "name": "이예원"
+  },
+  {
+   "role": "",
+   "name": "김려은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250520041302/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211442"
+ }
 }

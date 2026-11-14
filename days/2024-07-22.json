@@ -7,7 +7,11 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1605",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF242455",
@@ -15,7 +19,11 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A1606",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF244050",
@@ -23,6 +31,26 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#0C1418",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF242516",
+   "title": "국립극단, 햄릿",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF243515",
+   "title": "My Dear Anger",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -31,7 +59,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A2B18",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF244127",
@@ -39,7 +71,11 @@
    "genre": "뮤지컬",
    "venue": "연남장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B45F32",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

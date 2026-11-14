@@ -39,5 +39,79 @@
  ],
  "updated": "2022-07-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0E0D12",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "맥베스",
+   "name": "이얀"
+  },
+  {
+   "role": "덩컨",
+   "name": "신덕호"
+  },
+  {
+   "role": "맥더프",
+   "name": "김류하"
+  },
+  {
+   "role": "맬컴",
+   "name": "조성환"
+  },
+  {
+   "role": "뱅코우",
+   "name": "강동주"
+  },
+  {
+   "role": "로스",
+   "name": "신세윤"
+  },
+  {
+   "role": "",
+   "name": "이세희"
+  },
+  {
+   "role": "",
+   "name": "천윤경"
+  },
+  {
+   "role": "",
+   "name": "안연주"
+  },
+  {
+   "role": "",
+   "name": "백진우"
+  },
+  {
+   "role": "",
+   "name": "김지은"
+  },
+  {
+   "role": "",
+   "name": "이문현"
+  },
+  {
+   "role": "",
+   "name": "김소미"
+  },
+  {
+   "role": "",
+   "name": "정호준"
+  },
+  {
+   "role": "",
+   "name": "김민진"
+  },
+  {
+   "role": "",
+   "name": "김동휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250807011045/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=177030"
+ }
 }

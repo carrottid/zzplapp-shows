@@ -1,0 +1,35 @@
+{
+ "id": "PF216859",
+ "title": "MAKE-베스",
+ "genre": "연극",
+ "from": "2023-05-03",
+ "to": "2023-05-07",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF216859_230417_113320.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김도형",
+  "채우일",
+  "홍유리"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 10분",
+ "age": "만 13세 이상",
+ "crew": "김선영, 한기은, 홍해현 등",
+ "price": "자유석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216859_230417_1133201.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF216859_230417_1133200.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23005312"
+  }
+ ],
+ "updated": "2023-04-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

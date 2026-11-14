@@ -52,5 +52,47 @@
  ],
  "updated": "2022-07-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#899929",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "교황 베네딕토 16세",
+   "name": "신구"
+  },
+  {
+   "role": "교황 베네딕토 16세",
+   "name": "서인석"
+  },
+  {
+   "role": "교황 베네딕토 16세",
+   "name": "서상원"
+  },
+  {
+   "role": "교황 프란치스코",
+   "name": "정동환"
+  },
+  {
+   "role": "교황 프란치스코",
+   "name": "남명렬"
+  },
+  {
+   "role": "브리지타 수녀",
+   "name": "정수영"
+  },
+  {
+   "role": "소피아 수녀",
+   "name": "정재은"
+  },
+  {
+   "role": "호르헤 마리오 베르고글리오",
+   "name": "조휘"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250803125657/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176662"
+ }
 }

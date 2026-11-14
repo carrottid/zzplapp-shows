@@ -7,15 +7,11 @@
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "14:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF225531",
-   "title": "레미제라블",
-   "genre": "뮤지컬",
-   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
-   "time": "14:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5F1D0D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF232946",
@@ -23,7 +19,11 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "16:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#955050",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF235234",
@@ -31,7 +31,11 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "17:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E60000",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234256",
@@ -39,7 +43,11 @@
    "genre": "뮤지컬",
    "venue": "광림아트센터 (BBCH홀)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#7C5195",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF230511",
@@ -47,7 +55,11 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종대극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A1A14",
+    "fg": "#F2A33A"
+   }
   },
   {
    "id": "PF231831",
@@ -55,7 +67,11 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종S씨어터)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3532",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF225531",
@@ -63,7 +79,40 @@
    "genre": "뮤지컬",
    "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "민우혁"
+    },
+    {
+     "name": "카이"
+    },
+    {
+     "name": "조정은"
+    },
+    {
+     "name": "육현욱"
+    },
+    {
+     "name": "김영주"
+    },
+    {
+     "name": "김성식"
+    },
+    {
+     "name": "루미나"
+    },
+    {
+     "name": "김경록"
+    },
+    {
+     "name": "이상아"
+    }
+   ],
+   "color": {
+    "bg": "#19548C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF233790",
@@ -71,7 +120,11 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F3A6B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF228061",
@@ -79,7 +132,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#642227",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF226005",
@@ -87,7 +144,11 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0A89DB",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF232060",
@@ -95,7 +156,16 @@
    "genre": "연극",
    "venue": "국립정동극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "손상규"
+    }
+   ],
+   "color": {
+    "bg": "#192C44",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF230093",
@@ -103,7 +173,11 @@
    "genre": "뮤지컬",
    "venue": "예술의전당 [서울] (오페라극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#512C2E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234693",
@@ -111,7 +185,11 @@
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5F1D0D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234384",
@@ -119,7 +197,11 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#192327",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF232946",
@@ -127,7 +209,11 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#955050",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF232760",
@@ -135,7 +221,22 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박준휘"
+    },
+    {
+     "name": "이봄소리"
+    },
+    {
+     "name": "정상윤"
+    }
+   ],
+   "color": {
+    "bg": "#7F7067",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF235388",
@@ -143,7 +244,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0C0C0C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF235234",
@@ -151,7 +256,11 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E60000",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF230065",
@@ -159,7 +268,11 @@
    "genre": "뮤지컬",
    "venue": "동덕여대공연예술센터 (코튼홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#0B111B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF235212",
@@ -167,7 +280,22 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "전해주"
+    },
+    {
+     "name": "박새힘"
+    }
+   ],
+   "color": {
+    "bg": "#593323",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234203",
@@ -175,7 +303,11 @@
    "genre": "연극",
    "venue": "LG아트센터 서울 (U+ 스테이지)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#7A6548",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234207",
@@ -183,7 +315,11 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#7A726B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF232863",
@@ -191,7 +327,11 @@
    "genre": "뮤지컬",
    "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9420D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF233951",
@@ -199,7 +339,22 @@
    "genre": "연극",
    "venue": "링크아트센터 (벅스홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "이필모"
+    },
+    {
+     "name": "김지철"
+    }
+   ],
+   "color": {
+    "bg": "#1A2C5E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234505",
@@ -207,13 +362,43 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이승헌"
+    },
+    {
+     "name": "양지원"
+    },
+    {
+     "name": "송효원"
+    },
+    {
+     "name": "정경훈"
+    }
+   ],
+   "color": {
+    "bg": "#E6BC00",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF234201",
    "title": "이솝이야기",
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#0726B7",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF235639",
+   "title": "하늘을 걷는 선인장",
+   "genre": "연극",
+   "venue": "삼일로창고극장",
    "time": "20:00",
    "castSource": "none"
   },
@@ -223,7 +408,11 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2E2A26",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF228192",
@@ -231,7 +420,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
    "time": "20:50",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#CC451A",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

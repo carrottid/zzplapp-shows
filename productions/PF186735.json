@@ -1,0 +1,53 @@
+{
+ "id": "PF186735",
+ "title": "미스 줄리",
+ "genre": "연극",
+ "from": "2022-03-03",
+ "to": "2022-03-13",
+ "venue": "소극장 혜화당 (구. 까망소극장) (소극장 혜화당 (구. 까망소극장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186735_220214_115947.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "리다해",
+  "고훈목",
+  "임영란"
+ ],
+ "facilityId": "FC001085",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "crew": "리다해, 이건우, 이소라 등",
+ "producer": "마인드커리지그룹 줄리스 리빙룸",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186735_220214_1159470.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001343"
+  }
+ ],
+ "updated": "2022-02-14 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "줄리",
+   "name": "리다해"
+  },
+  {
+   "role": "장",
+   "name": "고훈목"
+  },
+  {
+   "role": "크리스틴",
+   "name": "임영란"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241214202149/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172250"
+ }
+}

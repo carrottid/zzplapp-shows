@@ -47,5 +47,47 @@
  ],
  "updated": "2024-05-13 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#D21422",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "올리버",
+   "name": "정욱진"
+  },
+  {
+   "role": "올리버",
+   "name": "윤은오"
+  },
+  {
+   "role": "올리버",
+   "name": "신재범"
+  },
+  {
+   "role": "클레어",
+   "name": "홍지희"
+  },
+  {
+   "role": "클레어",
+   "name": "박진주"
+  },
+  {
+   "role": "클레어",
+   "name": "장민제"
+  },
+  {
+   "role": "제임스",
+   "name": "이시안"
+  },
+  {
+   "role": "제임스",
+   "name": "최호중"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260114080058/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202796"
+ }
 }

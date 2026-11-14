@@ -62,5 +62,39 @@
  ],
  "updated": "2025-09-26 13:58:59",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#6B6257",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에스터",
+   "name": "박근형"
+  },
+  {
+   "role": "에스터",
+   "name": "김병철"
+  },
+  {
+   "role": "밸",
+   "name": "이상윤"
+  },
+  {
+   "role": "밸",
+   "name": "민호"
+  },
+  {
+   "role": "로라",
+   "name": "김가영"
+  },
+  {
+   "role": "로라",
+   "name": "신혜옥"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010160900/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=220024"
+ }
 }

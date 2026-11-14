@@ -15,7 +15,7 @@
   "김지철",
   "황순종",
   "김수연",
-  "홍서영"
+  "홍금비"
  ],
  "facilityId": "FC000833",
  "runtime": "2시간 40분",
@@ -71,7 +71,7 @@
   },
   {
    "role": "에밀리 브론테",
-   "name": "홍서영"
+   "name": "홍금비"
   },
   {
    "role": "앤 브론테",
@@ -85,5 +85,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3077"
+ },
+ "color": {
+  "bg": "#A3435C",
+  "fg": "#FFFFFF"
  }
 }

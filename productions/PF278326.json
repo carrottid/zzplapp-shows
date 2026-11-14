@@ -55,5 +55,95 @@
  ],
  "updated": "2026-02-24 10:39:38",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "까를로스",
+   "name": "박정원"
+  },
+  {
+   "role": "까를로스",
+   "name": "이진혁"
+  },
+  {
+   "role": "까를로스",
+   "name": "이석준"
+  },
+  {
+   "role": "후아나",
+   "name": "전해주"
+  },
+  {
+   "role": "후아나",
+   "name": "주다온"
+  },
+  {
+   "role": "후아나",
+   "name": "선유하"
+  },
+  {
+   "role": "이그나시오",
+   "name": "최석진"
+  },
+  {
+   "role": "이그나시오",
+   "name": "홍승안"
+  },
+  {
+   "role": "이그나시오",
+   "name": "홍기범"
+  },
+  {
+   "role": "도냐 페피따",
+   "name": "안유진"
+  },
+  {
+   "role": "도냐 페피따",
+   "name": "문혜원"
+  },
+  {
+   "role": "미겔린",
+   "name": "박영빈"
+  },
+  {
+   "role": "미겔린",
+   "name": "조은성"
+  },
+  {
+   "role": "미겔린",
+   "name": "곽민수"
+  },
+  {
+   "role": "엘리사",
+   "name": "김도원"
+  },
+  {
+   "role": "엘리사",
+   "name": "조영화"
+  },
+  {
+   "role": "",
+   "name": "윤수아"
+  },
+  {
+   "role": "",
+   "name": "이채연"
+  },
+  {
+   "role": "",
+   "name": "김하연"
+  },
+  {
+   "role": "",
+   "name": "이소연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260114203235/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=224042"
+ }
 }

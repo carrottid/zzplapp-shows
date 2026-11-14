@@ -47,5 +47,95 @@
  ],
  "updated": "2025-02-20 11:51:56",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2F8DB6",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "한영범",
+   "name": "이동하"
+  },
+  {
+   "role": "한영범",
+   "name": "강기둥"
+  },
+  {
+   "role": "한영범",
+   "name": "김지철"
+  },
+  {
+   "role": "류순호",
+   "name": "신우"
+  },
+  {
+   "role": "류순호",
+   "name": "박준휘"
+  },
+  {
+   "role": "류순호",
+   "name": "류동휘"
+  },
+  {
+   "role": "류순호",
+   "name": "류찬열"
+  },
+  {
+   "role": "이창섭",
+   "name": "차용학"
+  },
+  {
+   "role": "이창섭",
+   "name": "안재영"
+  },
+  {
+   "role": "이창섭",
+   "name": "안창용"
+  },
+  {
+   "role": "신석구",
+   "name": "김찬종"
+  },
+  {
+   "role": "신석구",
+   "name": "장두환"
+  },
+  {
+   "role": "신석구",
+   "name": "조용휘"
+  },
+  {
+   "role": "조동현",
+   "name": "장민수"
+  },
+  {
+   "role": "조동현",
+   "name": "김방언"
+  },
+  {
+   "role": "조동현",
+   "name": "정세윤"
+  },
+  {
+   "role": "변주화",
+   "name": "문성일"
+  },
+  {
+   "role": "변주화",
+   "name": "최민우"
+  },
+  {
+   "role": "변주화",
+   "name": "김도하"
+  },
+  {
+   "role": "",
+   "name": "한보라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250719093144/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209197"
+ }
 }

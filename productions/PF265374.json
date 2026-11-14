@@ -1,0 +1,35 @@
+{
+ "id": "PF265374",
+ "title": "하붑",
+ "genre": "연극",
+ "from": "2025-06-12",
+ "to": "2025-06-22",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF265374_250520_143031.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김승환",
+  "임태현",
+  "정호원"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "박한별, 임예지, 배준서 등",
+ "producer": "극단 문지방",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF265374_250520_0230310.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25006945"
+  }
+ ],
+ "updated": "2025-05-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

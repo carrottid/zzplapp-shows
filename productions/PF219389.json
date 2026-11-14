@@ -1,0 +1,77 @@
+{
+ "id": "PF219389",
+ "title": "OO의 이야기",
+ "genre": "연극",
+ "from": "2023-06-21",
+ "to": "2023-06-25",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219389_230531_154537.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김강희",
+  "허영손",
+  "김학준",
+  "손승범",
+  "임소희",
+  "이여진",
+  "김기태"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 10분",
+ "age": "만 14세 이상",
+ "crew": "박상준, 장은실, 곽태준 등",
+ "producer": "디오티(DOT)",
+ "price": "전석 35,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219389_230531_0345370.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/918707"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23007300"
+  }
+ ],
+ "updated": "2023-06-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "다원",
+   "name": "김강희"
+  },
+  {
+   "role": "다원",
+   "name": "허영손"
+  },
+  {
+   "role": "병철",
+   "name": "김학준"
+  },
+  {
+   "role": "병철",
+   "name": "손승범"
+  },
+  {
+   "role": "수민",
+   "name": "임소희"
+  },
+  {
+   "role": "은하",
+   "name": "이여진"
+  },
+  {
+   "role": "상우",
+   "name": "김기태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250621052007/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188793"
+ }
+}

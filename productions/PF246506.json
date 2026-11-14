@@ -41,5 +41,39 @@
  ],
  "updated": "2024-10-04 18:51:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#786E6E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "프란시스코",
+   "name": "김순택"
+  },
+  {
+   "role": "프란시스코",
+   "name": "이승헌"
+  },
+  {
+   "role": "프란시스코",
+   "name": "이이림"
+  },
+  {
+   "role": "버나르도",
+   "name": "권오성"
+  },
+  {
+   "role": "버나르도",
+   "name": "김현중"
+  },
+  {
+   "role": "버나르도",
+   "name": "오희중"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913173652/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206441"
+ }
 }

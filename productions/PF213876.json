@@ -52,5 +52,47 @@
  ],
  "updated": "2023-02-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#0A0B0E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "라흐마니노프",
+   "name": "박유덕"
+  },
+  {
+   "role": "라흐마니노프",
+   "name": "안재영"
+  },
+  {
+   "role": "라흐마니노프",
+   "name": "정욱진"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "유성재"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "정민"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "김경수"
+  },
+  {
+   "role": "니콜라이 달",
+   "name": "임병근"
+  },
+  {
+   "role": "",
+   "name": "정동화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251012114858/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185304"
+ }
 }

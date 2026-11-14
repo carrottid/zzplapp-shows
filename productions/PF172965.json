@@ -47,5 +47,63 @@
  ],
  "updated": "2021-03-30 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#D6A210",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "심덕출",
+   "name": "조형균"
+  },
+  {
+   "role": "심덕출",
+   "name": "최인형"
+  },
+  {
+   "role": "이채록",
+   "name": "강상준"
+  },
+  {
+   "role": "이채록",
+   "name": "강인수"
+  },
+  {
+   "role": "덕출 아내",
+   "name": "정유희"
+  },
+  {
+   "role": "심성산 (덕출 큰 아들)",
+   "name": "금승훈"
+  },
+  {
+   "role": "심성관 (덕출 작은 아들)",
+   "name": "이기완"
+  },
+  {
+   "role": "심혜진 (덕출 손녀)",
+   "name": "이혜수"
+  },
+  {
+   "role": "",
+   "name": "김백현"
+  },
+  {
+   "role": "",
+   "name": "김용한"
+  },
+  {
+   "role": "",
+   "name": "송문선"
+  },
+  {
+   "role": "",
+   "name": "이은솔"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250720163104/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164055"
+ }
 }

@@ -55,5 +55,63 @@
  "color": {
   "bg": "#4C9A3C",
   "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "키키",
+   "name": "송유택"
+  },
+  {
+   "role": "키키",
+   "name": "이호원"
+  },
+  {
+   "role": "키키",
+   "name": "최태이"
+  },
+  {
+   "role": "호스트1",
+   "name": "한유란"
+  },
+  {
+   "role": "호스트1",
+   "name": "문지수"
+  },
+  {
+   "role": "호스트2",
+   "name": "황인욱"
+  },
+  {
+   "role": "호스트2",
+   "name": "이주찬"
+  },
+  {
+   "role": "호스트3",
+   "name": "김나연"
+  },
+  {
+   "role": "호스트3",
+   "name": "김새하"
+  },
+  {
+   "role": "호스트4",
+   "name": "김성현"
+  },
+  {
+   "role": "호스트4",
+   "name": "이창하"
+  },
+  {
+   "role": "호스트5",
+   "name": "주예리"
+  },
+  {
+   "role": "호스트5",
+   "name": "윤지우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260714193151/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=231753"
  }
 }

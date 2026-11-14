@@ -29,5 +29,31 @@
  ],
  "updated": "2023-01-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#603A85",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "상관",
+   "name": "김용준"
+  },
+  {
+   "role": "상관",
+   "name": "이도엽"
+  },
+  {
+   "role": "신병",
+   "name": "손석구"
+  },
+  {
+   "role": "여자",
+   "name": "최희서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240527211422/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=190357"
+ }
 }

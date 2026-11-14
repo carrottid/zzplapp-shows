@@ -1,0 +1,71 @@
+{
+ "id": "PF190108",
+ "title": "클럽 베를린",
+ "genre": "연극",
+ "from": "2022-05-26",
+ "to": "2022-06-19",
+ "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190108_220427_092602.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박동욱",
+  "전석호",
+  "임승범",
+  "김현식",
+  "김영욱"
+ ],
+ "facilityId": "FC000098",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "장산, 한원균, 정한나, 등",
+ "producer": "플레이위드",
+ "price": "R석 40,000원, S석 30,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190108_220427_0926020.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/710845"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22004999"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000007771"
+  }
+ ],
+ "updated": "2022-04-27 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "동욱",
+   "name": "박동욱"
+  },
+  {
+   "role": "석호/영욱",
+   "name": "전석호"
+  },
+  {
+   "role": "석호/영욱",
+   "name": "김영욱"
+  },
+  {
+   "role": "한스",
+   "name": "임승범"
+  },
+  {
+   "role": "현식",
+   "name": "김현식"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231205082408/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174183"
+ }
+}

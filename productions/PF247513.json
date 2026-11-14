@@ -47,5 +47,47 @@
  ],
  "updated": "2024-09-20 10:54:23",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#F2A33A"
+ },
+ "roleCast": [
+  {
+   "role": "바라바스",
+   "name": "곽지숙"
+  },
+  {
+   "role": "필리아보르자",
+   "name": "백은경"
+  },
+  {
+   "role": "페르네즈",
+   "name": "권일"
+  },
+  {
+   "role": "돈 로드윅",
+   "name": "이승현"
+  },
+  {
+   "role": "벨라미라",
+   "name": "임윤진"
+  },
+  {
+   "role": "돈 마티아스",
+   "name": "안병찬"
+  },
+  {
+   "role": "",
+   "name": "심연화"
+  },
+  {
+   "role": "",
+   "name": "성근창"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622122031/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207042"
+ }
 }

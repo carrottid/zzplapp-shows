@@ -55,5 +55,67 @@
  ],
  "updated": "2026-03-03 16:50:14",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "비틀쥬스",
+   "name": "정성화"
+  },
+  {
+   "role": "비틀쥬스",
+   "name": "정원영"
+  },
+  {
+   "role": "비틀쥬스",
+   "name": "김준수"
+  },
+  {
+   "role": "리디아",
+   "name": "홍나현"
+  },
+  {
+   "role": "리디아",
+   "name": "장민제"
+  },
+  {
+   "role": "바바라",
+   "name": "박혜미"
+  },
+  {
+   "role": "바바라",
+   "name": "나하나"
+  },
+  {
+   "role": "아담",
+   "name": "이율"
+  },
+  {
+   "role": "아담",
+   "name": "정욱진"
+  },
+  {
+   "role": "찰스",
+   "name": "김용수"
+  },
+  {
+   "role": "찰스",
+   "name": "김대령"
+  },
+  {
+   "role": "델리아",
+   "name": "전수미"
+  },
+  {
+   "role": "델리아",
+   "name": "윤공주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260421141249/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=222879"
+ }
 }

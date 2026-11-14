@@ -48,5 +48,31 @@
  ],
  "updated": "2025-02-26 11:30:16",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "대니",
+   "name": "이종혁"
+  },
+  {
+   "role": "대니",
+   "name": "윤현민"
+  },
+  {
+   "role": "로라",
+   "name": "유선"
+  },
+  {
+   "role": "로라",
+   "name": "김윤지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260412191742/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=213546"
+ }
 }

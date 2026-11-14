@@ -46,5 +46,91 @@
  ],
  "updated": "2024-03-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#B5451B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "신작로",
+   "name": "김원해"
+  },
+  {
+   "role": "신작로",
+   "name": "최재섭"
+  },
+  {
+   "role": "신작로",
+   "name": "허동원"
+  },
+  {
+   "role": "신작로",
+   "name": "이원장"
+  },
+  {
+   "role": "오미란",
+   "name": "김화영"
+  },
+  {
+   "role": "오미란",
+   "name": "문수아"
+  },
+  {
+   "role": "오미란",
+   "name": "채승혜"
+  },
+  {
+   "role": "백만식",
+   "name": "박승일"
+  },
+  {
+   "role": "백만식",
+   "name": "최현규"
+  },
+  {
+   "role": "신지나",
+   "name": "이랑"
+  },
+  {
+   "role": "신지나",
+   "name": "이진경"
+  },
+  {
+   "role": "일병",
+   "name": "김경환"
+  },
+  {
+   "role": "일병, 이병 외",
+   "name": "이정근"
+  },
+  {
+   "role": "",
+   "name": "황준우"
+  },
+  {
+   "role": "",
+   "name": "여동훈"
+  },
+  {
+   "role": "",
+   "name": "이세영"
+  },
+  {
+   "role": "",
+   "name": "박배리"
+  },
+  {
+   "role": "",
+   "name": "한승탁"
+  },
+  {
+   "role": "",
+   "name": "강혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260517083434/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201008"
+ }
 }

@@ -62,5 +62,83 @@
  ],
  "updated": "2021-02-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#8F4A1E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "테비예",
+   "name": "박성훈"
+  },
+  {
+   "role": "테비예",
+   "name": "양준모"
+  },
+  {
+   "role": "골데",
+   "name": "권명현"
+  },
+  {
+   "role": "골데",
+   "name": "유미"
+  },
+  {
+   "role": "피들러",
+   "name": "KoN"
+  },
+  {
+   "role": "자이틀",
+   "name": "이혜란"
+  },
+  {
+   "role": "호들",
+   "name": "정은영"
+  },
+  {
+   "role": "하바",
+   "name": "서유진"
+  },
+  {
+   "role": "",
+   "name": "김범준"
+  },
+  {
+   "role": "",
+   "name": "허도영"
+  },
+  {
+   "role": "",
+   "name": "한일경"
+  },
+  {
+   "role": "",
+   "name": "한소희"
+  },
+  {
+   "role": "",
+   "name": "김광표"
+  },
+  {
+   "role": "",
+   "name": "양창규"
+  },
+  {
+   "role": "",
+   "name": "이호연"
+  },
+  {
+   "role": "",
+   "name": "김성재"
+  },
+  {
+   "role": "",
+   "name": "김건영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251110141131/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163362"
+ }
 }

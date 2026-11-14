@@ -1,0 +1,43 @@
+{
+ "id": "PF266835",
+ "title": "하모니",
+ "genre": "뮤지컬",
+ "from": "2025-07-03",
+ "to": "2025-07-27",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF266835_250610_102034.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김규리",
+  "박채윤",
+  "이미경",
+  "표혜미",
+  "최혜지",
+  "최승별",
+  "선도아"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 35분",
+ "age": "만 9세 이상",
+ "crew": "최무열, 김선율, 남승주 등",
+ "producer": "(주)하모니컴퍼니, 컴퍼니 연결",
+ "price": "전석 55,000원",
+ "schedule": "수요일 ~ 목요일(20:00), 금요일(16:00,20:00), 토요일(15:00,19:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF266835_250610_1020340.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25008055"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD27969"
+  }
+ ],
+ "updated": "2025-07-17 12:34:22",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

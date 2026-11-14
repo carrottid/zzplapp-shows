@@ -1,0 +1,56 @@
+{
+ "id": "PF190272",
+ "title": "일분위 고독인",
+ "genre": "연극",
+ "from": "2022-05-11",
+ "to": "2022-05-15",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF190272_220429_110138.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "안나래",
+  "이정후",
+  "편다솜",
+  "박현",
+  "정솔아",
+  "정영재"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 35분",
+ "age": "만 12세 이상",
+ "crew": "연지아, 노유정, 이승희 등",
+ "producer": "창작집단 혜윰",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF190272_220429_1101380.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22005027"
+  }
+ ],
+ "updated": "2022-04-29 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "유나",
+   "name": "안나래"
+  },
+  {
+   "role": "채희/의주",
+   "name": "정솔아"
+  },
+  {
+   "role": "시동/민국",
+   "name": "정영재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230313054611/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174202"
+ }
+}

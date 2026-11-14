@@ -14,12 +14,24 @@
    }
   },
   {
+   "id": "PF295671",
+   "title": "김사장 살리기",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF292602",
    "title": "입국심사",
    "genre": "연극",
    "venue": "서강대 메리홀 (대극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B4C9B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292095",
@@ -27,7 +39,11 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4E5B3C",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

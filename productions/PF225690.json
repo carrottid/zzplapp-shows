@@ -35,5 +35,67 @@
  ],
  "updated": "2023-09-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#CA1C38",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이삭",
+   "name": "이승우"
+  },
+  {
+   "role": "이삭",
+   "name": "이상진"
+  },
+  {
+   "role": "이삭",
+   "name": "안태준"
+  },
+  {
+   "role": "요한",
+   "name": "김태성"
+  },
+  {
+   "role": "요한",
+   "name": "정수현"
+  },
+  {
+   "role": "제인",
+   "name": "김정훈"
+  },
+  {
+   "role": "제인",
+   "name": "이채원"
+  },
+  {
+   "role": "형사",
+   "name": "손민준"
+  },
+  {
+   "role": "형사",
+   "name": "문수영"
+  },
+  {
+   "role": "테오",
+   "name": "안진효"
+  },
+  {
+   "role": "테오",
+   "name": "조태영"
+  },
+  {
+   "role": "상담사",
+   "name": "채승병"
+  },
+  {
+   "role": "상담사",
+   "name": "전우용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240919020315/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193253"
+ }
 }

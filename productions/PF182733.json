@@ -43,5 +43,39 @@
  ],
  "updated": "2021-11-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3EA5A2",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "민준",
+   "name": "김도빈"
+  },
+  {
+   "role": "민준",
+   "name": "김찬호"
+  },
+  {
+   "role": "민준",
+   "name": "김호진"
+  },
+  {
+   "role": "윤하",
+   "name": "한수림"
+  },
+  {
+   "role": "정우",
+   "name": "유태웅"
+  },
+  {
+   "role": "정우",
+   "name": "오용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250214054757/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169882"
+ }
 }

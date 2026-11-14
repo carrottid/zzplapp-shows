@@ -1,0 +1,81 @@
+{
+ "id": "PF173364",
+ "title": "그을린 사랑",
+ "genre": "연극",
+ "from": "2021-05-25",
+ "to": "2021-05-30",
+ "venue": "구. LG아트센터 (구. LG아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF173364_210423_095502.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "남명렬",
+  "이주영",
+  "이원석",
+  "황은후",
+  "이진경",
+  "하준호",
+  "백석광"
+ ],
+ "facilityId": "FC000002",
+ "runtime": "3시간 45분",
+ "age": "만 13세 이상",
+ "crew": "신유청, 최준호",
+ "producer": "마크923(MARK923)",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "화요일 ~ 금요일(19:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF173364_210830_0833311.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "http://www.lgart.com/UIPage/Perform/Calender_view.aspx?seq=252597"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21002050"
+  }
+ ],
+ "updated": "2021-04-13 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "에르밀 르벨, 말락",
+   "name": "남명렬"
+  },
+  {
+   "role": "나왈 마르완",
+   "name": "이주영"
+  },
+  {
+   "role": "시몽, 와합",
+   "name": "이원석"
+  },
+  {
+   "role": "잔느",
+   "name": "황은후"
+  },
+  {
+   "role": "지안, 나지라, 사우다",
+   "name": "이진경"
+  },
+  {
+   "role": "랄프, 앙뚜안, 압데사마드, 민병, 가이드, 사진작가, 샴세딘",
+   "name": "우범진"
+  },
+  {
+   "role": "",
+   "name": "하준호"
+  },
+  {
+   "role": "",
+   "name": "백석광"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260615042107/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164021"
+ }
+}

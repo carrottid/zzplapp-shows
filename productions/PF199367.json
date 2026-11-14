@@ -1,0 +1,63 @@
+{
+ "id": "PF199367",
+ "title": "찬란하고 찬란한",
+ "genre": "연극",
+ "from": "2022-11-11",
+ "to": "2022-11-20",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF199367_221005_092918.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이이림",
+  "조원석",
+  "양지원",
+  "강정우",
+  "이시형"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "이이림, 표상아, 박예슬 등",
+ "producer": "프로젝트 팀 창작과 배우",
+ "price": "전석 40,000원",
+ "schedule": "화요일 ~ 목요일(20:00), 금요일(16:00,20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF199367_221005_0929180.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22013218"
+  }
+ ],
+ "updated": "2022-10-05 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "하루키",
+   "name": "이이림"
+  },
+  {
+   "role": "하루키",
+   "name": "조원석"
+  },
+  {
+   "role": "쇼 타",
+   "name": "강정우"
+  },
+  {
+   "role": "쇼 타",
+   "name": "양지원"
+  },
+  {
+   "role": "카즈마",
+   "name": "이시형"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251012111148/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=179588"
+ }
+}

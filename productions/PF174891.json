@@ -64,5 +64,91 @@
  ],
  "updated": "2021-05-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#131311",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "팬텀",
+   "name": "박은태"
+  },
+  {
+   "role": "팬텀",
+   "name": "카이"
+  },
+  {
+   "role": "팬텀",
+   "name": "규현"
+  },
+  {
+   "role": "크리스틴 다에",
+   "name": "김소현"
+  },
+  {
+   "role": "크리스틴 다에",
+   "name": "임선혜"
+  },
+  {
+   "role": "크리스틴 다에",
+   "name": "이지혜"
+  },
+  {
+   "role": "크리스틴 다에",
+   "name": "김 수"
+  },
+  {
+   "role": "제라드 카리에르",
+   "name": "윤영석"
+  },
+  {
+   "role": "제라드 카리에르",
+   "name": "홍경수"
+  },
+  {
+   "role": "마담 카를로타",
+   "name": "주아"
+  },
+  {
+   "role": "마담 카를로타",
+   "name": "신영숙"
+  },
+  {
+   "role": "필립 드 샹동 백작",
+   "name": "최성원"
+  },
+  {
+   "role": "필립 드 샹동 백작",
+   "name": "에녹"
+  },
+  {
+   "role": "무슈 솔레",
+   "name": "임기홍"
+  },
+  {
+   "role": "무슈 솔레",
+   "name": "정철호"
+  },
+  {
+   "role": "",
+   "name": "김주원"
+  },
+  {
+   "role": "",
+   "name": "황혜민"
+  },
+  {
+   "role": "",
+   "name": "김현웅"
+  },
+  {
+   "role": "",
+   "name": "조성태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250315142846/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165348"
+ }
 }

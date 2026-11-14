@@ -1,0 +1,81 @@
+{
+ "id": "PF246830",
+ "title": "굿 닥터 (The Good Doctor)",
+ "genre": "연극",
+ "from": "2024-09-06",
+ "to": "2024-09-08",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF246830_240812_142223.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고찬유",
+  "김범조",
+  "박세나",
+  "박형민",
+  "이강훈",
+  "이미미",
+  "임병화"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 40분",
+ "age": "만 15세 이상",
+ "crew": "박선혜, 박윤하, 강민경 등",
+ "producer": "극단 무아(Mwa)",
+ "price": "전석 30,000원",
+ "schedule": "금요일(19:30), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF246830_240812_0222230.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011502"
+  }
+ ],
+ "updated": "2024-08-12 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "작가",
+   "name": "고찬유"
+  },
+  {
+   "role": "이안 아내, 여자",
+   "name": "이미미"
+  },
+  {
+   "role": "조수, 남편",
+   "name": "임병화"
+  },
+  {
+   "role": "장관, 아버지",
+   "name": "최재혁"
+  },
+  {
+   "role": "피터, 매니저",
+   "name": "이강훈"
+  },
+  {
+   "role": "사제, 노인, 직원",
+   "name": "박형민"
+  },
+  {
+   "role": "",
+   "name": "김범조"
+  },
+  {
+   "role": "",
+   "name": "박세나"
+  },
+  {
+   "role": "",
+   "name": "조선영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250716200012/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206631"
+ }
+}

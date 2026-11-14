@@ -1,0 +1,40 @@
+{
+ "id": "PF183039",
+ "title": "두드림 페스티벌, 이상소견이 있습니다.",
+ "genre": "연극",
+ "from": "2021-12-09",
+ "to": "2021-12-11",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF183039_211115_124831.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강경완",
+  "유수인",
+  "한주연"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 15분",
+ "age": "만 15세 이상",
+ "crew": "박예슬, 유다미, 한재권 등",
+ "producer": "극단 드림플레이",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:00), 토요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183039_211115_1248321.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF183039_211115_1248310.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/602148"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21011336"
+  }
+ ],
+ "updated": "2021-11-15 17:20:10",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

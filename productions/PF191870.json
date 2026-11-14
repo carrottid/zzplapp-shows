@@ -12,9 +12,9 @@
   "이규형",
   "백형훈",
   "윤소호",
-  "김진욱",
+  "차윤해",
   "강혜인",
-  "허혜진",
+  "허윤슬",
   "박정표"
  ],
  "facilityId": "FC001356",
@@ -35,5 +35,59 @@
  ],
  "updated": "2022-05-30 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#4E4140",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김해진",
+   "name": "이규형"
+  },
+  {
+   "role": "김해진",
+   "name": "백형훈"
+  },
+  {
+   "role": "정세훈",
+   "name": "윤소호"
+  },
+  {
+   "role": "정세훈",
+   "name": "차윤해"
+  },
+  {
+   "role": "히카루",
+   "name": "강혜인"
+  },
+  {
+   "role": "히카루",
+   "name": "허윤슬"
+  },
+  {
+   "role": "이윤",
+   "name": "박정표"
+  },
+  {
+   "role": "이윤",
+   "name": "김지철"
+  },
+  {
+   "role": "이태준",
+   "name": "임별"
+  },
+  {
+   "role": "김수남",
+   "name": "김태인"
+  },
+  {
+   "role": "",
+   "name": "송상훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220630132539/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175108"
+ }
 }

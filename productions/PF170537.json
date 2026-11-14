@@ -39,5 +39,47 @@
  ],
  "updated": "2020-12-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#22272D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "나비스",
+   "name": "김종구"
+  },
+  {
+   "role": "타일러",
+   "name": "홍승안"
+  },
+  {
+   "role": "클라인",
+   "name": "윤석원"
+  },
+  {
+   "role": "",
+   "name": "류지한"
+  },
+  {
+   "role": "",
+   "name": "김도현"
+  },
+  {
+   "role": "",
+   "name": "신은총"
+  },
+  {
+   "role": "",
+   "name": "이진우"
+  },
+  {
+   "role": "",
+   "name": "이지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240414145542/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=161812"
+ }
 }

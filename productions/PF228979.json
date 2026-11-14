@@ -1,0 +1,42 @@
+{
+ "id": "PF228979",
+ "title": "이방인의 뜰",
+ "genre": "연극",
+ "from": "2023-12-07",
+ "to": "2023-12-10",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF228979_231031_113401.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최유리",
+  "김재일"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간",
+ "age": "만 16세 이상",
+ "crew": "나옥희, 이근희, 배선애 등",
+ "producer": "극단 58번국도, 나온씨어터",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF228979_231031_1134010.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1005933"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015546"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47522"
+  }
+ ],
+ "updated": "2023-10-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

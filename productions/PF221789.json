@@ -1,0 +1,57 @@
+{
+ "id": "PF221789",
+ "title": "모든 것은 그 자리에",
+ "genre": "연극",
+ "from": "2023-07-27",
+ "to": "2023-07-30",
+ "venue": "삼일로창고극장 (삼일로창고극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF221789_230710_153748.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김지훈",
+  "노기용",
+  "조수연",
+  "정지인"
+ ],
+ "facilityId": "FC000248",
+ "runtime": "1시간 15분",
+ "age": "만 14세 이상",
+ "crew": "유지수, 최정운, 정승준 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221789_230710_0337490.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23009306"
+  }
+ ],
+ "updated": "2023-07-10 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "민용&K",
+   "name": "노기용"
+  },
+  {
+   "role": "수진&K",
+   "name": "정지인"
+  },
+  {
+   "role": "준호&K",
+   "name": "김지훈"
+  },
+  {
+   "role": "유정&K",
+   "name": "조수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240806084726/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=190450"
+ }
+}

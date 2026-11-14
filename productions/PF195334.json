@@ -50,5 +50,39 @@
  ],
  "updated": "2022-07-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4E5F7E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "A1",
+   "name": "이정화"
+  },
+  {
+   "role": "A1",
+   "name": "이경미"
+  },
+  {
+   "role": "A1",
+   "name": "정우연"
+  },
+  {
+   "role": "A2",
+   "name": "홍우진"
+  },
+  {
+   "role": "A2",
+   "name": "이형훈"
+  },
+  {
+   "role": "A2",
+   "name": "현석준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814112805/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=176939"
+ }
 }

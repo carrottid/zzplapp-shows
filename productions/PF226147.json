@@ -44,5 +44,95 @@
  ],
  "updated": "2023-09-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2A3588",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이순신",
+   "name": "형남희"
+  },
+  {
+   "role": "선조",
+   "name": "최인형"
+  },
+  {
+   "role": "무인",
+   "name": "이자람"
+  },
+  {
+   "role": "무인",
+   "name": "윤제원"
+  },
+  {
+   "role": "면",
+   "name": "권성찬"
+  },
+  {
+   "role": "하연",
+   "name": "송문선"
+  },
+  {
+   "role": "변씨부인",
+   "name": "고미경"
+  },
+  {
+   "role": "",
+   "name": "금승훈"
+  },
+  {
+   "role": "",
+   "name": "김백현"
+  },
+  {
+   "role": "",
+   "name": "김용한"
+  },
+  {
+   "role": "",
+   "name": "유경아"
+  },
+  {
+   "role": "",
+   "name": "정지만"
+  },
+  {
+   "role": "",
+   "name": "박재은"
+  },
+  {
+   "role": "",
+   "name": "정유희"
+  },
+  {
+   "role": "",
+   "name": "김건혜"
+  },
+  {
+   "role": "",
+   "name": "이영규"
+  },
+  {
+   "role": "",
+   "name": "이홍모"
+  },
+  {
+   "role": "",
+   "name": "조근래"
+  },
+  {
+   "role": "",
+   "name": "최병규"
+  },
+  {
+   "role": "",
+   "name": "이종한"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011224203/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192992"
+ }
 }

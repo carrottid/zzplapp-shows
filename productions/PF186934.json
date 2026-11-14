@@ -1,0 +1,97 @@
+{
+ "id": "PF186934",
+ "title": "추석",
+ "genre": "연극",
+ "from": "2022-03-16",
+ "to": "2022-03-27",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF186934_220218_111748.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고인배",
+  "조영선",
+  "이영석",
+  "배상돈",
+  "김경숙",
+  "신현용",
+  "진현태"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 20분",
+ "age": "만 13세 이상",
+ "crew": "정범철, 김종칠, 유다미 등",
+ "producer": "아트 리버(Arts River)",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF186934_220218_1117480.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/655009"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22001521"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/41444"
+  }
+ ],
+ "updated": "2022-02-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "구장영감",
+   "name": "고인배"
+  },
+  {
+   "role": "갈추봉",
+   "name": "조영선"
+  },
+  {
+   "role": "복술이 부",
+   "name": "이영석"
+  },
+  {
+   "role": "복술이 부",
+   "name": "배상돈"
+  },
+  {
+   "role": "송씨",
+   "name": "김경숙"
+  },
+  {
+   "role": "갈천석",
+   "name": "신현용"
+  },
+  {
+   "role": "갈천석",
+   "name": "안용"
+  },
+  {
+   "role": "복술이",
+   "name": "장연우"
+  },
+  {
+   "role": "",
+   "name": "박상훈"
+  },
+  {
+   "role": "",
+   "name": "안진기"
+  },
+  {
+   "role": "",
+   "name": "진현태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240722054411/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172329"
+ }
+}

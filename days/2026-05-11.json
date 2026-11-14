@@ -2,11 +2,31 @@
  "date": "2026-05-11",
  "sessions": [
   {
+   "id": "PF290503",
+   "title": "네오 유니버스, 유난히 내성적이었던: 이종석 이진혁 콘서트",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "16:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF286730",
    "title": "국립극단, 그의 어머니 Mother of Him",
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF290503",
+   "title": "네오 유니버스, 유난히 내성적이었던: 이종석 이진혁 콘서트",
+   "genre": "뮤지컬",
+   "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
+   "time": "20:00",
    "castSource": "none"
   }
  ]

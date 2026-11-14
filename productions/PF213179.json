@@ -12,7 +12,8 @@
   "옥주현",
   "박진주",
   "민경아",
-  "송원근 신성민",
+  "송원근",
+  "신성민",
   "김성규",
   "박영수"
  ],
@@ -164,5 +165,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3134"
+ },
+ "color": {
+  "bg": "#3D422F",
+  "fg": "#FFFFFF"
  }
 }

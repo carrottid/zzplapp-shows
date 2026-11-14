@@ -59,5 +59,83 @@
  ],
  "updated": "2024-09-10 09:27:56",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0F0F0F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "치치",
+   "name": "박규원"
+  },
+  {
+   "role": "치치",
+   "name": "이진혁"
+  },
+  {
+   "role": "치치",
+   "name": "박상혁"
+  },
+  {
+   "role": "치치",
+   "name": "이승현"
+  },
+  {
+   "role": "",
+   "name": "김도빈"
+  },
+  {
+   "role": "",
+   "name": "김대현"
+  },
+  {
+   "role": "스티비",
+   "name": "성연"
+  },
+  {
+   "role": "스티비",
+   "name": "김찬종"
+  },
+  {
+   "role": "스티비",
+   "name": "박준형"
+  },
+  {
+   "role": "스티비",
+   "name": "박영수"
+  },
+  {
+   "role": "",
+   "name": "최호승"
+  },
+  {
+   "role": "",
+   "name": "안창용"
+  },
+  {
+   "role": "써니보이",
+   "name": "김지온"
+  },
+  {
+   "role": "써니보이",
+   "name": "정민"
+  },
+  {
+   "role": "써니보이",
+   "name": "조풍래"
+  },
+  {
+   "role": "써니보이",
+   "name": "김이담"
+  },
+  {
+   "role": "",
+   "name": "동현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251012114101/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202182"
+ }
 }

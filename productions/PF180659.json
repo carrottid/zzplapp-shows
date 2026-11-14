@@ -43,5 +43,59 @@
  ],
  "updated": "2021-10-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#08041B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "한스",
+   "name": "이경수"
+  },
+  {
+   "role": "한스",
+   "name": "김도빈"
+  },
+  {
+   "role": "헤르만",
+   "name": "임준혁"
+  },
+  {
+   "role": "헤르만",
+   "name": "최석진"
+  },
+  {
+   "role": "헤르만",
+   "name": "황휘"
+  },
+  {
+   "role": "안나",
+   "name": "이지수"
+  },
+  {
+   "role": "안나",
+   "name": "이수빈"
+  },
+  {
+   "role": "요나스",
+   "name": "신주협"
+  },
+  {
+   "role": "요나스",
+   "name": "이봉준"
+  },
+  {
+   "role": "메리",
+   "name": "임강희"
+  },
+  {
+   "role": "메리",
+   "name": "홍륜희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521103433/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168536"
+ }
 }

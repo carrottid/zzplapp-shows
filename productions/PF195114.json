@@ -47,5 +47,43 @@
  ],
  "updated": "2022-07-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#153467",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "루이지",
+   "name": "성노진"
+  },
+  {
+   "role": "마르타",
+   "name": "전은정"
+  },
+  {
+   "role": "마리아",
+   "name": "서율"
+  },
+  {
+   "role": "쟌니",
+   "name": "이건"
+  },
+  {
+   "role": "풀비오",
+   "name": "유시우"
+  },
+  {
+   "role": "파브리지오",
+   "name": "안용"
+  },
+  {
+   "role": "",
+   "name": "문지영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240528104045/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=177104"
+ }
 }

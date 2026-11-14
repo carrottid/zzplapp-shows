@@ -1,0 +1,37 @@
+{
+ "id": "PF218097",
+ "title": "역반",
+ "genre": "연극",
+ "from": "2023-06-16",
+ "to": "2023-06-18",
+ "venue": "KT&G 상상마당 대치아트홀 (KT&G 상상마당 대치아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF218097_230509_005546.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "윤종서",
+  "김준용",
+  "김루나",
+  "노소연",
+  "김용현",
+  "안지환",
+  "김대웅"
+ ],
+ "facilityId": "FC000052",
+ "runtime": "1시간 10분",
+ "age": "만 8세 이상",
+ "price": "전석 10,000원",
+ "schedule": "금요일(20:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF218097_230509_1255460.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23006300"
+  }
+ ],
+ "updated": "2023-05-09 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

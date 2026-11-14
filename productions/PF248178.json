@@ -47,5 +47,95 @@
  ],
  "updated": "2024-12-02 15:23:39",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#D7A93A",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "마이클",
+   "name": "오정택"
+  },
+  {
+   "role": "마이클",
+   "name": "안재영"
+  },
+  {
+   "role": "해롤드",
+   "name": "박은석"
+  },
+  {
+   "role": "해롤드",
+   "name": "진태화"
+  },
+  {
+   "role": "해롤드",
+   "name": "김바다"
+  },
+  {
+   "role": "해롤드",
+   "name": "최정우"
+  },
+  {
+   "role": "앨런",
+   "name": "정상윤"
+  },
+  {
+   "role": "앨런",
+   "name": "이예준"
+  },
+  {
+   "role": "도날드",
+   "name": "김준식"
+  },
+  {
+   "role": "도날드",
+   "name": "김기택"
+  },
+  {
+   "role": "도날드",
+   "name": "곽다인"
+  },
+  {
+   "role": "행크",
+   "name": "송상훈"
+  },
+  {
+   "role": "행크",
+   "name": "허영손"
+  },
+  {
+   "role": "래리",
+   "name": "강은빈"
+  },
+  {
+   "role": "래리",
+   "name": "김아론"
+  },
+  {
+   "role": "",
+   "name": "홍준기"
+  },
+  {
+   "role": "",
+   "name": "홍순기"
+  },
+  {
+   "role": "",
+   "name": "한민우"
+  },
+  {
+   "role": "",
+   "name": "박영빈"
+  },
+  {
+   "role": "",
+   "name": "김준호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260306172620/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207476"
+ }
 }

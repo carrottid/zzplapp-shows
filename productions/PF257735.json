@@ -35,5 +35,51 @@
  ],
  "updated": "2025-04-21 11:09:15",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "OLD MAN",
+   "name": "이석준"
+  },
+  {
+   "role": "OLD MAN",
+   "name": "정성일"
+  },
+  {
+   "role": "OLD MAN",
+   "name": "김주헌"
+  },
+  {
+   "role": "YOUNG MAN",
+   "name": "김도빈"
+  },
+  {
+   "role": "YOUNG MAN",
+   "name": "최호승"
+  },
+  {
+   "role": "YOUNG MAN",
+   "name": "최정우"
+  },
+  {
+   "role": "LADY",
+   "name": "임강희"
+  },
+  {
+   "role": "LADY",
+   "name": "정우연"
+  },
+  {
+   "role": "LADY",
+   "name": "김주연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250419020435/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212886"
+ }
 }

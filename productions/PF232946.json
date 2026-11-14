@@ -54,5 +54,39 @@
  ],
  "updated": "2023-12-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#955050",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "몰리나",
+   "name": "전박찬"
+  },
+  {
+   "role": "몰리나",
+   "name": "이율"
+  },
+  {
+   "role": "몰리나",
+   "name": "정일우"
+  },
+  {
+   "role": "발렌틴",
+   "name": "박정복"
+  },
+  {
+   "role": "발렌틴",
+   "name": "최석진"
+  },
+  {
+   "role": "발렌틴",
+   "name": "차선우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711055549/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=197432"
+ }
 }

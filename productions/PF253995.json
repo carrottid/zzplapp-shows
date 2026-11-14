@@ -48,5 +48,31 @@
  ],
  "updated": "2025-09-29 16:21:48",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#BF0005",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "옥주현"
+  },
+  {
+   "role": "햄릿",
+   "name": "신성록"
+  },
+  {
+   "role": "햄릿",
+   "name": "민우혁"
+  },
+  {
+   "role": "햄릿",
+   "name": "김려원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250520033422/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=215927"
+ }
 }

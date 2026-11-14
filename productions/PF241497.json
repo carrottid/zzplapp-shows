@@ -55,5 +55,79 @@
  ],
  "updated": "2024-10-02 09:55:27",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#771C1A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "몬티 나바로",
+   "name": "송원근"
+  },
+  {
+   "role": "몬티 나바로",
+   "name": "김범"
+  },
+  {
+   "role": "몬티 나바로",
+   "name": "손우현"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "정상훈"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "정문성"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "이규형"
+  },
+  {
+   "role": "다이스퀴스",
+   "name": "안세하"
+  },
+  {
+   "role": "시벨라 홀워드",
+   "name": "허윤슬"
+  },
+  {
+   "role": "시벨라 홀워드",
+   "name": "류인아"
+  },
+  {
+   "role": "피비 다이스퀴스",
+   "name": "김아선"
+  },
+  {
+   "role": "피비 다이스퀴스",
+   "name": "이지수"
+  },
+  {
+   "role": "미스 마리에타 슁글",
+   "name": "김예나"
+  },
+  {
+   "role": "레이디 유지니아 다이스퀴스 외",
+   "name": "장예원"
+  },
+  {
+   "role": "",
+   "name": "박혜민"
+  },
+  {
+   "role": "",
+   "name": "한규정"
+  },
+  {
+   "role": "",
+   "name": "맹원태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908023848/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203290"
+ }
 }

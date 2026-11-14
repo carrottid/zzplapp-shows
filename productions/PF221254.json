@@ -1,0 +1,73 @@
+{
+ "id": "PF221254",
+ "title": "하우스 키핑",
+ "genre": "연극",
+ "from": "2023-07-12",
+ "to": "2023-07-23",
+ "venue": "미마지아트센터 (눈빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF221254_230630_014619.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김은현",
+  "이성원",
+  "정소영",
+  "김효진",
+  "류지훈",
+  "이보라",
+  "오인환"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "신성우, 정민찬, 조화성 등",
+ "producer": "극단 돋을양지, 재믹스 C&B",
+ "price": "전석 40,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 금요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF221254_230630_0146190.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008550"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2432"
+  }
+ ],
+ "updated": "2023-06-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "윤희",
+   "name": "김은현"
+  },
+  {
+   "role": "경욱",
+   "name": "이성원"
+  },
+  {
+   "role": "윤정",
+   "name": "정소영"
+  },
+  {
+   "role": "미숙",
+   "name": "김효진"
+  },
+  {
+   "role": "성규",
+   "name": "류지훈"
+  },
+  {
+   "role": "지수",
+   "name": "이보라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103100034/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=189846"
+ }
+}

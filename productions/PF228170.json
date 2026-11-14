@@ -36,5 +36,31 @@
  ],
  "updated": "2023-10-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#223445",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "은하",
+   "name": "임은희"
+  },
+  {
+   "role": "우주",
+   "name": "박한솔"
+  },
+  {
+   "role": "다정",
+   "name": "이상희"
+  },
+  {
+   "role": "주원",
+   "name": "주붐"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240814002352/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=194889"
+ }
 }

@@ -38,5 +38,67 @@
  ],
  "updated": "2022-01-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E30304",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "장판교",
+   "name": "장용철"
+  },
+  {
+   "role": "이태림",
+   "name": "이유정"
+  },
+  {
+   "role": "장수영",
+   "name": "최보희"
+  },
+  {
+   "role": "장수동",
+   "name": "윤국로"
+  },
+  {
+   "role": "김현정",
+   "name": "이규빈"
+  },
+  {
+   "role": "황사철/태림가든 요정",
+   "name": "이경민"
+  },
+  {
+   "role": "",
+   "name": "이음"
+  },
+  {
+   "role": "",
+   "name": "백효성"
+  },
+  {
+   "role": "",
+   "name": "지근우"
+  },
+  {
+   "role": "",
+   "name": "신대철"
+  },
+  {
+   "role": "",
+   "name": "김애린"
+  },
+  {
+   "role": "",
+   "name": "조안나"
+  },
+  {
+   "role": "",
+   "name": "김요영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014233034/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171985"
+ }
 }

@@ -51,5 +51,67 @@
  ],
  "updated": "2026-01-21 13:46:26",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#F1E3DC",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "레오니",
+   "name": "박란주"
+  },
+  {
+   "role": "레오니",
+   "name": "홍지희"
+  },
+  {
+   "role": "레오니",
+   "name": "나하나"
+  },
+  {
+   "role": "레오니",
+   "name": "이지수"
+  },
+  {
+   "role": "프레데릭",
+   "name": "이창용"
+  },
+  {
+   "role": "프레데릭",
+   "name": "현석준"
+  },
+  {
+   "role": "프레데릭",
+   "name": "임정모"
+  },
+  {
+   "role": "프레데릭",
+   "name": "임진섭"
+  },
+  {
+   "role": "페르낭",
+   "name": "박근식"
+  },
+  {
+   "role": "페르낭",
+   "name": "장두환"
+  },
+  {
+   "role": "페르낭",
+   "name": "박주혁"
+  },
+  {
+   "role": "마담 래드",
+   "name": "김지민"
+  },
+  {
+   "role": "마담 래드",
+   "name": "정영아"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260714195501/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=218778"
+ }
 }

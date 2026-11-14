@@ -35,5 +35,43 @@
  ],
  "updated": "2024-02-22 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#68686A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "토미",
+   "name": "최호영"
+  },
+  {
+   "role": "애니",
+   "name": "조수연"
+  },
+  {
+   "role": "마커스",
+   "name": "유독현"
+  },
+  {
+   "role": "수",
+   "name": "김정아"
+  },
+  {
+   "role": "카린",
+   "name": "강현우"
+  },
+  {
+   "role": "시몬",
+   "name": "양지영"
+  },
+  {
+   "role": "",
+   "name": "김준광"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516200907/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199101"
+ }
 }

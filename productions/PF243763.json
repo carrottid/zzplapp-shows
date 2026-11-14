@@ -59,5 +59,47 @@
  ],
  "updated": "2024-08-26 12:13:08",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2F3B2A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에이미&메리 레녹스",
+   "name": "김청아"
+  },
+  {
+   "role": "에이미&메리 레녹스",
+   "name": "금조"
+  },
+  {
+   "role": "찰리＆콜린 크레이븐",
+   "name": "김서환"
+  },
+  {
+   "role": "찰리＆콜린 크레이븐",
+   "name": "정백선"
+  },
+  {
+   "role": "비글＆디콘 소어비",
+   "name": "박선영"
+  },
+  {
+   "role": "비글＆디콘 소어비",
+   "name": "김종형"
+  },
+  {
+   "role": "데보라＆마사 소어비",
+   "name": "김지혜"
+  },
+  {
+   "role": "데보라＆마사 소어비",
+   "name": "송영미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250726074020/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=204576"
+ }
 }

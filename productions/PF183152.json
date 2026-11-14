@@ -43,5 +43,47 @@
  ],
  "updated": "2021-11-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4E4B46",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "남편",
+   "name": "김형범"
+  },
+  {
+   "role": "남편",
+   "name": "박정철"
+  },
+  {
+   "role": "아내",
+   "name": "문보령"
+  },
+  {
+   "role": "아내",
+   "name": "혜미"
+  },
+  {
+   "role": "국회의원/납골묘직원",
+   "name": "류경환"
+  },
+  {
+   "role": "국회의원/납골묘직원",
+   "name": "신정만"
+  },
+  {
+   "role": "선배/의사",
+   "name": "장격수"
+  },
+  {
+   "role": "선배/의사",
+   "name": "김결"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220629194228/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169985"
+ }
 }

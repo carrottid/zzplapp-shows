@@ -31,5 +31,27 @@
  ],
  "updated": "2025-05-12 17:33:36",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#040000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "검은새",
+   "name": "권은혜"
+  },
+  {
+   "role": "가드너",
+   "name": "배선희"
+  },
+  {
+   "role": "데이터",
+   "name": "이리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011001341/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211815"
+ }
 }

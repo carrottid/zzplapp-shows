@@ -1,0 +1,41 @@
+{
+ "id": "PF219083",
+ "title": "제31회 젊은연극제, 산불",
+ "genre": "연극",
+ "from": "2023-06-24",
+ "to": "2023-06-25",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF219083_230525_113514.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김고은",
+  "장한이",
+  "진성원",
+  "오윤주",
+  "황다경",
+  "전채희",
+  "신정호"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 40분",
+ "age": "만 16세 이상",
+ "crew": "전예진, 신재현, 전예지 등",
+ "price": "전석무료",
+ "schedule": "토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219083_230525_1135143.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219083_230525_1135142.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219083_230525_1135141.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF219083_230525_1135140.png"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2328"
+  }
+ ],
+ "updated": "2023-05-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

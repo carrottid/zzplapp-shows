@@ -51,5 +51,51 @@
  ],
  "updated": "2026-01-21 13:30:33",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2B2F45",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에기",
+   "name": "이진우"
+  },
+  {
+   "role": "에기",
+   "name": "김서환"
+  },
+  {
+   "role": "에기",
+   "name": "조훈"
+  },
+  {
+   "role": "도리스",
+   "name": "유태율"
+  },
+  {
+   "role": "도리스",
+   "name": "황민수"
+  },
+  {
+   "role": "도리스",
+   "name": "현석준"
+  },
+  {
+   "role": "브랜든",
+   "name": "박좌헌"
+  },
+  {
+   "role": "브랜든",
+   "name": "심수호"
+  },
+  {
+   "role": "브랜든",
+   "name": "장두환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521013609/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=221910"
+ }
 }

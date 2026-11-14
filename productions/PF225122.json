@@ -67,5 +67,51 @@
  ],
  "updated": "2023-09-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#CD1818",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "고민중",
+   "name": "김준희"
+  },
+  {
+   "role": "고민중",
+   "name": "김규도"
+  },
+  {
+   "role": "고민중",
+   "name": "김상균"
+  },
+  {
+   "role": "앤디강",
+   "name": "문원주"
+  },
+  {
+   "role": "앤디강",
+   "name": "김동박"
+  },
+  {
+   "role": "앤디강",
+   "name": "서원호"
+  },
+  {
+   "role": "한재연/미수",
+   "name": "여우린"
+  },
+  {
+   "role": "한재연/미수",
+   "name": "김단율"
+  },
+  {
+   "role": "한재연/미수",
+   "name": "장혜민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250423184226/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192948"
+ }
 }

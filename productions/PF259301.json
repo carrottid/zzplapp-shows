@@ -40,5 +40,79 @@
  ],
  "updated": "2025-07-03 07:53:06",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#396DAC",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "황우연",
+   "name": "김인성"
+  },
+  {
+   "role": "황우연",
+   "name": "노윤"
+  },
+  {
+   "role": "황우연",
+   "name": "홍주찬"
+  },
+  {
+   "role": "환승희",
+   "name": "강혜인"
+  },
+  {
+   "role": "환승희",
+   "name": "이봄소리"
+  },
+  {
+   "role": "환승희",
+   "name": "유소리"
+  },
+  {
+   "role": "옥근남",
+   "name": "이종석"
+  },
+  {
+   "role": "옥근남",
+   "name": "박준형"
+  },
+  {
+   "role": "구공자",
+   "name": "조현우"
+  },
+  {
+   "role": "구공자",
+   "name": "남민우"
+  },
+  {
+   "role": "최수표",
+   "name": "최반석"
+  },
+  {
+   "role": "최수표",
+   "name": "성재"
+  },
+  {
+   "role": "윤근",
+   "name": "박세훈"
+  },
+  {
+   "role": "윤근",
+   "name": "노현창"
+  },
+  {
+   "role": "",
+   "name": "이미주"
+  },
+  {
+   "role": "",
+   "name": "방가희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250428032317/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=213794"
+ }
 }

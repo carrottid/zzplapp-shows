@@ -52,5 +52,95 @@
  ],
  "updated": "2021-02-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2B0B0A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "피에르",
+   "name": "홍광호"
+  },
+  {
+   "role": "피에르",
+   "name": "케이윌"
+  },
+  {
+   "role": "나타샤",
+   "name": "정은지"
+  },
+  {
+   "role": "나타샤",
+   "name": "해나"
+  },
+  {
+   "role": "아나톨",
+   "name": "이충주"
+  },
+  {
+   "role": "아나톨",
+   "name": "박강현"
+  },
+  {
+   "role": "아나톨",
+   "name": "고은성"
+  },
+  {
+   "role": "소냐",
+   "name": "효은"
+  },
+  {
+   "role": "엘렌",
+   "name": "방진의"
+  },
+  {
+   "role": "엘렌",
+   "name": "홍륜희"
+  },
+  {
+   "role": "마리야D",
+   "name": "류수화"
+  },
+  {
+   "role": "",
+   "name": "연지 리"
+  },
+  {
+   "role": "",
+   "name": "최호중"
+  },
+  {
+   "role": "",
+   "name": "김대호"
+  },
+  {
+   "role": "",
+   "name": "강정우"
+  },
+  {
+   "role": "",
+   "name": "권보미"
+  },
+  {
+   "role": "",
+   "name": "김수영"
+  },
+  {
+   "role": "",
+   "name": "최희재"
+  },
+  {
+   "role": "",
+   "name": "이정은"
+  },
+  {
+   "role": "",
+   "name": "이준원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913140848/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163282"
+ }
 }

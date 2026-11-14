@@ -1,0 +1,60 @@
+{
+ "id": "PF232155",
+ "title": "그 밤의 사쿠라",
+ "genre": "연극",
+ "from": "2023-12-28",
+ "to": "2023-12-31",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF232155_231211_101746.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김정석",
+  "오지영",
+  "최희원",
+  "조용진",
+  "한재욱"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "이선, 정문선, 사쿠라하라 료 등",
+ "producer": "극단 반사율",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232155_231211_1017461.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF232155_231211_1017460.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017840"
+  }
+ ],
+ "updated": "2023-12-11 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "나루세",
+   "name": "김정석"
+  },
+  {
+   "role": "아이코",
+   "name": "오지영"
+  },
+  {
+   "role": "호리군",
+   "name": "최희원"
+  },
+  {
+   "role": "미카짱",
+   "name": "조용진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241015211403/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196893"
+ }
+}

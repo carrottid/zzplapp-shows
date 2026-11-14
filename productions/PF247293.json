@@ -43,5 +43,71 @@
  ],
  "updated": "2024-12-23 17:59:56",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#7B3F6E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "명우",
+   "name": "윤도현"
+  },
+  {
+   "role": "명우",
+   "name": "엄기준"
+  },
+  {
+   "role": "명우",
+   "name": "손준호"
+  },
+  {
+   "role": "월하",
+   "name": "차지연"
+  },
+  {
+   "role": "월하",
+   "name": "김호영"
+  },
+  {
+   "role": "월하",
+   "name": "서은광"
+  },
+  {
+   "role": "수아",
+   "name": "류승주"
+  },
+  {
+   "role": "수아",
+   "name": "성민재"
+  },
+  {
+   "role": "시영",
+   "name": "송문선"
+  },
+  {
+   "role": "시영",
+   "name": "박세미"
+  },
+  {
+   "role": "과거 명우",
+   "name": "기세중"
+  },
+  {
+   "role": "과거 명우",
+   "name": "조환지"
+  },
+  {
+   "role": "과거 수아",
+   "name": "박새힘"
+  },
+  {
+   "role": "과거 수아",
+   "name": "김서연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103124926/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207027"
+ }
 }

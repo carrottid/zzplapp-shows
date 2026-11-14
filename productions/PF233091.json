@@ -1,0 +1,39 @@
+{
+ "id": "PF233091",
+ "title": "혹한",
+ "genre": "연극",
+ "from": "2024-01-24",
+ "to": "2024-01-28",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF233091_231226_144920.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강수지",
+  "김범준",
+  "김예지",
+  "김재훈",
+  "배유진",
+  "서동민",
+  "석동민"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 40분",
+ "age": "만 14세 이상",
+ "crew": "박소은, 이예닮, 강다연",
+ "producer": "예술집단 호야",
+ "price": "전석 40,000원",
+ "schedule": "수요일(19:30), 목요일 ~ 금요일(15:00,19:30), 토요일(15:00,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF233091_231226_0249200.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2839"
+  }
+ ],
+ "updated": "2023-12-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

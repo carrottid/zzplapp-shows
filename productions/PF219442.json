@@ -47,5 +47,59 @@
  ],
  "updated": "2023-06-01 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0B48C4",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "안",
+   "name": "최하윤"
+  },
+  {
+   "role": "안",
+   "name": "홍나현"
+  },
+  {
+   "role": "안",
+   "name": "유낙원"
+  },
+  {
+   "role": "안1",
+   "name": "김세환"
+  },
+  {
+   "role": "안1",
+   "name": "박강원"
+  },
+  {
+   "role": "안2",
+   "name": "허영손"
+  },
+  {
+   "role": "안2",
+   "name": "강은빈"
+  },
+  {
+   "role": "안3",
+   "name": "주민우"
+  },
+  {
+   "role": "안3",
+   "name": "류찬열"
+  },
+  {
+   "role": "안4",
+   "name": "조은진"
+  },
+  {
+   "role": "안4",
+   "name": "최윤서"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241202144758/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188994"
+ }
 }

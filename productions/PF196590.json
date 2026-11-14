@@ -39,5 +39,43 @@
  ],
  "updated": "2022-08-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#5A463F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김미옥",
+   "name": "이선주"
+  },
+  {
+   "role": "옆집여자",
+   "name": "이현경"
+  },
+  {
+   "role": "박형준 경사",
+   "name": "신용진"
+  },
+  {
+   "role": "최지수 경감",
+   "name": "이지혜"
+  },
+  {
+   "role": "한민국 경위",
+   "name": "김용식"
+  },
+  {
+   "role": "이현아 순경",
+   "name": "손예리"
+  },
+  {
+   "role": "",
+   "name": "황비홍"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913130744/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178004"
+ }
 }

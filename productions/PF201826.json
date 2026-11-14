@@ -1,0 +1,40 @@
+{
+ "id": "PF201826",
+ "title": "제2회 두드림페스티벌, 클럽GWEN",
+ "genre": "연극",
+ "from": "2022-11-25",
+ "to": "2022-11-30",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF201826_221110_094548.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "지우",
+  "양은주",
+  "유종연",
+  "현림",
+  "김본이"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 20분",
+ "age": "17세 이상 관람가",
+ "crew": "현림, 최연수, 유주영 등",
+ "price": "전석 20,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF201826_221110_0945480.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/5/bizes/788676"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22015397"
+  }
+ ],
+ "updated": "2022-11-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

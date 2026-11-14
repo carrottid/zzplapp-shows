@@ -63,5 +63,87 @@
  ],
  "updated": "2026-07-21 13:50:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "파가니니",
+   "name": "KoN"
+  },
+  {
+   "role": "파가니니",
+   "name": "홍석기"
+  },
+  {
+   "role": "파가니니",
+   "name": "홍주찬"
+  },
+  {
+   "role": "루치오",
+   "name": "김종구"
+  },
+  {
+   "role": "루치오",
+   "name": "김경수"
+  },
+  {
+   "role": "루치오",
+   "name": "윤형렬"
+  },
+  {
+   "role": "콜랭",
+   "name": "이준혁"
+  },
+  {
+   "role": "콜랭",
+   "name": "황민수"
+  },
+  {
+   "role": "콜랭",
+   "name": "조훈"
+  },
+  {
+   "role": "콜랭",
+   "name": "이승준"
+  },
+  {
+   "role": "아킬레",
+   "name": "신수빈"
+  },
+  {
+   "role": "아킬레",
+   "name": "박주혁"
+  },
+  {
+   "role": "아킬레",
+   "name": "이세헌"
+  },
+  {
+   "role": "샬롯",
+   "name": "유주연"
+  },
+  {
+   "role": "샬롯",
+   "name": "안리나"
+  },
+  {
+   "role": "",
+   "name": "이지혁"
+  },
+  {
+   "role": "",
+   "name": "이여진"
+  },
+  {
+   "role": "",
+   "name": "전현철"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260718120600/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=229970"
+ }
 }

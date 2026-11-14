@@ -1,0 +1,63 @@
+{
+ "id": "PF209932",
+ "title": "이백십일",
+ "genre": "연극",
+ "from": "2023-02-04",
+ "to": "2023-02-17",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF209932_230118_102609.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "윤성우",
+  "남광우",
+  "이승빈",
+  "윤진희",
+  "김장훈"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "윤영성, 조민수, 임수연 등",
+ "producer": "극인단 이치",
+ "price": "전석 40,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF209932_230118_1026090.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23000703"
+  }
+ ],
+ "updated": "2023-01-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "게이",
+   "name": "윤성우"
+  },
+  {
+   "role": "로쿠",
+   "name": "남광우"
+  },
+  {
+   "role": "도요사부로",
+   "name": "윤영성"
+  },
+  {
+   "role": "아가씨",
+   "name": "윤진희"
+  },
+  {
+   "role": "노인",
+   "name": "김장훈"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260517082943/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=183786"
+ }
+}

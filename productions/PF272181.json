@@ -39,5 +39,9 @@
  ],
  "updated": "2026-01-21 16:45:30",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#34344F",
+  "fg": "#FFFFFF"
+ }
 }

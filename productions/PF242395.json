@@ -51,5 +51,55 @@
  ],
  "updated": "2024-09-10 10:08:37",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "박열",
+   "name": "손유동"
+  },
+  {
+   "role": "박열",
+   "name": "현석준"
+  },
+  {
+   "role": "박열",
+   "name": "백기범"
+  },
+  {
+   "role": "후미코",
+   "name": "이정화"
+  },
+  {
+   "role": "후미코",
+   "name": "박새힘"
+  },
+  {
+   "role": "후미코",
+   "name": "최지혜"
+  },
+  {
+   "role": "류지",
+   "name": "문경초"
+  },
+  {
+   "role": "류지",
+   "name": "임별"
+  },
+  {
+   "role": "류지",
+   "name": "김준식"
+  },
+  {
+   "role": "류지",
+   "name": "김준호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814111914/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203509"
+ }
 }

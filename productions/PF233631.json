@@ -37,5 +37,35 @@
  ],
  "updated": "2024-01-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3B2236",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤서",
+   "name": "박희정"
+  },
+  {
+   "role": "니나",
+   "name": "정다함"
+  },
+  {
+   "role": "엄마 외",
+   "name": "이지현"
+  },
+  {
+   "role": "김영창 외",
+   "name": "임진구"
+  },
+  {
+   "role": "텐 외",
+   "name": "김시유"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620074733/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=197676"
+ }
 }

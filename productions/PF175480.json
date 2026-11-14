@@ -51,5 +51,71 @@
  ],
  "updated": "2021-06-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#101624",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤동주",
+   "name": "박영수"
+  },
+  {
+   "role": "윤동주",
+   "name": "김용한"
+  },
+  {
+   "role": "송몽규",
+   "name": "김도빈"
+  },
+  {
+   "role": "강처중",
+   "name": "조풍래"
+  },
+  {
+   "role": "강처중",
+   "name": "이기완"
+  },
+  {
+   "role": "정병욱",
+   "name": "정지만"
+  },
+  {
+   "role": "이선화(가상인물",
+   "name": "송문선"
+  },
+  {
+   "role": "이선화(가상인물",
+   "name": "이혜수"
+  },
+  {
+   "role": "아이",
+   "name": "김태희"
+  },
+  {
+   "role": "",
+   "name": "이동규"
+  },
+  {
+   "role": "",
+   "name": "박재은"
+  },
+  {
+   "role": "",
+   "name": "서연정"
+  },
+  {
+   "role": "",
+   "name": "오지은"
+  },
+  {
+   "role": "",
+   "name": "이은솔"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260214130122/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165640"
+ }
 }

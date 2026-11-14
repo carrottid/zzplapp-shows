@@ -39,5 +39,67 @@
  ],
  "updated": "2021-11-11 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0F1924",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마릴라",
+   "name": "최현미"
+  },
+  {
+   "role": "린드",
+   "name": "하은주"
+  },
+  {
+   "role": "린드",
+   "name": "이예슬"
+  },
+  {
+   "role": "앤1",
+   "name": "박수민"
+  },
+  {
+   "role": "앤1",
+   "name": "최태이"
+  },
+  {
+   "role": "앤2",
+   "name": "권수현"
+  },
+  {
+   "role": "앤2",
+   "name": "박슬기"
+  },
+  {
+   "role": "앤3",
+   "name": "송영미"
+  },
+  {
+   "role": "앤3",
+   "name": "김이후"
+  },
+  {
+   "role": "앤3",
+   "name": "전해주"
+  },
+  {
+   "role": "다이애나",
+   "name": "김유진"
+  },
+  {
+   "role": "",
+   "name": "권정수"
+  },
+  {
+   "role": "",
+   "name": "이윤성"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250430170147/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169117"
+ }
 }

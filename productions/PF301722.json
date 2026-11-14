@@ -1,0 +1,42 @@
+{
+ "id": "PF301722",
+ "title": "D.FESTA 소극장축제, 3일",
+ "genre": "연극",
+ "from": "2026-10-10",
+ "to": "2026-10-11",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301722_260928_103401.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "안상우",
+  "이경성",
+  "이현수",
+  "이규태",
+  "홍순목",
+  "권나영"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 30분",
+ "age": "만 8세 이상",
+ "crew": "이종원, 장다빈, 박성근 등",
+ "producer": "(사)한국소극장협회",
+ "price": "전석 30,000원",
+ "schedule": "토요일(18:00), 일요일(17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF301722_202609281034019020.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26013440"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD30999"
+  }
+ ],
+ "updated": "2026-09-29 15:56:18",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

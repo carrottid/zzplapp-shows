@@ -1,0 +1,43 @@
+{
+ "id": "PF177548",
+ "title": "벚꽃동산",
+ "genre": "연극",
+ "from": "2021-08-05",
+ "to": "2021-08-08",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF177548_210722_115913.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이주화",
+  "고인배",
+  "변형범",
+  "신황철",
+  "이효숙",
+  "임소영",
+  "윤준호"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "2시간 10분",
+ "age": "만 7세 이상",
+ "crew": "최영환, 이효숙, 남궁호 등",
+ "producer": "예술공동체 길",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF177548_210722_1159130.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/560316"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21006506"
+  }
+ ],
+ "updated": "2021-07-22 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

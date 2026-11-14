@@ -10,7 +10,8 @@
  "state": "공연완료",
  "cast": [
   "옥자연",
-  "강주희 이재남",
+  "강주희",
+  "이재남",
   "이찬솔",
   "조정근",
   "허유미",
@@ -37,5 +38,59 @@
  ],
  "updated": "2023-10-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#753227",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "성실",
+   "name": "옥자연"
+  },
+  {
+   "role": "성실",
+   "name": "강주희"
+  },
+  {
+   "role": "영호",
+   "name": "이재남"
+  },
+  {
+   "role": "영호",
+   "name": "이찬솔"
+  },
+  {
+   "role": "세 자매의 부친",
+   "name": "조정근"
+  },
+  {
+   "role": "부실",
+   "name": "허이레"
+  },
+  {
+   "role": "탄실",
+   "name": "이경구"
+  },
+  {
+   "role": "세라",
+   "name": "황재희"
+  },
+  {
+   "role": "",
+   "name": "이상구"
+  },
+  {
+   "role": "",
+   "name": "김희정"
+  },
+  {
+   "role": "",
+   "name": "조인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240919073614/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=194462"
+ }
 }

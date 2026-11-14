@@ -1,0 +1,41 @@
+{
+ "id": "PF176659",
+ "title": "고등탭퍼",
+ "genre": "연극",
+ "from": "2021-07-15",
+ "to": "2021-08-08",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF176659_210630_105340.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김태완",
+  "최재원",
+  "김영욱",
+  "이연우",
+  "박정민",
+  "조예림"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 20분",
+ "age": "만 7세 이상",
+ "crew": "신경도, 김해리, 송지현 등",
+ "price": "전석 25,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF176659_210630_1053400.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21005583"
+  },
+  {
+   "name": "티몬",
+   "url": "www.tmon.co.kr/deal/6755210506"
+  }
+ ],
+ "updated": "2021-06-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

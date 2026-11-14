@@ -59,5 +59,63 @@
  ],
  "updated": "2021-11-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#1D2031",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아더",
+   "name": "김준수"
+  },
+  {
+   "role": "아더",
+   "name": "카이"
+  },
+  {
+   "role": "아더",
+   "name": "서은광"
+  },
+  {
+   "role": "렌슬럿",
+   "name": "에녹"
+  },
+  {
+   "role": "렌슬럿",
+   "name": "강태을"
+  },
+  {
+   "role": "멀린",
+   "name": "민영기"
+  },
+  {
+   "role": "멀린",
+   "name": "손준호"
+  },
+  {
+   "role": "기네비어",
+   "name": "최서연"
+  },
+  {
+   "role": "기네비어",
+   "name": "이봄소리"
+  },
+  {
+   "role": "울프스탄",
+   "name": "이상준"
+  },
+  {
+   "role": "엑터",
+   "name": "이종문"
+  },
+  {
+   "role": "엑터",
+   "name": "홍경수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20211127182630/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=169544"
+ }
 }

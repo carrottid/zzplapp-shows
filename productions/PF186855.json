@@ -79,7 +79,7 @@
   },
   {
    "role": "조세르",
-   "name": "박성환"
+   "name": "박민성"
   },
   {
    "role": "메렙",
@@ -177,5 +177,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3071"
+ },
+ "color": {
+  "bg": "#0C0806",
+  "fg": "#FFFFFF"
  }
 }

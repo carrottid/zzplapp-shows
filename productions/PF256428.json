@@ -42,5 +42,39 @@
  ],
  "updated": "2025-07-03 16:13:53",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#060F29",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "애나",
+   "name": "최연우"
+  },
+  {
+   "role": "애나",
+   "name": "한지은"
+  },
+  {
+   "role": "애나",
+   "name": "김도연"
+  },
+  {
+   "role": "아리엘",
+   "name": "이상엽"
+  },
+  {
+   "role": "아리엘",
+   "name": "이현우"
+  },
+  {
+   "role": "아리엘",
+   "name": "원태민"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250518014135/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212083"
+ }
 }

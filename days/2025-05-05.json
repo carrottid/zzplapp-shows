@@ -2,12 +2,155 @@
  "date": "2025-05-05",
  "sessions": [
   {
+   "id": "PF250136",
+   "title": "지킬앤하이드",
+   "genre": "뮤지컬",
+   "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최재림"
+    },
+    {
+     "name": "윤공주"
+    },
+    {
+     "name": "손지수"
+    },
+    {
+     "name": "김용수"
+    },
+    {
+     "name": "윤영석"
+    }
+   ],
+   "color": {
+    "bg": "#000000",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF258698",
+   "title": "도리안 그레이",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "재윤"
+    },
+    {
+     "name": "김경수"
+    },
+    {
+     "name": "손유동"
+    },
+    {
+     "name": "해일리"
+    },
+    {
+     "name": "이은정"
+    },
+    {
+     "name": "김민철"
+    },
+    {
+     "name": "구원영"
+    },
+    {
+     "name": "오윤서"
+    }
+   ],
+   "color": {
+    "bg": "#737373",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF257828",
+   "title": "지킬 앤 하이드",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "강기둥"
+    }
+   ],
+   "color": {
+    "bg": "#22232B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF257828",
+   "title": "지킬 앤 하이드",
+   "genre": "연극",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "18:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "백석광"
+    }
+   ],
+   "color": {
+    "bg": "#22232B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF258698",
+   "title": "도리안 그레이",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "문유강"
+    },
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "손유동"
+    },
+    {
+     "name": "해일리"
+    },
+    {
+     "name": "이은정"
+    },
+    {
+     "name": "김태한"
+    },
+    {
+     "name": "구원영"
+    },
+    {
+     "name": "오윤서"
+    }
+   ],
+   "color": {
+    "bg": "#737373",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF262268",
    "title": "뽁",
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#090A0C",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

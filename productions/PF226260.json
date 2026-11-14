@@ -39,5 +39,43 @@
  ],
  "updated": "2023-09-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#544B48",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "고매니저 외",
+   "name": "고민지"
+  },
+  {
+   "role": "나레이터 외",
+   "name": "고용선"
+  },
+  {
+   "role": "할리퀸 외",
+   "name": "김보경"
+  },
+  {
+   "role": "슈퍼맨",
+   "name": "이강호"
+  },
+  {
+   "role": "스파이더맨 외",
+   "name": "이시래"
+  },
+  {
+   "role": "배트맨 외",
+   "name": "장우영"
+  },
+  {
+   "role": "",
+   "name": "한지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240608051806/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193582"
+ }
 }

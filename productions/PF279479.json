@@ -1,0 +1,33 @@
+{
+ "id": "PF279479",
+ "title": "경쟁뎐",
+ "genre": "연극",
+ "from": "2025-12-18",
+ "to": "2025-12-21",
+ "venue": "연극실험실 혜화동1번지 (연극실험실 혜화동1번지)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF279479_251118_132605.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "문병재",
+  "남기용"
+ ],
+ "facilityId": "FC001141",
+ "runtime": "1시간 10분",
+ "age": "만 13세 이상",
+ "crew": "문병재, 김지우, 신민승 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00,19:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF279479_202511180126051530.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25016070"
+  }
+ ],
+ "updated": "2025-11-18 15:00:04.051305",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

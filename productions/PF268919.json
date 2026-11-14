@@ -41,5 +41,35 @@
  ],
  "updated": "2026-01-21 13:48:48",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1B2A41",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "윤심덕",
+   "name": "전해주"
+  },
+  {
+   "role": "윤심덕",
+   "name": "선유하"
+  },
+  {
+   "role": "홍석주",
+   "name": "이지연"
+  },
+  {
+   "role": "홍석주",
+   "name": "최수현"
+  },
+  {
+   "role": "뽀이",
+   "name": "서지우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014233235/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=219126"
+ }
 }

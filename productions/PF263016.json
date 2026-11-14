@@ -46,5 +46,39 @@
  ],
  "updated": "2025-06-11 12:58:27",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2B1F17",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "태일 목소리",
+   "name": "박정원"
+  },
+  {
+   "role": "태일 목소리",
+   "name": "김바다"
+  },
+  {
+   "role": "태일 목소리",
+   "name": "김리현"
+  },
+  {
+   "role": "태일 외 목소리",
+   "name": "김국희"
+  },
+  {
+   "role": "태일 외 목소리",
+   "name": "이현진"
+  },
+  {
+   "role": "태일 외 목소리",
+   "name": "이예지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250519144746/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=216124"
+ }
 }

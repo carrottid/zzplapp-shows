@@ -1,0 +1,35 @@
+{
+ "id": "PF280370",
+ "title": "하얀충동",
+ "genre": "연극",
+ "from": "2025-12-23",
+ "to": "2025-12-28",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF280370_251127_134652.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강해진",
+  "이강욱",
+  "이호철"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "2시간",
+ "age": "만 16세 이상",
+ "crew": "이준우, 황정은, 채석진 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 화요일(19:30), 목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF280370_202511270146520681.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF280370_202511270146520570.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25017310"
+  }
+ ],
+ "updated": "2025-12-22 15:06:02.301315",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

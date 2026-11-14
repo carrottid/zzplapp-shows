@@ -14,7 +14,7 @@
   "백기범",
   "조훈",
   "이정화",
-  "허혜진",
+  "허윤슬",
   "최지혜"
  ],
  "facilityId": "FC001528",
@@ -53,5 +53,59 @@
  ],
  "updated": "2021-06-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "박열",
+   "name": "김재범"
+  },
+  {
+   "role": "박열",
+   "name": "김순택"
+  },
+  {
+   "role": "박열",
+   "name": "백기범"
+  },
+  {
+   "role": "박열",
+   "name": "조훈"
+  },
+  {
+   "role": "후미코",
+   "name": "이정화"
+  },
+  {
+   "role": "후미코",
+   "name": "허윤슬"
+  },
+  {
+   "role": "후미코",
+   "name": "최지혜"
+  },
+  {
+   "role": "류지",
+   "name": "권용국"
+  },
+  {
+   "role": "류지",
+   "name": "문경초"
+  },
+  {
+   "role": "류지",
+   "name": "임별"
+  },
+  {
+   "role": "류지",
+   "name": "정지우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260607174054/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165501"
+ }
 }

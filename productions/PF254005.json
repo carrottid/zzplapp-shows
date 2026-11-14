@@ -47,5 +47,75 @@
  ],
  "updated": "2025-04-04 16:21:40",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F120D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에릭 무어",
+   "name": "김강우"
+  },
+  {
+   "role": "에릭 무어",
+   "name": "박완규"
+  },
+  {
+   "role": "에릭 무어",
+   "name": "지현준"
+  },
+  {
+   "role": "지미 무어",
+   "name": "이유진"
+  },
+  {
+   "role": "지미 무어",
+   "name": "장석환"
+  },
+  {
+   "role": "지미 무어",
+   "name": "최정우"
+  },
+  {
+   "role": "바네사 무어",
+   "name": "김원정"
+  },
+  {
+   "role": "워렌 무어",
+   "name": "권태건"
+  },
+  {
+   "role": "빅터 무어/한스",
+   "name": "선종남"
+  },
+  {
+   "role": "카렌 브로디",
+   "name": "하지은"
+  },
+  {
+   "role": "",
+   "name": "구도균"
+  },
+  {
+   "role": "",
+   "name": "박기덕"
+  },
+  {
+   "role": "",
+   "name": "이호철"
+  },
+  {
+   "role": "",
+   "name": "이의령"
+  },
+  {
+   "role": "",
+   "name": "장승연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260515100705/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=210857"
+ }
 }

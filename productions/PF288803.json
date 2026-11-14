@@ -59,5 +59,95 @@
  ],
  "updated": "2026-08-18 15:25:34",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A2520",
+  "fg": "#F2A33A"
+ },
+ "roleCast": [
+  {
+   "role": "정학",
+   "name": "엄기준"
+  },
+  {
+   "role": "정학",
+   "name": "류수영"
+  },
+  {
+   "role": "정학",
+   "name": "최진혁"
+  },
+  {
+   "role": "정학",
+   "name": "김정현"
+  },
+  {
+   "role": "무영",
+   "name": "박규원"
+  },
+  {
+   "role": "무영",
+   "name": "윤시윤"
+  },
+  {
+   "role": "무영",
+   "name": "산들"
+  },
+  {
+   "role": "무영",
+   "name": "유선호"
+  },
+  {
+   "role": "그녀",
+   "name": "이지수"
+  },
+  {
+   "role": "그녀",
+   "name": "박새힘"
+  },
+  {
+   "role": "운영관",
+   "name": "서현철"
+  },
+  {
+   "role": "운영관",
+   "name": "이정열"
+  },
+  {
+   "role": "운영관",
+   "name": "고창석"
+  },
+  {
+   "role": "사서",
+   "name": "이경미"
+  },
+  {
+   "role": "사서",
+   "name": "김석영"
+  },
+  {
+   "role": "대식",
+   "name": "김선제"
+  },
+  {
+   "role": "대식",
+   "name": "우재하"
+  },
+  {
+   "role": "",
+   "name": "손우민"
+  },
+  {
+   "role": "",
+   "name": "고운지"
+  },
+  {
+   "role": "",
+   "name": "김이진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260417215444/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=229347"
+ }
 }

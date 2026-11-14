@@ -37,5 +37,35 @@
  ],
  "updated": "2024-10-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2A2D33",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "최영우/이경현",
+   "name": "김세환"
+  },
+  {
+   "role": "이병춘",
+   "name": "이정주"
+  },
+  {
+   "role": "아드리안/아버지/판사",
+   "name": "고훈목"
+  },
+  {
+   "role": "기무라/마츠모토",
+   "name": "조한"
+  },
+  {
+   "role": "경숙/박지은",
+   "name": "임지영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260410083633/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=209575"
+ }
 }

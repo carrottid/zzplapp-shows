@@ -75,5 +75,67 @@
  ],
  "updated": "2021-04-05 17:09:24",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#000000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "엘파바",
+   "name": "옥주현"
+  },
+  {
+   "role": "엘파바",
+   "name": "손승연"
+  },
+  {
+   "role": "글린다",
+   "name": "정선아"
+  },
+  {
+   "role": "글린다",
+   "name": "나하나"
+  },
+  {
+   "role": "피에로",
+   "name": "서경수"
+  },
+  {
+   "role": "피에로",
+   "name": "진태화"
+  },
+  {
+   "role": "마법사",
+   "name": "남경주"
+  },
+  {
+   "role": "마법사",
+   "name": "이상준"
+  },
+  {
+   "role": "모리블 학장",
+   "name": "이소유"
+  },
+  {
+   "role": "모리블 학장",
+   "name": "김지선"
+  },
+  {
+   "role": "딜라몬드 교수",
+   "name": "이우승"
+  },
+  {
+   "role": "",
+   "name": "임규형"
+  },
+  {
+   "role": "",
+   "name": "전민지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251008201757/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164174"
+ }
 }

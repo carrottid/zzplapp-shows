@@ -1,0 +1,63 @@
+{
+ "id": "PF229110",
+ "title": "키리에",
+ "genre": "연극",
+ "from": "2023-11-30",
+ "to": "2023-12-11",
+ "venue": "국립정동극장 세실 (구.세실극장) (국립정동극장 세실 (구.세실극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF229110_231101_145157.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "최희진",
+  "유은숙",
+  "백성철",
+  "조어진",
+  "윤미경"
+ ],
+ "facilityId": "FC001125",
+ "runtime": "2시간",
+ "age": "만 12세 이상",
+ "crew": "장영, 전인철, 전강희 등",
+ "producer": "극단 돌파구",
+ "price": "전석 20,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF229110_231101_0251570.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23015626"
+  }
+ ],
+ "updated": "2023-11-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "집",
+   "name": "최희진"
+  },
+  {
+   "role": "엠마",
+   "name": "유은숙"
+  },
+  {
+   "role": "관수",
+   "name": "백성철"
+  },
+  {
+   "role": "목련",
+   "name": "조어진"
+  },
+  {
+   "role": "분재",
+   "name": "윤경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250515061805/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195458"
+ }
+}

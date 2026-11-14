@@ -38,5 +38,95 @@
  ],
  "updated": "2024-01-15 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0D181A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "촌장",
+   "name": "신현종"
+  },
+  {
+   "role": "갱내기",
+   "name": "김성일"
+  },
+  {
+   "role": "갈근댁",
+   "name": "조은경"
+  },
+  {
+   "role": "이랑",
+   "name": "윤슬기"
+  },
+  {
+   "role": "고랑",
+   "name": "경미"
+  },
+  {
+   "role": "돌치 부",
+   "name": "김구택"
+  },
+  {
+   "role": "",
+   "name": "이경성"
+  },
+  {
+   "role": "",
+   "name": "한동훈"
+  },
+  {
+   "role": "",
+   "name": "홍상용"
+  },
+  {
+   "role": "",
+   "name": "이해성"
+  },
+  {
+   "role": "",
+   "name": "송현섭"
+  },
+  {
+   "role": "",
+   "name": "김태욱"
+  },
+  {
+   "role": "",
+   "name": "이형주"
+  },
+  {
+   "role": "",
+   "name": "이해온"
+  },
+  {
+   "role": "",
+   "name": "박정인"
+  },
+  {
+   "role": "",
+   "name": "이홍재"
+  },
+  {
+   "role": "",
+   "name": "박현민"
+  },
+  {
+   "role": "",
+   "name": "민정오"
+  },
+  {
+   "role": "",
+   "name": "양재범"
+  },
+  {
+   "role": "",
+   "name": "정영재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251217034319/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198021"
+ }
 }

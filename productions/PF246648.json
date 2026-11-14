@@ -47,5 +47,51 @@
  ],
  "updated": "2025-01-16 08:55:08",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#12181D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "블루닷",
+   "name": "변희상"
+  },
+  {
+   "role": "블루닷",
+   "name": "김준영"
+  },
+  {
+   "role": "블루닷",
+   "name": "현석준"
+  },
+  {
+   "role": "카이퍼",
+   "name": "이봉준"
+  },
+  {
+   "role": "카이퍼",
+   "name": "조민호"
+  },
+  {
+   "role": "카이퍼",
+   "name": "김우성"
+  },
+  {
+   "role": "머머",
+   "name": "김보현"
+  },
+  {
+   "role": "머머",
+   "name": "박유덕"
+  },
+  {
+   "role": "머머",
+   "name": "박상준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260113080949/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206569"
+ }
 }

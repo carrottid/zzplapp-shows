@@ -1,0 +1,47 @@
+{
+ "id": "PF278983",
+ "title": "면회",
+ "genre": "연극",
+ "from": "2025-12-02",
+ "to": "2025-12-28",
+ "venue": "소극장 혜화당 (구. 까망소극장) (소극장 혜화당 (구. 까망소극장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF278983_251113_131903.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "길은성",
+  "류경환",
+  "김남희",
+  "신수항",
+  "이세미",
+  "한솔",
+  "이도은"
+ ],
+ "facilityId": "FC001085",
+ "runtime": "1시간 10분",
+ "age": "전체 관람가",
+ "crew": "이성권, 장윤호, 김보근",
+ "producer": "극단 등대",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 목요일(19:30), 금요일(18:00,20:00), 토요일 ~ 일요일(14:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF278983_202512040442028290.png"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1535542"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "https://tickets.interpark.com/goods/25016559"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=4019"
+  }
+ ],
+ "updated": "2025-12-04 18:00:03.183531",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

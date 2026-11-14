@@ -2,18 +2,50 @@
  "date": "2025-12-08",
  "sessions": [
   {
+   "id": "PF278396",
+   "title": "국립극단, 태풍",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF279760",
    "title": "노맨틱 코미디",
    "genre": "연극",
    "venue": "열린극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B0306A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF280054",
    "title": "리플리 리딩 쇼케이스",
    "genre": "뮤지컬",
    "venue": "SH아트홀",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3532",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF278983",
+   "title": "면회",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF277627",
+   "title": "창작ing, DRAGx남장신사",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
    "castSource": "none"
   },
@@ -23,7 +55,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2D4F",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

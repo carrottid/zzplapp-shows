@@ -11,7 +11,7 @@
  "cast": [
   "박한근",
   "김도빈",
-  "김진욱",
+  "차윤해",
   "소정화",
   "정재은",
   "김수연",
@@ -42,5 +42,67 @@
  ],
  "updated": "2021-03-26 12:03:01",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#52465A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이헌",
+   "name": "박한근"
+  },
+  {
+   "role": "이헌",
+   "name": "김도빈"
+  },
+  {
+   "role": "이헌",
+   "name": "차윤해"
+  },
+  {
+   "role": "린",
+   "name": "소정화"
+  },
+  {
+   "role": "린",
+   "name": "정재은"
+  },
+  {
+   "role": "린",
+   "name": "김수연"
+  },
+  {
+   "role": "용",
+   "name": "박규원"
+  },
+  {
+   "role": "용",
+   "name": "현석준"
+  },
+  {
+   "role": "용",
+   "name": "김리현"
+  },
+  {
+   "role": "수연",
+   "name": "강혜인"
+  },
+  {
+   "role": "수연",
+   "name": "박새힘"
+  },
+  {
+   "role": "수연",
+   "name": "류인아"
+  },
+  {
+   "role": "수연",
+   "name": "최지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230207182839/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164126"
+ }
 }

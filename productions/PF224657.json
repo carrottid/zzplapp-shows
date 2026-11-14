@@ -1,0 +1,113 @@
+{
+ "id": "PF224657",
+ "title": "나의 장례식에 와줘",
+ "genre": "연극",
+ "from": "2023-10-04",
+ "to": "2023-10-15",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224657_230828_104934.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "차미연",
+  "홍혜지",
+  "황재열",
+  "송길호",
+  "오현재",
+  "전성하",
+  "박준혁"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 40분",
+ "age": "만 11세 이상",
+ "crew": "최해주, 조혜윤, 이경천 등",
+ "producer": "극단 광대모둠",
+ "price": "전석 50,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224657_230828_1049340.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23011899"
+  }
+ ],
+ "updated": "2023-08-28 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "최정준",
+   "name": "황재열"
+  },
+  {
+   "role": "최정준",
+   "name": "송길호"
+  },
+  {
+   "role": "최선역",
+   "name": "차미연"
+  },
+  {
+   "role": "최선역",
+   "name": "홍혜지"
+  },
+  {
+   "role": "구미주",
+   "name": "오현채"
+  },
+  {
+   "role": "구미주",
+   "name": "전성하"
+  },
+  {
+   "role": "최형준",
+   "name": "고훈목"
+  },
+  {
+   "role": "최형준",
+   "name": "박준혁"
+  },
+  {
+   "role": "윤정순",
+   "name": "김윤미"
+  },
+  {
+   "role": "윤정순",
+   "name": "장용웅"
+  },
+  {
+   "role": "김춘배",
+   "name": "이창훈"
+  },
+  {
+   "role": "김춘배",
+   "name": "권도하"
+  },
+  {
+   "role": "",
+   "name": "이서영"
+  },
+  {
+   "role": "",
+   "name": "문진식"
+  },
+  {
+   "role": "",
+   "name": "서지원"
+  },
+  {
+   "role": "",
+   "name": "김나경"
+  },
+  {
+   "role": "",
+   "name": "류하륜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260301121832/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192527"
+ }
+}

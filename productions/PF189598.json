@@ -34,5 +34,95 @@
  ],
  "updated": "2022-04-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A1410",
+  "fg": "#F2A33A"
+ },
+ "roleCast": [
+  {
+   "role": "이성",
+   "name": "백주호"
+  },
+  {
+   "role": "이성",
+   "name": "허현준"
+  },
+  {
+   "role": "단종",
+   "name": "장동우"
+  },
+  {
+   "role": "단종",
+   "name": "의진"
+  },
+  {
+   "role": "세조",
+   "name": "곽은태"
+  },
+  {
+   "role": "세조",
+   "name": "김효배"
+  },
+  {
+   "role": "재인",
+   "name": "류창우"
+  },
+  {
+   "role": "재인",
+   "name": "민들샘"
+  },
+  {
+   "role": "정희왕후",
+   "name": "이윤희"
+  },
+  {
+   "role": "정희왕후",
+   "name": "홍세령"
+  },
+  {
+   "role": "근빈박씨",
+   "name": "유승옥"
+  },
+  {
+   "role": "근빈박씨",
+   "name": "하정원"
+  },
+  {
+   "role": "",
+   "name": "이유진"
+  },
+  {
+   "role": "",
+   "name": "이동준"
+  },
+  {
+   "role": "",
+   "name": "김진철"
+  },
+  {
+   "role": "",
+   "name": "윤민구"
+  },
+  {
+   "role": "",
+   "name": "이선"
+  },
+  {
+   "role": "",
+   "name": "김연수"
+  },
+  {
+   "role": "",
+   "name": "최다애"
+  },
+  {
+   "role": "",
+   "name": "신유진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250913175351/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173584"
+ }
 }

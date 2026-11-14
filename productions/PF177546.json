@@ -55,5 +55,63 @@
  ],
  "updated": "2021-07-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#9CC0DC",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "상원",
+   "name": "백승렬"
+  },
+  {
+   "role": "상원",
+   "name": "김대현"
+  },
+  {
+   "role": "상원",
+   "name": "반정모"
+  },
+  {
+   "role": "재은",
+   "name": "임재은"
+  },
+  {
+   "role": "재은",
+   "name": "김재희"
+  },
+  {
+   "role": "민희",
+   "name": "조민희"
+  },
+  {
+   "role": "민희",
+   "name": "김지아"
+  },
+  {
+   "role": "심실",
+   "name": "김진철"
+  },
+  {
+   "role": "심실",
+   "name": "김일교"
+  },
+  {
+   "role": "돌스파",
+   "name": "문찬"
+  },
+  {
+   "role": "돌스파",
+   "name": "이선"
+  },
+  {
+   "role": "돌스파",
+   "name": "백두진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711014425/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166830"
+ }
 }

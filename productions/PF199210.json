@@ -52,5 +52,71 @@
  ],
  "updated": "2022-10-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#121A43",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "엘리자벳",
+   "name": "옥주현"
+  },
+  {
+   "role": "엘리자벳",
+   "name": "이지혜"
+  },
+  {
+   "role": "죽음",
+   "name": "김준수"
+  },
+  {
+   "role": "죽음",
+   "name": "노민우"
+  },
+  {
+   "role": "죽음",
+   "name": "이해준"
+  },
+  {
+   "role": "루이지 루케니",
+   "name": "이지훈"
+  },
+  {
+   "role": "루이지 루케니",
+   "name": "강태을"
+  },
+  {
+   "role": "루이지 루케니",
+   "name": "박은태"
+  },
+  {
+   "role": "프란츠 요제프",
+   "name": "민영기"
+  },
+  {
+   "role": "프란츠 요제프",
+   "name": "길병민"
+  },
+  {
+   "role": "대공비 소피",
+   "name": "임은영"
+  },
+  {
+   "role": "대공비 소피",
+   "name": "주아"
+  },
+  {
+   "role": "황태자 루돌프",
+   "name": "장윤석"
+  },
+  {
+   "role": "",
+   "name": "나현수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20231207070128/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=179441"
+ }
 }

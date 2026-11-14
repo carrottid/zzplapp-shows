@@ -54,5 +54,95 @@
  ],
  "updated": "2023-05-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3D484C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "춘매",
+   "name": "황세원"
+  },
+  {
+   "role": "정현",
+   "name": "박완규"
+  },
+  {
+   "role": "미진",
+   "name": "박초롱"
+  },
+  {
+   "role": "칠현",
+   "name": "이수형"
+  },
+  {
+   "role": "선오",
+   "name": "박승희"
+  },
+  {
+   "role": "동희",
+   "name": "김성철"
+  },
+  {
+   "role": "",
+   "name": "성노진"
+  },
+  {
+   "role": "",
+   "name": "김희창"
+  },
+  {
+   "role": "",
+   "name": "임지환"
+  },
+  {
+   "role": "",
+   "name": "노상원"
+  },
+  {
+   "role": "",
+   "name": "오택조"
+  },
+  {
+   "role": "",
+   "name": "조창희"
+  },
+  {
+   "role": "",
+   "name": "조성국"
+  },
+  {
+   "role": "",
+   "name": "박종호"
+  },
+  {
+   "role": "",
+   "name": "박형준"
+  },
+  {
+   "role": "",
+   "name": "최준혁"
+  },
+  {
+   "role": "",
+   "name": "김민재"
+  },
+  {
+   "role": "",
+   "name": "이상현"
+  },
+  {
+   "role": "",
+   "name": "김광태"
+  },
+  {
+   "role": "",
+   "name": "유빛나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260418160132/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187673"
+ }
 }

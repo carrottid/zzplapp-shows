@@ -1,0 +1,37 @@
+{
+ "id": "PF243302",
+ "title": "21일 쇼케이스",
+ "genre": "연극",
+ "from": "2024-07-05",
+ "to": "2024-07-07",
+ "venue": "KT&G 상상마당 대치아트홀 (KT&G 상상마당 대치아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF243302_240619_110842.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이정희",
+  "황지우",
+  "구본혁",
+  "김성현",
+  "김한울"
+ ],
+ "facilityId": "FC000052",
+ "runtime": "1시간 10분",
+ "age": "만 11세 이상",
+ "crew": "김해리, 안희경, 김민재 등",
+ "producer": "갬희와베짱희",
+ "price": "전석 10,000원",
+ "schedule": "금요일(20:00), 토요일(20:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF243302_240619_1108420.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24008634"
+  }
+ ],
+ "updated": "2024-06-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -30,5 +30,27 @@
  ],
  "updated": "2024-07-01 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0C1418",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마이클 콜린스",
+   "name": "류제윤"
+  },
+  {
+   "role": "마이클 콜린스",
+   "name": "이형훈"
+  },
+  {
+   "role": "마이클 콜린스",
+   "name": "이종석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241103183139/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=204952"
+ }
 }

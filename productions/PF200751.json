@@ -43,5 +43,55 @@
  ],
  "updated": "2022-10-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#747372",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "스카팽",
+   "name": "이중현"
+  },
+  {
+   "role": "몰리에르",
+   "name": "성원"
+  },
+  {
+   "role": "실베스트르",
+   "name": "박경주"
+  },
+  {
+   "role": "옥따브",
+   "name": "이호철"
+  },
+  {
+   "role": "이아상뜨",
+   "name": "강해진"
+  },
+  {
+   "role": "레앙드르",
+   "name": "안창현"
+  },
+  {
+   "role": "",
+   "name": "김명기"
+  },
+  {
+   "role": "",
+   "name": "김예은"
+  },
+  {
+   "role": "",
+   "name": "문예주"
+  },
+  {
+   "role": "",
+   "name": "이혜미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250718144107/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180693"
+ }
 }

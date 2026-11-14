@@ -1,0 +1,62 @@
+{
+ "id": "PF192613",
+ "title": "산울림 고전극장, 경희를 마주하다",
+ "genre": "연극",
+ "from": "2022-07-06",
+ "to": "2022-07-17",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF192613_220610_113042.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이새롬",
+  "임정은",
+  "서인권",
+  "원소영",
+  "이예지"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 15분",
+ "age": "만 12세 이상",
+ "crew": "임정은, 홍성연, 손정은 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF192613_220610_1130420.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22007131"
+  }
+ ],
+ "updated": "2022-06-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "혜석",
+   "name": "이새롬"
+  },
+  {
+   "role": "이철원",
+   "name": "서인권"
+  },
+  {
+   "role": "경희",
+   "name": "이예지"
+  },
+  {
+   "role": "시월",
+   "name": "원소영"
+  },
+  {
+   "role": "老 혜석",
+   "name": "임정은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240911223337/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175516"
+ }
+}

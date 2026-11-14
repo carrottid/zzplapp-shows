@@ -41,5 +41,47 @@
  ],
  "updated": "2021-04-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#97854F",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "동현",
+   "name": "박영수"
+  },
+  {
+   "role": "동현",
+   "name": "박건"
+  },
+  {
+   "role": "동현",
+   "name": "안재영"
+  },
+  {
+   "role": "봉수",
+   "name": "박정원"
+  },
+  {
+   "role": "봉수",
+   "name": "강찬"
+  },
+  {
+   "role": "수아",
+   "name": "박란주"
+  },
+  {
+   "role": "수아",
+   "name": "손지애"
+  },
+  {
+   "role": "수아",
+   "name": "이휴"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251117010546/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166866"
+ }
 }

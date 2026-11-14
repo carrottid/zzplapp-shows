@@ -1,0 +1,38 @@
+{
+ "id": "PF198526",
+ "title": "앵벌애비행",
+ "genre": "연극",
+ "from": "2022-09-28",
+ "to": "2022-10-02",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF198526_220921_112024.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "임동우",
+  "이건희",
+  "이현균",
+  "정인지",
+  "이재진",
+  "이대석",
+  "최유림"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "선명주, 권정택, 이대석 등",
+ "price": "전석 15,000원",
+ "schedule": "수요일 ~ 금요일(19:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198526_220921_1120240.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1964"
+  }
+ ],
+ "updated": "2022-09-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

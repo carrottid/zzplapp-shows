@@ -43,5 +43,63 @@
  ],
  "updated": "2026-10-12 12:25:29",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "여경",
+   "name": "민우혁"
+  },
+  {
+   "role": "여경",
+   "name": "김주택"
+  },
+  {
+   "role": "아랑",
+   "name": "하윤주"
+  },
+  {
+   "role": "아랑",
+   "name": "유리아"
+  },
+  {
+   "role": "도미",
+   "name": "이충주"
+  },
+  {
+   "role": "도미",
+   "name": "김성식"
+  },
+  {
+   "role": "향실",
+   "name": "서영주"
+  },
+  {
+   "role": "향실",
+   "name": "전재홍"
+  },
+  {
+   "role": "비아",
+   "name": "홍륜희"
+  },
+  {
+   "role": "비아",
+   "name": "정은혜"
+  },
+  {
+   "role": "해수",
+   "name": "김진수"
+  },
+  {
+   "role": "",
+   "name": "유성재"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260415155152/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=227289"
+ }
 }

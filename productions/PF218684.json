@@ -36,5 +36,71 @@
  ],
  "updated": "2023-05-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#606060",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "고나연",
+   "name": "정예지"
+  },
+  {
+   "role": "고나연",
+   "name": "김수영"
+  },
+  {
+   "role": "김채경",
+   "name": "김예지"
+  },
+  {
+   "role": "김채경",
+   "name": "이하림"
+  },
+  {
+   "role": "박혜인",
+   "name": "김나현"
+  },
+  {
+   "role": "박혜인",
+   "name": "송이안"
+  },
+  {
+   "role": "유성화",
+   "name": "정예지"
+  },
+  {
+   "role": "유성화",
+   "name": "유지성"
+  },
+  {
+   "role": "안도형",
+   "name": "이신"
+  },
+  {
+   "role": "한세희",
+   "name": "박정인"
+  },
+  {
+   "role": "한세희",
+   "name": "김가윤"
+  },
+  {
+   "role": "",
+   "name": "오근욱"
+  },
+  {
+   "role": "",
+   "name": "소준우"
+  },
+  {
+   "role": "",
+   "name": "김철우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250802221350/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188474"
+ }
 }

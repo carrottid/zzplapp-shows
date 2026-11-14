@@ -55,48 +55,10 @@
   }
  ],
  "updated": "2023-07-28 15:00:00",
- "castSource": "none",
+ "castSource": "plapp",
  "fetchedAt": "2026-11-07T13:16:04",
- "roleCast": [
-  {
-   "role": "제시",
-   "name": "안유진"
-  },
-  {
-   "role": "제시",
-   "name": "임강희"
-  },
-  {
-   "role": "제시",
-   "name": "최우리"
-  },
-  {
-   "role": "우조",
-   "name": "정민"
-  },
-  {
-   "role": "우조",
-   "name": "김찬호"
-  },
-  {
-   "role": "우조",
-   "name": "고상호"
-  },
-  {
-   "role": "선화",
-   "name": "정새별"
-  },
-  {
-   "role": "선화",
-   "name": "임찬민"
-  },
-  {
-   "role": "선화",
-   "name": "정우연"
-  }
- ],
- "roleCastSource": {
-  "name": "더뮤지컬",
-  "url": "https://www.themusical.co.kr/Musical/Detail?num=3173"
+ "color": {
+  "bg": "#452D22",
+  "fg": "#FFFFFF"
  }
 }

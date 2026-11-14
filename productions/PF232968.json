@@ -35,5 +35,67 @@
  ],
  "updated": "2023-12-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#100C0C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "서민아 조모",
+   "name": "지선경"
+  },
+  {
+   "role": "서민아 조부",
+   "name": "임한빈"
+  },
+  {
+   "role": "임초아 부",
+   "name": "임동건"
+  },
+  {
+   "role": "임초아 모",
+   "name": "이은비"
+  },
+  {
+   "role": "김시아 부",
+   "name": "이규민"
+  },
+  {
+   "role": "김시아 모",
+   "name": "박신애"
+  },
+  {
+   "role": "",
+   "name": "배서희"
+  },
+  {
+   "role": "",
+   "name": "노유경"
+  },
+  {
+   "role": "",
+   "name": "이재빈"
+  },
+  {
+   "role": "",
+   "name": "이예은"
+  },
+  {
+   "role": "",
+   "name": "김현기"
+  },
+  {
+   "role": "",
+   "name": "박상규"
+  },
+  {
+   "role": "",
+   "name": "윤보미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240806042053/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=197403"
+ }
 }

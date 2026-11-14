@@ -19,6 +19,18 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#4E5B3C",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF295397",
+   "title": "소녀소년들 (Girls and Boys)",
+   "genre": "연극",
+   "venue": "더 줌 아트센터",
+   "time": "20:00",
    "castSource": "none"
   },
   {

@@ -36,5 +36,27 @@
  ],
  "updated": "2021-03-05 12:17:01",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#7F1C1B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "지니/제니",
+   "name": "조연희"
+  },
+  {
+   "role": "리언",
+   "name": "김동규"
+  },
+  {
+   "role": "리언",
+   "name": "안준호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20210427064431/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163549"
+ }
 }

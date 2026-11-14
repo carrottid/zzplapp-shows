@@ -40,5 +40,23 @@
  ],
  "updated": "2022-02-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#536C93",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "로리",
+   "name": "유주혜"
+  },
+  {
+   "role": "로리",
+   "name": "송상은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230923205844/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172187"
+ }
 }

@@ -11,7 +11,7 @@
  "cast": [
   "박영수",
   "강찬",
-  "박은석",
+  "박재윤",
   "김도현",
   "최현선",
   "이지숙",
@@ -39,5 +39,47 @@
  ],
  "updated": "2021-02-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#260C25",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "남자1",
+   "name": "박영수"
+  },
+  {
+   "role": "남자1",
+   "name": "강찬"
+  },
+  {
+   "role": "남자2",
+   "name": "박재윤"
+  },
+  {
+   "role": "남자2",
+   "name": "김도현"
+  },
+  {
+   "role": "여자1",
+   "name": "최현선"
+  },
+  {
+   "role": "여자1",
+   "name": "이지숙"
+  },
+  {
+   "role": "여자2",
+   "name": "임찬민"
+  },
+  {
+   "role": "여자2",
+   "name": "정다희"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221001153237/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162837"
+ }
 }

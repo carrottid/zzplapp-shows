@@ -38,5 +38,71 @@
  ],
  "updated": "2022-01-26 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#89725C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "용욱",
+   "name": "장준호"
+  },
+  {
+   "role": "용욱",
+   "name": "양진혁"
+  },
+  {
+   "role": "상은",
+   "name": "이지성"
+  },
+  {
+   "role": "상은",
+   "name": "최승별"
+  },
+  {
+   "role": "서씨",
+   "name": "이슬마로"
+  },
+  {
+   "role": "서씨",
+   "name": "최용준"
+  },
+  {
+   "role": "황씨",
+   "name": "이성미"
+  },
+  {
+   "role": "황씨",
+   "name": "고결이"
+  },
+  {
+   "role": "간호사",
+   "name": "최지영"
+  },
+  {
+   "role": "간호사",
+   "name": "김민영"
+  },
+  {
+   "role": "의사",
+   "name": "성형석"
+  },
+  {
+   "role": "의사",
+   "name": "석현준"
+  },
+  {
+   "role": "",
+   "name": "변정우"
+  },
+  {
+   "role": "",
+   "name": "김현승"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251214051551/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171925"
+ }
 }

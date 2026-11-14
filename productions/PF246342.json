@@ -62,5 +62,55 @@
  ],
  "updated": "2024-10-28 13:57:44",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2F3A5A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "영주",
+   "name": "이채원"
+  },
+  {
+   "role": "영주",
+   "name": "이하정"
+  },
+  {
+   "role": "민준",
+   "name": "안태준"
+  },
+  {
+   "role": "민준",
+   "name": "황수빈"
+  },
+  {
+   "role": "승우",
+   "name": "강동석"
+  },
+  {
+   "role": "승우",
+   "name": "김석환"
+  },
+  {
+   "role": "희주",
+   "name": "박나연"
+  },
+  {
+   "role": "희주",
+   "name": "이승우"
+  },
+  {
+   "role": "정서",
+   "name": "김학규"
+  },
+  {
+   "role": "정서",
+   "name": "박형석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010213822/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206355"
+ }
 }

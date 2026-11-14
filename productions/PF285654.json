@@ -1,0 +1,43 @@
+{
+ "id": "PF285654",
+ "title": "조커",
+ "genre": "뮤지컬",
+ "from": "2026-03-12",
+ "to": "2026-03-29",
+ "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF285654_260224_102655.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이한밀",
+  "백인태",
+  "신의정",
+  "이효은",
+  "김주호",
+  "조영근",
+  "조성민"
+ ],
+ "facilityId": "FC000098",
+ "runtime": "1시간 40분",
+ "age": "만 7세 이상",
+ "crew": "백시원, 추정화, 허수현 등",
+ "producer": "(주) 엔제이원",
+ "price": "R석 60,000원, S석 40,000원",
+ "schedule": "화요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF285654_202602241026550700.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26002392"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/6958"
+  }
+ ],
+ "updated": "2026-03-13 12:13:49",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

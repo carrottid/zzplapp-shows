@@ -15,7 +15,7 @@
   "김현숙",
   "엄태리",
   "박인배",
-  "강동우"
+  "강리운"
  ],
  "facilityId": "FC001370",
  "runtime": "2시간 30분",
@@ -47,5 +47,83 @@
  ],
  "updated": "2022-12-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3A1F1A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "루쓰",
+   "name": "선예"
+  },
+  {
+   "role": "루쓰",
+   "name": "정지아"
+  },
+  {
+   "role": "보아스",
+   "name": "김다현"
+  },
+  {
+   "role": "보아스",
+   "name": "이지훈"
+  },
+  {
+   "role": "나오미",
+   "name": "김현숙"
+  },
+  {
+   "role": "나오미",
+   "name": "엄태리"
+  },
+  {
+   "role": "미가엘/엘리에셀",
+   "name": "정원영"
+  },
+  {
+   "role": "미가엘/엘리에셀",
+   "name": "백승렬"
+  },
+  {
+   "role": "아비람",
+   "name": "박인배"
+  },
+  {
+   "role": "아비람",
+   "name": "강리운"
+  },
+  {
+   "role": "브닌나",
+   "name": "정단영"
+  },
+  {
+   "role": "브닌나",
+   "name": "박찬양"
+  },
+  {
+   "role": "",
+   "name": "안솔지"
+  },
+  {
+   "role": "",
+   "name": "김정민"
+  },
+  {
+   "role": "",
+   "name": "안도진"
+  },
+  {
+   "role": "",
+   "name": "박하나"
+  },
+  {
+   "role": "",
+   "name": "이희정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424042750/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=182600"
+ }
 }

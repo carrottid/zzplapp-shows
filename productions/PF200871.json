@@ -39,5 +39,55 @@
  ],
  "updated": "2022-11-10 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#172232",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "맥베스",
+   "name": "류정한"
+  },
+  {
+   "role": "올리비아",
+   "name": "안유진"
+  },
+  {
+   "role": "뱅쿠오",
+   "name": "정원조"
+  },
+  {
+   "role": "맥더프",
+   "name": "김도완"
+  },
+  {
+   "role": "로스",
+   "name": "박동욱"
+  },
+  {
+   "role": "던컨",
+   "name": "이상홍"
+  },
+  {
+   "role": "",
+   "name": "이찬렬"
+  },
+  {
+   "role": "",
+   "name": "정다예"
+  },
+  {
+   "role": "",
+   "name": "홍철희"
+  },
+  {
+   "role": "",
+   "name": "김수종"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620105404/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180827"
+ }
 }

@@ -38,5 +38,71 @@
  ],
  "updated": "2021-08-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#683732",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "MC",
+   "name": "민정기"
+  },
+  {
+   "role": "MC",
+   "name": "안승찬"
+  },
+  {
+   "role": "미스터",
+   "name": "노진욱"
+  },
+  {
+   "role": "미스터",
+   "name": "정윤호"
+  },
+  {
+   "role": "미스터",
+   "name": "최혁진"
+  },
+  {
+   "role": "미스터",
+   "name": "휘림"
+  },
+  {
+   "role": "",
+   "name": "윤준호"
+  },
+  {
+   "role": "",
+   "name": "정승환"
+  },
+  {
+   "role": "",
+   "name": "최훈호"
+  },
+  {
+   "role": "",
+   "name": "손윤필"
+  },
+  {
+   "role": "",
+   "name": "이주형"
+  },
+  {
+   "role": "",
+   "name": "심영준"
+  },
+  {
+   "role": "",
+   "name": "김명준"
+  },
+  {
+   "role": "",
+   "name": "이호석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241102030735/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167608"
+ }
 }

@@ -1,0 +1,101 @@
+{
+ "id": "PF264966",
+ "title": "국립극단, 십이야",
+ "genre": "연극",
+ "from": "2025-06-12",
+ "to": "2025-07-06",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF264966_250515_103022.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강해진",
+  "성원",
+  "구본혁",
+  "이경민",
+  "권재원",
+  "이승우",
+  "김현민"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "2시간",
+ "age": "만 7세 이상",
+ "crew": "임도완, 이은석, 김재승 등",
+ "producer": "(재) 국립극단",
+ "price": "R석 60,000원, S석 45,000원, A석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF264966_250515_1030220.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/257256"
+  },
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12957"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25006923"
+  }
+ ],
+ "updated": "2026-01-21 16:24:56",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "오사룡",
+   "name": "구본혁"
+  },
+  {
+   "role": "신애/만득",
+   "name": "강해진"
+  },
+  {
+   "role": "서린아씨",
+   "name": "백승연"
+  },
+  {
+   "role": "마름",
+   "name": "성원"
+  },
+  {
+   "role": "북쇠",
+   "name": "박경주"
+  },
+  {
+   "role": "쟈가둥",
+   "name": "이경민"
+  },
+  {
+   "role": "",
+   "name": "정다연"
+  },
+  {
+   "role": "",
+   "name": "이승우"
+  },
+  {
+   "role": "",
+   "name": "권재원"
+  },
+  {
+   "role": "",
+   "name": "김현민"
+  },
+  {
+   "role": "",
+   "name": "조승연"
+  },
+  {
+   "role": "",
+   "name": "임채현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612181608/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=217119"
+ }
+}

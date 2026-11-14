@@ -38,5 +38,39 @@
  ],
  "updated": "2021-05-14 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#8C4A2B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "류시우",
+   "name": "안태준"
+  },
+  {
+   "role": "고야마 유코",
+   "name": "김지아"
+  },
+  {
+   "role": "윤교수",
+   "name": "최형석"
+  },
+  {
+   "role": "서민기",
+   "name": "선일"
+  },
+  {
+   "role": "서니",
+   "name": "이선"
+  },
+  {
+   "role": "유니",
+   "name": "허윤지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240620150932/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165200"
+ }
 }

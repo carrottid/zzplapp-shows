@@ -37,5 +37,39 @@
  ],
  "updated": "2023-06-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#D6A00F",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "광대 1",
+   "name": "김선권"
+  },
+  {
+   "role": "광대 2",
+   "name": "장원경"
+  },
+  {
+   "role": "광대 3",
+   "name": "이경민"
+  },
+  {
+   "role": "광대 4",
+   "name": "전민영"
+  },
+  {
+   "role": "광대 5",
+   "name": "최예경"
+  },
+  {
+   "role": "광대 6",
+   "name": "백준헌"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014234743/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=189839"
+ }
 }

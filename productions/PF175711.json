@@ -46,5 +46,95 @@
  ],
  "updated": "2021-06-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#9C232D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "빌리",
+   "name": "김시훈"
+  },
+  {
+   "role": "빌리",
+   "name": "이우진"
+  },
+  {
+   "role": "빌리",
+   "name": "전강혁"
+  },
+  {
+   "role": "빌리",
+   "name": "주현준"
+  },
+  {
+   "role": "아버지",
+   "name": "조정근"
+  },
+  {
+   "role": "아버지",
+   "name": "최동원"
+  },
+  {
+   "role": "미세스 윌킨슨",
+   "name": "최정원"
+  },
+  {
+   "role": "미세스 윌킨슨",
+   "name": "김영주"
+  },
+  {
+   "role": "할머니",
+   "name": "박정자"
+  },
+  {
+   "role": "할머니",
+   "name": "홍윤희"
+  },
+  {
+   "role": "마이클",
+   "name": "강현중"
+  },
+  {
+   "role": "마이클",
+   "name": "나다움"
+  },
+  {
+   "role": "마이클",
+   "name": "성주환"
+  },
+  {
+   "role": "마이클",
+   "name": "임동빈"
+  },
+  {
+   "role": "토니",
+   "name": "김시영"
+  },
+  {
+   "role": "",
+   "name": "오세준"
+  },
+  {
+   "role": "",
+   "name": "김명희"
+  },
+  {
+   "role": "",
+   "name": "이선태"
+  },
+  {
+   "role": "",
+   "name": "김명윤"
+  },
+  {
+   "role": "",
+   "name": "서만석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260616023832/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165779"
+ }
 }

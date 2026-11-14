@@ -39,5 +39,59 @@
  ],
  "updated": "2023-11-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#683739",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "문준경",
+   "name": "엄태리"
+  },
+  {
+   "role": "문준경",
+   "name": "최지영"
+  },
+  {
+   "role": "이성봉",
+   "name": "남해현"
+  },
+  {
+   "role": "백정희",
+   "name": "김지현"
+  },
+  {
+   "role": "정근택",
+   "name": "김동환"
+  },
+  {
+   "role": "게이샤",
+   "name": "신민희"
+  },
+  {
+   "role": "게이샤",
+   "name": "권미경"
+  },
+  {
+   "role": "경방단",
+   "name": "김원철"
+  },
+  {
+   "role": "경방단",
+   "name": "이원법"
+  },
+  {
+   "role": "",
+   "name": "황병일"
+  },
+  {
+   "role": "",
+   "name": "조은경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250708023643/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196291"
+ }
 }

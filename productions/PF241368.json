@@ -15,7 +15,7 @@
   "이봄소리",
   "정지소",
   "이재진",
-  "김진욱"
+  "차윤해"
  ],
  "facilityId": "FC000001",
  "runtime": "2시간 50분",
@@ -43,5 +43,71 @@
  ],
  "updated": "2024-12-23 16:57:38",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#805F60",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아리마 코세이",
+   "name": "이홍기"
+  },
+  {
+   "role": "아리마 코세이",
+   "name": "윤소호"
+  },
+  {
+   "role": "아리마 코세이",
+   "name": "김희재"
+  },
+  {
+   "role": "미야조노 카오리",
+   "name": "이봄소리"
+  },
+  {
+   "role": "미야조노 카오리",
+   "name": "케이"
+  },
+  {
+   "role": "미야조노 카오리",
+   "name": "정지소"
+  },
+  {
+   "role": "와타리 료타",
+   "name": "이재진"
+  },
+  {
+   "role": "와타리 료타",
+   "name": "차윤해"
+  },
+  {
+   "role": "와타리 료타",
+   "name": "조환지"
+  },
+  {
+   "role": "사와베 츠바키",
+   "name": "박시인"
+  },
+  {
+   "role": "사와베 츠바키",
+   "name": "황우림"
+  },
+  {
+   "role": "카오리 아버지",
+   "name": "이상준"
+  },
+  {
+   "role": "카오리 어머니",
+   "name": "이은율"
+  },
+  {
+   "role": "",
+   "name": "지원선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250712064234/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202982"
+ }
 }

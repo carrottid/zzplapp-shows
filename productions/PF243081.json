@@ -51,5 +51,39 @@
  ],
  "updated": "2024-06-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A2B18",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "큰유진",
+   "name": "최태이"
+  },
+  {
+   "role": "큰유진",
+   "name": "오유민"
+  },
+  {
+   "role": "큰유진",
+   "name": "전혜주"
+  },
+  {
+   "role": "작은유진",
+   "name": "유주혜"
+  },
+  {
+   "role": "작은유진",
+   "name": "강혜인"
+  },
+  {
+   "role": "작은유진",
+   "name": "이한별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622150104/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203978"
+ }
 }

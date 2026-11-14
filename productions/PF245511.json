@@ -43,5 +43,95 @@
  ],
  "updated": "2025-04-04 16:10:45",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3B2A1A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김계동",
+   "name": "이일섭"
+  },
+  {
+   "role": "김수혁",
+   "name": "최우성"
+  },
+  {
+   "role": "김혜주",
+   "name": "류진현"
+  },
+  {
+   "role": "대장",
+   "name": "정운봉"
+  },
+  {
+   "role": "국밥집 주인",
+   "name": "권혁풍"
+  },
+  {
+   "role": "교장",
+   "name": "강성해"
+  },
+  {
+   "role": "",
+   "name": "한록수"
+  },
+  {
+   "role": "",
+   "name": "이계영"
+  },
+  {
+   "role": "",
+   "name": "박은영"
+  },
+  {
+   "role": "",
+   "name": "최홍준"
+  },
+  {
+   "role": "",
+   "name": "강한별"
+  },
+  {
+   "role": "",
+   "name": "최혜주"
+  },
+  {
+   "role": "",
+   "name": "안채헌"
+  },
+  {
+   "role": "",
+   "name": "박소진"
+  },
+  {
+   "role": "",
+   "name": "김성수"
+  },
+  {
+   "role": "",
+   "name": "신무길"
+  },
+  {
+   "role": "",
+   "name": "이예은"
+  },
+  {
+   "role": "",
+   "name": "김한별"
+  },
+  {
+   "role": "",
+   "name": "이성재"
+  },
+  {
+   "role": "",
+   "name": "조항진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250121220645/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207662"
+ }
 }

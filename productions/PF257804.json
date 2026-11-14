@@ -39,5 +39,47 @@
  ],
  "updated": "2025-07-03 16:18:44",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#7F7263",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "임운상",
+   "name": "이윤재"
+  },
+  {
+   "role": "김선자",
+   "name": "김정아"
+  },
+  {
+   "role": "김오수",
+   "name": "신강수"
+  },
+  {
+   "role": "김영국",
+   "name": "김진복"
+  },
+  {
+   "role": "석미영",
+   "name": "문현정"
+  },
+  {
+   "role": "반철승",
+   "name": "송철호"
+  },
+  {
+   "role": "",
+   "name": "강정윤"
+  },
+  {
+   "role": "",
+   "name": "이세영"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250523171443/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212917"
+ }
 }

@@ -55,5 +55,59 @@
  ],
  "updated": "2020-11-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4B1914",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "정동우",
+   "name": "서승원"
+  },
+  {
+   "role": "정동우",
+   "name": "주석태"
+  },
+  {
+   "role": "정동우",
+   "name": "이준혁"
+  },
+  {
+   "role": "윤영준",
+   "name": "양승리"
+  },
+  {
+   "role": "윤영준",
+   "name": "김지휘"
+  },
+  {
+   "role": "진세희",
+   "name": "김주연"
+  },
+  {
+   "role": "진세희",
+   "name": "서혜원"
+  },
+  {
+   "role": "유진",
+   "name": "이우종"
+  },
+  {
+   "role": "유진",
+   "name": "김아석"
+  },
+  {
+   "role": "지수",
+   "name": "병헌"
+  },
+  {
+   "role": "지수",
+   "name": "임건혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251205063538/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=158815"
+ }
 }

@@ -14,7 +14,7 @@
   "박상혁",
   "윤재호",
   "황휘",
-  "김진욱",
+  "차윤해",
   "정승훈"
  ],
  "facilityId": "FC000014",
@@ -78,11 +78,15 @@
   },
   {
    "role": "그",
-   "name": "김진욱"
+   "name": "차윤해"
   }
  ],
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3095"
+ },
+ "color": {
+  "bg": "#957F51",
+  "fg": "#111111"
  }
 }

@@ -42,5 +42,43 @@
  ],
  "updated": "2023-05-17 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#837162",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "컨덕터/개발자",
+   "name": "김동규"
+  },
+  {
+   "role": "지니",
+   "name": "라소영"
+  },
+  {
+   "role": "이나",
+   "name": "신정연"
+  },
+  {
+   "role": "리언",
+   "name": "안준호"
+  },
+  {
+   "role": "컨덕터/A.I.R",
+   "name": "이성재"
+  },
+  {
+   "role": "수나",
+   "name": "이수영"
+  },
+  {
+   "role": "",
+   "name": "황윤지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250621044139/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=188403"
+ }
 }

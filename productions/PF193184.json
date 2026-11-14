@@ -25,5 +25,35 @@
  ],
  "updated": "2022-06-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#615E59",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "카사노바",
+   "name": "지현준"
+  },
+  {
+   "role": "미세스 테넌트",
+   "name": "이영숙"
+  },
+  {
+   "role": "캐비넷 메이커",
+   "name": "정승길"
+  },
+  {
+   "role": "케이트",
+   "name": "이지혜"
+  },
+  {
+   "role": "마리 루이스",
+   "name": "허진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908030844/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=175637"
+ }
 }

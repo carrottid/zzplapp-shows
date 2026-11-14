@@ -34,5 +34,43 @@
  ],
  "updated": "2025-02-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1A0708",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "정진철",
+   "name": "서정식"
+  },
+  {
+   "role": "정진우",
+   "name": "오경주"
+  },
+  {
+   "role": "정진우",
+   "name": "허영손"
+  },
+  {
+   "role": "소방관",
+   "name": "송용진"
+  },
+  {
+   "role": "소방관",
+   "name": "박강원"
+  },
+  {
+   "role": "소방관",
+   "name": "신준일"
+  },
+  {
+   "role": "소방관",
+   "name": "김유림"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516200748/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=213920"
+ }
 }

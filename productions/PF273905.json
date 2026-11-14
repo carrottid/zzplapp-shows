@@ -43,5 +43,43 @@
  ],
  "updated": "2025-10-30 11:32:37",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#A67C52",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "빵야",
+   "name": "김지온"
+  },
+  {
+   "role": "나나",
+   "name": "전성민"
+  },
+  {
+   "role": "기무라 외",
+   "name": "박동욱"
+  },
+  {
+   "role": "동식 외",
+   "name": "송상훈"
+  },
+  {
+   "role": "원교 외",
+   "name": "허영손"
+  },
+  {
+   "role": "선녀 외",
+   "name": "장희원"
+  },
+  {
+   "role": "",
+   "name": "박수야"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251010175511/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=221716"
+ }
 }

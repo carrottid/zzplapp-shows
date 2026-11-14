@@ -1,0 +1,48 @@
+{
+ "id": "PF302953",
+ "title": "선돌, 정반합: 은막",
+ "genre": "연극",
+ "from": "2026-10-29",
+ "to": "2026-11-01",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302953_261012_141425.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김하정",
+  "박세은",
+  "이중윤",
+  "이민우"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 20분",
+ "age": "만 13세 이상",
+ "crew": "이실론, 손은재, 이세희 등",
+ "producer": "극단 놀땅",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF302953_202610120214256820.jpg"
+ ],
+ "links": [
+  {
+   "name": "공기",
+   "url": "https://dash.gongki.com/reserve?eventId=1791334786"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1759708"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26014230"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1791461898"
+  }
+ ],
+ "updated": "2026-10-28 10:18:21",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

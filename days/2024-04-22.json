@@ -7,6 +7,18 @@
    "genre": "연극",
    "venue": "백암아트홀",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#974E4E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF237184",
+   "title": "국립극단, 스카팽",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -15,7 +27,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#231712",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234505",
@@ -23,7 +39,25 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "황두현"
+    },
+    {
+     "name": "홍성원"
+    },
+    {
+     "name": "송상훈"
+    },
+    {
+     "name": "정경훈"
+    }
+   ],
+   "color": {
+    "bg": "#E6BC00",
+    "fg": "#111111"
+   }
   }
  ]
 }

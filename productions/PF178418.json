@@ -1,0 +1,48 @@
+{
+ "id": "PF178418",
+ "title": "김이박이 고등학교에 입학할 때 김이박이 고등학교에 입학한다",
+ "genre": "연극",
+ "from": "2021-09-02",
+ "to": "2021-09-19",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF178418_210817_102037.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "백소정",
+  "최희진"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 20분",
+ "age": "만 14세 이상",
+ "crew": "이래은, 이오진, 김태령 등",
+ "producer": "달과아이극단, 페미씨어터",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF178418_210817_1020370.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21007137"
+  }
+ ],
+ "updated": "2025-05-12 17:40:49",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "김이박",
+   "name": "최희진"
+  },
+  {
+   "role": "김이박",
+   "name": "백소정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240521043756/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167296"
+ }
+}

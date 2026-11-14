@@ -1,0 +1,42 @@
+{
+ "id": "PF224708",
+ "title": "프레스콜",
+ "genre": "뮤지컬",
+ "from": "2023-08-31",
+ "to": "2023-09-03",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF224708_230828_141028.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신혜수",
+  "김재훈",
+  "신지원",
+  "김호준",
+  "김지호",
+  "이강민",
+  "이유림"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 30분",
+ "age": "만 19세 이상",
+ "crew": "이규원, 박동규, 최지영 등",
+ "producer": "KT&G 상상유니브",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:00), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224708_230828_0210283.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224708_230828_0210282.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224708_230828_0210281.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF224708_230828_0210280.png"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/966636"
+  }
+ ],
+ "updated": "2023-08-28 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

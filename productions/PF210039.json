@@ -1,0 +1,39 @@
+{
+ "id": "PF210039",
+ "title": "앨리",
+ "genre": "연극",
+ "from": "2023-02-02",
+ "to": "2023-02-05",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF210039_230119_122425.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김준탁",
+  "권기은",
+  "이준수",
+  "정하얀",
+  "장윤원"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "이지형, 김우탁, 최상익",
+ "price": "전석 35,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF210039_230119_1224253.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF210039_230119_1224252.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF210039_230119_1224251.png",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF210039_230119_1224250.png"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/833840"
+  }
+ ],
+ "updated": "2023-01-19 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

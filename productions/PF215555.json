@@ -38,5 +38,39 @@
  ],
  "updated": "2023-03-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#D51119",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "",
+   "name": "카이"
+  },
+  {
+   "role": "",
+   "name": "민영기"
+  },
+  {
+   "role": "",
+   "name": "김소향"
+  },
+  {
+   "role": "",
+   "name": "김성식"
+  },
+  {
+   "role": "",
+   "name": "해나"
+  },
+  {
+   "role": "지휘",
+   "name": "이성준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241102141618/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186435"
+ }
 }

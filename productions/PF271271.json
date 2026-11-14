@@ -1,0 +1,104 @@
+{
+ "id": "PF271271",
+ "title": "나도 이제 결혼하고 싶다",
+ "genre": "연극",
+ "from": "2025-08-26",
+ "to": "2025-09-14",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF271271_250807_180029.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "손건우",
+  "배혜미",
+  "이태검",
+  "기혜유",
+  "유건우",
+  "안유민",
+  "임현준"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "도규, 이호선, 정태민 등",
+ "price": "전석 45,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF271271_202508070600296480.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13129"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1471284"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25011135"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD28330"
+  }
+ ],
+ "updated": "2025-08-29 12:42:51",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "이동주",
+   "name": "안유민"
+  },
+  {
+   "role": "이동주",
+   "name": "시민지"
+  },
+  {
+   "role": "이지안",
+   "name": "이선"
+  },
+  {
+   "role": "이지안",
+   "name": "강다영"
+  },
+  {
+   "role": "정국영",
+   "name": "김병윤"
+  },
+  {
+   "role": "정국영",
+   "name": "임영준"
+  },
+  {
+   "role": "이동진",
+   "name": "이태검"
+  },
+  {
+   "role": "이동진",
+   "name": "손건우"
+  },
+  {
+   "role": "윤혜수",
+   "name": "배혜미"
+  },
+  {
+   "role": "윤혜수",
+   "name": "기혜유"
+  },
+  {
+   "role": "주상구",
+   "name": "유건우"
+  },
+  {
+   "role": "주상구",
+   "name": "임현준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251118221951/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=220375"
+ }
+}

@@ -47,5 +47,59 @@
  ],
  "updated": "2026-05-07 13:55:48",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#F7D23E",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "준",
+   "name": "정욱진"
+  },
+  {
+   "role": "준",
+   "name": "황두현"
+  },
+  {
+   "role": "준",
+   "name": "원찬"
+  },
+  {
+   "role": "준",
+   "name": "류동휘"
+  },
+  {
+   "role": "양철",
+   "name": "송유택"
+  },
+  {
+   "role": "양철",
+   "name": "임재윤"
+  },
+  {
+   "role": "양철",
+   "name": "박주혁"
+  },
+  {
+   "role": "맥스",
+   "name": "박세훈"
+  },
+  {
+   "role": "맥스",
+   "name": "조현우"
+  },
+  {
+   "role": "버튼",
+   "name": "이한울"
+  },
+  {
+   "role": "버튼",
+   "name": "김현기"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260717201115/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=229272"
+ }
 }

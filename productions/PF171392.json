@@ -42,5 +42,19 @@
  ],
  "updated": "2021-02-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#CE6718",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "박민수",
+   "name": "김민수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20221001051749/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162913"
+ }
 }

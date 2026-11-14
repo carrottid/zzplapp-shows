@@ -66,5 +66,51 @@
  ],
  "updated": "2021-09-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1A2A30",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아더",
+   "name": "기세중"
+  },
+  {
+   "role": "아더",
+   "name": "정휘"
+  },
+  {
+   "role": "아더",
+   "name": "이재진"
+  },
+  {
+   "role": "존",
+   "name": "김종구"
+  },
+  {
+   "role": "존",
+   "name": "정민"
+  },
+  {
+   "role": "존",
+   "name": "조풍래"
+  },
+  {
+   "role": "엠마",
+   "name": "김주연"
+  },
+  {
+   "role": "엠마",
+   "name": "김이후"
+  },
+  {
+   "role": "엠마",
+   "name": "최지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230731064919/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168345"
+ }
 }

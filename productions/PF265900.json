@@ -1,0 +1,76 @@
+{
+ "id": "PF265900",
+ "title": "전쟁터의 소풍",
+ "genre": "연극",
+ "from": "2025-07-04",
+ "to": "2025-07-13",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF265900_250527_131930.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "경미",
+  "김영경",
+  "박정인",
+  "이형주",
+  "이경성",
+  "한동훈",
+  "정다정"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "김미라, 김승철, 공양제 등",
+ "price": "전석 30,000원",
+ "schedule": "화요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF265900_250527_0119300.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=25007371"
+  },
+  {
+   "name": "대학로티켓닷컴",
+   "url": "http://www.maketicket.co.kr/ticket/GD27773"
+  }
+ ],
+ "updated": "2025-05-28 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "칼",
+   "name": "경미"
+  },
+  {
+   "role": "자뽀",
+   "name": "김영경"
+  },
+  {
+   "role": "제뽀",
+   "name": "박정인"
+  },
+  {
+   "role": "떼빵씨",
+   "name": "이형주"
+  },
+  {
+   "role": "떼빵부인",
+   "name": "이경성"
+  },
+  {
+   "role": "위생병1",
+   "name": "한동훈"
+  },
+  {
+   "role": "",
+   "name": "정다정"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251016182729/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=217533"
+ }
+}

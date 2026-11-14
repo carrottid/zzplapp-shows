@@ -1,6 +1,12 @@
 {
- "updatedAt": "2026-11-14T09:17:58",
+ "updatedAt": "2026-11-14T14:15:05",
  "archives": [
+  "1987",
+  "1988",
+  "1989",
+  "1990",
+  "1991",
+  "1992",
   "1994",
   "1995",
   "1996",
@@ -54,7 +60,11 @@
     "조렐 하비에르"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#F2A33A"
+   }
   },
   {
    "id": "PF287489",
@@ -146,7 +156,11 @@
     "노희찬"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#2A4A6B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302842",
@@ -189,7 +203,7 @@
     "송상훈"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "nol"
   },
   {
    "id": "PF291313",
@@ -376,7 +390,7 @@
     "김경록"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF302744",
@@ -420,7 +434,11 @@
     "이진혁"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "nol",
+   "color": {
+    "bg": "#1C2433",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299888",
@@ -604,7 +622,11 @@
     "정택운"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "nol",
+   "color": {
+    "bg": "#F4C430",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305949",
@@ -624,7 +646,11 @@
     "이유진"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#A8374B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305968",
@@ -644,7 +670,11 @@
     "오용"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "ticketlink",
+   "color": {
+    "bg": "#6B4A2E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305855",
@@ -660,7 +690,11 @@
     "정대진"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp",
+   "color": {
+    "bg": "#E0287A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300084",
@@ -752,7 +786,11 @@
     "심안나"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3C5A7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF299874",
@@ -916,7 +954,11 @@
     "정지환"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp",
+   "color": {
+    "bg": "#E9A6C0",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF306330",
@@ -936,7 +978,7 @@
     "김예환"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF282162",
@@ -1111,7 +1153,7 @@
     "김도하"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "ticketlink"
   },
   {
    "id": "PF305951",
@@ -1131,7 +1173,11 @@
     "윤은오"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp",
+   "color": {
+    "bg": "#2E2A22",
+    "fg": "#E8C77A"
+   }
   },
   {
    "id": "PF304638",
@@ -1197,7 +1243,11 @@
     "최현조"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1D4A5A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305003",
@@ -1212,7 +1262,11 @@
     "전하영"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp",
+   "color": {
+    "bg": "#4E6A85",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF305175",
@@ -1232,7 +1286,11 @@
     "한수야"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp",
+   "color": {
+    "bg": "#7A6A55",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304086",
@@ -1294,7 +1352,11 @@
     "한경수"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E84A8A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305906",
@@ -1314,7 +1376,11 @@
     "장지민"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp",
+   "color": {
+    "bg": "#4B2A7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF301682",
@@ -1395,7 +1461,7 @@
    "venue": "유니플렉스 (1관(대극장))",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303673_261019_104705.gif",
    "cast": [
-    "조강현",
+    "조성윤",
     "강기둥",
     "정욱진",
     "유현석",
@@ -1425,7 +1491,11 @@
     "방준서"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5A6B7D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304909",
@@ -1516,7 +1586,7 @@
     "박영빈"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#0F6B4B",
     "fg": "#FFFFFF"
@@ -1876,7 +1946,11 @@
     "최서인"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp",
+   "color": {
+    "bg": "#4B2E83",
+    "fg": "#FFD84D"
+   }
   },
   {
    "id": "PF282986",
@@ -1931,7 +2005,7 @@
     "김재범"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A4A58",
     "fg": "#FFFFFF"
@@ -1979,7 +2053,7 @@
     "김정호"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#D62828",
     "fg": "#FFFFFF"
@@ -2003,7 +2077,7 @@
     "탁승빈"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F0287F",
     "fg": "#FFFFFF"
@@ -2027,7 +2101,11 @@
     "박병준"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "plapp",
+   "color": {
+    "bg": "#4B2E83",
+    "fg": "#FFD84D"
+   }
   },
   {
    "id": "PF305738",
@@ -2047,7 +2125,11 @@
     "이현주"
    ],
    "state": "공연예정",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#7A5E47",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF304248",
@@ -2114,8 +2196,12 @@
     "김정민",
     "성찬경"
    ],
-   "state": "공연예정",
-   "castSource": "none"
+   "state": "공연중",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E2A7A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300974",
@@ -2273,7 +2359,7 @@
     "김시유"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "color": {
     "bg": "#3A6FA8",
     "fg": "#FFFFFF"
@@ -2388,7 +2474,7 @@
     "김예은"
    ],
    "state": "공연중",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F26B1D",
     "fg": "#1B2A6B"
@@ -2454,6 +2540,26 @@
    }
   },
   {
+   "id": "PF303872",
+   "title": "뮤지컬 워크샵, 시지프스",
+   "genre": "뮤지컬",
+   "from": "2026-11-06",
+   "to": "2026-11-08",
+   "venue": "산울림소극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303872_261020_125028.png",
+   "cast": [
+    "곽현진",
+    "오수현",
+    "이태우",
+    "김나영",
+    "전유빈",
+    "김나연",
+    "허유빈"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF301712",
    "title": "제1회 ST-NOVA, (언) 리쉬드",
    "genre": "연극",
@@ -2486,7 +2592,7 @@
     "하희라"
    ],
    "state": "공연중",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
@@ -2700,6 +2806,22 @@
    }
   },
   {
+   "id": "PF304793",
+   "title": "두놈들",
+   "genre": "연극",
+   "from": "2026-10-31",
+   "to": "2026-11-01",
+   "venue": "후암스테이지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304793_261029_110038.jpg",
+   "cast": [
+    "이현웅",
+    "강민수",
+    "장덕원"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF298984",
    "title": "리: 바운드 축제, 선녀씨 이야기",
    "genre": "연극",
@@ -2764,7 +2886,7 @@
     "김지인"
    ],
    "state": "공연중",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3F4A44",
     "fg": "#F2C94C"
@@ -2843,6 +2965,23 @@
    }
   },
   {
+   "id": "PF302953",
+   "title": "선돌, 정반합: 은막",
+   "genre": "연극",
+   "from": "2026-10-29",
+   "to": "2026-11-01",
+   "venue": "선돌극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302953_261012_141425.gif",
+   "cast": [
+    "김하정",
+    "박세은",
+    "이중윤",
+    "이민우"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF303268",
    "title": "80일의 끝에서 낭독공연",
    "genre": "뮤지컬",
@@ -2865,6 +3004,25 @@
     "bg": "#B8B6A8",
     "fg": "#1E2A3A"
    }
+  },
+  {
+   "id": "PF300515",
+   "title": "제11회 SF연극제, 여름의 미래",
+   "genre": "연극",
+   "from": "2026-10-28",
+   "to": "2026-11-01",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300515_260909_152103.gif",
+   "cast": [
+    "한우림",
+    "성지예",
+    "이시윤",
+    "박현진",
+    "신수언",
+    "배서진"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF300582",
@@ -2931,7 +3089,7 @@
     "우미화"
    ],
    "state": "공연중",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#6E6E72",
     "fg": "#FFFFFF"
@@ -2955,7 +3113,7 @@
     "김시영"
    ],
    "state": "공연중",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C98AA0",
     "fg": "#FFFFFF"
@@ -3027,7 +3185,7 @@
     "박세은"
    ],
    "state": "공연중",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#5B7FA6",
     "fg": "#FFFFFF"
@@ -3062,7 +3220,7 @@
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301912_260929_101243.gif",
    "cast": [
     "엄기준",
-    "박은석",
+    "박재윤",
     "박정원",
     "김우석",
     "이정화",
@@ -3132,6 +3290,45 @@
     "bg": "#2F6F73",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF301514",
+   "title": "D.FESTA 소극장축제, 달빛수리점",
+   "genre": "연극",
+   "from": "2026-10-24",
+   "to": "2026-10-25",
+   "venue": "열린극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301514_260922_102004.gif",
+   "cast": [
+    "태항호",
+    "윤선아",
+    "이채원",
+    "김낙연",
+    "김사희",
+    "정현호"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF303311",
+   "title": "혜화동 1번지 동인 페스티벌, 지역 대축제: 혜화동 노래자랑",
+   "genre": "연극",
+   "from": "2026-10-24",
+   "to": "2026-10-24",
+   "venue": "연극실험실 혜화동1번지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303311_261014_141926.png",
+   "cast": [
+    "강동훈",
+    "김지인",
+    "김단아",
+    "이미애",
+    "조마리",
+    "정춘백",
+    "최승민"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF291887",
@@ -3252,6 +3449,95 @@
    }
   },
   {
+   "id": "PF301760",
+   "title": "잊혀질 권리",
+   "genre": "연극",
+   "from": "2026-10-22",
+   "to": "2026-10-25",
+   "venue": "나온씨어터",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301760_260928_124319.gif",
+   "cast": [
+    "서유진",
+    "곽지우",
+    "박지우",
+    "이미현",
+    "이성호",
+    "이상민",
+    "은혜수"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301777",
+   "title": "세상이 끝날 때까지 아직 10억 년",
+   "genre": "연극",
+   "from": "2026-10-22",
+   "to": "2026-10-31",
+   "venue": "연우소극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301777_260928_132515.gif",
+   "cast": [
+    "김동민",
+    "김현",
+    "박지원",
+    "하영미"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302758",
+   "title": "선돌, 정반합: 여기까지",
+   "genre": "연극",
+   "from": "2026-10-22",
+   "to": "2026-10-25",
+   "venue": "선돌극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302758_261007_153959.gif",
+   "cast": [
+    "김신연",
+    "오승은",
+    "박범수",
+    "이청안"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300355",
+   "title": "제6회 여주인공 페스티벌, 이혼고백서",
+   "genre": "연극",
+   "from": "2026-10-21",
+   "to": "2026-10-25",
+   "venue": "미마지아트센터 (물빛극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300355_260908_102137.gif",
+   "cast": [
+    "조혜선",
+    "송흥진",
+    "이현호",
+    "고규빈",
+    "김지영",
+    "박소현",
+    "백운철"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300513",
+   "title": "제11회 SF연극제, 로제타와 필레",
+   "genre": "연극",
+   "from": "2026-10-21",
+   "to": "2026-10-25",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300513_260909_151332.gif",
+   "cast": [
+    "최윤서",
+    "한도경"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF302270",
    "title": "V 에버 애프터",
    "genre": "뮤지컬",
@@ -3296,6 +3582,41 @@
    }
   },
   {
+   "id": "PF303427",
+   "title": "셰익스피어가 틀렸다",
+   "genre": "연극",
+   "from": "2026-10-21",
+   "to": "2026-10-25",
+   "venue": "후암스테이지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303427_261015_124603.gif",
+   "cast": [
+    "조준희",
+    "남건우"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF304024",
+   "title": "연습실 기반 이중 구조의 현재성 연구: 희곡 평범한 가족을 중심으로",
+   "genre": "연극",
+   "from": "2026-10-21",
+   "to": "2026-11-01",
+   "venue": "삼일로창고극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF304024_261021_140745.gif",
+   "cast": [
+    "김미식",
+    "이건우",
+    "한재학",
+    "박애림",
+    "장희원",
+    "한나라",
+    "선희태"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF300800",
    "title": "서울아트마켓 (PAMS) x SPAF, 제로셋 프로젝트: 어서오세요",
    "genre": "연극",
@@ -3337,6 +3658,21 @@
     "bg": "#C0392B",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF303725",
+   "title": "D.FESTA 소극장축제: 토스트 구워주는 남자, 전하지 못한 진심",
+   "genre": "연극",
+   "from": "2026-10-20",
+   "to": "2026-10-21",
+   "venue": "열린극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF303725_261019_131437.gif",
+   "cast": [
+    "최지은",
+    "박신운"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF302497",
@@ -3569,6 +3905,38 @@
    }
   },
   {
+   "id": "PF301881",
+   "title": "태국GL드라마가 한 퀴어 여성에게 미치는 영향",
+   "genre": "연극",
+   "from": "2026-10-16",
+   "to": "2026-10-18",
+   "venue": "나온씨어터",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301881_260928_165606.gif",
+   "cast": [
+    "나희경"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302143",
+   "title": "21일: 엔딩을 정하는 중입니다",
+   "genre": "연극",
+   "from": "2026-10-16",
+   "to": "2026-10-18",
+   "venue": "삼일로창고극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302143_260930_143628.gif",
+   "cast": [
+    "공주현",
+    "김성진",
+    "김찬유",
+    "손병제",
+    "이진영"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF298779",
    "title": "제26회 SPAF, 뺨을 맞지 않고 사는 게 삶의 전부가 될 순 없더라",
    "genre": "연극",
@@ -3582,6 +3950,93 @@
     "bg": "#1F3A33",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF301542",
+   "title": "더 스톤즈: 소년이 그랬다",
+   "genre": "연극",
+   "from": "2026-10-15",
+   "to": "2026-10-18",
+   "venue": "열린극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301542_260922_112437.gif",
+   "cast": [
+    "서정우",
+    "남동명"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302264",
+   "title": "선돌, 정반합: 싸롱 닐바나",
+   "genre": "연극",
+   "from": "2026-10-15",
+   "to": "2026-10-18",
+   "venue": "선돌극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302264_261001_143948.gif",
+   "cast": [
+    "장연익",
+    "서동갑",
+    "정솔이",
+    "배지우"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302306",
+   "title": "2인실 x 무간도",
+   "genre": "연극",
+   "from": "2026-10-15",
+   "to": "2026-10-18",
+   "venue": "후암스테이지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302306_261002_105332.gif",
+   "cast": [
+    "배소희",
+    "김명애",
+    "강민석",
+    "이헌일"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300889",
+   "title": "제6회 여주인공 페스티벌, 희재",
+   "genre": "연극",
+   "from": "2026-10-14",
+   "to": "2026-10-18",
+   "venue": "미마지아트센터 (물빛극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300889_260914_162251.png",
+   "cast": [
+    "서지유",
+    "송용식",
+    "손난희",
+    "홍성희",
+    "박세웅"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302077",
+   "title": "제11회 SF연극제, 에필로그: 인간",
+   "genre": "연극",
+   "from": "2026-10-14",
+   "to": "2026-10-18",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302077_260930_111343.gif",
+   "cast": [
+    "강민",
+    "고수윤",
+    "김정현",
+    "박기령",
+    "박소연",
+    "이나현",
+    "정기자"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF300598",
@@ -3674,6 +4129,45 @@
    }
   },
   {
+   "id": "PF301722",
+   "title": "D.FESTA 소극장축제, 3일",
+   "genre": "연극",
+   "from": "2026-10-10",
+   "to": "2026-10-11",
+   "venue": "후암스테이지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301722_260928_103401.gif",
+   "cast": [
+    "안상우",
+    "이경성",
+    "이현수",
+    "이규태",
+    "홍순목",
+    "권나영"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300416",
+   "title": "굿모닝? 체홉: 그 많던 갈매기는 누가 다 죽였을까",
+   "genre": "연극",
+   "from": "2026-10-09",
+   "to": "2026-10-18",
+   "venue": "연우소극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300416_260908_141950.gif",
+   "cast": [
+    "이형우",
+    "심태연",
+    "서별",
+    "김현영",
+    "박진영",
+    "박제훈",
+    "안시연"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF300616",
    "title": "너를 들고 간다",
    "genre": "연극",
@@ -3698,6 +4192,62 @@
    }
   },
   {
+   "id": "PF300853",
+   "title": "정의의 사람들",
+   "genre": "연극",
+   "from": "2026-10-09",
+   "to": "2026-10-11",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300853_260914_145419.gif",
+   "cast": [
+    "최주희",
+    "정재원",
+    "노흥래",
+    "서예찬",
+    "성태엽",
+    "장한빛",
+    "최정현"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301690",
+   "title": "나의 빨간날",
+   "genre": "연극",
+   "from": "2026-10-09",
+   "to": "2026-10-11",
+   "venue": "아르코 꿈밭극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301690_260923_134928.jpeg",
+   "cast": [
+    "김다영",
+    "박수빈",
+    "이미라",
+    "김상현"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF301836",
+   "title": "검사반점",
+   "genre": "연극",
+   "from": "2026-10-09",
+   "to": "2026-10-11",
+   "venue": "열린극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301836_260928_151149.jpg",
+   "cast": [
+    "박아정",
+    "이은빈",
+    "박한솔",
+    "문아연",
+    "김성곤",
+    "백재민"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF298751",
    "title": "제26회 SPAF, 사이의 거리",
    "genre": "연극",
@@ -3715,6 +4265,38 @@
     "bg": "#B5651D",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF301300",
+   "title": "선돌, 정반합: Oh, Girl!",
+   "genre": "연극",
+   "from": "2026-10-08",
+   "to": "2026-10-11",
+   "venue": "선돌극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301300_260918_133102.gif",
+   "cast": [
+    "김나래",
+    "유희리"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF302019",
+   "title": "D.FESTA 소극장축제, 벼랑 위의 오리엔테이션",
+   "genre": "연극",
+   "from": "2026-10-07",
+   "to": "2026-10-08",
+   "venue": "후암스테이지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF302019_260929_152611.gif",
+   "cast": [
+    "한진우",
+    "이호림",
+    "김관모",
+    "유호선"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF299346",
@@ -3837,6 +4419,25 @@
    }
   },
   {
+   "id": "PF300009",
+   "title": "창작ing, 돌쇠전",
+   "genre": "뮤지컬",
+   "from": "2026-10-02",
+   "to": "2026-10-15",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300009_260903_104340.gif",
+   "cast": [
+    "이건희",
+    "박근식",
+    "김안젤라",
+    "강수진",
+    "이한수",
+    "김의환"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF300992",
    "title": "사막에도 가끔 비가 내립니다 (근데 이제 줌바를 곁들인)",
    "genre": "연극",
@@ -3859,6 +4460,26 @@
     "bg": "#3F8FD8",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF301960",
+   "title": "베이퍼 (vapor)",
+   "genre": "연극",
+   "from": "2026-10-02",
+   "to": "2026-10-04",
+   "venue": "삼일로창고극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF301960_260929_131026.jpg",
+   "cast": [
+    "최지영",
+    "윤영민",
+    "임진유",
+    "윤성경",
+    "윤진아",
+    "김다혜",
+    "정광영"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF298880",
@@ -3952,6 +4573,103 @@
     "bg": "#0F0F14",
     "fg": "#D8312B"
    }
+  },
+  {
+   "id": "PF300417",
+   "title": "틈새 사이로 내리는 비",
+   "genre": "연극",
+   "from": "2026-10-01",
+   "to": "2026-10-04",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300417_260908_142126.png",
+   "cast": [
+    "이미해",
+    "홍지원",
+    "정소민",
+    "김하늘",
+    "정희예",
+    "장한울",
+    "조민형"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300774",
+   "title": "야유나무 아래에서",
+   "genre": "연극",
+   "from": "2026-10-01",
+   "to": "2026-10-04",
+   "venue": "선돌극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300774_260914_110521.gif",
+   "cast": [
+    "김보경",
+    "조예현",
+    "이건희",
+    "진준엽",
+    "정희영",
+    "한국호",
+    "방선혜"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300993",
+   "title": "상자 속 사나이",
+   "genre": "연극",
+   "from": "2026-10-01",
+   "to": "2026-10-04",
+   "venue": "삼일로창고극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF300993_260915_141800.png",
+   "cast": [
+    "김미주",
+    "문규민",
+    "백현석",
+    "이승채",
+    "정힘찬"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299565",
+   "title": "제6회 여주인공 페스티벌, 늙은 여자, 아쿨리나",
+   "genre": "연극",
+   "from": "2026-09-30",
+   "to": "2026-10-04",
+   "venue": "미마지아트센터 (물빛극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299565_260828_095738.gif",
+   "cast": [
+    "조옥형",
+    "서광재",
+    "윤지혜",
+    "이지혜",
+    "배태민",
+    "김지유",
+    "하범서"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299641",
+   "title": "스위스조력사인터뷰대비 성인영어회화 클래스",
+   "genre": "연극",
+   "from": "2026-09-30",
+   "to": "2026-10-11",
+   "venue": "나온씨어터",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299641_260828_141913.gif",
+   "cast": [
+    "김주혜",
+    "우다현",
+    "최혁진",
+    "노이준",
+    "고수윤",
+    "송유정"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF299807",
@@ -4106,6 +4824,42 @@
    }
   },
   {
+   "id": "PF298964",
+   "title": "국립극단, 안트로폴리스 Ⅲ: 오이디푸스",
+   "genre": "연극",
+   "from": "2026-09-24",
+   "to": "2026-10-18",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298964_260820_134953.jpg",
+   "cast": [
+    "강세웅",
+    "김문희",
+    "김석주",
+    "김신효",
+    "김정아",
+    "김진복",
+    "배선희"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299352",
+   "title": "Mud",
+   "genre": "연극",
+   "from": "2026-09-24",
+   "to": "2026-10-04",
+   "venue": "연극실험실 혜화동1번지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299352_260825_142052.gif",
+   "cast": [
+    "김정우",
+    "이기돈",
+    "한다희"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF297794",
    "title": "엠. 버터플라이",
    "genre": "뮤지컬",
@@ -4171,7 +4925,7 @@
     "김리현"
    ],
    "state": "공연중",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#5F8F96",
     "fg": "#FFFFFF"
@@ -4438,6 +5192,43 @@
    }
   },
   {
+   "id": "PF299351",
+   "title": "하녀들 (Les Bonnes)",
+   "genre": "연극",
+   "from": "2026-09-17",
+   "to": "2026-09-27",
+   "venue": "나온씨어터",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299351_260825_141745.gif",
+   "cast": [
+    "송이주",
+    "박승희",
+    "유진희",
+    "배현아"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299532",
+   "title": "번식하는 곰팡이",
+   "genre": "연극",
+   "from": "2026-09-17",
+   "to": "2026-09-23",
+   "venue": "선돌극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299532_260827_141943.gif",
+   "cast": [
+    "권형준",
+    "곽지영",
+    "유독현",
+    "손아진",
+    "유종연",
+    "박경주",
+    "박현"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF298163",
    "title": "연의 편지",
    "genre": "뮤지컬",
@@ -4460,6 +5251,58 @@
     "bg": "#1E3A5A",
     "fg": "#F5E27A"
    }
+  },
+  {
+   "id": "PF298555",
+   "title": "산울림 고전극장, 헤라 아프로디테 아르테미스: 리부트",
+   "genre": "연극",
+   "from": "2026-09-16",
+   "to": "2026-10-04",
+   "venue": "산울림소극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298555_260814_135855.gif",
+   "cast": [
+    "한송희",
+    "이주희",
+    "김희연",
+    "이강우",
+    "김한빈"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF298992",
+   "title": "최초의 웃음",
+   "genre": "연극",
+   "from": "2026-09-16",
+   "to": "2026-09-20",
+   "venue": "열린극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298992_260820_144511.gif",
+   "cast": [
+    "서원호",
+    "박소은",
+    "민현기",
+    "정명기",
+    "김광호",
+    "박소희"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
+   "id": "PF299724",
+   "title": "에덴농원: 우리에게 남겨진 시간",
+   "genre": "연극",
+   "from": "2026-09-16",
+   "to": "2026-09-20",
+   "venue": "미마지아트센터 (물빛극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299724_260831_134931.jpg",
+   "cast": [
+    "이무현",
+    "조하연"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF297912",
@@ -4667,6 +5510,26 @@
    }
   },
   {
+   "id": "PF298599",
+   "title": "잽, 잽-투!",
+   "genre": "연극",
+   "from": "2026-09-10",
+   "to": "2026-09-20",
+   "venue": "연극실험실 혜화동1번지",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298599_260814_165930.gif",
+   "cast": [
+    "정대진",
+    "김유리",
+    "권창민",
+    "최정화",
+    "박창준",
+    "박태환",
+    "박재한"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF297712",
    "title": "잔혹동화 생존기",
    "genre": "뮤지컬",
@@ -4737,6 +5600,26 @@
    }
   },
   {
+   "id": "PF298355",
+   "title": "까라마조프의 자매들",
+   "genre": "뮤지컬",
+   "from": "2026-09-08",
+   "to": "2026-10-04",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298355_260812_142925.jpg",
+   "cast": [
+    "임강희",
+    "김경민",
+    "전민지",
+    "오유민",
+    "유소리",
+    "이아진",
+    "최수현"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
+  },
+  {
    "id": "PF298497",
    "title": "사의찬미 2ND STAGE",
    "genre": "뮤지컬",
@@ -4754,11 +5637,31 @@
     "최재웅"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4C6B78",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF298328",
+   "title": "창작ing, 고쳐서 나가는 곳",
+   "genre": "연극",
+   "from": "2026-09-07",
+   "to": "2026-09-20",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298328_260812_131727.gif",
+   "cast": [
+    "심소영",
+    "임윤진",
+    "김유민",
+    "오하조",
+    "정제이",
+    "문경태",
+    "문진식"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF295552",
@@ -4806,6 +5709,22 @@
     "bg": "#1F3A3A",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF298769",
+   "title": "서울어텀페스타, 당신의 손",
+   "genre": "연극",
+   "from": "2026-09-04",
+   "to": "2026-09-20",
+   "venue": "연우소극장",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF298769_260818_170014.gif",
+   "cast": [
+    "남권아",
+    "안다정",
+    "정의천"
+   ],
+   "state": "공연완료",
+   "castSource": "none"
   },
   {
    "id": "PF297783",
@@ -5084,7 +6003,13 @@
     "한유란",
     "문지수",
     "황인욱",
-    "이주찬"
+    "이주찬",
+    "김나연",
+    "김새하",
+    "김성현",
+    "이창하",
+    "주예리",
+    "윤지우"
    ],
    "state": "공연완료",
    "castSource": "none",
@@ -5350,7 +6275,7 @@
     "서나영"
    ],
    "state": "공연중",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"

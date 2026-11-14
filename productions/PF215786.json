@@ -51,5 +51,59 @@
  ],
  "updated": "2023-03-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#493E48",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "올가",
+   "name": "김소희"
+  },
+  {
+   "role": "마샤",
+   "name": "리다해"
+  },
+  {
+   "role": "이리나",
+   "name": "권혜원"
+  },
+  {
+   "role": "베르쉬닌",
+   "name": "한윤춘"
+  },
+  {
+   "role": "체부띄낀",
+   "name": "김병춘"
+  },
+  {
+   "role": "체부띄낀",
+   "name": "김미숙"
+  },
+  {
+   "role": "안드레이",
+   "name": "김찬"
+  },
+  {
+   "role": "",
+   "name": "안예진"
+  },
+  {
+   "role": "",
+   "name": "이천영"
+  },
+  {
+   "role": "",
+   "name": "전현철"
+  },
+  {
+   "role": "",
+   "name": "양수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250208003318/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186585"
+ }
 }

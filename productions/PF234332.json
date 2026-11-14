@@ -1,0 +1,37 @@
+{
+ "id": "PF234332",
+ "title": "제8회 한국뮤지컬어워즈, 뮤이어(MU:Year) 스테이지",
+ "genre": "뮤지컬",
+ "from": "2024-01-29",
+ "to": "2024-01-29",
+ "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF234332_240123_095140.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "민찬홍",
+  "박성진",
+  "심정은",
+  "강찬욱",
+  "김청아",
+  "나하나",
+  "안지환"
+ ],
+ "facilityId": "FC002012",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "price": "전석 33,000원",
+ "schedule": "월요일(19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234332_240123_0951400.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24000916"
+  }
+ ],
+ "updated": "2024-01-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

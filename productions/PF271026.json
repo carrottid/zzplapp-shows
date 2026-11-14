@@ -47,5 +47,51 @@
  ],
  "updated": "2026-01-21 13:47:55",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F3A5F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "미하일",
+   "name": "손유동"
+  },
+  {
+   "role": "미하일",
+   "name": "정욱진"
+  },
+  {
+   "role": "미하일",
+   "name": "정휘"
+  },
+  {
+   "role": "아카키",
+   "name": "신주협"
+  },
+  {
+   "role": "아카키",
+   "name": "김찬종"
+  },
+  {
+   "role": "아카키",
+   "name": "홍성원"
+  },
+  {
+   "role": "알렉세이",
+   "name": "변희상"
+  },
+  {
+   "role": "알렉세이",
+   "name": "유태율"
+  },
+  {
+   "role": "알렉세이",
+   "name": "이동수"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260219143616/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=220370"
+ }
 }

@@ -45,5 +45,111 @@
  ],
  "updated": "2021-08-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#191C23",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이성계",
+   "name": "서범석"
+  },
+  {
+   "role": "이성계",
+   "name": "강민석"
+  },
+  {
+   "role": "이성계",
+   "name": "최오식"
+  },
+  {
+   "role": "이방원",
+   "name": "곽동현"
+  },
+  {
+   "role": "이방원",
+   "name": "노태현"
+  },
+  {
+   "role": "이방원",
+   "name": "재윤"
+  },
+  {
+   "role": "이방원",
+   "name": "김동형"
+  },
+  {
+   "role": "정도전",
+   "name": "김현수"
+  },
+  {
+   "role": "정도전",
+   "name": "정현우"
+  },
+  {
+   "role": "정도전",
+   "name": "최가후"
+  },
+  {
+   "role": "정도전",
+   "name": "박근식"
+  },
+  {
+   "role": "정몽주",
+   "name": "박상돈"
+  },
+  {
+   "role": "정몽주",
+   "name": "박한근"
+  },
+  {
+   "role": "정몽주",
+   "name": "강리운"
+  },
+  {
+   "role": "신덕왕후",
+   "name": "이하정"
+  },
+  {
+   "role": "신덕왕후",
+   "name": "김수민"
+  },
+  {
+   "role": "신덕왕후",
+   "name": "한지혜"
+  },
+  {
+   "role": "신덕왕후",
+   "name": "문서영"
+  },
+  {
+   "role": "조영규",
+   "name": "신민기"
+  },
+  {
+   "role": "조영규",
+   "name": "정재혁"
+  },
+  {
+   "role": "조영규",
+   "name": "추정민"
+  },
+  {
+   "role": "",
+   "name": "장대성"
+  },
+  {
+   "role": "",
+   "name": "이지명"
+  },
+  {
+   "role": "",
+   "name": "박정인"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711014227/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167202"
+ }
 }

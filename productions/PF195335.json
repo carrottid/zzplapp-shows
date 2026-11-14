@@ -62,5 +62,67 @@
  ],
  "updated": "2022-07-28 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#745E88",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김지영",
+   "name": "소유진"
+  },
+  {
+   "role": "김지영",
+   "name": "임혜영"
+  },
+  {
+   "role": "김지영",
+   "name": "박란주"
+  },
+  {
+   "role": "정대현",
+   "name": "김승대"
+  },
+  {
+   "role": "정대현",
+   "name": "김동호"
+  },
+  {
+   "role": "오미숙 외 다",
+   "name": "송영숙"
+  },
+  {
+   "role": "오미숙 외 다",
+   "name": "최정화"
+  },
+  {
+   "role": "김현식 외 다",
+   "name": "홍성춘"
+  },
+  {
+   "role": "김현식 외 다",
+   "name": "권태건"
+  },
+  {
+   "role": "김은영 외 다",
+   "name": "도율희"
+  },
+  {
+   "role": "김은영 외 다",
+   "name": "안솔지"
+  },
+  {
+   "role": "최재욱 외 다",
+   "name": "장두환"
+  },
+  {
+   "role": "",
+   "name": "김원목"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250321004651/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=177047"
+ }
 }

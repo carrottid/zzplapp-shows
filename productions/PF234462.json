@@ -1,0 +1,76 @@
+{
+ "id": "PF234462",
+ "title": "DIE",
+ "genre": "연극",
+ "from": "2024-02-07",
+ "to": "2024-02-25",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF234462_240125_105953.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송하림",
+  "전소현",
+  "문대한",
+  "이우룡",
+  "이민수",
+  "윤원택",
+  "문아람"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 20분",
+ "age": "만 11세 이상",
+ "crew": "장윤호 등",
+ "price": "전석 30,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF234462_240125_1059530.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24001057"
+  }
+ ],
+ "updated": "2024-01-25 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "베랑제",
+   "name": "송하림"
+  },
+  {
+   "role": "베랑제",
+   "name": "이민수"
+  },
+  {
+   "role": "마가렛",
+   "name": "문아람"
+  },
+  {
+   "role": "마리",
+   "name": "이하늘"
+  },
+  {
+   "role": "마리",
+   "name": "이세미"
+  },
+  {
+   "role": "박사",
+   "name": "문대한"
+  },
+  {
+   "role": "쥴리엣",
+   "name": "추소영"
+  },
+  {
+   "role": "쥴리엣",
+   "name": "김혜주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240908134609/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198529"
+ }
+}

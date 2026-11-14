@@ -41,48 +41,10 @@
   }
  ],
  "updated": "2023-03-08 15:00:00",
- "castSource": "none",
+ "castSource": "plapp",
  "fetchedAt": "2026-11-07T13:16:04",
- "roleCast": [
-  {
-   "role": "영준",
-   "name": "고훈정"
-  },
-  {
-   "role": "영준",
-   "name": "김대곤"
-  },
-  {
-   "role": "영준",
-   "name": "조형균"
-  },
-  {
-   "role": "성우",
-   "name": "김건우"
-  },
-  {
-   "role": "성우",
-   "name": "최우혁"
-  },
-  {
-   "role": "미연",
-   "name": "한재아"
-  },
-  {
-   "role": "미연",
-   "name": "임예진"
-  },
-  {
-   "role": "주원",
-   "name": "공민섭"
-  },
-  {
-   "role": "주원",
-   "name": "김승용"
-  }
- ],
- "roleCastSource": {
-  "name": "더뮤지컬",
-  "url": "https://www.themusical.co.kr/Musical/Detail?num=3139"
+ "color": {
+  "bg": "#55916F",
+  "fg": "#111111"
  }
 }

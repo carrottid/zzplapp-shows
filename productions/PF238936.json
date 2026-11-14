@@ -1,0 +1,76 @@
+{
+ "id": "PF238936",
+ "title": "제45회 서울연극제, 우주의 물방울",
+ "genre": "연극",
+ "from": "2024-05-08",
+ "to": "2024-05-19",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF238936_240411_094816.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "승의열",
+  "정경화",
+  "박지연",
+  "배우경",
+  "양한슬",
+  "이인화"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 20분",
+ "age": "만 13세 이상",
+ "crew": "임후성, 김성민, 함혜정 등",
+ "producer": "극단 피오르",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00), HOL(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238936_240411_0948160.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1120092"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/49361"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2955"
+  }
+ ],
+ "updated": "2025-01-09 16:14:10",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "고일봉",
+   "name": "승의열"
+  },
+  {
+   "role": "안화수",
+   "name": "정경화"
+  },
+  {
+   "role": "안화수",
+   "name": "박리진"
+  },
+  {
+   "role": "강만수",
+   "name": "강운"
+  },
+  {
+   "role": "강병만, 신혼남자",
+   "name": "양한슬"
+  },
+  {
+   "role": "미스홍, 신혼여자",
+   "name": "이인화"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814050647/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201458"
+ }
+}

@@ -43,5 +43,95 @@
  ],
  "updated": "2024-04-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#697D7B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마리안느/고지선",
+   "name": "백은혜"
+  },
+  {
+   "role": "마리안느/고지선",
+   "name": "정연"
+  },
+  {
+   "role": "마가렛/백수선",
+   "name": "정운선"
+  },
+  {
+   "role": "마가렛/백수선",
+   "name": "정인지"
+  },
+  {
+   "role": "목소리1",
+   "name": "이지숙"
+  },
+  {
+   "role": "목소리1",
+   "name": "박슬기"
+  },
+  {
+   "role": "목소리2",
+   "name": "안창용"
+  },
+  {
+   "role": "목소리2",
+   "name": "임별"
+  },
+  {
+   "role": "목소리3",
+   "name": "김지혜"
+  },
+  {
+   "role": "목소리3",
+   "name": "이예지"
+  },
+  {
+   "role": "목소리4",
+   "name": "이시안"
+  },
+  {
+   "role": "목소리4",
+   "name": "고철순"
+  },
+  {
+   "role": "",
+   "name": "김리현"
+  },
+  {
+   "role": "",
+   "name": "임진섭"
+  },
+  {
+   "role": "",
+   "name": "신진경"
+  },
+  {
+   "role": "",
+   "name": "하미미"
+  },
+  {
+   "role": "",
+   "name": "김대웅"
+  },
+  {
+   "role": "",
+   "name": "박세훈"
+  },
+  {
+   "role": "",
+   "name": "류제윤"
+  },
+  {
+   "role": "",
+   "name": "이민규"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260510043738/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201437"
+ }
 }

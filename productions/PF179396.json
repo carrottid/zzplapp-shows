@@ -39,5 +39,91 @@
  ],
  "updated": "2021-09-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4B5A3A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "손대표",
+   "name": "최형석"
+  },
+  {
+   "role": "손대표",
+   "name": "장대성"
+  },
+  {
+   "role": "정하늘",
+   "name": "이예슬"
+  },
+  {
+   "role": "정하늘",
+   "name": "이미주"
+  },
+  {
+   "role": "오영재",
+   "name": "신광희"
+  },
+  {
+   "role": "오영재",
+   "name": "윤동기"
+  },
+  {
+   "role": "김안당",
+   "name": "심우창"
+  },
+  {
+   "role": "최도마",
+   "name": "이인철"
+  },
+  {
+   "role": "이마리",
+   "name": "김린"
+  },
+  {
+   "role": "이마리",
+   "name": "임영선"
+  },
+  {
+   "role": "",
+   "name": "이하연"
+  },
+  {
+   "role": "",
+   "name": "권용준"
+  },
+  {
+   "role": "",
+   "name": "이민국"
+  },
+  {
+   "role": "",
+   "name": "구시후"
+  },
+  {
+   "role": "",
+   "name": "조혜령"
+  },
+  {
+   "role": "",
+   "name": "민정아"
+  },
+  {
+   "role": "",
+   "name": "나서영"
+  },
+  {
+   "role": "",
+   "name": "유태균"
+  },
+  {
+   "role": "",
+   "name": "이승호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250523212334/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168417"
+ }
 }

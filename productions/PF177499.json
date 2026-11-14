@@ -1,0 +1,69 @@
+{
+ "id": "PF177499",
+ "title": "산울림 고전극장, 휴식하는 무늬",
+ "genre": "연극",
+ "from": "2021-08-04",
+ "to": "2021-08-15",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF177499_210721_105056.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김에별",
+  "김양희",
+  "한상욱",
+  "윤혁진",
+  "윤소연",
+  "이혜린",
+  "임영규"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "연지아, 윤혜린, 최은선 등",
+ "producer": "창작집단 혜윰",
+ "price": "전석 30,000원",
+ "schedule": "월요일(20:00), 수요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF177499_210802_0348391.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21006458"
+  }
+ ],
+ "updated": "2021-08-03 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "청미",
+   "name": "김양희"
+  },
+  {
+   "role": "존",
+   "name": "한상욱"
+  },
+  {
+   "role": "지인/무늬",
+   "name": "이혜린"
+  },
+  {
+   "role": "무늬",
+   "name": "임영규"
+  },
+  {
+   "role": "무늬",
+   "name": "편다솜"
+  },
+  {
+   "role": "연생",
+   "name": "윤혁진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240911223500/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166837"
+ }
+}

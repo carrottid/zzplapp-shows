@@ -1,0 +1,40 @@
+{
+ "id": "PF242409",
+ "title": "일 없습니다",
+ "genre": "연극",
+ "from": "2024-07-04",
+ "to": "2024-07-07",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF242409_240607_094407.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이현정",
+  "김언수",
+  "김남우",
+  "이제우"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "송근욱, 박수현, 한혜민 등",
+ "producer": "극단 리셋(RESET)",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF242409_240607_0944070.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/5/bizes/1132139"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5734"
+  }
+ ],
+ "updated": "2024-06-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

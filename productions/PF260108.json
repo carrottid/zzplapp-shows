@@ -35,5 +35,51 @@
  ],
  "updated": "2025-03-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8A1426",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "지나",
+   "name": "최연우"
+  },
+  {
+   "role": "지나",
+   "name": "이정화"
+  },
+  {
+   "role": "지나",
+   "name": "이서영"
+  },
+  {
+   "role": "빅토르",
+   "name": "정민"
+  },
+  {
+   "role": "빅토르",
+   "name": "강정우"
+  },
+  {
+   "role": "빅토르",
+   "name": "조성윤"
+  },
+  {
+   "role": "이반",
+   "name": "한상훈"
+  },
+  {
+   "role": "이반",
+   "name": "이한솔"
+  },
+  {
+   "role": "이반",
+   "name": "김기택"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250419121634/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214311"
+ }
 }

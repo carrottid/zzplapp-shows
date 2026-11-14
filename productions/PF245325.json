@@ -39,5 +39,95 @@
  ],
  "updated": "2024-09-27 15:08:44",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#AE3838",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "찰리",
+   "name": "김호영"
+  },
+  {
+   "role": "찰리",
+   "name": "이석훈"
+  },
+  {
+   "role": "찰리",
+   "name": "김성규"
+  },
+  {
+   "role": "찰리",
+   "name": "신재범"
+  },
+  {
+   "role": "롤라",
+   "name": "박은태"
+  },
+  {
+   "role": "롤라",
+   "name": "최재림"
+  },
+  {
+   "role": "롤라",
+   "name": "강홍석"
+  },
+  {
+   "role": "롤라",
+   "name": "서경수"
+  },
+  {
+   "role": "로렌",
+   "name": "김지우"
+  },
+  {
+   "role": "로렌",
+   "name": "김환희"
+  },
+  {
+   "role": "로렌",
+   "name": "나하나"
+  },
+  {
+   "role": "돈",
+   "name": "고창석"
+  },
+  {
+   "role": "돈",
+   "name": "심재현"
+  },
+  {
+   "role": "돈",
+   "name": "전재현"
+  },
+  {
+   "role": "니콜라",
+   "name": "고은영"
+  },
+  {
+   "role": "니콜라",
+   "name": "이윤하"
+  },
+  {
+   "role": "조지",
+   "name": "김용수"
+  },
+  {
+   "role": "",
+   "name": "주민우"
+  },
+  {
+   "role": "",
+   "name": "한준용"
+  },
+  {
+   "role": "",
+   "name": "김강진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251014041344/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=205678"
+ }
 }

@@ -37,5 +37,35 @@
  ],
  "updated": "2025-04-04 13:51:58",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1F1F36",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에스트라공(고고)",
+   "name": "신구"
+  },
+  {
+   "role": "블라디미르(디디)",
+   "name": "박근형"
+  },
+  {
+   "role": "포조",
+   "name": "김학철"
+  },
+  {
+   "role": "럭키",
+   "name": "조달환"
+  },
+  {
+   "role": "소년",
+   "name": "이시목"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250712063534/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201598"
+ }
 }

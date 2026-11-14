@@ -7,6 +7,18 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "19:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#1F2A44",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF287538",
+   "title": "만세는 부르지 않겠다",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -15,6 +27,34 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2C2F3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF285145",
+   "title": "키리에",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286355",
+   "title": "괴담낭독클럽",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF286669",
+   "title": "로미오와 줄리엣 The Clown",
+   "genre": "연극",
+   "venue": "더 줌 아트센터",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -23,7 +63,11 @@
    "genre": "연극",
    "venue": "산울림소극장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A2F28",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

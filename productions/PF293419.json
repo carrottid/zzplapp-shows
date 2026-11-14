@@ -1,0 +1,73 @@
+{
+ "id": "PF293419",
+ "title": "방명녹",
+ "genre": "연극",
+ "from": "2026-07-02",
+ "to": "2026-07-05",
+ "venue": "et theatre 1 (구. 눈빛극장) (et theatre 1 (구. 눈빛극장) )",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF293419_260611_130937.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이서영",
+  "이휴",
+  "홍준기",
+  "이재환",
+  "박찬우",
+  "변지석",
+  "홍선"
+ ],
+ "facilityId": "FC004285",
+ "runtime": "1시간 30분",
+ "age": "만 11세 이상",
+ "crew": "홍선, 손지은, 진소윤 등",
+ "producer": "창작집단 본디",
+ "price": "전석 40,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(14:00,18:00), 일요일(13:00,17:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF293419_202606110109374860.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26008355"
+  }
+ ],
+ "updated": "2026-06-11 15:00:04.135123",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "정미 외",
+   "name": "이서영"
+  },
+  {
+   "role": "경자 외",
+   "name": "이휴"
+  },
+  {
+   "role": "민수 외",
+   "name": "홍준기"
+  },
+  {
+   "role": "철후 외",
+   "name": "박찬우"
+  },
+  {
+   "role": "재홍 외",
+   "name": "이재환"
+  },
+  {
+   "role": "창식 외",
+   "name": "변지석"
+  },
+  {
+   "role": "",
+   "name": "홍선"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260714193711/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=231372"
+ }
+}

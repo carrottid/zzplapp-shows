@@ -1,0 +1,62 @@
+{
+ "id": "PF199147",
+ "title": "윙키",
+ "genre": "연극",
+ "from": "2022-10-20",
+ "to": "2022-10-23",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF199147_220930_105823.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "하지은",
+  "윤일식",
+  "차승욱",
+  "김슬기",
+  "심보람"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "장한새, 오태광, 신승렬 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF199147_220930_1058230.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22012884"
+  }
+ ],
+ "updated": "2022-09-30 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "윙키",
+   "name": "김슬기"
+  },
+  {
+   "role": "아내",
+   "name": "하지은"
+  },
+  {
+   "role": "남편",
+   "name": "윤일식"
+  },
+  {
+   "role": "형사",
+   "name": "차승욱"
+  },
+  {
+   "role": "알고리즘",
+   "name": "심보람"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250320153804/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=179370"
+ }
+}

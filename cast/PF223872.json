@@ -1,0 +1,2199 @@
+{
+ "id": "PF223872",
+ "source": "plapp",
+ "roles": {
+  "r:X-Black": "X-Black",
+  "r:X-White": "X-White",
+  "r:에덴": "에덴",
+  "r:레브": "레브",
+  "r:세르판": "세르판"
+ },
+ "people": {},
+ "sessions": [
+  {
+   "date": "2023-09-21",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-22",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-23",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-23",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-24",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-24",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-26",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-27",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-28",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-28",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-29",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-30",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-30",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-01",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-01",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-03",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-03",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-05",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-06",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-07",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-07",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-08",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-09",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-11",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-11",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-12",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-13",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-14",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-14",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-15",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-15",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-17",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-18",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-18",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-19",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-20",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-21",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-21",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-22",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-22",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-24",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-25",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-25",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-26",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-27",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-28",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-28",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-10-31",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-01",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-02",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-03",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-04",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-04",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-05",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-05",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-07",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-09",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-10",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-11",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-11",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-12",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-12",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-14",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-15",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-15",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-16",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-17",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-18",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-18",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-19",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-19",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-21",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-22",
+   "time": "16:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-22",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-23",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-24",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-25",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-25",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김준영",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "백인태",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이재림",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "이기현",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "이효정",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-26",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "김우성",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  },
+  {
+   "date": "2023-11-26",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조형균",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "정동화",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:에덴"
+    },
+    {
+     "name": "반정모",
+     "roleId": "r:레브"
+    },
+    {
+     "name": "김명지",
+     "roleId": "r:세르판"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-14T09:43:59"
+}

@@ -47,5 +47,67 @@
  ],
  "updated": "2022-03-22 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#736F6B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "니진스키",
+   "name": "김찬호"
+  },
+  {
+   "role": "니진스키",
+   "name": "정동화"
+  },
+  {
+   "role": "니진스키",
+   "name": "정원영"
+  },
+  {
+   "role": "디아길레프",
+   "name": "김종구"
+  },
+  {
+   "role": "디아길레프",
+   "name": "박민성"
+  },
+  {
+   "role": "디아길레프",
+   "name": "조성윤"
+  },
+  {
+   "role": "스트라빈스키",
+   "name": "최호승"
+  },
+  {
+   "role": "스트라빈스키",
+   "name": "이동수"
+  },
+  {
+   "role": "스트라빈스키",
+   "name": "김도하"
+  },
+  {
+   "role": "로몰라",
+   "name": "최미소"
+  },
+  {
+   "role": "로몰라",
+   "name": "박규연"
+  },
+  {
+   "role": "한스/니진스키의 분신",
+   "name": "권기중"
+  },
+  {
+   "role": "한스/니진스키의 분신",
+   "name": "정민찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260720061418/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171448"
+ }
 }

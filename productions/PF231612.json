@@ -1,0 +1,51 @@
+{
+ "id": "PF231612",
+ "title": "사각",
+ "genre": "연극",
+ "from": "2023-12-20",
+ "to": "2023-12-24",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF231612_231201_141809.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "고아라",
+  "곽근아",
+  "노시홍",
+  "김효배",
+  "박민호",
+  "조준원",
+  "박지원"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 30분",
+ "age": "만 7세 이상",
+ "crew": "김이율, 최병로, 김종민 등",
+ "producer": "프로젝트 루미",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF231612_231214_0318091.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1035482"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23017600"
+  },
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/47968"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/?number=5368"
+  }
+ ],
+ "updated": "2023-12-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

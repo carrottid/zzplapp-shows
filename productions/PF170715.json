@@ -39,5 +39,43 @@
  ],
  "updated": "2020-12-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#6B3A5A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "한정민",
+   "name": "김동현"
+  },
+  {
+   "role": "권복인",
+   "name": "오민석"
+  },
+  {
+   "role": "갑수",
+   "name": "김왕근"
+  },
+  {
+   "role": "용팔",
+   "name": "최무인"
+  },
+  {
+   "role": "현준",
+   "name": "최영도"
+  },
+  {
+   "role": "구도",
+   "name": "이갑선"
+  },
+  {
+   "role": "",
+   "name": "문경태"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241009110409/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162348"
+ }
 }

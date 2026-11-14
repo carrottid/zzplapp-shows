@@ -58,5 +58,75 @@
  ],
  "updated": "2023-08-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#AA3B3C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "돈호세",
+   "name": "김병희"
+  },
+  {
+   "role": "카르멘",
+   "name": "서지우"
+  },
+  {
+   "role": "미카엘라",
+   "name": "최나라"
+  },
+  {
+   "role": "에스까미오",
+   "name": "강신구"
+  },
+  {
+   "role": "가르시아",
+   "name": "장재호"
+  },
+  {
+   "role": "당카이레",
+   "name": "김신기"
+  },
+  {
+   "role": "",
+   "name": "최진영"
+  },
+  {
+   "role": "",
+   "name": "이정훈"
+  },
+  {
+   "role": "",
+   "name": "강득종"
+  },
+  {
+   "role": "",
+   "name": "성동한"
+  },
+  {
+   "role": "",
+   "name": "조용의"
+  },
+  {
+   "role": "",
+   "name": "박혜정"
+  },
+  {
+   "role": "",
+   "name": "노유라"
+  },
+  {
+   "role": "",
+   "name": "김동지"
+  },
+  {
+   "role": "",
+   "name": "오지은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240524125343/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=191841"
+ }
 }

@@ -51,5 +51,79 @@
  ],
  "updated": "2021-02-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#B89C2E",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "장선호",
+   "name": "손유동"
+  },
+  {
+   "role": "장선호",
+   "name": "안지환"
+  },
+  {
+   "role": "장선호",
+   "name": "임진섭"
+  },
+  {
+   "role": "이중섭",
+   "name": "김수용"
+  },
+  {
+   "role": "이중섭",
+   "name": "김태한"
+  },
+  {
+   "role": "전혜린",
+   "name": "조윤영"
+  },
+  {
+   "role": "전혜린",
+   "name": "서예림"
+  },
+  {
+   "role": "전혜린",
+   "name": "길하은"
+  },
+  {
+   "role": "박인환",
+   "name": "원종환"
+  },
+  {
+   "role": "박인환",
+   "name": "윤석원"
+  },
+  {
+   "role": "박인환",
+   "name": "장민수"
+  },
+  {
+   "role": "성여인",
+   "name": "홍륜희"
+  },
+  {
+   "role": "성여인",
+   "name": "조진아"
+  },
+  {
+   "role": "성여인",
+   "name": "김리"
+  },
+  {
+   "role": "채홍익",
+   "name": "신창주"
+  },
+  {
+   "role": "채홍익",
+   "name": "김승용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250519203858/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162780"
+ }
 }

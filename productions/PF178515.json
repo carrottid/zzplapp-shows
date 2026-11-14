@@ -39,5 +39,55 @@
  ],
  "updated": "2021-08-18 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#50513F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "연출",
+   "name": "김태형"
+  },
+  {
+   "role": "연출",
+   "name": "이안나"
+  },
+  {
+   "role": "연출",
+   "name": "장우성"
+  },
+  {
+   "role": "배우",
+   "name": "한세라"
+  },
+  {
+   "role": "배우",
+   "name": "김다흰"
+  },
+  {
+   "role": "배우",
+   "name": "김지민"
+  },
+  {
+   "role": "배우",
+   "name": "김승용"
+  },
+  {
+   "role": "",
+   "name": "박은미"
+  },
+  {
+   "role": "",
+   "name": "정다희"
+  },
+  {
+   "role": "",
+   "name": "이휴"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240806195125/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167406"
+ }
 }

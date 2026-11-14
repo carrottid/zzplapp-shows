@@ -43,5 +43,51 @@
  ],
  "updated": "2026-08-20 15:44:06",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2B211C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "로베르트 슈만",
+   "name": "박상민"
+  },
+  {
+   "role": "로베르트 슈만",
+   "name": "윤서현"
+  },
+  {
+   "role": "로베르트 슈만",
+   "name": "원기준"
+  },
+  {
+   "role": "클라라 슈만",
+   "name": "이일화"
+  },
+  {
+   "role": "클라라 슈만",
+   "name": "정재은"
+  },
+  {
+   "role": "클라라 슈만",
+   "name": "채시현"
+  },
+  {
+   "role": "요하네스 브람스",
+   "name": "장도윤"
+  },
+  {
+   "role": "요하네스 브람스",
+   "name": "최성민"
+  },
+  {
+   "role": "요하네스 브람스",
+   "name": "최현상"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250720163157/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193654"
+ }
 }

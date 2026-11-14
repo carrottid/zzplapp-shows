@@ -1,0 +1,137 @@
+{
+ "id": "PF170885",
+ "title": "골든타임",
+ "genre": "연극",
+ "from": "2021-01-29",
+ "to": "2021-02-21",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170885_201231_094523.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박부건",
+  "이석호",
+  "장설진",
+  "정경화",
+  "임재혁",
+  "정휘욱",
+  "윤성경"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 30분",
+ "age": "만 8세 이상",
+ "crew": "김광홍, 김기석, 서광재 등",
+ "producer": "극단감성",
+ "price": "전석 50,000원",
+ "schedule": "금요일(19:00), 토요일(14:00,17:00), 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF170885_201231_0945230.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/459671"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20011288"
+  },
+  {
+   "name": "쿠팡",
+   "url": "https://trip.coupang.com/tp/products/30000000538152"
+  },
+  {
+   "name": "위메프",
+   "url": "https://ticket.wemakeprice.com/product/3000005110"
+  }
+ ],
+ "updated": "2020-12-31 13:34:04",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "김동일",
+   "name": "박부건"
+  },
+  {
+   "role": "김동일",
+   "name": "이석호"
+  },
+  {
+   "role": "김소월",
+   "name": "장설진"
+  },
+  {
+   "role": "김소월",
+   "name": "정경화"
+  },
+  {
+   "role": "이정환",
+   "name": "임재혁"
+  },
+  {
+   "role": "이정환",
+   "name": "정휘욱"
+  },
+  {
+   "role": "채효령",
+   "name": "윤성경"
+  },
+  {
+   "role": "채효령",
+   "name": "유희리"
+  },
+  {
+   "role": "철규",
+   "name": "박재현"
+  },
+  {
+   "role": "철규",
+   "name": "이세형"
+  },
+  {
+   "role": "태란",
+   "name": "최율하"
+  },
+  {
+   "role": "태란",
+   "name": "장지수"
+  },
+  {
+   "role": "",
+   "name": "송창경"
+  },
+  {
+   "role": "",
+   "name": "정연채"
+  },
+  {
+   "role": "",
+   "name": "심유라"
+  },
+  {
+   "role": "",
+   "name": "이현진"
+  },
+  {
+   "role": "",
+   "name": "최영은"
+  },
+  {
+   "role": "",
+   "name": "조해란"
+  },
+  {
+   "role": "",
+   "name": "서덕훈"
+  },
+  {
+   "role": "",
+   "name": "엄대현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260517093249/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162518"
+ }
+}

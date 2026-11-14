@@ -15,7 +15,7 @@
   "이동수",
   "박건우",
   "김태형",
-  "윤진솔"
+  "박세미"
  ],
  "facilityId": "FC001528",
  "runtime": "1시간 40분",
@@ -44,5 +44,51 @@
  ],
  "updated": "2024-04-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#97844F",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "동현(30세)",
+   "name": "장재웅"
+  },
+  {
+   "role": "동현(30세)",
+   "name": "김효성"
+  },
+  {
+   "role": "동현(30세)",
+   "name": "김준식"
+  },
+  {
+   "role": "봉수(30세)",
+   "name": "이동수"
+  },
+  {
+   "role": "봉수(30세)",
+   "name": "박건우"
+  },
+  {
+   "role": "봉수(30세)",
+   "name": "김태형"
+  },
+  {
+   "role": "수아(28세)",
+   "name": "박세미"
+  },
+  {
+   "role": "수아(28세)",
+   "name": "전해주"
+  },
+  {
+   "role": "수아(28세)",
+   "name": "연지현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260214104013/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203934"
+ }
 }

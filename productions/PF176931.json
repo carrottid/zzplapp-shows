@@ -45,5 +45,39 @@
  ],
  "updated": "2021-07-07 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#484D79",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "제이",
+   "name": "최연우"
+  },
+  {
+   "role": "제이",
+   "name": "강혜인"
+  },
+  {
+   "role": "제이",
+   "name": "이지수"
+  },
+  {
+   "role": "은기",
+   "name": "손유동"
+  },
+  {
+   "role": "은기",
+   "name": "정휘"
+  },
+  {
+   "role": "은기",
+   "name": "신재범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424172143/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165457"
+ }
 }

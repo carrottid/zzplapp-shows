@@ -1,0 +1,68 @@
+{
+ "id": "PF182142",
+ "title": "창작산재 올해의 레파토리, 지하 6층 앨리스",
+ "genre": "연극",
+ "from": "2021-11-12",
+ "to": "2021-11-21",
+ "venue": "연우소극장 (연우소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF182142_211101_113058.PNG",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "정제이",
+  "김현빈",
+  "문진식",
+  "김민하",
+  "오수혜",
+  "장석환"
+ ],
+ "facilityId": "FC000526",
+ "runtime": "1시간 15분",
+ "age": "만 13세 이상",
+ "crew": "박주영, 남경식, 김주슬기 등",
+ "price": "전석 15,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182142_211101_1130581.PNG",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF182142_211101_1130580.png"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1626"
+  }
+ ],
+ "updated": "2021-11-01 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "앨리스",
+   "name": "정제이"
+  },
+  {
+   "role": "누워있는 학생",
+   "name": "김현빈"
+  },
+  {
+   "role": "망태 할아범",
+   "name": "문진식"
+  },
+  {
+   "role": "카우보이",
+   "name": "김민하"
+  },
+  {
+   "role": "경자씨",
+   "name": "오수혜"
+  },
+  {
+   "role": "박스병",
+   "name": "장석환"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250427160156/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199196"
+ }
+}

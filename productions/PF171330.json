@@ -35,5 +35,47 @@
  ],
  "updated": "2021-02-03 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#D8AA0D",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "셰익스피어",
+   "name": "최호중"
+  },
+  {
+   "role": "셰익스피어",
+   "name": "김아영"
+  },
+  {
+   "role": "줄리엣",
+   "name": "유리아"
+  },
+  {
+   "role": "줄리엣",
+   "name": "한재아"
+  },
+  {
+   "role": "햄릿",
+   "name": "김바다"
+  },
+  {
+   "role": "햄릿",
+   "name": "임준혁"
+  },
+  {
+   "role": "로미오",
+   "name": "주민진"
+  },
+  {
+   "role": "로미오",
+   "name": "최석진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250711055846/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162601"
+ }
 }

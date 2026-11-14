@@ -41,5 +41,67 @@
  ],
  "updated": "2023-11-15 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2B0B12",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "오스칼",
+   "name": "옥주현"
+  },
+  {
+   "role": "오스칼",
+   "name": "김지우"
+  },
+  {
+   "role": "앙드레",
+   "name": "이해준"
+  },
+  {
+   "role": "베르날",
+   "name": "윤소호"
+  },
+  {
+   "role": "플로리앙",
+   "name": "정백선"
+  },
+  {
+   "role": "로자리",
+   "name": "장혜린"
+  },
+  {
+   "role": "폴리냑",
+   "name": "리사"
+  },
+  {
+   "role": "폴리냑",
+   "name": "박혜미"
+  },
+  {
+   "role": "",
+   "name": "이우승"
+  },
+  {
+   "role": "",
+   "name": "서승원"
+  },
+  {
+   "role": "",
+   "name": "임은영"
+  },
+  {
+   "role": "",
+   "name": "현성호"
+  },
+  {
+   "role": "",
+   "name": "백찬혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250427162325/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195932"
+ }
 }

@@ -50,5 +50,51 @@
  ],
  "updated": "2021-10-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#806E56",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "엄마",
+   "name": "강부자"
+  },
+  {
+   "role": "딸",
+   "name": "윤유선"
+  },
+  {
+   "role": "딸",
+   "name": "장하란"
+  },
+  {
+   "role": "아빠",
+   "name": "유정기"
+  },
+  {
+   "role": "장군댁/시어머니",
+   "name": "김남진"
+  },
+  {
+   "role": "아들",
+   "name": "이요성"
+  },
+  {
+   "role": "역무원/의사/흔들이",
+   "name": "김찬훈"
+  },
+  {
+   "role": "역무원/의사/흔들이",
+   "name": "김일우"
+  },
+  {
+   "role": "",
+   "name": "조유미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260218013110/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168655"
+ }
 }

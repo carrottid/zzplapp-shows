@@ -39,5 +39,63 @@
  ],
  "updated": "2023-11-24 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#B45721",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "우봉자",
+   "name": "서민희"
+  },
+  {
+   "role": "지도산",
+   "name": "김세홍"
+  },
+  {
+   "role": "지도산",
+   "name": "임대일"
+  },
+  {
+   "role": "나철학",
+   "name": "엄대"
+  },
+  {
+   "role": "조지나",
+   "name": "문정미"
+  },
+  {
+   "role": "조지나",
+   "name": "박소연"
+  },
+  {
+   "role": "이성기",
+   "name": "오근욱"
+  },
+  {
+   "role": "이성기",
+   "name": "루이찬"
+  },
+  {
+   "role": "김세나",
+   "name": "장예슬"
+  },
+  {
+   "role": "김세나",
+   "name": "이예소"
+  },
+  {
+   "role": "",
+   "name": "김민호"
+  },
+  {
+   "role": "",
+   "name": "차형은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250708025952/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196360"
+ }
 }

@@ -43,5 +43,87 @@
  ],
  "updated": "2022-05-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1E2B4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "수호",
+   "name": "성노진"
+  },
+  {
+   "role": "수호",
+   "name": "김대곤"
+  },
+  {
+   "role": "명제",
+   "name": "유희제"
+  },
+  {
+   "role": "명제",
+   "name": "김건호"
+  },
+  {
+   "role": "현수",
+   "name": "조은진"
+  },
+  {
+   "role": "현수",
+   "name": "전하영"
+  },
+  {
+   "role": "격수",
+   "name": "심우성"
+  },
+  {
+   "role": "격수",
+   "name": "정명군"
+  },
+  {
+   "role": "송면",
+   "name": "서창원"
+  },
+  {
+   "role": "송면",
+   "name": "도예준"
+  },
+  {
+   "role": "기자",
+   "name": "곽나윤"
+  },
+  {
+   "role": "기자",
+   "name": "김계림"
+  },
+  {
+   "role": "",
+   "name": "곽유평"
+  },
+  {
+   "role": "",
+   "name": "최경식"
+  },
+  {
+   "role": "",
+   "name": "김천"
+  },
+  {
+   "role": "",
+   "name": "주태윤"
+  },
+  {
+   "role": "",
+   "name": "탁승빈"
+  },
+  {
+   "role": "",
+   "name": "신우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260613175812/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=174760"
+ }
 }

@@ -1,0 +1,42 @@
+{
+ "id": "PF223291",
+ "title": "깍두기",
+ "genre": "연극",
+ "from": "2023-08-10",
+ "to": "2023-08-13",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF223291_230803_134513.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강해진",
+  "정나진",
+  "이세형",
+  "류원준",
+  "김선경",
+  "장시현",
+  "김태우"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "서지원, 조경훈, 김민재 등",
+ "price": "전석 30,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF223291_230803_0145130.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/876450"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_idx=11652"
+  }
+ ],
+ "updated": "2023-08-03 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

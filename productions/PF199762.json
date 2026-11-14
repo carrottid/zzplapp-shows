@@ -54,5 +54,43 @@
  ],
  "updated": "2022-10-11 16:40:35",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4F110F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "초희",
+   "name": "김미진"
+  },
+  {
+   "role": "지언",
+   "name": "박시원"
+  },
+  {
+   "role": "지언",
+   "name": "지혜련"
+  },
+  {
+   "role": "멀티맨",
+   "name": "최신권"
+  },
+  {
+   "role": "김현식",
+   "name": "허영택"
+  },
+  {
+   "role": "유령",
+   "name": "김영환"
+  },
+  {
+   "role": "유령",
+   "name": "김대우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250522231033/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=179673"
+ }
 }

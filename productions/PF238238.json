@@ -1,0 +1,51 @@
+{
+ "id": "PF238238",
+ "title": "음악극, 캐롤",
+ "genre": "연극",
+ "from": "2024-04-05",
+ "to": "2024-04-28",
+ "venue": "예그린씨어터 (예그린씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF238238_240328_112750.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "한종훈",
+  "길주희",
+  "강병훈",
+  "주영진",
+  "김주영",
+  "서원",
+  "정이운",
+  "최유현",
+  "조은재",
+  "전민옥",
+  "장수연",
+  "박훈규",
+  "최시우"
+ ],
+ "facilityId": "FC001212",
+ "runtime": "1시간 40분",
+ "age": "만 14세 이상",
+ "crew": "안서연, 이유나, 임유진, 은선우, 주서희, 최서희, 정해원, 류승령, 이유나 등",
+ "price": "전석 40,000원",
+ "schedule": "화요일(20:00), 수요일(16:00,20:00), 목요일 ~ 금요일(20:00), 토요일(15:00,19:00), 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238238_240328_1127503.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238238_240328_1127502.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238238_240328_1127501.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF238238_240328_1127500.jpg"
+ ],
+ "links": [
+  {
+   "name": "예스24",
+   "url": "http://ticket.yes24.com/Perf/48933"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://www.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=77788"
+  }
+ ],
+ "updated": "2025-01-10 16:18:04",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -43,5 +43,47 @@
  ],
  "updated": "2024-08-26 10:54:18",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3A2A1E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "비글러",
+   "name": "예수정"
+  },
+  {
+   "role": "리하르트 게르트너",
+   "name": "신현종"
+  },
+  {
+   "role": "틸",
+   "name": "이상직"
+  },
+  {
+   "role": "리텐",
+   "name": "김중기"
+  },
+  {
+   "role": "켈러",
+   "name": "최광일"
+  },
+  {
+   "role": "킬 슈미트",
+   "name": "유병훈"
+  },
+  {
+   "role": "",
+   "name": "오일영"
+  },
+  {
+   "role": "",
+   "name": "구시연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250908035111/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206236"
+ }
 }

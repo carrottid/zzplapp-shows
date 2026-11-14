@@ -67,5 +67,63 @@
  ],
  "updated": "2021-03-31 17:49:32",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#47749F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "태민",
+   "name": "정원조"
+  },
+  {
+   "role": "태민",
+   "name": "송용진"
+  },
+  {
+   "role": "태민",
+   "name": "장지후"
+  },
+  {
+   "role": "여름",
+   "name": "박혜나"
+  },
+  {
+   "role": "여름",
+   "name": "이예은"
+  },
+  {
+   "role": "조지",
+   "name": "남명렬"
+  },
+  {
+   "role": "조지",
+   "name": "조남희"
+  },
+  {
+   "role": "동욱",
+   "name": "박준휘"
+  },
+  {
+   "role": "동욱",
+   "name": "조훈"
+  },
+  {
+   "role": "동욱",
+   "name": "반정모"
+  },
+  {
+   "role": "란",
+   "name": "이지수"
+  },
+  {
+   "role": "란",
+   "name": "박가은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230329065700/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163056"
+ }
 }

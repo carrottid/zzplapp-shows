@@ -38,5 +38,47 @@
  ],
  "updated": "2022-11-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3C3B21",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "남자1/다까끼/노라",
+   "name": "김왕근"
+  },
+  {
+   "role": "여자1/유모/엄마",
+   "name": "백은경"
+  },
+  {
+   "role": "남자2/햄릿/톰",
+   "name": "이기현"
+  },
+  {
+   "role": "여자2/줄리엣/니나",
+   "name": "최은경"
+  },
+  {
+   "role": "연출가",
+   "name": "김세동"
+  },
+  {
+   "role": "평론가",
+   "name": "노윤정"
+  },
+  {
+   "role": "",
+   "name": "박수연"
+  },
+  {
+   "role": "",
+   "name": "정서연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622150934/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181896"
+ }
 }

@@ -1,0 +1,101 @@
+{
+ "id": "PF242516",
+ "title": "국립극단, 햄릿",
+ "genre": "연극",
+ "from": "2024-07-05",
+ "to": "2024-07-29",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF242516_240607_150714.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김별",
+  "김수현",
+  "김용준",
+  "김유민",
+  "김정화",
+  "노기용",
+  "류원준"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "2시간 15분",
+ "age": "만 12세 이상",
+ "crew": "부새롬, 정진새, 이태주 등",
+ "producer": "(재) 국립극단",
+ "price": "R석 60,000원, S석 45,000원, A석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF242516_240610_1012071.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/257202"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24007876"
+  }
+ ],
+ "updated": "2024-12-23 08:49:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "이봉련"
+  },
+  {
+   "role": "클로디어스",
+   "name": "김수현"
+  },
+  {
+   "role": "거트루드",
+   "name": "성여진"
+  },
+  {
+   "role": "폴로니어스",
+   "name": "김용준"
+  },
+  {
+   "role": "오필리어",
+   "name": "류원준"
+  },
+  {
+   "role": "레어티즈",
+   "name": "안창현"
+  },
+  {
+   "role": "",
+   "name": "신정원"
+  },
+  {
+   "role": "",
+   "name": "김유민"
+  },
+  {
+   "role": "",
+   "name": "김별"
+  },
+  {
+   "role": "",
+   "name": "김정화"
+  },
+  {
+   "role": "",
+   "name": "이승헌"
+  },
+  {
+   "role": "",
+   "name": "허이레"
+  },
+  {
+   "role": "",
+   "name": "노기용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250814053311/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=203666"
+ }
+}

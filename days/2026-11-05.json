@@ -2,24 +2,23 @@
  "date": "2026-11-05",
  "sessions": [
   {
-   "id": "PF303036",
-   "title": "러브레터",
-   "genre": "연극",
-   "venue": "KT&G 상상마당 대치아트홀",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2F5A3E",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF302270",
    "title": "V 에버 애프터",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "16:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "이준우"
+    },
+    {
+     "name": "박경호"
+    },
+    {
+     "name": "이동연"
+    }
+   ],
    "color": {
     "bg": "#2A2038",
     "fg": "#FFFFFF"
@@ -31,7 +30,42 @@
    "genre": "연극",
    "venue": "미마지아트센터 (물빛극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이성희"
+    },
+    {
+     "name": "송용진"
+    },
+    {
+     "name": "정수환"
+    },
+    {
+     "name": "김지인"
+    },
+    {
+     "name": "이지명"
+    },
+    {
+     "name": "박형석"
+    },
+    {
+     "name": "박소희"
+    },
+    {
+     "name": "임동진"
+    },
+    {
+     "name": "주예리"
+    },
+    {
+     "name": "조성현"
+    },
+    {
+     "name": "장희원"
+    }
+   ],
    "color": {
     "bg": "#3F4A44",
     "fg": "#F2C94C"
@@ -43,7 +77,27 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김빛나"
+    },
+    {
+     "name": "박세인"
+    },
+    {
+     "name": "박용우"
+    },
+    {
+     "name": "신윤지"
+    },
+    {
+     "name": "우미화"
+    },
+    {
+     "name": "정다함"
+    }
+   ],
    "color": {
     "bg": "#6E6E72",
     "fg": "#FFFFFF"
@@ -191,9 +245,43 @@
    "genre": "연극",
    "venue": "et theatre 1 (구. 눈빛극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "임주환"
+    },
+    {
+     "name": "이신행"
+    },
+    {
+     "name": "태항호"
+    },
+    {
+     "name": "주수경"
+    }
+   ],
    "color": {
     "bg": "#0A0A0A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF303036",
+   "title": "러브레터",
+   "genre": "연극",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "19:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최수종"
+    },
+    {
+     "name": "하희라"
+    }
+   ],
+   "color": {
+    "bg": "#2F5A3E",
     "fg": "#FFFFFF"
    }
   },
@@ -311,7 +399,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오주언"
+    },
+    {
+     "name": "이진우"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -335,7 +449,45 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정연"
+    },
+    {
+     "name": "정운선"
+    },
+    {
+     "name": "이시안"
+    },
+    {
+     "name": "박세훈"
+    },
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "윤석원"
+    },
+    {
+     "name": "김지혜"
+    },
+    {
+     "name": "하미미"
+    },
+    {
+     "name": "신창주"
+    },
+    {
+     "name": "전성혜"
+    },
+    {
+     "name": "안창용"
+    },
+    {
+     "name": "정소리"
+    }
+   ],
    "color": {
     "bg": "#5F8F96",
     "fg": "#FFFFFF"
@@ -440,7 +592,33 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "남기애"
+    },
+    {
+     "name": "남동진"
+    },
+    {
+     "name": "조영규"
+    },
+    {
+     "name": "김시영"
+    },
+    {
+     "name": "이진경"
+    },
+    {
+     "name": "최무인"
+    },
+    {
+     "name": "한윤춘"
+    },
+    {
+     "name": "홍준기"
+    }
+   ],
    "color": {
     "bg": "#C98AA0",
     "fg": "#FFFFFF"
@@ -452,7 +630,27 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "문소리"
+    },
+    {
+     "name": "황영희"
+    },
+    {
+     "name": "강신구"
+    },
+    {
+     "name": "마두영"
+    },
+    {
+     "name": "이강욱"
+    },
+    {
+     "name": "박세은"
+    }
+   ],
    "color": {
     "bg": "#5B7FA6",
     "fg": "#FFFFFF"
@@ -566,7 +764,54 @@
    "genre": "뮤지컬",
    "venue": "이화여자대학교 삼성홀",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "유주연"
+    },
+    {
+     "name": "정동화"
+    },
+    {
+     "name": "조성태"
+    },
+    {
+     "name": "정혜은"
+    },
+    {
+     "name": "키준"
+    },
+    {
+     "name": "이자영"
+    },
+    {
+     "name": "표지은"
+    },
+    {
+     "name": "구옥분"
+    },
+    {
+     "name": "문슬아"
+    },
+    {
+     "name": "민규"
+    },
+    {
+     "name": "김동현"
+    },
+    {
+     "name": "이랑서"
+    },
+    {
+     "name": "김소연"
+    },
+    {
+     "name": "이동주"
+    },
+    {
+     "name": "하예솔"
+    }
+   ],
    "color": {
     "bg": "#EE7F96",
     "fg": "#FFFFFF"
@@ -696,7 +941,21 @@
    "genre": "뮤지컬",
    "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "안현석"
+    },
+    {
+     "name": "전찬욱"
+    },
+    {
+     "name": "서도윤"
+    },
+    {
+     "name": "이태이"
+    }
+   ],
    "color": {
     "bg": "#1A0A1A",
     "fg": "#FF4F7A"
@@ -708,7 +967,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "박준형"
+    },
+    {
+     "name": "조은성"
+    },
+    {
+     "name": "조민호"
+    }
+   ],
    "color": {
     "bg": "#0E1626",
     "fg": "#C9B27C"
@@ -720,7 +990,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "이승준"
+    },
+    {
+     "name": "권태하"
+    },
+    {
+     "name": "이동연"
+    }
+   ],
    "color": {
     "bg": "#2A2038",
     "fg": "#FFFFFF"
@@ -732,7 +1013,15 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "허영손"
+    },
+    {
+     "name": "송유택"
+    }
+   ],
    "color": {
     "bg": "#F2C400",
     "fg": "#111111"
@@ -977,7 +1266,21 @@
    "genre": "뮤지컬",
    "venue": "SH아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김서연"
+    },
+    {
+     "name": "송영미"
+    },
+    {
+     "name": "김이진"
+    },
+    {
+     "name": "허순미"
+    }
+   ],
    "color": {
     "bg": "#3A2A1E",
     "fg": "#E8C88A"
@@ -1150,7 +1453,24 @@
    "genre": "뮤지컬",
    "venue": "백암아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "전혜주"
+    },
+    {
+     "name": "정욱진"
+    },
+    {
+     "name": "정다예"
+    },
+    {
+     "name": "김청아"
+    }
+   ],
    "color": {
     "bg": "#2FA39A",
     "fg": "#FFFFFF"
@@ -1212,7 +1532,18 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "오승현"
+    },
+    {
+     "name": "전해주"
+    },
+    {
+     "name": "서원"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#F2B01E"
@@ -1304,7 +1635,21 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "권소현"
+    },
+    {
+     "name": "고은영"
+    },
+    {
+     "name": "김별"
+    },
+    {
+     "name": "권슬아"
+    }
+   ],
    "color": {
     "bg": "#F28C1E",
     "fg": "#1B2A6B"
@@ -1316,7 +1661,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "이한별"
+    },
+    {
+     "name": "최수진"
+    },
+    {
+     "name": "전민지"
+    }
+   ],
    "color": {
     "bg": "#C0392B",
     "fg": "#FFFFFF"

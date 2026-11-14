@@ -1,0 +1,38 @@
+{
+ "id": "PF211636",
+ "title": "내면아이",
+ "genre": "연극",
+ "from": "2023-02-01",
+ "to": "2023-02-05",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF211636_230131_145542.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신우진",
+  "민지이",
+  "신창우",
+  "임승현",
+  "김윤슬"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 10분",
+ "age": "만 11세 이상",
+ "crew": "박대웅, 김민혁, 김민지 등",
+ "producer": "창작집단 본",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF211636_230131_0255420.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF211636_230131_0300233.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23001143"
+  }
+ ],
+ "updated": "2023-01-31 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

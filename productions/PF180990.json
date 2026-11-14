@@ -35,5 +35,107 @@
  ],
  "updated": "2021-10-12 17:33:55",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2F281C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "원준&성준",
+   "name": "김재우"
+  },
+  {
+   "role": "원준&성준",
+   "name": "백준우"
+  },
+  {
+   "role": "도영&동현",
+   "name": "권보은"
+  },
+  {
+   "role": "도영&동현",
+   "name": "이태훈"
+  },
+  {
+   "role": "도영&동현",
+   "name": "김홍용"
+  },
+  {
+   "role": "도영&동현",
+   "name": "이충현"
+  },
+  {
+   "role": "",
+   "name": "채혁주"
+  },
+  {
+   "role": "정기&지석&휘우",
+   "name": "이봉근"
+  },
+  {
+   "role": "정기&지석&휘우",
+   "name": "문종석"
+  },
+  {
+   "role": "정기&지석&휘우",
+   "name": "한국정"
+  },
+  {
+   "role": "정기&지석&휘우",
+   "name": "배시현"
+  },
+  {
+   "role": "세훈&민호",
+   "name": "손창성"
+  },
+  {
+   "role": "세훈&민호",
+   "name": "이희원"
+  },
+  {
+   "role": "세훈&민호",
+   "name": "정일훈"
+  },
+  {
+   "role": "세훈&민호",
+   "name": "박지현"
+  },
+  {
+   "role": "나희&은영",
+   "name": "문혜원"
+  },
+  {
+   "role": "나희&은영",
+   "name": "장다빈"
+  },
+  {
+   "role": "나희&은영",
+   "name": "김민솔"
+  },
+  {
+   "role": "나희&은영",
+   "name": "박소정"
+  },
+  {
+   "role": "",
+   "name": "편다연"
+  },
+  {
+   "role": "하은&민정",
+   "name": "최찬미"
+  },
+  {
+   "role": "하은&민정",
+   "name": "채다솜"
+  },
+  {
+   "role": "하은&민정",
+   "name": "홍유나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250805035813/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=168673"
+ }
 }

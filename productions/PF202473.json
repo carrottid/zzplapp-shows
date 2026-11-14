@@ -1,0 +1,38 @@
+{
+ "id": "PF202473",
+ "title": "슈베르트, 겨울여행",
+ "genre": "연극",
+ "from": "2022-12-16",
+ "to": "2022-12-31",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF202473_221118_130947.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "차예준",
+  "임영식",
+  "김성현",
+  "임태수",
+  "최유진",
+  "백은교",
+  "한우리"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 35분",
+ "age": "만 7세 이상",
+ "crew": "임수현, 임수진, 이인애 등",
+ "price": "전석 40,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF202473_221121_0503301.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22016070"
+  }
+ ],
+ "updated": "2022-11-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

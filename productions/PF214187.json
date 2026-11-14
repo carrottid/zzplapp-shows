@@ -35,5 +35,79 @@
  ],
  "updated": "2023-03-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#112A29",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "사카모토 토루",
+   "name": "김이담"
+  },
+  {
+   "role": "사카모토 토루",
+   "name": "유희제"
+  },
+  {
+   "role": "키리노 요시오",
+   "name": "김바다"
+  },
+  {
+   "role": "키리노 요시오",
+   "name": "도예준"
+  },
+  {
+   "role": "타케다 유우카",
+   "name": "김보정"
+  },
+  {
+   "role": "타케다 유우카",
+   "name": "이지민"
+  },
+  {
+   "role": "키리노 카즈에",
+   "name": "오현서"
+  },
+  {
+   "role": "키리노 카즈에",
+   "name": "김계림"
+  },
+  {
+   "role": "미도리카와 타쿠지",
+   "name": "박한근"
+  },
+  {
+   "role": "미도리카와 타쿠지",
+   "name": "장태민"
+  },
+  {
+   "role": "미도리카와 마사미",
+   "name": "김보나"
+  },
+  {
+   "role": "미도리카와 마사미",
+   "name": "최지혜"
+  },
+  {
+   "role": "",
+   "name": "문경희"
+  },
+  {
+   "role": "",
+   "name": "송희정"
+  },
+  {
+   "role": "",
+   "name": "장용철"
+  },
+  {
+   "role": "",
+   "name": "이정용"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250209234204/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185293"
+ }
 }

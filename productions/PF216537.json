@@ -57,5 +57,43 @@
  ],
  "updated": "2023-04-10 17:05:52",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#712321",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "나폴레옹",
+   "name": "로랑 방"
+  },
+  {
+   "role": "나폴레옹/뤼시앙",
+   "name": "존 아이젠"
+  },
+  {
+   "role": "탈레랑/바라스",
+   "name": "제롬 콜렛"
+  },
+  {
+   "role": "히폴라이트 찰스",
+   "name": "이용욱"
+  },
+  {
+   "role": "",
+   "name": "원소찬"
+  },
+  {
+   "role": "",
+   "name": "오유선"
+  },
+  {
+   "role": "",
+   "name": "최은호"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241109163655/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=187030"
+ }
 }

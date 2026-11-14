@@ -47,5 +47,71 @@
  ],
  "updated": "2025-03-07 10:46:28",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2A2438",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "노래방 주인",
+   "name": "김진우"
+  },
+  {
+   "role": "노래방 주인",
+   "name": "문경초"
+  },
+  {
+   "role": "민재",
+   "name": "길은성"
+  },
+  {
+   "role": "민재",
+   "name": "김기주"
+  },
+  {
+   "role": "보경",
+   "name": "이지해"
+  },
+  {
+   "role": "보경",
+   "name": "정윤하"
+  },
+  {
+   "role": "희준",
+   "name": "양지원"
+  },
+  {
+   "role": "희준",
+   "name": "이충호"
+  },
+  {
+   "role": "민정",
+   "name": "방유인"
+  },
+  {
+   "role": "민정",
+   "name": "정예인"
+  },
+  {
+   "role": "은혜/유정",
+   "name": "정선아"
+  },
+  {
+   "role": "은혜/유정",
+   "name": "고태연"
+  },
+  {
+   "role": "",
+   "name": "진휘서"
+  },
+  {
+   "role": "",
+   "name": "임동진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250622160937/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214206"
+ }
 }

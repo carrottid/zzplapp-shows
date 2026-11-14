@@ -39,5 +39,67 @@
  ],
  "updated": "2026-01-21 13:31:20",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F5C94",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "임선우",
+   "name": "박시환"
+  },
+  {
+   "role": "임선우",
+   "name": "이태이"
+  },
+  {
+   "role": "임선우",
+   "name": "태호"
+  },
+  {
+   "role": "구해진",
+   "name": "김찰리"
+  },
+  {
+   "role": "구해진",
+   "name": "배윤"
+  },
+  {
+   "role": "구해진",
+   "name": "리키"
+  },
+  {
+   "role": "나여라",
+   "name": "소연"
+  },
+  {
+   "role": "나여라",
+   "name": "오승희"
+  },
+  {
+   "role": "나여라",
+   "name": "김도희"
+  },
+  {
+   "role": "나여라",
+   "name": "이하연"
+  },
+  {
+   "role": "나지원",
+   "name": "이든"
+  },
+  {
+   "role": "나지원",
+   "name": "박태성"
+  },
+  {
+   "role": "나지원",
+   "name": "김록현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251108184614/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=223023"
+ }
 }

@@ -1,0 +1,43 @@
+{
+ "id": "PF180147",
+ "title": "광장 너머",
+ "genre": "연극",
+ "from": "2021-09-29",
+ "to": "2021-10-03",
+ "venue": "미마지아트센터 (눈빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF180147_210924_133227.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "송흥진",
+  "송은지",
+  "윤주희",
+  "강지완",
+  "전호현",
+  "김경태",
+  "김용준"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "이수인, 엄태훈, 임효섭 등",
+ "producer": "극단 떼아뜨르 봄날",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:00), 토요일 ~ 일요일(16:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF180147_210924_0132270.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21008711"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1560"
+  }
+ ],
+ "updated": "2021-09-24 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

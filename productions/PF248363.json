@@ -36,5 +36,35 @@
  ],
  "updated": "2025-01-16 09:33:27",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#70499C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김현재",
+   "name": "이고운"
+  },
+  {
+   "role": "윤비",
+   "name": "황재윤"
+  },
+  {
+   "role": "이제이",
+   "name": "김서정"
+  },
+  {
+   "role": "빙하",
+   "name": "김섬"
+  },
+  {
+   "role": "빙하",
+   "name": "양도담"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240912125214/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207413"
+ }
 }

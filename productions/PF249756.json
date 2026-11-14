@@ -43,5 +43,63 @@
  ],
  "updated": "2025-04-04 16:16:39",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#6D3746",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "장발장",
+   "name": "전노민"
+  },
+  {
+   "role": "마리우스",
+   "name": "M"
+  },
+  {
+   "role": "쟈베르",
+   "name": "윤여성"
+  },
+  {
+   "role": "쟈베르",
+   "name": "김명수"
+  },
+  {
+   "role": "팡틴",
+   "name": "오정연"
+  },
+  {
+   "role": "에포닌",
+   "name": "하지영"
+  },
+  {
+   "role": "주교",
+   "name": "박웅"
+  },
+  {
+   "role": "주교",
+   "name": "임동진"
+  },
+  {
+   "role": "",
+   "name": "전해리"
+  },
+  {
+   "role": "",
+   "name": "김우진"
+  },
+  {
+   "role": "",
+   "name": "전희진"
+  },
+  {
+   "role": "",
+   "name": "제시"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250122105726/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=208234"
+ }
 }

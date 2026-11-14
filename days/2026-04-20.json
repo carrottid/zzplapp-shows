@@ -7,7 +7,11 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF282148",
@@ -15,6 +19,18 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#2C2F3A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF286355",
+   "title": "괴담낭독클럽",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -23,7 +39,11 @@
    "genre": "연극",
    "venue": "산울림소극장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A2F28",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

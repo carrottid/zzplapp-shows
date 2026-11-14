@@ -1,0 +1,60 @@
+{
+ "id": "PF170916",
+ "title": "버스정류장",
+ "genre": "연극",
+ "from": "2021-01-20",
+ "to": "2021-01-24",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF170916_210105_092150.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "국태원",
+  "이동현",
+  "김동훈",
+  "방경태",
+  "박주연",
+  "유연주",
+  "김정호"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간 20분",
+ "age": "만 12세 이상",
+ "crew": "오수경, 김두영, 최당석 등",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(20:00), 토요일(18:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF170916_210105_0921500.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=20011357"
+  }
+ ],
+ "updated": "2021-01-05 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "덜렁이 청년",
+   "name": "이매진"
+  },
+  {
+   "role": "마 주임",
+   "name": "방경태"
+  },
+  {
+   "role": "안경잡이",
+   "name": "김동훈"
+  },
+  {
+   "role": "아가씨",
+   "name": "박지후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250915193946/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162548"
+ }
+}

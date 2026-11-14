@@ -43,5 +43,87 @@
  ],
  "updated": "2023-10-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#0C192C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "신기목",
+   "name": "이건영"
+  },
+  {
+   "role": "오만석",
+   "name": "정수한"
+  },
+  {
+   "role": "신정선",
+   "name": "김미수"
+  },
+  {
+   "role": "신정선",
+   "name": "조슬아"
+  },
+  {
+   "role": "기무라 마키",
+   "name": "박승일"
+  },
+  {
+   "role": "경찰서장",
+   "name": "김기남"
+  },
+  {
+   "role": "전영진",
+   "name": "최정화"
+  },
+  {
+   "role": "",
+   "name": "최재섭"
+  },
+  {
+   "role": "",
+   "name": "남현우"
+  },
+  {
+   "role": "",
+   "name": "채승혜"
+  },
+  {
+   "role": "",
+   "name": "김가람"
+  },
+  {
+   "role": "",
+   "name": "황준우"
+  },
+  {
+   "role": "",
+   "name": "김경환"
+  },
+  {
+   "role": "",
+   "name": "정형석"
+  },
+  {
+   "role": "",
+   "name": "여동훈"
+  },
+  {
+   "role": "",
+   "name": "최현규"
+  },
+  {
+   "role": "",
+   "name": "홍성민"
+  },
+  {
+   "role": "",
+   "name": "박배리"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260214130819/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=197150"
+ }
 }

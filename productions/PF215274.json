@@ -1,0 +1,97 @@
+{
+ "id": "PF215274",
+ "title": "검사반점",
+ "genre": "연극",
+ "from": "2023-04-12",
+ "to": "2023-04-30",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF215274_230320_124930.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김미준",
+  "김동현",
+  "조지환",
+  "주희중",
+  "하성훈",
+  "김연수",
+  "조진욱"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 40분",
+ "age": "만 13세 이상",
+ "crew": "박아정, 김동현, 주희중 등",
+ "producer": "(주)훌륭한, 안녕컴퍼니",
+ "price": "전석 40,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF215274_230320_1249300.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/865841"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23003917"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://www.timeticket.co.kr/?number=5024"
+  }
+ ],
+ "updated": "2023-03-20 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "강춘옥",
+   "name": "김미준"
+  },
+  {
+   "role": "강춘옥",
+   "name": "박아정"
+  },
+  {
+   "role": "오대식",
+   "name": "김동현"
+  },
+  {
+   "role": "오대식",
+   "name": "조지환"
+  },
+  {
+   "role": "오중식",
+   "name": "주희중"
+  },
+  {
+   "role": "오중식",
+   "name": "조진욱"
+  },
+  {
+   "role": "하태호",
+   "name": "하성훈"
+  },
+  {
+   "role": "하태호",
+   "name": "김연수"
+  },
+  {
+   "role": "박세련",
+   "name": "박은경"
+  },
+  {
+   "role": "박세련",
+   "name": "전민옥"
+  },
+  {
+   "role": "오윤서",
+   "name": "신유진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250519202344/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=186186"
+ }
+}

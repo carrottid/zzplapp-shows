@@ -35,5 +35,71 @@
  ],
  "updated": "2021-06-29 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#664C36",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "달수",
+   "name": "김지철"
+  },
+  {
+   "role": "달수",
+   "name": "류제윤"
+  },
+  {
+   "role": "호태",
+   "name": "원종환"
+  },
+  {
+   "role": "호태",
+   "name": "김지훈"
+  },
+  {
+   "role": "춘섬",
+   "name": "최유하"
+  },
+  {
+   "role": "춘섬",
+   "name": "김아영"
+  },
+  {
+   "role": "이덕",
+   "name": "최수진"
+  },
+  {
+   "role": "이덕",
+   "name": "박란주"
+  },
+  {
+   "role": "사또 외",
+   "name": "류경환"
+  },
+  {
+   "role": "사또 외",
+   "name": "이경욱"
+  },
+  {
+   "role": "분이 외",
+   "name": "김지혜"
+  },
+  {
+   "role": "분이 외",
+   "name": "임소라"
+  },
+  {
+   "role": "",
+   "name": "최영석"
+  },
+  {
+   "role": "",
+   "name": "최영석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240910135916/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166437"
+ }
 }

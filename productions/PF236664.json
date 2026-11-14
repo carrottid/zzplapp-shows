@@ -38,5 +38,51 @@
  ],
  "updated": "2024-11-29 11:38:50",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#DBDF02",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "지수 외",
+   "name": "김기주"
+  },
+  {
+   "role": "콜리",
+   "name": "김예은"
+  },
+  {
+   "role": "보경",
+   "name": "김현정"
+  },
+  {
+   "role": "은혜",
+   "name": "류이재"
+  },
+  {
+   "role": "민주 외",
+   "name": "윤성원"
+  },
+  {
+   "role": "마주 외",
+   "name": "이승헌"
+  },
+  {
+   "role": "",
+   "name": "장석환"
+  },
+  {
+   "role": "",
+   "name": "최하윤"
+  },
+  {
+   "role": "",
+   "name": "허이레"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516234724/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=200245"
+ }
 }

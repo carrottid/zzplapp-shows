@@ -11,7 +11,16 @@
   "137743": "비스트",
   "137744": "바맨",
   "137745": "핸디맨",
-  "137746": "보어"
+  "137746": "보어",
+  "r:포엣": "포엣",
+  "r:로맨틱": "로맨틱",
+  "r:조커": "조커",
+  "r:마에스트로": "마에스트로",
+  "r:하드 맨": "하드 맨",
+  "r:비스트": "비스트",
+  "r:바맨": "바맨",
+  "r:핸디맨": "핸디맨",
+  "r:보어": "보어"
  },
  "people": {
   "12099": {
@@ -73,6 +82,930 @@
   }
  },
  "sessions": [
+  {
+   "date": "2026-09-18",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-19",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-19",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-25",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-27",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-27",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-30",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "박찬양",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "주민혁",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "신은총",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "강윤석",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김방언",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "유성재",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "이성훈",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "강리운",
+     "roleId": "r:보어"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-05",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "roleId": "r:포엣"
+    },
+    {
+     "name": "손진욱",
+     "roleId": "r:로맨틱"
+    },
+    {
+     "name": "정찬영",
+     "roleId": "r:조커"
+    },
+    {
+     "name": "송권웅",
+     "roleId": "r:마에스트로"
+    },
+    {
+     "name": "김도현",
+     "roleId": "r:하드 맨"
+    },
+    {
+     "name": "문시온",
+     "roleId": "r:비스트"
+    },
+    {
+     "name": "박두희",
+     "roleId": "r:바맨"
+    },
+    {
+     "name": "권오환",
+     "roleId": "r:핸디맨"
+    },
+    {
+     "name": "이연승",
+     "roleId": "r:보어"
+    }
+   ]
+  },
   {
    "date": "2026-10-07",
    "time": "20:00",
@@ -2169,8 +3102,8 @@
    "time": "20:00",
    "cast": [
     {
-     "name": "임준혁",
-     "personId": "40155",
+     "name": "이충주",
+     "personId": "12099",
      "roleId": "137738"
     },
     {
@@ -4101,7 +5034,1231 @@
      "roleId": "137746"
     }
    ]
+  },
+  {
+   "date": "2026-12-15",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-16",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-17",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "personId": "29458",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-18",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-19",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-19",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "personId": "29458",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-20",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "personId": "29458",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-22",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "personId": "29458",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-23",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-24",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-25",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-25",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-26",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-26",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-27",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "personId": "29458",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-29",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-30",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "personId": "29458",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2026-12-31",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-01",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "김지철",
+     "personId": "29458",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-02",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-02",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "이충주",
+     "personId": "12099",
+     "roleId": "137738"
+    },
+    {
+     "name": "신은총",
+     "personId": "45809",
+     "roleId": "137739"
+    },
+    {
+     "name": "정찬영",
+     "personId": "56426",
+     "roleId": "137740"
+    },
+    {
+     "name": "송권웅",
+     "personId": "54904",
+     "roleId": "137741"
+    },
+    {
+     "name": "김도현",
+     "personId": "45345",
+     "roleId": "137742"
+    },
+    {
+     "name": "문시온",
+     "personId": "45091",
+     "roleId": "137743"
+    },
+    {
+     "name": "박두희",
+     "personId": "34045",
+     "roleId": "137744"
+    },
+    {
+     "name": "권오환",
+     "personId": "15021",
+     "roleId": "137745"
+    },
+    {
+     "name": "강리운",
+     "personId": "41811",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-03",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
+  },
+  {
+   "date": "2027-01-03",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "임준혁",
+     "personId": "40155",
+     "roleId": "137738"
+    },
+    {
+     "name": "손진욱",
+     "personId": "54227",
+     "roleId": "137739"
+    },
+    {
+     "name": "강윤석",
+     "personId": "57553",
+     "roleId": "137740"
+    },
+    {
+     "name": "박찬양",
+     "personId": "39693",
+     "roleId": "137741"
+    },
+    {
+     "name": "김방언",
+     "personId": "41853",
+     "roleId": "137742"
+    },
+    {
+     "name": "주민혁",
+     "personId": "49563",
+     "roleId": "137743"
+    },
+    {
+     "name": "유성재",
+     "personId": "14173",
+     "roleId": "137744"
+    },
+    {
+     "name": "이성훈",
+     "personId": "20519",
+     "roleId": "137745"
+    },
+    {
+     "name": "이연승",
+     "personId": "56213",
+     "roleId": "137746"
+    }
+   ]
   }
  ],
- "updatedAt": "2026-11-08T10:36:24"
+ "updatedAt": "2026-11-13T09:00:22"
 }

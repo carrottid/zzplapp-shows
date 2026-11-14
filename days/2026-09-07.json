@@ -2,6 +2,14 @@
  "date": "2026-09-07",
  "sessions": [
   {
+   "id": "PF297215",
+   "title": "창작희곡공모 대상 수상작, 역행기",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF293924",
    "title": "결혼전야",
    "genre": "연극",
@@ -23,6 +31,58 @@
    "color": {
     "bg": "#6E94B8",
     "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF298769",
+   "title": "서울어텀페스타, 당신의 손",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF296274",
+   "title": "장군슈퍼",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF298328",
+   "title": "창작ing, 고쳐서 나가는 곳",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF300089",
+   "title": "해부되지 않은 것들",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF297684",
+   "title": "VL",
+   "genre": "연극",
+   "venue": "링크더스페이스(LINK THE SPACE) (2관)",
+   "time": "20:00",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "홍성원"
+    },
+    {
+     "name": "최정우"
+    }
+   ],
+   "color": {
+    "bg": "#F2C400",
+    "fg": "#111111"
    }
   },
   {

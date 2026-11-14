@@ -1,0 +1,101 @@
+{
+ "id": "PF230055",
+ "title": "창작ing, 13 후르츠케이크",
+ "genre": "뮤지컬",
+ "from": "2023-12-17",
+ "to": "2023-12-29",
+ "venue": "국립정동극장 세실 (구.세실극장) (국립정동극장 세실 (구.세실극장))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF230055_231115_131805.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "모지민",
+  "전호준",
+  "조은체",
+  "전성혜",
+  "이형동",
+  "유영승",
+  "최재훈"
+ ],
+ "facilityId": "FC001125",
+ "runtime": "1시간 25분",
+ "age": "만 15세 이상",
+ "crew": "안병구, 이지혜, 서병구 등",
+ "producer": "노래하는 배우들",
+ "price": "전석 30,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 일요일(14:00,18:00), HOL(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF230055_231115_0118050.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23016743"
+  }
+ ],
+ "updated": "2023-11-15 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "올랜도",
+   "name": "모지민"
+  },
+  {
+   "role": "올랜도",
+   "name": "전호준"
+  },
+  {
+   "role": "마이티 올랜도",
+   "name": "조은체"
+  },
+  {
+   "role": "13 후르츠케이크",
+   "name": "전성혜"
+  },
+  {
+   "role": "13 후르츠케이크",
+   "name": "이형동"
+  },
+  {
+   "role": "13 후르츠케이크",
+   "name": "유영승"
+  },
+  {
+   "role": "13 후르츠케이크",
+   "name": "김건우"
+  },
+  {
+   "role": "",
+   "name": "김성현"
+  },
+  {
+   "role": "",
+   "name": "박선주"
+  },
+  {
+   "role": "",
+   "name": "임한빈"
+  },
+  {
+   "role": "마이티후르츠케이크",
+   "name": "안솔지"
+  },
+  {
+   "role": "마이티후르츠케이크",
+   "name": "이동주"
+  },
+  {
+   "role": "마이티후르츠케이크",
+   "name": "이승준"
+  },
+  {
+   "role": "마이티후르츠케이크",
+   "name": "김지연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240223102429/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=196053"
+ }
+}

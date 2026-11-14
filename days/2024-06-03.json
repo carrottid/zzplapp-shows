@@ -2,18 +2,66 @@
  "date": "2024-06-03",
  "sessions": [
   {
+   "id": "PF239792",
+   "title": "혜화동1번지 동인 페스티벌, 안전 연극제: 포비아 포비아",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
+   "time": "17:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239993",
+   "title": "국립극단, 활화산",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF240128",
+   "title": "창작ing, 고등어",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF236251",
    "title": "데미안",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#231712",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF240110",
    "title": "제45회 서울연극제, 아는 사람 되기",
    "genre": "연극",
    "venue": "대학로예술극장 (소극장)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#78736D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF240767",
+   "title": "죽은 남자의 휴대폰",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF239792",
+   "title": "혜화동1번지 동인 페스티벌, 안전 연극제: 포비아 포비아",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
    "time": "20:00",
    "castSource": "none"
   }

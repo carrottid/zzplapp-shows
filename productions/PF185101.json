@@ -35,5 +35,47 @@
  ],
  "updated": "2021-12-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2C2C28",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "만국",
+   "name": "이대연"
+  },
+  {
+   "role": "성국/용학",
+   "name": "김문식"
+  },
+  {
+   "role": "언년3/당숙모",
+   "name": "곽성은"
+  },
+  {
+   "role": "당숙/부원",
+   "name": "김승환"
+  },
+  {
+   "role": "언년2/추자/현화",
+   "name": "최나라"
+  },
+  {
+   "role": "남자",
+   "name": "장찬호"
+  },
+  {
+   "role": "",
+   "name": "정다함"
+  },
+  {
+   "role": "",
+   "name": "정홍구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250421121419/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171216"
+ }
 }

@@ -59,5 +59,95 @@
  ],
  "updated": "2024-02-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1F1A17",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "파가니니",
+   "name": "KoN"
+  },
+  {
+   "role": "파가니니",
+   "name": "홍석기"
+  },
+  {
+   "role": "파가니니",
+   "name": "홍주찬"
+  },
+  {
+   "role": "루치오 아모스",
+   "name": "김경수"
+  },
+  {
+   "role": "루치오 아모스",
+   "name": "윤형렬"
+  },
+  {
+   "role": "루치오 아모스",
+   "name": "백인태"
+  },
+  {
+   "role": "콜랭 보네르",
+   "name": "이준혁"
+  },
+  {
+   "role": "콜랭 보네르",
+   "name": "김준영"
+  },
+  {
+   "role": "콜랭 보네르",
+   "name": "기세중"
+  },
+  {
+   "role": "아킬레",
+   "name": "박좌헌"
+  },
+  {
+   "role": "아킬레",
+   "name": "이준우"
+  },
+  {
+   "role": "아킬레",
+   "name": "박준형"
+  },
+  {
+   "role": "샬롯 드 베르니에",
+   "name": "성민재"
+  },
+  {
+   "role": "샬롯 드 베르니에",
+   "name": "유소리"
+  },
+  {
+   "role": "",
+   "name": "이지우"
+  },
+  {
+   "role": "",
+   "name": "배혜진"
+  },
+  {
+   "role": "",
+   "name": "장현동"
+  },
+  {
+   "role": "",
+   "name": "이여진"
+  },
+  {
+   "role": "",
+   "name": "곽준민"
+  },
+  {
+   "role": "",
+   "name": "이지혁"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250515074807/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199633"
+ }
 }

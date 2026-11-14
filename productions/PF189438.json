@@ -52,5 +52,39 @@
  ],
  "updated": "2022-04-13 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#050505",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "앙드레 프리드만",
+   "name": "유승현"
+  },
+  {
+   "role": "앙드레 프리드만",
+   "name": "안재영"
+  },
+  {
+   "role": "앙드레 프리드만",
+   "name": "김준영"
+  },
+  {
+   "role": "게르다 타로",
+   "name": "최연우"
+  },
+  {
+   "role": "게르다 타로",
+   "name": "정우연"
+  },
+  {
+   "role": "게르다 타로",
+   "name": "김이후"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20220528225501/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=173381"
+ }
 }

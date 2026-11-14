@@ -2,6 +2,14 @@
  "date": "2026-08-10",
  "sessions": [
   {
+   "id": "PF293598",
+   "title": "갈매기",
+   "genre": "연극",
+   "venue": "티켓링크 1975 씨어터(구.능동 어린이회관) (티켓링크 1975 씨어터(구.무지개극장))",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF293924",
    "title": "결혼전야",
    "genre": "연극",
@@ -31,7 +39,11 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종S씨어터)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F2C12E",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF292095",
@@ -39,7 +51,11 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4E5B3C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF294932",
@@ -64,6 +80,14 @@
     "bg": "#C95F9A",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF295761",
+   "title": "플레이위드 햄릿",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "20:00",
+   "castSource": "none"
   }
  ]
 }

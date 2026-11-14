@@ -55,5 +55,95 @@
  ],
  "updated": "2024-01-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2D3158",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에반 핸슨",
+   "name": "김성규"
+  },
+  {
+   "role": "에반 핸슨",
+   "name": "박강현"
+  },
+  {
+   "role": "에반 핸슨",
+   "name": "임규형"
+  },
+  {
+   "role": "하이디 핸슨",
+   "name": "김선영"
+  },
+  {
+   "role": "하이디 핸슨",
+   "name": "신영숙"
+  },
+  {
+   "role": "코너 머피",
+   "name": "윤승우"
+  },
+  {
+   "role": "코너 머피",
+   "name": "임지섭"
+  },
+  {
+   "role": "조이 머피",
+   "name": "강지혜"
+  },
+  {
+   "role": "조이 머피",
+   "name": "홍금비"
+  },
+  {
+   "role": "래리 머피",
+   "name": "장현성"
+  },
+  {
+   "role": "래리 머피",
+   "name": "윤석원"
+  },
+  {
+   "role": "래리 머피",
+   "name": "장경원"
+  },
+  {
+   "role": "신시아 머피",
+   "name": "안시하"
+  },
+  {
+   "role": "신시아 머피",
+   "name": "한유란"
+  },
+  {
+   "role": "신시아 머피",
+   "name": "임민영"
+  },
+  {
+   "role": "",
+   "name": "김강진"
+  },
+  {
+   "role": "",
+   "name": "조용휘"
+  },
+  {
+   "role": "",
+   "name": "이다정"
+  },
+  {
+   "role": "",
+   "name": "염희진"
+  },
+  {
+   "role": "",
+   "name": "박찬양"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250808081315/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=198590"
+ }
 }

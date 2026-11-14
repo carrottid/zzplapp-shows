@@ -1,0 +1,37 @@
+{
+ "id": "PF184887",
+ "title": "커튼",
+ "genre": "연극",
+ "from": "2021-12-24",
+ "to": "2021-12-26",
+ "venue": "삼일로창고극장 (삼일로창고극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF184887_211216_103552.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강다현",
+  "박은호",
+  "백소정",
+  "부진서",
+  "신윤지"
+ ],
+ "facilityId": "FC000248",
+ "runtime": "1시간 30분",
+ "age": "만 15세 이상",
+ "crew": "지구, 이시은, 신동선 등",
+ "producer": "프로젝트 하자",
+ "price": "전석 30,000원",
+ "schedule": "금요일(20:00), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF184887_211216_1035520.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21012953"
+  }
+ ],
+ "updated": "2021-12-16 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

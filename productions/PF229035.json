@@ -60,5 +60,31 @@
  ],
  "updated": "2023-11-01 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#3E2A5C",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "제임스",
+   "name": "강신구"
+  },
+  {
+   "role": "해리",
+   "name": "김신기"
+  },
+  {
+   "role": "빌",
+   "name": "정원조"
+  },
+  {
+   "role": "스텔라",
+   "name": "최나라"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260207100139/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=195354"
+ }
 }

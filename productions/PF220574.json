@@ -1,0 +1,60 @@
+{
+ "id": "PF220574",
+ "title": "설공찬",
+ "genre": "뮤지컬",
+ "from": "2023-07-06",
+ "to": "2023-07-09",
+ "venue": "KT&G 상상마당 대치아트홀 (KT&G 상상마당 대치아트홀)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF220574_230620_161255.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "신은총",
+  "정의욱",
+  "이지연",
+  "태항호",
+  "서승원",
+  "백승렬",
+  "서동진"
+ ],
+ "facilityId": "FC000052",
+ "runtime": "1시간 30분",
+ "age": "만 8세 이상",
+ "crew": "서유석, 추정화, 허수현 등",
+ "price": "전석 10,000원",
+ "schedule": "목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF220574_230620_0412550.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=23008436"
+  }
+ ],
+ "updated": "2023-06-20 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "설공찬",
+   "name": "신은총"
+  },
+  {
+   "role": "채수",
+   "name": "정의욱"
+  },
+  {
+   "role": "염라대왕",
+   "name": "태항호"
+  },
+  {
+   "role": "김석산",
+   "name": "박찬우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260517093202/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=189670"
+ }
+}

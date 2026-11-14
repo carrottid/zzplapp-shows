@@ -2,10 +2,38 @@
  "date": "2025-06-16",
  "sessions": [
   {
+   "id": "PF265474",
+   "title": "제33회 젊은연극제, 20세기 소년 소녀 창가집",
+   "genre": "연극",
+   "venue": "선돌극장",
+   "time": "19:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF264966",
+   "title": "국립극단, 십이야",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF264336",
    "title": "더 크리처",
    "genre": "뮤지컬",
    "venue": "대학로 자유극장 (자유문화발전소)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#022234",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF265374",
+   "title": "하붑",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
    "time": "20:00",
    "castSource": "none"
   }

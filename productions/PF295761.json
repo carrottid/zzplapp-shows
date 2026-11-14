@@ -1,0 +1,56 @@
+{
+ "id": "PF295761",
+ "title": "플레이위드 햄릿",
+ "genre": "연극",
+ "from": "2026-08-06",
+ "to": "2026-08-23",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295761_260710_104830.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박동욱",
+  "김성훈",
+  "김영욱",
+  "김록현",
+  "임승범",
+  "차예준",
+  "최기욱"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 50분",
+ "age": "만 13세 이상",
+ "crew": "박선희, 신지환, 최보연 등",
+ "producer": "플레이위드",
+ "price": "전석 50,000원",
+ "schedule": "월요일 ~ 금요일(20:00), 토요일 ~ 일요일(15:00,19:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295761_202608030236437780.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF295761_202608030236438001.jpg"
+ ],
+ "links": [
+  {
+   "name": "나눔티켓",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=13898"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/1704389"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26009987"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "https://ticket.clipservice.co.kr/Clipservice/Ticket/ShowDetail?playNum=79333"
+  },
+  {
+   "name": "타임티켓",
+   "url": "https://timeticket.co.kr/product/7284"
+  }
+ ],
+ "updated": "2026-08-12 10:46:20",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

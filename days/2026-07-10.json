@@ -7,7 +7,11 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "14:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2520",
+    "fg": "#F2A33A"
+   }
   },
   {
    "id": "PF290422",
@@ -15,7 +19,11 @@
    "genre": "뮤지컬",
    "venue": "예술의전당 [서울] (CJ 토월극장)",
    "time": "14:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F6FB2",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF289927",
@@ -23,13 +31,29 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E3CFA8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF289313",
    "title": "베토벤",
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종대극장)",
+   "time": "15:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#B3202A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF294566",
+   "title": "이유를 찾아서",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
    "time": "15:00",
    "castSource": "none"
   },
@@ -39,7 +63,11 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "time": "16:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2563A8",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291501",
@@ -47,7 +75,11 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "16:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF289313",
@@ -55,7 +87,11 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종대극장)",
    "time": "16:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#B3202A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291233",
@@ -75,7 +111,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "16:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A1A1E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292166",
@@ -83,7 +123,11 @@
    "genre": "연극",
    "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#161A17",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF293924",
@@ -98,12 +142,24 @@
    }
   },
   {
+   "id": "PF295372",
+   "title": "그 여자의 소설",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF288803",
    "title": "그날들",
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2520",
+    "fg": "#F2A33A"
+   }
   },
   {
    "id": "PF290432",
@@ -111,7 +167,11 @@
    "genre": "연극",
    "venue": "백암아트홀",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E8B4A8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF289927",
@@ -119,7 +179,11 @@
    "genre": "연극",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E3CFA8",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF292342",
@@ -139,7 +203,11 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A6FB0",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291461",
@@ -159,7 +227,11 @@
    "genre": "연극",
    "venue": "국립극장 (해오름극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B4A7D",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF293445",
@@ -167,7 +239,11 @@
    "genre": "연극",
    "venue": "제천예술의전당 (대공연장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2F6D8E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF284081",
@@ -175,7 +251,11 @@
    "genre": "뮤지컬",
    "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#A9C4D6",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF291533",
@@ -183,7 +263,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오주언"
+    },
+    {
+     "name": "류찬열"
+    },
+    {
+     "name": "서나영"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "최현희"
+    }
+   ],
    "color": {
     "bg": "#D9A441",
     "fg": "#111111"
@@ -195,6 +301,18 @@
    "genre": "뮤지컬",
    "venue": "광림아트센터 (BBCH홀)",
    "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#E8B4C4",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF291114",
+   "title": "십분: 닿을 수 없는",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:30",
    "castSource": "none"
   },
   {
@@ -203,7 +321,11 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292137",
@@ -223,7 +345,11 @@
    "genre": "뮤지컬",
    "venue": "예술의전당 [서울] (CJ 토월극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F6FB2",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291619",
@@ -231,7 +357,11 @@
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#7A4E5C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292347",
@@ -239,7 +369,11 @@
    "genre": "연극",
    "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A4A5E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF294231",
@@ -247,7 +381,11 @@
    "genre": "연극",
    "venue": "서울연극창작센터 (서울씨어터 101 (1F) )",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9DEE6",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF297332",
@@ -255,7 +393,11 @@
    "genre": "연극",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5A2D82",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF294054",
@@ -263,7 +405,11 @@
    "genre": "연극",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF293047",
@@ -271,7 +417,11 @@
    "genre": "뮤지컬",
    "venue": "아르코예술극장 (대극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B1B1B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292296",
@@ -291,7 +441,11 @@
    "genre": "뮤지컬",
    "venue": "홍익대 대학로 아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3532",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF290329",
@@ -299,7 +453,11 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1E3A6B",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF288366",
@@ -307,7 +465,11 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F7C632",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF290797",
@@ -315,7 +477,21 @@
    "genre": "뮤지컬",
    "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김무호"
+    },
+    {
+     "name": "박희수"
+    },
+    {
+     "name": "신석수"
+    },
+    {
+     "name": "박혜원"
+    }
+   ],
    "color": {
     "bg": "#1A0A1A",
     "fg": "#FF4F7A"
@@ -327,6 +503,18 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2563A8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF293306",
+   "title": "갈라진 마음들",
+   "genre": "연극",
+   "venue": "더 줌 아트센터",
+   "time": "20:00",
    "castSource": "none"
   },
   {
@@ -335,7 +523,11 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291582",
@@ -343,7 +535,11 @@
    "genre": "연극",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F3E3C3",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF290676",
@@ -351,7 +547,11 @@
    "genre": "연극",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B2326",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291013",
@@ -359,7 +559,11 @@
    "genre": "뮤지컬",
    "venue": "링크더스페이스(LINK THE SPACE) (1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF287675",
@@ -367,7 +571,11 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#F2A33A"
+   }
   },
   {
    "id": "PF291152",
@@ -375,7 +583,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#3A3532",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF287874",
@@ -383,7 +595,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1A22",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF292095",
@@ -391,7 +607,11 @@
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#4E5B3C",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF290595",
@@ -399,7 +619,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (벅스홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1B2535",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291272",
@@ -407,7 +631,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B3A4A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291333",
@@ -427,7 +655,11 @@
    "genre": "뮤지컬",
    "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#6B5A44",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF289630",
@@ -435,7 +667,11 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#8A6A3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF290879",
@@ -443,7 +679,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1C2230",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF291279",
@@ -451,7 +691,11 @@
    "genre": "연극",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2B2826",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF289063",
@@ -459,7 +703,11 @@
    "genre": "연극",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#D9E2EA",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF288567",
@@ -467,13 +715,37 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#F7D23E",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF291576",
    "title": "이올라오스",
    "genre": "연극",
    "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#2E3B3F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF294566",
+   "title": "이유를 찾아서",
+   "genre": "연극",
+   "venue": "소극장 혜화당 (구. 까망소극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF293437",
+   "title": "제8회 페미니즘 연극제, 힛 더 디어 (Hit the Deer)",
+   "genre": "연극",
+   "venue": "아르코 꿈밭극장",
    "time": "20:00",
    "castSource": "none"
   },
@@ -495,7 +767,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#2A1A1E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF290504",
@@ -503,7 +779,11 @@
    "genre": "연극",
    "venue": "두산아트센터 (연강홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1F4D2E",
+    "fg": "#F5D547"
+   }
   },
   {
    "id": "PF292433",
@@ -523,7 +803,11 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#5A2E3A",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF293273",
@@ -531,7 +815,11 @@
    "genre": "연극",
    "venue": "대학로예술극장 (소극장)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#E9E4D6",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF290797",
@@ -539,7 +827,21 @@
    "genre": "뮤지컬",
    "venue": "극장 온 (ON) (구.CJ아지트) (공연장)",
    "time": "22:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "김무호"
+    },
+    {
+     "name": "박희수"
+    },
+    {
+     "name": "신석수"
+    },
+    {
+     "name": "박혜원"
+    }
+   ],
    "color": {
     "bg": "#1A0A1A",
     "fg": "#FF4F7A"

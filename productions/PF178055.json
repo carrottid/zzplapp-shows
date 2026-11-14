@@ -41,5 +41,35 @@
  ],
  "updated": "2021-08-06 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1F0D0D",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "김달삼",
+   "name": "김형범"
+  },
+  {
+   "role": "김익렬",
+   "name": "이준영"
+  },
+  {
+   "role": "소녀",
+   "name": "조은진"
+  },
+  {
+   "role": "소녀",
+   "name": "이지은"
+  },
+  {
+   "role": "청년",
+   "name": "조우진"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241106044609/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167106"
+ }
 }

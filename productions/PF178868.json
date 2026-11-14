@@ -55,5 +55,67 @@
  ],
  "updated": "2021-08-25 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#A77B3E",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "중림",
+   "name": "이경수"
+  },
+  {
+   "role": "중림",
+   "name": "박민성"
+  },
+  {
+   "role": "중림",
+   "name": "정원영"
+  },
+  {
+   "role": "천수",
+   "name": "황민수"
+  },
+  {
+   "role": "천수",
+   "name": "최재웅"
+  },
+  {
+   "role": "천수",
+   "name": "황순종"
+  },
+  {
+   "role": "연화",
+   "name": "최은실"
+  },
+  {
+   "role": "연화",
+   "name": "지새롬"
+  },
+  {
+   "role": "연화",
+   "name": "임예진"
+  },
+  {
+   "role": "강구",
+   "name": "이동희"
+  },
+  {
+   "role": "강구",
+   "name": "임종우"
+  },
+  {
+   "role": "칠복",
+   "name": "이종원"
+  },
+  {
+   "role": "칠복",
+   "name": "한재원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250807004236/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=167075"
+ }
 }

@@ -55,5 +55,87 @@
  ],
  "updated": "2025-09-24 14:27:36",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#F3D9CF",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "도나",
+   "name": "최정원"
+  },
+  {
+   "role": "도나",
+   "name": "신영숙"
+  },
+  {
+   "role": "소피",
+   "name": "루나"
+  },
+  {
+   "role": "소피",
+   "name": "최태이"
+  },
+  {
+   "role": "타냐",
+   "name": "홍지민"
+  },
+  {
+   "role": "타냐",
+   "name": "김영주"
+  },
+  {
+   "role": "로지",
+   "name": "박준면"
+  },
+  {
+   "role": "로지",
+   "name": "김경선"
+  },
+  {
+   "role": "샘",
+   "name": "김정민"
+  },
+  {
+   "role": "샘",
+   "name": "장현성"
+  },
+  {
+   "role": "해리",
+   "name": "이현우"
+  },
+  {
+   "role": "해리",
+   "name": "민영기"
+  },
+  {
+   "role": "",
+   "name": "김진수"
+  },
+  {
+   "role": "",
+   "name": "송일국"
+  },
+  {
+   "role": "",
+   "name": "김태오"
+  },
+  {
+   "role": "",
+   "name": "심형준"
+  },
+  {
+   "role": "",
+   "name": "권민주"
+  },
+  {
+   "role": "",
+   "name": "손상은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251016185745/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=217547"
+ }
 }

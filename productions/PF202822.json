@@ -35,5 +35,95 @@
  ],
  "updated": "2022-11-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#387383",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "한강산",
+   "name": "홍성민"
+  },
+  {
+   "role": "이용식",
+   "name": "여동훈"
+  },
+  {
+   "role": "박지성",
+   "name": "김경환"
+  },
+  {
+   "role": "이수진",
+   "name": "채송화"
+  },
+  {
+   "role": "김은정",
+   "name": "윤예솔"
+  },
+  {
+   "role": "경성팀선수1",
+   "name": "황준우"
+  },
+  {
+   "role": "",
+   "name": "김상훈"
+  },
+  {
+   "role": "",
+   "name": "정수한"
+  },
+  {
+   "role": "",
+   "name": "정금운"
+  },
+  {
+   "role": "",
+   "name": "최광희"
+  },
+  {
+   "role": "",
+   "name": "이예은"
+  },
+  {
+   "role": "",
+   "name": "전민혁"
+  },
+  {
+   "role": "",
+   "name": "이정근"
+  },
+  {
+   "role": "",
+   "name": "문수아"
+  },
+  {
+   "role": "",
+   "name": "조혜선"
+  },
+  {
+   "role": "",
+   "name": "전종혁"
+  },
+  {
+   "role": "",
+   "name": "김형태"
+  },
+  {
+   "role": "",
+   "name": "한승탁"
+  },
+  {
+   "role": "",
+   "name": "최재섭"
+  },
+  {
+   "role": "",
+   "name": "채승혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521013800/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=181933"
+ }
 }

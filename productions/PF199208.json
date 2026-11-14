@@ -139,7 +139,7 @@
   },
   {
    "role": "변주화",
-   "name": "원우준"
+   "name": "문성일"
   },
   {
    "role": "변주화",
@@ -161,5 +161,9 @@
  "roleCastSource": {
   "name": "더뮤지컬",
   "url": "https://www.themusical.co.kr/Musical/Detail?num=3060"
+ },
+ "color": {
+  "bg": "#4D8C98",
+  "fg": "#111111"
  }
 }

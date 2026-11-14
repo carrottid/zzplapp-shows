@@ -39,5 +39,31 @@
  ],
  "updated": "2022-10-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#090205",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "마크 로스코",
+   "name": "유동근"
+  },
+  {
+   "role": "마크 로스코",
+   "name": "정보석"
+  },
+  {
+   "role": "켄",
+   "name": "강승호"
+  },
+  {
+   "role": "켄",
+   "name": "연준석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260314044456/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=180163"
+ }
 }

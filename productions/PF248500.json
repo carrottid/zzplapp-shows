@@ -39,5 +39,75 @@
  ],
  "updated": "2024-10-21 16:46:29",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1E3D2F",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "햄릿",
+   "name": "조승우"
+  },
+  {
+   "role": "클로디어스",
+   "name": "박성근"
+  },
+  {
+   "role": "거트루드",
+   "name": "정재은"
+  },
+  {
+   "role": "호레이쇼",
+   "name": "김영민"
+  },
+  {
+   "role": "유령",
+   "name": "전국환"
+  },
+  {
+   "role": "폴로니어스",
+   "name": "김종구"
+  },
+  {
+   "role": "",
+   "name": "이남희"
+  },
+  {
+   "role": "",
+   "name": "백석광"
+  },
+  {
+   "role": "",
+   "name": "이강욱"
+  },
+  {
+   "role": "",
+   "name": "전재홍"
+  },
+  {
+   "role": "",
+   "name": "이은조"
+  },
+  {
+   "role": "",
+   "name": "박영주"
+  },
+  {
+   "role": "",
+   "name": "박인규"
+  },
+  {
+   "role": "",
+   "name": "배훈"
+  },
+  {
+   "role": "",
+   "name": "송서유"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260122220055/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=207781"
+ }
 }

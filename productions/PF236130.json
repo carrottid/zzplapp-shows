@@ -1,0 +1,81 @@
+{
+ "id": "PF236130",
+ "title": "메리골드",
+ "genre": "뮤지컬",
+ "from": "2024-03-21",
+ "to": "2024-03-31",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF236130_240226_102410.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "선창용",
+  "박웅서",
+  "이영록",
+  "전병혁",
+  "손수아",
+  "이재은",
+  "신혜선"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 50분",
+ "age": "만 11세 이상",
+ "crew": "신경혜, 김윤규, 유은혜 등",
+ "producer": "극단 비유",
+ "price": "전석 55,000원",
+ "schedule": "월요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF236130_240226_1024100.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24002080"
+  }
+ ],
+ "updated": "2024-02-26 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "동준",
+   "name": "선창용"
+  },
+  {
+   "role": "건영",
+   "name": "박웅서"
+  },
+  {
+   "role": "정수",
+   "name": "이영록"
+  },
+  {
+   "role": "정수",
+   "name": "전병혁"
+  },
+  {
+   "role": "보영",
+   "name": "손수아"
+  },
+  {
+   "role": "보영",
+   "name": "강한별"
+  },
+  {
+   "role": "화니",
+   "name": "신혜선"
+  },
+  {
+   "role": "민아",
+   "name": "이재은"
+  },
+  {
+   "role": "",
+   "name": "강지현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240807082528/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199333"
+ }
+}

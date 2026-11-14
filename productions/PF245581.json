@@ -1,0 +1,77 @@
+{
+ "id": "PF245581",
+ "title": "울프",
+ "genre": "뮤지컬",
+ "from": "2024-09-04",
+ "to": "2024-09-08",
+ "venue": "열린극장 (열린극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF245581_240723_104423.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "이상희",
+  "신하진",
+  "이빛나",
+  "한다희",
+  "김부경",
+  "전소담",
+  "황보성"
+ ],
+ "facilityId": "FC000516",
+ "runtime": "1시간 30분",
+ "age": "만 8세 이상",
+ "crew": "장혜리, 이세훈, 류백희 등",
+ "producer": "극단 초인",
+ "price": "전석 40,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245581_240723_1044234.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245581_240723_1044233.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245581_240723_1044232.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245581_240723_1044231.jpg",
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF245581_240723_1044230.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/942432"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24011236"
+  }
+ ],
+ "updated": "2024-07-23 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "지배인",
+   "name": "강태우"
+  },
+  {
+   "role": "울프",
+   "name": "김부경"
+  },
+  {
+   "role": "스네이크",
+   "name": "신안진"
+  },
+  {
+   "role": "베어",
+   "name": "이상희"
+  },
+  {
+   "role": "소녀",
+   "name": "전소담"
+  },
+  {
+   "role": "악사/장의사",
+   "name": "이빛나"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011230205/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=206404"
+ }
+}

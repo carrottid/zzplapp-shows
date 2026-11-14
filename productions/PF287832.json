@@ -1,0 +1,57 @@
+{
+ "id": "PF287832",
+ "title": "42번 작업실",
+ "genre": "연극",
+ "from": "2026-04-01",
+ "to": "2026-04-05",
+ "venue": "미마지아트센터 (물빛극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF287832_260323_170922.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "황현빈",
+  "김진현",
+  "허지윤",
+  "김현각",
+  "김태윤",
+  "윤영호",
+  "박세양"
+ ],
+ "facilityId": "FC000227",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "김건욱, 주정근, 김지호 등",
+ "producer": "인상파해적단",
+ "price": "전석 40,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일 ~ 일요일(14:00,18:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF287832_202603230509228770.jpg"
+ ],
+ "links": [
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=26004167"
+  }
+ ],
+ "updated": "2026-03-23 18:00:04.068446",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "재윤",
+   "name": "김진현"
+  },
+  {
+   "role": "수병들",
+   "name": "윤영호"
+  },
+  {
+   "role": "수병들",
+   "name": "김태윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260417221252/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=228679"
+ }
+}

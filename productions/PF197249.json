@@ -38,5 +38,43 @@
  ],
  "updated": "2022-08-30 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1E2E4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "오진수",
+   "name": "고훈목"
+  },
+  {
+   "role": "박은희",
+   "name": "김설"
+  },
+  {
+   "role": "오연경/김하린",
+   "name": "이혜민"
+  },
+  {
+   "role": "김대수",
+   "name": "이태훈"
+  },
+  {
+   "role": "최철국",
+   "name": "조하석"
+  },
+  {
+   "role": "이명주",
+   "name": "박현미"
+  },
+  {
+   "role": "",
+   "name": "유종연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240721164102/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=178572"
+ }
 }

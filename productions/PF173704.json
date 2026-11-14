@@ -12,7 +12,7 @@
   "유연",
   "장희진",
   "양경원",
-  "박은석",
+  "박재윤",
   "유지연",
   "정연",
   "김재범"
@@ -59,5 +59,75 @@
  ],
  "updated": "2021-04-19 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8C8C59",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "에바",
+   "name": "유연"
+  },
+  {
+   "role": "에바",
+   "name": "장희진"
+  },
+  {
+   "role": "로코",
+   "name": "양경원"
+  },
+  {
+   "role": "로코",
+   "name": "박재윤"
+  },
+  {
+   "role": "까를로타",
+   "name": "유지연"
+  },
+  {
+   "role": "까를로타",
+   "name": "정연"
+  },
+  {
+   "role": "렐레",
+   "name": "김재범"
+  },
+  {
+   "role": "렐레",
+   "name": "박정복"
+  },
+  {
+   "role": "비앙카",
+   "name": "박소진"
+  },
+  {
+   "role": "비앙카",
+   "name": "임세미"
+  },
+  {
+   "role": "코지모",
+   "name": "이시언"
+  },
+  {
+   "role": "코지모",
+   "name": "성태준"
+  },
+  {
+   "role": "",
+   "name": "김설진"
+  },
+  {
+   "role": "",
+   "name": "임철수"
+  },
+  {
+   "role": "",
+   "name": "김채윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250612182726/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164522"
+ }
 }

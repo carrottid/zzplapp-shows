@@ -55,5 +55,39 @@
  ],
  "updated": "2026-08-20 11:05:37",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2B2326",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조너스 보튼",
+   "name": "박건형"
+  },
+  {
+   "role": "조너스 보튼",
+   "name": "최영준"
+  },
+  {
+   "role": "조너스 보튼",
+   "name": "강승호"
+  },
+  {
+   "role": "존 조우",
+   "name": "고상호"
+  },
+  {
+   "role": "존 조우",
+   "name": "김한결"
+  },
+  {
+   "role": "존 조우",
+   "name": "이현우"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260512210649/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=230237"
+ }
 }

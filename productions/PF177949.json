@@ -38,5 +38,63 @@
  ],
  "updated": "2021-08-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "응우옌티쭝",
+   "name": "강주희"
+  },
+  {
+   "role": "변구윤",
+   "name": "고용선"
+  },
+  {
+   "role": "엄원희/장용선",
+   "name": "김보경"
+  },
+  {
+   "role": "유정호",
+   "name": "남호성"
+  },
+  {
+   "role": "민기현",
+   "name": "민현기"
+  },
+  {
+   "role": "박용미",
+   "name": "박미르"
+  },
+  {
+   "role": "",
+   "name": "백혜경"
+  },
+  {
+   "role": "",
+   "name": "손종복"
+  },
+  {
+   "role": "",
+   "name": "이강호"
+  },
+  {
+   "role": "",
+   "name": "이재웅"
+  },
+  {
+   "role": "",
+   "name": "정우진"
+  },
+  {
+   "role": "",
+   "name": "홍은표"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240520084751/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166966"
+ }
 }

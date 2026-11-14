@@ -47,5 +47,55 @@
  ],
  "updated": "2021-02-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3A3532",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "할아버지",
+   "name": "한갑수"
+  },
+  {
+   "role": "할아버지",
+   "name": "오용"
+  },
+  {
+   "role": "할아버지",
+   "name": "양경원"
+  },
+  {
+   "role": "준희",
+   "name": "차용학"
+  },
+  {
+   "role": "준희",
+   "name": "윤석현"
+  },
+  {
+   "role": "할머니",
+   "name": "정선아"
+  },
+  {
+   "role": "할머니",
+   "name": "서예화"
+  },
+  {
+   "role": "작가",
+   "name": "민준호"
+  },
+  {
+   "role": "작가",
+   "name": "김종현"
+  },
+  {
+   "role": "작가",
+   "name": "문경초"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260418235637/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=162753"
+ }
 }

@@ -43,5 +43,67 @@
  ],
  "updated": "2025-10-24 15:00:04.090705",
  "castSource": "none",
- "fetchedAt": "2026-11-07T14:05:14"
+ "fetchedAt": "2026-11-07T14:05:14",
+ "color": {
+  "bg": "#A8242B",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "안나",
+   "name": "옥주현"
+  },
+  {
+   "role": "안나",
+   "name": "아이비"
+  },
+  {
+   "role": "안나",
+   "name": "민경아"
+  },
+  {
+   "role": "브라운",
+   "name": "송원근"
+  },
+  {
+   "role": "브라운",
+   "name": "지현우"
+  },
+  {
+   "role": "브라운",
+   "name": "김성식"
+  },
+  {
+   "role": "로렐라이",
+   "name": "조풍래"
+  },
+  {
+   "role": "도로시&바이올렛",
+   "name": "한세라"
+  },
+  {
+   "role": "존슨&앤디",
+   "name": "김대종"
+  },
+  {
+   "role": "헨리&잭",
+   "name": "장재웅"
+  },
+  {
+   "role": "",
+   "name": "이지윤"
+  },
+  {
+   "role": "",
+   "name": "김연진"
+  },
+  {
+   "role": "",
+   "name": "서은지"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251123143134/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=223429"
+ }
 }

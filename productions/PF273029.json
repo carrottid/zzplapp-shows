@@ -47,5 +47,39 @@
  ],
  "updated": "2025-09-01 15:00:03.20834",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#2A3350",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "베르길리우스",
+   "name": "정동환"
+  },
+  {
+   "role": "단테",
+   "name": "한윤춘"
+  },
+  {
+   "role": "미노스 외",
+   "name": "문경희"
+  },
+  {
+   "role": "치아코 외",
+   "name": "안성채"
+  },
+  {
+   "role": "오디세우스 외",
+   "name": "주인서"
+  },
+  {
+   "role": "우르바노 2세 외",
+   "name": "장진욱"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251006080032/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=221402"
+ }
 }

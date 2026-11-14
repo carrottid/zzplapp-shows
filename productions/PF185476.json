@@ -38,5 +38,47 @@
  ],
  "updated": "2022-01-05 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#A9993D",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "이지선",
+   "name": "강다현"
+  },
+  {
+   "role": "김소진",
+   "name": "강서희"
+  },
+  {
+   "role": "여자",
+   "name": "백혜경"
+  },
+  {
+   "role": "이진우",
+   "name": "변승록"
+  },
+  {
+   "role": "남자",
+   "name": "이강호"
+  },
+  {
+   "role": "사장",
+   "name": "이산"
+  },
+  {
+   "role": "",
+   "name": "정대용"
+  },
+  {
+   "role": "",
+   "name": "하영미"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250119034030/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=171435"
+ }
 }

@@ -1,0 +1,125 @@
+{
+ "id": "PF239993",
+ "title": "국립극단, 활화산",
+ "genre": "연극",
+ "from": "2024-05-24",
+ "to": "2024-06-17",
+ "venue": "국립극단 [명동] (명동예술극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF239993_240425_181656.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "백수련",
+  "강민지",
+  "이경민",
+  "강현우",
+  "이동영",
+  "구도균",
+  "이상은"
+ ],
+ "facilityId": "FC000005",
+ "runtime": "2시간 30분",
+ "age": "만 13세 이상",
+ "crew": "윤한솔, 임일진, 김형연 등",
+ "producer": "(재) 국립극단",
+ "price": "R석 60,000원, S석 45,000원, A석 30,000원",
+ "schedule": "월요일(19:30), 수요일 ~ 금요일(19:30), 토요일 ~ 일요일(15:00), HOL(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF239993_240425_0452490.jpg"
+ ],
+ "links": [
+  {
+   "name": "국립극단",
+   "url": "http://www.ntck.or.kr/ko/performance/info/257201"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=24006181"
+  },
+  {
+   "name": "",
+   "url": "https://www.nanumticket.or.kr/pe/detail.html?p_marking=&p_new=&start2=0&page_no2=1&p_idx=12237"
+  }
+ ],
+ "updated": "2024-11-29 13:37:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "심씨",
+   "name": "백수련"
+  },
+  {
+   "role": "이노인",
+   "name": "정진각"
+  },
+  {
+   "role": "정숙",
+   "name": "강윤민지"
+  },
+  {
+   "role": "상석",
+   "name": "구도균"
+  },
+  {
+   "role": "상만",
+   "name": "이상은"
+  },
+  {
+   "role": "박씨",
+   "name": "박소연"
+  },
+  {
+   "role": "",
+   "name": "이동영"
+  },
+  {
+   "role": "",
+   "name": "이경민"
+  },
+  {
+   "role": "",
+   "name": "김효영"
+  },
+  {
+   "role": "",
+   "name": "최지연"
+  },
+  {
+   "role": "",
+   "name": "조승연"
+  },
+  {
+   "role": "",
+   "name": "유재연"
+  },
+  {
+   "role": "",
+   "name": "홍성인"
+  },
+  {
+   "role": "",
+   "name": "이주형"
+  },
+  {
+   "role": "",
+   "name": "박은경"
+  },
+  {
+   "role": "",
+   "name": "강현우"
+  },
+  {
+   "role": "",
+   "name": "장호인"
+  },
+  {
+   "role": "",
+   "name": "서예은"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250804222557/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=202313"
+ }
+}

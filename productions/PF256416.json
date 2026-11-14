@@ -35,5 +35,47 @@
  ],
  "updated": "2025-07-03 08:07:40",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#6E6A64",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "준희",
+   "name": "박선영"
+  },
+  {
+   "role": "준희",
+   "name": "홍성원"
+  },
+  {
+   "role": "준희",
+   "name": "강병훈"
+  },
+  {
+   "role": "정우",
+   "name": "임진섭"
+  },
+  {
+   "role": "정우",
+   "name": "박상준"
+  },
+  {
+   "role": "정우",
+   "name": "이석준"
+  },
+  {
+   "role": "연희",
+   "name": "최은영"
+  },
+  {
+   "role": "연희",
+   "name": "임하윤"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250716195643/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=212072"
+ }
 }

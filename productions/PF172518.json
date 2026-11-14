@@ -1,0 +1,137 @@
+{
+ "id": "PF172518",
+ "title": "광주",
+ "genre": "뮤지컬",
+ "from": "2021-04-13",
+ "to": "2021-04-25",
+ "venue": "구. LG아트센터 (구. LG아트센터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF172518_210318_085537.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "민우혁",
+  "민영기",
+  "김종구",
+  "장은아",
+  "이봄소리",
+  "최지혜",
+  "이정열"
+ ],
+ "facilityId": "FC000002",
+ "runtime": "2시간 40분",
+ "age": "만 7세 이상",
+ "crew": "고선웅, 강병원, 고강민 등",
+ "producer": "극공작소 마방진, 라이브(주)",
+ "price": "VIP석 140,000원, R석 120,000원, S석 80,000원, A석 60,000원",
+ "schedule": "화요일(20:00), 수요일(15:00,20:00), 목요일 ~ 금요일(20:00), 토요일 ~ 일요일(14:00,18:30)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF172518_210318_0855370.jpg"
+ ],
+ "links": [
+  {
+   "name": "LG아트센터",
+   "url": "http://www.lgart.com/UIPage/perform/calender_view.aspx?seq=252604"
+  },
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/500094"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=21001920"
+  },
+  {
+   "name": "클립서비스주식회사",
+   "url": "-"
+  }
+ ],
+ "updated": "2021-03-18 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "박한수",
+   "name": "민우혁"
+  },
+  {
+   "role": "박한수",
+   "name": "신우"
+  },
+  {
+   "role": "윤이건",
+   "name": "민영기"
+  },
+  {
+   "role": "윤이건",
+   "name": "김종구"
+  },
+  {
+   "role": "정화인",
+   "name": "장은아"
+  },
+  {
+   "role": "문수경",
+   "name": "이봄소리"
+  },
+  {
+   "role": "문수경",
+   "name": "최지혜"
+  },
+  {
+   "role": "허인구",
+   "name": "이정열"
+  },
+  {
+   "role": "허인구",
+   "name": "박시원"
+  },
+  {
+   "role": "오활사제",
+   "name": "이동준"
+  },
+  {
+   "role": "",
+   "name": "안창용"
+  },
+  {
+   "role": "",
+   "name": "임진아"
+  },
+  {
+   "role": "",
+   "name": "김태문"
+  },
+  {
+   "role": "",
+   "name": "문성일"
+  },
+  {
+   "role": "",
+   "name": "문남권"
+  },
+  {
+   "role": "",
+   "name": "문경초"
+  },
+  {
+   "role": "",
+   "name": "민정아"
+  },
+  {
+   "role": "",
+   "name": "박선영"
+  },
+  {
+   "role": "",
+   "name": "백시호"
+  },
+  {
+   "role": "",
+   "name": "김한결"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241207231540/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=163820"
+ }
+}

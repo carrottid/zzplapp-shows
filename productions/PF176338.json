@@ -52,5 +52,71 @@
  ],
  "updated": "2021-06-23 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#613F3E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "메리 셸리",
+   "name": "배다해"
+  },
+  {
+   "role": "메리 셸리",
+   "name": "최연우"
+  },
+  {
+   "role": "메리 셸리",
+   "name": "이예은"
+  },
+  {
+   "role": "폴리도리",
+   "name": "송원근"
+  },
+  {
+   "role": "폴리도리",
+   "name": "박규원"
+  },
+  {
+   "role": "폴리도리",
+   "name": "려욱"
+  },
+  {
+   "role": "퍼시 셸리",
+   "name": "기세중"
+  },
+  {
+   "role": "퍼시 셸리",
+   "name": "조환지"
+  },
+  {
+   "role": "퍼시 셸리",
+   "name": "박선영"
+  },
+  {
+   "role": "바이런",
+   "name": "김도빈"
+  },
+  {
+   "role": "바이런",
+   "name": "안창용"
+  },
+  {
+   "role": "바이런",
+   "name": "정휘"
+  },
+  {
+   "role": "클레어",
+   "name": "정가희"
+  },
+  {
+   "role": "클레어",
+   "name": "유낙원"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20230827223916/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165033"
+ }
 }

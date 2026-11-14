@@ -55,5 +55,63 @@
  ],
  "updated": "2024-11-29 11:39:02",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#1F5186",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "콜리",
+   "name": "윤태호"
+  },
+  {
+   "role": "콜리",
+   "name": "진호"
+  },
+  {
+   "role": "연재",
+   "name": "서연정"
+  },
+  {
+   "role": "연재",
+   "name": "효정"
+  },
+  {
+   "role": "은혜",
+   "name": "송문선"
+  },
+  {
+   "role": "보경",
+   "name": "김건혜"
+  },
+  {
+   "role": "소방관",
+   "name": "최인형"
+  },
+  {
+   "role": "지수",
+   "name": "박재은"
+  },
+  {
+   "role": "",
+   "name": "이한수"
+  },
+  {
+   "role": "",
+   "name": "이혜수"
+  },
+  {
+   "role": "",
+   "name": "김용한"
+  },
+  {
+   "role": "",
+   "name": "안재홍"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251011223506/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=201049"
+ }
 }

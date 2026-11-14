@@ -47,5 +47,67 @@
  ],
  "updated": "2025-07-03 08:05:24",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#1E2B22",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "라파치니",
+   "name": "김대종"
+  },
+  {
+   "role": "라파치니",
+   "name": "김종구"
+  },
+  {
+   "role": "라파치니",
+   "name": "박유덕"
+  },
+  {
+   "role": "베아트리체",
+   "name": "한재아"
+  },
+  {
+   "role": "베아트리체",
+   "name": "박새힘"
+  },
+  {
+   "role": "베아트리체",
+   "name": "전민지"
+  },
+  {
+   "role": "지오바니",
+   "name": "유현석"
+  },
+  {
+   "role": "지오바니",
+   "name": "황순종"
+  },
+  {
+   "role": "지오바니",
+   "name": "정지우"
+  },
+  {
+   "role": "발리올리",
+   "name": "지혜근"
+  },
+  {
+   "role": "발리올리",
+   "name": "김늘봄"
+  },
+  {
+   "role": "리자베타",
+   "name": "장예원"
+  },
+  {
+   "role": "리자베타",
+   "name": "신진경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250616102052/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211929"
+ }
 }

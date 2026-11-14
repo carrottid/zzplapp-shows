@@ -36,5 +36,31 @@
  ],
  "updated": "2023-03-08 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#508F95",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "데오다",
+   "name": "김상보"
+  },
+  {
+   "role": "데오다",
+   "name": "백석광"
+  },
+  {
+   "role": "트레미에르",
+   "name": "김소이"
+  },
+  {
+   "role": "트레미에르",
+   "name": "이지혜"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240707105152/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185734"
+ }
 }

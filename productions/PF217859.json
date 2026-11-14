@@ -44,5 +44,51 @@
  ],
  "updated": "2023-05-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#0C0A09",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "아르토",
+   "name": "유승현"
+  },
+  {
+   "role": "아르토",
+   "name": "안재영"
+  },
+  {
+   "role": "아르토",
+   "name": "양지원"
+  },
+  {
+   "role": "고흐",
+   "name": "조풍래"
+  },
+  {
+   "role": "고흐",
+   "name": "김준영"
+  },
+  {
+   "role": "고흐",
+   "name": "박좌헌"
+  },
+  {
+   "role": "박사",
+   "name": "임병근"
+  },
+  {
+   "role": "박사",
+   "name": "이형훈"
+  },
+  {
+   "role": "박사",
+   "name": "임별"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241015222519/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=189033"
+ }
 }

@@ -2,10 +2,30 @@
  "date": "2024-12-09",
  "sessions": [
   {
+   "id": "PF253244",
+   "title": "면면면",
+   "genre": "뮤지컬",
+   "venue": "국립정동극장 세실 (구.세실극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF252606",
    "title": "사일런트 스카이",
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#DBDF01",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF253401",
+   "title": "화성골 소녀",
+   "genre": "연극",
+   "venue": "연극실험실 혜화동1번지",
    "time": "19:30",
    "castSource": "none"
   }

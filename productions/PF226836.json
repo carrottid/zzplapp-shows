@@ -50,5 +50,39 @@
  ],
  "updated": "2023-09-27 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#329FB4",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "토마스",
+   "name": "최재웅"
+  },
+  {
+   "role": "토마스",
+   "name": "이창용"
+  },
+  {
+   "role": "토마스",
+   "name": "조성윤"
+  },
+  {
+   "role": "앨빈",
+   "name": "김종구"
+  },
+  {
+   "role": "앨빈",
+   "name": "정욱진"
+  },
+  {
+   "role": "앨빈",
+   "name": "신재범"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260131123034/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193993"
+ }
 }

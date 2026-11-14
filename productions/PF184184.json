@@ -34,5 +34,95 @@
  ],
  "updated": "2021-12-02 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#040000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "피트/랜들",
+   "name": "박대영"
+  },
+  {
+   "role": "피트/랜들",
+   "name": "유찬희"
+  },
+  {
+   "role": "피트/랜들",
+   "name": "이봉근"
+  },
+  {
+   "role": "피트/랜들",
+   "name": "김재우"
+  },
+  {
+   "role": "이스트/남자",
+   "name": "윤태홍"
+  },
+  {
+   "role": "이스트/남자",
+   "name": "이원찬"
+  },
+  {
+   "role": "이스트/남자",
+   "name": "한국정"
+  },
+  {
+   "role": "지미/랜디",
+   "name": "정성일"
+  },
+  {
+   "role": "지미/랜디",
+   "name": "최인기"
+  },
+  {
+   "role": "지미/랜디",
+   "name": "윤진호"
+  },
+  {
+   "role": "스티브/필",
+   "name": "박민서"
+  },
+  {
+   "role": "스티브/필",
+   "name": "오영석"
+  },
+  {
+   "role": "차드/데이브",
+   "name": "김선규"
+  },
+  {
+   "role": "차드/데이브",
+   "name": "김태양"
+  },
+  {
+   "role": "지넷/웨이트리스/호프",
+   "name": "곽지연"
+  },
+  {
+   "role": "지넷/웨이트리스/호프",
+   "name": "김규리"
+  },
+  {
+   "role": "지넷/웨이트리스/호프",
+   "name": "이소민"
+  },
+  {
+   "role": "",
+   "name": "박찬혁"
+  },
+  {
+   "role": "",
+   "name": "한우상"
+  },
+  {
+   "role": "",
+   "name": "김단이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250720162425/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=170591"
+ }
 }

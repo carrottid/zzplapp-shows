@@ -38,5 +38,43 @@
  ],
  "updated": "2023-03-15 17:17:48",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#121715",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "세훈",
+   "name": "최호영"
+  },
+  {
+   "role": "경선",
+   "name": "조혜안"
+  },
+  {
+   "role": "은아",
+   "name": "조수연"
+  },
+  {
+   "role": "민",
+   "name": "이은지"
+  },
+  {
+   "role": "철수",
+   "name": "한성현"
+  },
+  {
+   "role": "캣맘",
+   "name": "조하나"
+  },
+  {
+   "role": "",
+   "name": "우윤구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250523172244/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=185651"
+ }
 }

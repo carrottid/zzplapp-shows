@@ -47,5 +47,83 @@
  ],
  "updated": "2026-05-04 15:06:22",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#2B1412",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "라이토",
+   "name": "조형균"
+  },
+  {
+   "role": "라이토",
+   "name": "규현"
+  },
+  {
+   "role": "라이토",
+   "name": "고은성"
+  },
+  {
+   "role": "라이토",
+   "name": "김민석"
+  },
+  {
+   "role": "",
+   "name": "임규형"
+  },
+  {
+   "role": "엘(L)",
+   "name": "김준수"
+  },
+  {
+   "role": "엘(L)",
+   "name": "김성규"
+  },
+  {
+   "role": "엘(L)",
+   "name": "김성철"
+  },
+  {
+   "role": "엘(L)",
+   "name": "산들"
+  },
+  {
+   "role": "",
+   "name": "탕준상"
+  },
+  {
+   "role": "렘",
+   "name": "이영미"
+  },
+  {
+   "role": "렘",
+   "name": "장은아"
+  },
+  {
+   "role": "류크",
+   "name": "양승리"
+  },
+  {
+   "role": "류크",
+   "name": "임정모"
+  },
+  {
+   "role": "미사",
+   "name": "최서연"
+  },
+  {
+   "role": "미사",
+   "name": "케이"
+  },
+  {
+   "role": "미사",
+   "name": "장민제"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260521011510/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=221340"
+ }
 }

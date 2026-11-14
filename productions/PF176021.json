@@ -43,5 +43,27 @@
  ],
  "updated": "2021-06-16 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8A5234",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "내레이터",
+   "name": "황석정"
+  },
+  {
+   "role": "내레이터",
+   "name": "최재웅"
+  },
+  {
+   "role": "내레이터",
+   "name": "김종구"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260415162301/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=165696"
+ }
 }

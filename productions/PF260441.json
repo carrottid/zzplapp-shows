@@ -51,5 +51,59 @@
  ],
  "updated": "2025-06-18 13:32:53",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#8A2122",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "프란체스카",
+   "name": "조정은"
+  },
+  {
+   "role": "프란체스카",
+   "name": "차지연"
+  },
+  {
+   "role": "로버트 킨케이드",
+   "name": "박은태"
+  },
+  {
+   "role": "로버트 킨케이드",
+   "name": "최재림"
+  },
+  {
+   "role": "리처드 버드 존슨",
+   "name": "최호중"
+  },
+  {
+   "role": "찰리",
+   "name": "정의욱"
+  },
+  {
+   "role": "찰리",
+   "name": "원종환"
+  },
+  {
+   "role": "마지",
+   "name": "홍륜희"
+  },
+  {
+   "role": "마리안/키아라",
+   "name": "양성령"
+  },
+  {
+   "role": "",
+   "name": "홍준기"
+  },
+  {
+   "role": "",
+   "name": "김단이"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20260516103423/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=214531"
+ }
 }

@@ -2,12 +2,32 @@
  "date": "2024-12-30",
  "sessions": [
   {
+   "id": "PF253607",
+   "title": "서울 아시테지 겨울축제, 이 세상 말고",
+   "genre": "연극",
+   "venue": "아르코 꿈밭극장",
+   "time": "11:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF253607",
+   "title": "서울 아시테지 겨울축제, 이 세상 말고",
+   "genre": "연극",
+   "venue": "아르코 꿈밭극장",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF254621",
    "title": "윌리엄 셰익스피어: 납의 깃털",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#342626",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

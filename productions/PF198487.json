@@ -1,0 +1,51 @@
+{
+ "id": "PF198487",
+ "title": "햄릿광대 난장",
+ "genre": "연극",
+ "from": "2022-10-26",
+ "to": "2022-10-30",
+ "venue": "선돌극장 (선돌극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF198487_220921_094905.gif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강제권",
+  "김양균"
+ ],
+ "facilityId": "FC000362",
+ "runtime": "1시간 10분",
+ "age": "만 5세 이상",
+ "crew": "김윤지, 민광숙, 이미경 등",
+ "price": "전석 30,000원",
+ "schedule": "수요일 ~ 금요일(19:30), 토요일(15:00,18:30), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF198487_220921_0949050.jpg"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/12/bizes/762463"
+  },
+  {
+   "name": "놀유니버스",
+   "url": "http://ticket.interpark.com/Ticket/Goods/GoodsInfo.asp?GoodsCode=22012337"
+  }
+ ],
+ "updated": "2022-09-21 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37",
+ "roleCast": [
+  {
+   "role": "풍운",
+   "name": "강제권"
+  },
+  {
+   "role": "사니",
+   "name": "김양균"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20241014155525/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=179077"
+ }
+}

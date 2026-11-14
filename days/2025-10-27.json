@@ -2,10 +2,38 @@
  "date": "2025-10-27",
  "sessions": [
   {
+   "id": "PF276629",
+   "title": "The Table (더테이블)",
+   "genre": "연극",
+   "venue": "연우소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF274766",
+   "title": "고트 (GOTT)",
+   "genre": "연극",
+   "venue": "산울림소극장",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF273739",
    "title": "서편제; The Original",
    "genre": "뮤지컬",
    "venue": "국립정동극장",
+   "time": "19:30",
+   "castSource": "none",
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF275415",
+   "title": "창작ing, 밤에 먹는 무화과",
+   "genre": "연극",
+   "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
    "castSource": "none"
   },
@@ -15,7 +43,11 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#1A1410",
+    "fg": "#FF5A5F"
+   }
   }
  ]
 }

@@ -51,5 +51,55 @@
  ],
  "updated": "2023-09-04 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#232127",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "B",
+   "name": "이상홍"
+  },
+  {
+   "role": "스몰b",
+   "name": "이승혁"
+  },
+  {
+   "role": "연아",
+   "name": "최지혜"
+  },
+  {
+   "role": "유선생",
+   "name": "지춘성"
+  },
+  {
+   "role": "할머니",
+   "name": "이영주"
+  },
+  {
+   "role": "연아엄마, 보험설계사",
+   "name": "이은정"
+  },
+  {
+   "role": "",
+   "name": "조성현"
+  },
+  {
+   "role": "",
+   "name": "이두성"
+  },
+  {
+   "role": "",
+   "name": "류정문"
+  },
+  {
+   "role": "",
+   "name": "강연주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250321173037/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=192939"
+ }
 }

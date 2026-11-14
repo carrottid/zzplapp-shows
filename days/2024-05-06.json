@@ -2,18 +2,229 @@
  "date": "2024-05-06",
  "sessions": [
   {
-   "id": "PF236251",
-   "title": "데미안",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 4관)",
-   "time": "20:00",
-   "castSource": "none"
+   "id": "PF233951",
+   "title": "연극 아트",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "박은석"
+    },
+    {
+     "name": "박정복"
+    }
+   ],
+   "color": {
+    "bg": "#1A2C5E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF234505",
    "title": "오즈",
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이승헌"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "송상훈"
+    },
+    {
+     "name": "정경훈"
+    }
+   ],
+   "color": {
+    "bg": "#E6BC00",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF235670",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "전민지"
+    },
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "김재범"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "김대종"
+    },
+    {
+     "name": "정재헌"
+    },
+    {
+     "name": "신은호"
+    }
+   ],
+   "color": {
+    "bg": "#6E1A1A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF235212",
+   "title": "브론테",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 1관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "전성민"
+    },
+    {
+     "name": "박새힘"
+    }
+   ],
+   "color": {
+    "bg": "#593323",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF233951",
+   "title": "연극 아트",
+   "genre": "연극",
+   "venue": "링크아트센터 (벅스홀)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "이필모"
+    },
+    {
+     "name": "박호산"
+    }
+   ],
+   "color": {
+    "bg": "#1A2C5E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF234505",
+   "title": "오즈",
+   "genre": "뮤지컬",
+   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "황두현"
+    },
+    {
+     "name": "홍성원"
+    },
+    {
+     "name": "송상훈"
+    },
+    {
+     "name": "정경훈"
+    }
+   ],
+   "color": {
+    "bg": "#E6BC00",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF235670",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "주다온"
+    },
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "최호승"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "원종환"
+    },
+    {
+     "name": "정재헌"
+    },
+    {
+     "name": "신은호"
+    }
+   ],
+   "color": {
+    "bg": "#6E1A1A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF237184",
+   "title": "국립극단, 스카팽",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF237542",
+   "title": "제45회 서울연극제, 2인실 X 무간도",
+   "genre": "연극",
+   "venue": "후암스테이지",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
+   "id": "PF236251",
+   "title": "데미안",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#231712",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF237713",
+   "title": "컬렉티드 스토리즈",
+   "genre": "연극",
+   "venue": "산울림소극장",
    "time": "20:00",
    "castSource": "none"
   }

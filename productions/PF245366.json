@@ -51,5 +51,43 @@
  ],
  "updated": "2024-10-11 11:43:34",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#4A4A4A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "에스터",
+   "name": "이순재"
+  },
+  {
+   "role": "에스터",
+   "name": "곽동연"
+  },
+  {
+   "role": "밸",
+   "name": "카이"
+  },
+  {
+   "role": "밸",
+   "name": "박정복"
+  },
+  {
+   "role": "밸",
+   "name": "민호"
+  },
+  {
+   "role": "로라",
+   "name": "정재원"
+  },
+  {
+   "role": "로라",
+   "name": "박수연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20251207151217/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=205753"
+ }
 }

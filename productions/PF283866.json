@@ -1,0 +1,44 @@
+{
+ "id": "PF283866",
+ "title": "플라토닉",
+ "genre": "연극",
+ "from": "2026-02-05",
+ "to": "2026-02-08",
+ "venue": "나온씨어터 (나온씨어터)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF283866_260126_140124.jpg",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "박소영",
+  "박성민",
+  "신향은",
+  "김준철"
+ ],
+ "facilityId": "FC000180",
+ "runtime": "1시간",
+ "age": "만 13세 이상",
+ "crew": "정소린, 김가영, 강민하 등",
+ "producer": "창작집단 만화(漫畵)",
+ "price": "전석 20,000원",
+ "schedule": "목요일 ~ 금요일(19:30), 토요일(16:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF283866_202601260201248780.png"
+ ],
+ "links": [
+  {
+   "name": "네이버N예약",
+   "url": "https://booking.naver.com/booking/5/bizes/1571970"
+  },
+  {
+   "name": "코스타(Coaster)",
+   "url": "https://ticket.co-star.kr/shop/item.php?it_id=1769393574"
+  },
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=4082"
+  }
+ ],
+ "updated": "2026-01-27 11:17:02",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

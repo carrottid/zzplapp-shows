@@ -43,5 +43,51 @@
  ],
  "updated": "2025-04-04 16:24:57",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#826A63",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "영란",
+   "name": "구옥분"
+  },
+  {
+   "role": "영란",
+   "name": "김아영"
+  },
+  {
+   "role": "춘심",
+   "name": "박채원"
+  },
+  {
+   "role": "인순",
+   "name": "허순미"
+  },
+  {
+   "role": "분한",
+   "name": "강하나"
+  },
+  {
+   "role": "분한",
+   "name": "이예지"
+  },
+  {
+   "role": "석구",
+   "name": "강정우"
+  },
+  {
+   "role": "석구",
+   "name": "김지철"
+  },
+  {
+   "role": "가을",
+   "name": "하은주"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250419122330/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=211746"
+ }
 }

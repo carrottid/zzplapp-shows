@@ -1,0 +1,37 @@
+{
+ "id": "PF177973",
+ "title": "90-7번지",
+ "genre": "연극",
+ "from": "2021-08-20",
+ "to": "2021-08-22",
+ "venue": "후암스테이지 (후암스테이지 (구. 마라카 3관, 오씨어터))",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF177973_210804_114650.jfif",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "김기준",
+  "유미란",
+  "오연재",
+  "강한솔",
+  "김상현"
+ ],
+ "facilityId": "FC002777",
+ "runtime": "1시간 10분",
+ "age": "만 9세 이상",
+ "crew": "윤지영, 안성현, 이동환",
+ "producer": "극단 작은곰",
+ "price": "전석무료",
+ "schedule": "금요일(19:00), 토요일(16:00,19:00), 일요일(15:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF177973_210809_0321481.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=1492"
+  }
+ ],
+ "updated": "2021-08-10 15:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

@@ -38,5 +38,59 @@
  ],
  "updated": "2024-02-21 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#E40112",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "코러스",
+   "name": "전찬형"
+  },
+  {
+   "role": "",
+   "name": "김영노"
+  },
+  {
+   "role": "",
+   "name": "김은희"
+  },
+  {
+   "role": "",
+   "name": "김정호"
+  },
+  {
+   "role": "",
+   "name": "김민하"
+  },
+  {
+   "role": "",
+   "name": "안병식"
+  },
+  {
+   "role": "",
+   "name": "이진경"
+  },
+  {
+   "role": "",
+   "name": "윤경"
+  },
+  {
+   "role": "",
+   "name": "조어진"
+  },
+  {
+   "role": "",
+   "name": "조영규"
+  },
+  {
+   "role": "",
+   "name": "황성현"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250620070814/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=199394"
+ }
 }

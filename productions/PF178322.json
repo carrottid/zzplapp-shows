@@ -43,5 +43,43 @@
  ],
  "updated": "2021-08-12 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#121314",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "이우빈",
+   "name": "최재웅"
+  },
+  {
+   "role": "이우빈",
+   "name": "김종구"
+  },
+  {
+   "role": "이우빈",
+   "name": "김경수"
+  },
+  {
+   "role": "이우빈",
+   "name": "이율"
+  },
+  {
+   "role": "구본하",
+   "name": "박규원"
+  },
+  {
+   "role": "구본하",
+   "name": "이해준"
+  },
+  {
+   "role": "구본하",
+   "name": "강상준"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250516050559/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=166583"
+ }
 }

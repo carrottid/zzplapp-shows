@@ -41,5 +41,39 @@
  ],
  "updated": "2021-05-20 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#61854B",
+  "fg": "#111111"
+ },
+ "roleCast": [
+  {
+   "role": "큰유진",
+   "name": "강지혜"
+  },
+  {
+   "role": "큰유진",
+   "name": "이아진"
+  },
+  {
+   "role": "큰유진",
+   "name": "임찬민"
+  },
+  {
+   "role": "작은유진",
+   "name": "임찬민"
+  },
+  {
+   "role": "작은유진",
+   "name": "김히어라"
+  },
+  {
+   "role": "작은유진",
+   "name": "정우연"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250616095650/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=164558"
+ }
 }

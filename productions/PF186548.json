@@ -42,5 +42,95 @@
  ],
  "updated": "2022-02-09 15:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#000000",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "장해당",
+   "name": "이서현"
+  },
+  {
+   "role": "마부인",
+   "name": "박주연"
+  },
+  {
+   "role": "마원외",
+   "name": "조영규"
+  },
+  {
+   "role": "마원외",
+   "name": "견민성"
+  },
+  {
+   "role": "포대제",
+   "name": "호산"
+  },
+  {
+   "role": "장림",
+   "name": "원경식"
+  },
+  {
+   "role": "조영사",
+   "name": "김남표"
+  },
+  {
+   "role": "",
+   "name": "이정훈"
+  },
+  {
+   "role": "",
+   "name": "조한나"
+  },
+  {
+   "role": "",
+   "name": "남슬기"
+  },
+  {
+   "role": "",
+   "name": "강득종"
+  },
+  {
+   "role": "",
+   "name": "조용의"
+  },
+  {
+   "role": "",
+   "name": "최주연"
+  },
+  {
+   "role": "",
+   "name": "임진구"
+  },
+  {
+   "role": "",
+   "name": "조영민"
+  },
+  {
+   "role": "",
+   "name": "박해용"
+  },
+  {
+   "role": "",
+   "name": "박승화"
+  },
+  {
+   "role": "",
+   "name": "김동지"
+  },
+  {
+   "role": "",
+   "name": "최하윤"
+  },
+  {
+   "role": "",
+   "name": "고영찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240527182050/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=172151"
+ }
 }

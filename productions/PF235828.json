@@ -1,0 +1,35 @@
+{
+ "id": "PF235828",
+ "title": "넘버",
+ "genre": "연극",
+ "from": "2024-02-29",
+ "to": "2024-03-03",
+ "venue": "산울림소극장 (산울림소극장)",
+ "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF235828_240220_115006.png",
+ "area": "서울특별시",
+ "state": "공연완료",
+ "cast": [
+  "강유성",
+  "곽민수",
+  "김도영",
+  "문태웅"
+ ],
+ "facilityId": "FC000798",
+ "runtime": "1시간 30분",
+ "age": "만 13세 이상",
+ "crew": "서진희, 정민철, 변윤진 등",
+ "price": "전석 25,000원",
+ "schedule": "목요일(20:00), 토요일 ~ 일요일(15:00,19:00), HOL(20:00)",
+ "images": [
+  "https://www.kopis.or.kr/upload/pfmIntroImage/PF_PF235828_240220_1150060.jpg"
+ ],
+ "links": [
+  {
+   "name": "플레이티켓",
+   "url": "http://playticket.co.kr/nav/detail.html?idx=2897"
+  }
+ ],
+ "updated": "2024-02-20 18:00:00",
+ "castSource": "none",
+ "fetchedAt": "2026-11-14T09:29:37"
+}

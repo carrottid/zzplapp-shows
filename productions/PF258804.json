@@ -46,5 +46,31 @@
  ],
  "updated": "2025-05-26 13:56:19",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#3F4C5A",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "화자(팀 투니)",
+   "name": "오만석"
+  },
+  {
+   "role": "화자(팀 투니)",
+   "name": "주민진"
+  },
+  {
+   "role": "화자(팀 투니)",
+   "name": "유승현"
+  },
+  {
+   "role": "화자(팀 투니)",
+   "name": "강찬"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250424042427/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=213513"
+ }
 }

@@ -52,5 +52,59 @@
  ],
  "updated": "2025-07-03 08:05:52",
  "castSource": "none",
- "fetchedAt": "2026-11-07T13:16:04"
+ "fetchedAt": "2026-11-07T13:16:04",
+ "color": {
+  "bg": "#974E4E",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "알 카포네",
+   "name": "김재범"
+  },
+  {
+   "role": "알 카포네",
+   "name": "손유동"
+  },
+  {
+   "role": "알 카포네",
+   "name": "유태율"
+  },
+  {
+   "role": "알 카포네",
+   "name": "백기범"
+  },
+  {
+   "role": "밀크 화이트",
+   "name": "정욱진"
+  },
+  {
+   "role": "밀크 화이트",
+   "name": "최재웅"
+  },
+  {
+   "role": "밀크 화이트",
+   "name": "김기택"
+  },
+  {
+   "role": "찰리",
+   "name": "무현"
+  },
+  {
+   "role": "찰리",
+   "name": "신창주"
+  },
+  {
+   "role": "존",
+   "name": "박세훈"
+  },
+  {
+   "role": "존",
+   "name": "최반석"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20250427170502/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=210249"
+ }
 }

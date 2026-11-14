@@ -39,5 +39,79 @@
  ],
  "updated": "2023-09-25 18:00:00",
  "castSource": "none",
- "fetchedAt": "2026-11-08T00:13:05"
+ "fetchedAt": "2026-11-08T00:13:05",
+ "color": {
+  "bg": "#4C5C67",
+  "fg": "#FFFFFF"
+ },
+ "roleCast": [
+  {
+   "role": "조상인",
+   "name": "김동현"
+  },
+  {
+   "role": "리정식",
+   "name": "정상훈"
+  },
+  {
+   "role": "라메시",
+   "name": "최영도"
+  },
+  {
+   "role": "메이",
+   "name": "임정은"
+  },
+  {
+   "role": "감찰관",
+   "name": "장격수"
+  },
+  {
+   "role": "알시아",
+   "name": "김설빈"
+  },
+  {
+   "role": "",
+   "name": "강기혁"
+  },
+  {
+   "role": "",
+   "name": "김수민"
+  },
+  {
+   "role": "",
+   "name": "이창민"
+  },
+  {
+   "role": "",
+   "name": "김민석"
+  },
+  {
+   "role": "",
+   "name": "강나림"
+  },
+  {
+   "role": "",
+   "name": "고선우"
+  },
+  {
+   "role": "",
+   "name": "최재림"
+  },
+  {
+   "role": "",
+   "name": "유기원"
+  },
+  {
+   "role": "",
+   "name": "배문섭"
+  },
+  {
+   "role": "",
+   "name": "김원경"
+  }
+ ],
+ "roleCastSource": {
+  "name": "PlayDB",
+  "url": "https://web.archive.org/web/20240912001253/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=193943"
+ }
 }
