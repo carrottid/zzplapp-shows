@@ -2279,7 +2279,7 @@
   "title": "빌의 구둣방",
   "genre": "뮤지컬",
   "from": "2021-03-20",
-  "to": "2026-09-20",
+  "to": "2027-03-21",
   "venue": "소극장 쇠내골",
   "area": "충청북도",
   "openRun": true,
@@ -19267,7 +19267,7 @@
   "title": "오백에 삼십",
   "genre": "연극",
   "from": "2024-02-24",
-  "to": "2026-11-30",
+  "to": "2026-12-31",
   "venue": "JTN 아트홀(구. 대학로예술마당)",
   "area": "서울특별시",
   "openRun": true,
@@ -24884,7 +24884,7 @@
   "title": "드립소년단",
   "genre": "연극",
   "from": "2024-11-16",
-  "to": "2026-11-14",
+  "to": "2027-01-03",
   "venue": "스케치홀 (구.소극장 선물 1관)",
   "area": "서울특별시",
   "openRun": true,
@@ -29108,7 +29108,7 @@
   "title": "슬립노모어 서울",
   "genre": "뮤지컬",
   "from": "2025-07-24",
-  "to": "2026-11-15",
+  "to": "2026-12-31",
   "venue": "매키탄 호텔",
   "area": "서울특별시",
   "openRun": true,
@@ -42358,5 +42358,53 @@
    "venue_not_listed"
   ],
   "since": "2026-11-13"
+ },
+ "PF306323": {
+  "id": "PF306323",
+  "title": "두들팝",
+  "genre": "뮤지컬",
+  "from": "2026-12-11",
+  "to": "2027-01-31",
+  "venue": "상상나라극장",
+  "area": "서울특별시",
+  "openRun": true,
+  "detailed": false,
+  "reasons": [
+   "openrun_flag"
+  ],
+  "since": "2026-11-14"
+ },
+ "PF306367": {
+  "id": "PF306367",
+  "title": "껍질 벗기기",
+  "genre": "연극",
+  "from": "2026-11-21",
+  "to": "2026-12-02",
+  "venue": "ttcc room(테이크 더 커튼콜)",
+  "area": "서울특별시",
+  "age": "만 15세 이상",
+  "hall": "ttcc room(테이크 더 커튼콜) (ttcc room)",
+  "facilityId": "FC005190",
+  "producer": "테이크 더 커튼콜(take the curtain call!)",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-14"
+ },
+ "PF306398": {
+  "id": "PF306398",
+  "title": "급식왕: 스마트폰이 사라졌다",
+  "genre": "연극",
+  "from": "2026-12-12",
+  "to": "2027-01-02",
+  "venue": "스케치홀 (구.소극장 선물 1관)",
+  "area": "서울특별시",
+  "openRun": true,
+  "detailed": false,
+  "reasons": [
+   "openrun_flag"
+  ],
+  "since": "2026-11-14"
  }
 }

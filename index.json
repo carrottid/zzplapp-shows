@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T09:11:21",
+ "updatedAt": "2026-11-14T09:17:58",
  "archives": [
   "1994",
   "1995",
@@ -173,6 +173,25 @@
    }
   },
   {
+   "id": "PF306341",
+   "title": "멘치카",
+   "genre": "연극",
+   "from": "2026-12-22",
+   "to": "2027-01-17",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306341_261113_112624.gif",
+   "cast": [
+    "이동연",
+    "한도우",
+    "도준영",
+    "정찬호",
+    "박지은",
+    "송상훈"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
    "id": "PF291313",
    "title": "사랑해 엄마",
    "genre": "연극",
@@ -234,6 +253,25 @@
     "bg": "#0F6B4B",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF306392",
+   "title": "반쪼가리 자작",
+   "genre": "연극",
+   "from": "2026-12-18",
+   "to": "2026-12-27",
+   "venue": "서울연극창작센터 (서울씨어터 202 (5F) )",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306392_261113_151139.gif",
+   "cast": [
+    "최광제",
+    "김영표",
+    "심효민",
+    "사현명",
+    "이진희",
+    "김양희"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
   },
   {
    "id": "PF295951",
@@ -881,6 +919,26 @@
    "castSource": "none"
   },
   {
+   "id": "PF306330",
+   "title": "DMZ 낭독공연",
+   "genre": "뮤지컬",
+   "from": "2026-12-03",
+   "to": "2026-12-03",
+   "venue": "홍익대 대학로 아트센터 (대극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306330_261113_105132.jpg",
+   "cast": [
+    "차지현",
+    "박경호",
+    "지현준",
+    "강기둥",
+    "김우성",
+    "김민규",
+    "김예환"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
+  },
+  {
    "id": "PF282162",
    "title": "서울시뮤지컬단, 크리스마스 캐럴",
    "genre": "뮤지컬",
@@ -1034,6 +1092,26 @@
     "bg": "#14204A",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF306377",
+   "title": "미드나잇: 액터뮤지션 THE FINAL",
+   "genre": "뮤지컬",
+   "from": "2026-12-01",
+   "to": "2026-12-13",
+   "venue": "유니플렉스 (3관(소극장))",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306377_261113_142528.gif",
+   "cast": [
+    "임강성",
+    "정지은",
+    "조환지",
+    "박선영",
+    "박슬기",
+    "박유덕",
+    "김도하"
+   ],
+   "state": "공연예정",
+   "castSource": "none"
   },
   {
    "id": "PF305951",

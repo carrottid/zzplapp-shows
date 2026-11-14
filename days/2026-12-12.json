@@ -693,6 +693,14 @@
    }
   },
   {
+   "id": "PF306377",
+   "title": "미드나잇: 액터뮤지션 THE FINAL",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "15:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF303594",
    "title": "브로큰 넘버스 (BROKEN NUMBERS)",
    "genre": "뮤지컬",
@@ -1641,6 +1649,14 @@
     "bg": "#2A2350",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF306377",
+   "title": "미드나잇: 액터뮤지션 THE FINAL",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "19:00",
+   "castSource": "none"
   },
   {
    "id": "PF302677",
