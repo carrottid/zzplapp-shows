@@ -44934,5 +44934,23 @@
    "openrun_flag"
   ],
   "since": "2026-11-14"
+ },
+ "PF306433": {
+  "id": "PF306433",
+  "title": "크리스마스 캐롤",
+  "genre": "뮤지컬",
+  "from": "2026-12-12",
+  "to": "2026-12-26",
+  "venue": "용산아트홀",
+  "area": "서울특별시",
+  "age": "만 6세 이상",
+  "hall": "용산아트홀 (대극장 미르)",
+  "facilityId": "FC000793",
+  "producer": "(재) 용산문화재단",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-14"
  }
 }
