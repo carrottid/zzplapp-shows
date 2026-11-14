@@ -897,10 +897,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "이승준"
+     "name": "이승준",
+     "personId": "51846"
     },
     {
-     "name": "김찰리"
+     "name": "김찰리",
+     "personId": "44855"
     }
    ],
    "color": {
@@ -2093,10 +2095,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "이승준"
+     "name": "이승준",
+     "personId": "51846"
     },
     {
-     "name": "동현"
+     "name": "동현",
+     "personId": "37550"
     }
    ],
    "color": {

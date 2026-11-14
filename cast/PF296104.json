@@ -11,16 +11,7 @@
   "137743": "비스트",
   "137744": "바맨",
   "137745": "핸디맨",
-  "137746": "보어",
-  "r:포엣": "포엣",
-  "r:로맨틱": "로맨틱",
-  "r:조커": "조커",
-  "r:마에스트로": "마에스트로",
-  "r:하드 맨": "하드 맨",
-  "r:비스트": "비스트",
-  "r:바맨": "바맨",
-  "r:핸디맨": "핸디맨",
-  "r:보어": "보어"
+  "137746": "보어"
  },
  "people": {
   "12099": {
@@ -88,39 +79,48 @@
    "cast": [
     {
      "name": "이충주",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "12099"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -130,39 +130,48 @@
    "cast": [
     {
      "name": "김지철",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "29458"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -172,39 +181,48 @@
    "cast": [
     {
      "name": "임준혁",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "40155"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -214,39 +232,48 @@
    "cast": [
     {
      "name": "이충주",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "12099"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -256,39 +283,48 @@
    "cast": [
     {
      "name": "김지철",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "29458"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -298,39 +334,48 @@
    "cast": [
     {
      "name": "임준혁",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "40155"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -340,39 +385,48 @@
    "cast": [
     {
      "name": "김지철",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "29458"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -382,39 +436,48 @@
    "cast": [
     {
      "name": "이충주",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "12099"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -424,39 +487,48 @@
    "cast": [
     {
      "name": "김지철",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "29458"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -466,39 +538,48 @@
    "cast": [
     {
      "name": "임준혁",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "40155"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -508,39 +589,48 @@
    "cast": [
     {
      "name": "임준혁",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "40155"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -550,39 +640,48 @@
    "cast": [
     {
      "name": "이충주",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "12099"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -592,39 +691,48 @@
    "cast": [
     {
      "name": "이충주",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "12099"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -634,39 +742,48 @@
    "cast": [
     {
      "name": "임준혁",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "40155"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -676,39 +793,48 @@
    "cast": [
     {
      "name": "김지철",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "29458"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -718,39 +844,48 @@
    "cast": [
     {
      "name": "이충주",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "12099"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -760,39 +895,48 @@
    "cast": [
     {
      "name": "김지철",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "29458"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -802,39 +946,48 @@
    "cast": [
     {
      "name": "임준혁",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "40155"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -844,39 +997,48 @@
    "cast": [
     {
      "name": "임준혁",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "40155"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "박찬양",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "39693"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "주민혁",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "49563"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },
@@ -886,39 +1048,48 @@
    "cast": [
     {
      "name": "김지철",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "29458"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -928,39 +1099,48 @@
    "cast": [
     {
      "name": "김지철",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "29458"
     },
     {
      "name": "신은총",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "45809"
     },
     {
      "name": "강윤석",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "57553"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김방언",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "41853"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "유성재",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "14173"
     },
     {
      "name": "이성훈",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "20519"
     },
     {
      "name": "강리운",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "41811"
     }
    ]
   },
@@ -970,39 +1150,48 @@
    "cast": [
     {
      "name": "이충주",
-     "roleId": "r:포엣"
+     "roleId": "137738",
+     "personId": "12099"
     },
     {
      "name": "손진욱",
-     "roleId": "r:로맨틱"
+     "roleId": "137739",
+     "personId": "54227"
     },
     {
      "name": "정찬영",
-     "roleId": "r:조커"
+     "roleId": "137740",
+     "personId": "56426"
     },
     {
      "name": "송권웅",
-     "roleId": "r:마에스트로"
+     "roleId": "137741",
+     "personId": "54904"
     },
     {
      "name": "김도현",
-     "roleId": "r:하드 맨"
+     "roleId": "137742",
+     "personId": "45345"
     },
     {
      "name": "문시온",
-     "roleId": "r:비스트"
+     "roleId": "137743",
+     "personId": "45091"
     },
     {
      "name": "박두희",
-     "roleId": "r:바맨"
+     "roleId": "137744",
+     "personId": "34045"
     },
     {
      "name": "권오환",
-     "roleId": "r:핸디맨"
+     "roleId": "137745",
+     "personId": "15021"
     },
     {
      "name": "이연승",
-     "roleId": "r:보어"
+     "roleId": "137746",
+     "personId": "56213"
     }
    ]
   },

@@ -660,19 +660,24 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "손승연"
+     "name": "손승연",
+     "personId": "30672"
     },
     {
-     "name": "최현선"
+     "name": "최현선",
+     "personId": "8054"
     },
     {
-     "name": "정영주"
+     "name": "정영주",
+     "personId": "3205"
     },
     {
-     "name": "케이윌"
+     "name": "케이윌",
+     "personId": "18552"
     },
     {
-     "name": "한승윤"
+     "name": "한승윤",
+     "personId": "47548"
     }
    ],
    "color": {
@@ -1169,18 +1174,6 @@
    "castSource": "none",
    "color": {
     "bg": "#4A4743",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF292095",
-   "title": "브로크백 마운틴",
-   "genre": "연극",
-   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4E5B3C",
     "fg": "#FFFFFF"
    }
   },

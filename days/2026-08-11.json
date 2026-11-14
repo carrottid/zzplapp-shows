@@ -214,19 +214,24 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "박지원"
+     "name": "박지원",
+     "personId": "57352"
     },
     {
-     "name": "박혜나"
+     "name": "박혜나",
+     "personId": "4263"
     },
     {
-     "name": "김영주"
+     "name": "김영주",
+     "personId": "3746"
     },
     {
-     "name": "케이윌"
+     "name": "케이윌",
+     "personId": "18552"
     },
     {
-     "name": "박광선"
+     "name": "박광선",
+     "personId": "38116"
     }
    ],
    "color": {
@@ -305,28 +310,36 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "장보람"
+     "name": "장보람",
+     "personId": "44587"
     },
     {
-     "name": "조현우"
+     "name": "조현우",
+     "personId": "33620"
     },
     {
-     "name": "서채이"
+     "name": "서채이",
+     "personId": "38250"
     },
     {
-     "name": "양정현"
+     "name": "양정현",
+     "personId": "57541"
     },
     {
-     "name": "정우림"
+     "name": "정우림",
+     "personId": "52964"
     },
     {
-     "name": "강현동"
+     "name": "강현동",
+     "personId": "57110"
     },
     {
-     "name": "김준"
+     "name": "김준",
+     "personId": "57112"
     },
     {
-     "name": "조재철"
+     "name": "조재철",
+     "personId": "43651"
     }
    ],
    "color": {
@@ -355,18 +368,6 @@
    "castSource": "none",
    "color": {
     "bg": "#1A1A22",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF292095",
-   "title": "브로크백 마운틴",
-   "genre": "연극",
-   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4E5B3C",
     "fg": "#FFFFFF"
    }
   },

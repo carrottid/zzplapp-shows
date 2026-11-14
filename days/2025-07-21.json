@@ -2,18 +2,6 @@
  "date": "2025-07-21",
  "sessions": [
   {
-   "id": "PF263441",
-   "title": "멤피스",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#011257",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF262934",
    "title": "Sync Next 25, 코끼리들이 웃는다",
    "genre": "연극",
@@ -22,18 +10,6 @@
    "castSource": "none",
    "color": {
     "bg": "#4A3B5C",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF263441",
-   "title": "멤피스",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#011257",
     "fg": "#FFFFFF"
    }
   },

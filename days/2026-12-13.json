@@ -427,10 +427,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "임찬민"
+     "name": "임찬민",
+     "personId": "30495"
     },
     {
-     "name": "이서영"
+     "name": "이서영",
+     "personId": "44123"
     }
    ],
    "color": {
@@ -1534,10 +1536,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "김담현"
+     "name": "김담현",
+     "personId": "49439"
     },
     {
-     "name": "동현"
+     "name": "동현",
+     "personId": "37550"
     }
    ],
    "color": {

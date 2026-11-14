@@ -306,18 +306,6 @@
    }
   },
   {
-   "id": "PF263441",
-   "title": "멤피스",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#011257",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF261892",
    "title": "구텐버그",
    "genre": "뮤지컬",
@@ -1302,18 +1290,6 @@
    "castSource": "none"
   },
   {
-   "id": "PF263441",
-   "title": "멤피스",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#011257",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF266623",
    "title": "보도지침",
    "genre": "연극",
@@ -1322,18 +1298,6 @@
    "castSource": "none",
    "color": {
     "bg": "#2F2C27",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF265911",
-   "title": "지킬 앤 하이드",
-   "genre": "뮤지컬",
-   "venue": "전남광주통합특별시 예술의전당 (구. 광주예술의전당) (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#000000",
     "fg": "#FFFFFF"
    }
   },

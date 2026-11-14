@@ -318,10 +318,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "송영미"
+     "name": "송영미",
+     "personId": "40909"
     },
     {
-     "name": "이서영"
+     "name": "이서영",
+     "personId": "44123"
     }
    ],
    "color": {
@@ -1259,10 +1261,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "이승준"
+     "name": "이승준",
+     "personId": "51846"
     },
     {
-     "name": "김찰리"
+     "name": "김찰리",
+     "personId": "44855"
     }
    ],
    "color": {

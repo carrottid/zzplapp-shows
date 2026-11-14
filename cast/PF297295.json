@@ -4,9 +4,7 @@
  "goodsKey": "26010933:19001422",
  "roles": {
   "138015": "스탠리",
-  "138016": "윌버",
-  "r:스탠리": "스탠리",
-  "r:윌버": "윌버"
+  "138016": "윌버"
  },
  "people": {
   "2477": {
@@ -35,11 +33,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -49,11 +49,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -63,11 +65,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -77,11 +81,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -91,11 +97,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -105,11 +113,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -119,11 +129,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -133,11 +145,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -147,11 +161,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -161,11 +177,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -175,11 +193,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -189,11 +209,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -203,11 +225,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -217,11 +241,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -231,11 +257,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -245,11 +273,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -259,11 +289,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -273,11 +305,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -287,11 +321,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -301,11 +337,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -315,11 +353,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -329,11 +369,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -343,11 +385,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -357,11 +401,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -371,11 +417,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -385,11 +433,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -399,11 +449,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },
@@ -413,11 +465,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -427,11 +481,13 @@
    "cast": [
     {
      "name": "정휘",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "33104"
     },
     {
      "name": "황은후",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "33240"
     }
    ]
   },
@@ -441,11 +497,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -455,11 +513,13 @@
    "cast": [
     {
      "name": "이재균",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "28605"
     },
     {
      "name": "손지윤",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "2477"
     }
    ]
   },
@@ -469,11 +529,13 @@
    "cast": [
     {
      "name": "이휘종",
-     "roleId": "r:스탠리"
+     "roleId": "138015",
+     "personId": "37849"
     },
     {
      "name": "김정민",
-     "roleId": "r:윌버"
+     "roleId": "138016",
+     "personId": "21008"
     }
    ]
   },

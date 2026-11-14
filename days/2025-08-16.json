@@ -318,18 +318,6 @@
    }
   },
   {
-   "id": "PF263441",
-   "title": "멤피스",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#011257",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF270786",
    "title": "검찰관",
    "genre": "연극",
@@ -1272,18 +1260,6 @@
    "venue": "후암스테이지 (2관)",
    "time": "19:30",
    "castSource": "none"
-  },
-  {
-   "id": "PF263441",
-   "title": "멤피스",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#011257",
-    "fg": "#FFFFFF"
-   }
   },
   {
    "id": "PF266623",

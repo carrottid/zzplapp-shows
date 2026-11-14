@@ -150,10 +150,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "이승준"
+     "name": "이승준",
+     "personId": "51846"
     },
     {
-     "name": "김시유"
+     "name": "김시유",
+     "personId": "34017"
     }
    ],
    "color": {

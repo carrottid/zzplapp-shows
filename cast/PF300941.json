@@ -4,9 +4,7 @@
  "goodsKey": "26013198:25000415",
  "roles": {
   "138864": "A",
-  "138865": "B",
-  "r:A": "A",
-  "r:B": "B"
+  "138865": "B"
  },
  "people": {
   "30495": {
@@ -47,11 +45,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "김시유",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "34017"
     }
    ]
   },
@@ -61,11 +61,13 @@
    "cast": [
     {
      "name": "송영미",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "40909"
     },
     {
      "name": "이서영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44123"
     }
    ]
   },
@@ -75,11 +77,13 @@
    "cast": [
     {
      "name": "임찬민",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "30495"
     },
     {
      "name": "전하영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "49554"
     }
    ]
   },
@@ -89,11 +93,13 @@
    "cast": [
     {
      "name": "김이담",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "35919"
     },
     {
      "name": "김찰리",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44855"
     }
    ]
   },
@@ -439,11 +445,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "김시유",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "34017"
     }
    ]
   },
@@ -453,11 +461,13 @@
    "cast": [
     {
      "name": "김담현",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "49439"
     },
     {
      "name": "동현",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "37550"
     }
    ]
   },
@@ -467,11 +477,13 @@
    "cast": [
     {
      "name": "송영미",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "40909"
     },
     {
      "name": "전하영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "49554"
     }
    ]
   },
@@ -481,11 +493,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "김시유",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "34017"
     }
    ]
   },
@@ -495,11 +509,13 @@
    "cast": [
     {
      "name": "임찬민",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "30495"
     },
     {
      "name": "이서영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44123"
     }
    ]
   },
@@ -509,11 +525,13 @@
    "cast": [
     {
      "name": "김이담",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "35919"
     },
     {
      "name": "동현",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "37550"
     }
    ]
   },
@@ -523,11 +541,13 @@
    "cast": [
     {
      "name": "송영미",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "40909"
     },
     {
      "name": "이서영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44123"
     }
    ]
   },
@@ -537,11 +557,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "김찰리",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44855"
     }
    ]
   },
@@ -551,11 +573,13 @@
    "cast": [
     {
      "name": "김이담",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "35919"
     },
     {
      "name": "김시유",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "34017"
     }
    ]
   },
@@ -565,11 +589,13 @@
    "cast": [
     {
      "name": "임찬민",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "30495"
     },
     {
      "name": "전하영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "49554"
     }
    ]
   },
@@ -579,11 +605,13 @@
    "cast": [
     {
      "name": "김담현",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "49439"
     },
     {
      "name": "동현",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "37550"
     }
    ]
   },
@@ -593,11 +621,13 @@
    "cast": [
     {
      "name": "김이담",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "35919"
     },
     {
      "name": "김찰리",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44855"
     }
    ]
   },
@@ -607,11 +637,13 @@
    "cast": [
     {
      "name": "송영미",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "40909"
     },
     {
      "name": "이서영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44123"
     }
    ]
   },
@@ -621,11 +653,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "김찰리",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44855"
     }
    ]
   },
@@ -635,11 +669,13 @@
    "cast": [
     {
      "name": "임찬민",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "30495"
     },
     {
      "name": "전하영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "49554"
     }
    ]
   },
@@ -649,11 +685,13 @@
    "cast": [
     {
      "name": "김이담",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "35919"
     },
     {
      "name": "김시유",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "34017"
     }
    ]
   },
@@ -663,11 +701,13 @@
    "cast": [
     {
      "name": "송영미",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "40909"
     },
     {
      "name": "전하영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "49554"
     }
    ]
   },
@@ -677,11 +717,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "김찰리",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44855"
     }
    ]
   },
@@ -691,11 +733,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "동현",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "37550"
     }
    ]
   },
@@ -705,11 +749,13 @@
    "cast": [
     {
      "name": "임찬민",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "30495"
     },
     {
      "name": "이서영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44123"
     }
    ]
   },
@@ -719,11 +765,13 @@
    "cast": [
     {
      "name": "김담현",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "49439"
     },
     {
      "name": "동현",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "37550"
     }
    ]
   },
@@ -733,11 +781,13 @@
    "cast": [
     {
      "name": "김이담",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "35919"
     },
     {
      "name": "동현",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "37550"
     }
    ]
   },
@@ -747,11 +797,13 @@
    "cast": [
     {
      "name": "송영미",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "40909"
     },
     {
      "name": "전하영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "49554"
     }
    ]
   },
@@ -761,11 +813,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "김시유",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "34017"
     }
    ]
   },
@@ -775,11 +829,13 @@
    "cast": [
     {
      "name": "임찬민",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "30495"
     },
     {
      "name": "이서영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44123"
     }
    ]
   },
@@ -789,11 +845,13 @@
    "cast": [
     {
      "name": "김담현",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "49439"
     },
     {
      "name": "김시유",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "34017"
     }
    ]
   },
@@ -803,11 +861,13 @@
    "cast": [
     {
      "name": "이승준",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "51846"
     },
     {
      "name": "김찰리",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44855"
     }
    ]
   },
@@ -817,11 +877,13 @@
    "cast": [
     {
      "name": "김이담",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "35919"
     },
     {
      "name": "동현",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "37550"
     }
    ]
   },
@@ -831,11 +893,13 @@
    "cast": [
     {
      "name": "송영미",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "40909"
     },
     {
      "name": "이서영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "44123"
     }
    ]
   },
@@ -845,11 +909,13 @@
    "cast": [
     {
      "name": "임찬민",
-     "roleId": "r:A"
+     "roleId": "138864",
+     "personId": "30495"
     },
     {
      "name": "전하영",
-     "roleId": "r:B"
+     "roleId": "138865",
+     "personId": "49554"
     }
    ]
   }

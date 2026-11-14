@@ -8,11 +8,6 @@
   "138187": "고종",
   "138188": "이완",
   "138189": "와다",
-  "r:김옥균": "김옥균",
-  "r:한정훈": "한정훈",
-  "r:고종": "고종",
-  "r:이완": "이완",
-  "r:와다": "와다",
   "r:와다/이완": "와다/이완",
   "r:종윤": "종윤"
  },
@@ -79,23 +74,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "김재범",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "4016"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -109,23 +109,28 @@
    "cast": [
     {
      "name": "최재웅",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "360"
     },
     {
      "name": "백형훈",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "20750"
     },
     {
      "name": "김준수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "40480"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -139,23 +144,28 @@
    "cast": [
     {
      "name": "김경수",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "6299"
     },
     {
      "name": "문유강",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "38079"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "신재희",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "32741"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -169,23 +179,27 @@
    "cast": [
     {
      "name": "송원근",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "22136"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -199,23 +213,28 @@
    "cast": [
     {
      "name": "손동운",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "30161"
     },
     {
      "name": "원태민",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "54013"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "신재희",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "32741"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -229,23 +248,27 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -259,23 +282,27 @@
    "cast": [
     {
      "name": "최재웅",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "360"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -289,23 +316,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "백형훈",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "20750"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -319,23 +351,27 @@
    "cast": [
     {
      "name": "최재웅",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "360"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -349,23 +385,27 @@
    "cast": [
     {
      "name": "송원근",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "22136"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -379,23 +419,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "원태민",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "54013"
     },
     {
      "name": "김준수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "40480"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -409,23 +454,28 @@
    "cast": [
     {
      "name": "송원근",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "22136"
     },
     {
      "name": "백형훈",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "20750"
     },
     {
      "name": "김준수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "40480"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -439,23 +489,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "문유강",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "38079"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "신재희",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "32741"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -469,23 +524,28 @@
    "cast": [
     {
      "name": "김경수",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "6299"
     },
     {
      "name": "김재범",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "4016"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -499,23 +559,27 @@
    "cast": [
     {
      "name": "최재웅",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "360"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "신재희",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "32741"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -529,23 +593,27 @@
    "cast": [
     {
      "name": "김경수",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "6299"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -559,23 +627,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "원태민",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "54013"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -589,23 +662,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "신성민",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "26999"
     },
     {
      "name": "김준수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "40480"
     },
     {
      "name": "신재희",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "32741"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -619,23 +697,27 @@
    "cast": [
     {
      "name": "김경수",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "6299"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -649,23 +731,28 @@
    "cast": [
     {
      "name": "손동운",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "30161"
     },
     {
      "name": "백형훈",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "20750"
     },
     {
      "name": "김준수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "40480"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -679,23 +766,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "김재범",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "4016"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -709,23 +801,27 @@
    "cast": [
     {
      "name": "송원근",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "22136"
     },
     {
      "name": "윤소호",
-     "roleId": "r:한정훈"
+     "roleId": "138186"
     },
     {
      "name": "김준수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "40480"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -739,23 +835,28 @@
    "cast": [
     {
      "name": "송원근",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "22136"
     },
     {
      "name": "신성민",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "26999"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "신재희",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "32741"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -769,23 +870,28 @@
    "cast": [
     {
      "name": "김경수",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "6299"
     },
     {
      "name": "원태민",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "54013"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",
@@ -799,23 +905,28 @@
    "cast": [
     {
      "name": "최재웅",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "360"
     },
     {
      "name": "문유강",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "38079"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -829,23 +940,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "김재범",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "4016"
     },
     {
      "name": "박영수",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "13925"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "신현준",
-     "roleId": "r:와다"
+     "roleId": "138189",
+     "personId": "57693"
     },
     {
      "name": "한정우",
@@ -859,23 +975,28 @@
    "cast": [
     {
      "name": "강필석",
-     "roleId": "r:김옥균"
+     "roleId": "138185",
+     "personId": "348"
     },
     {
      "name": "백형훈",
-     "roleId": "r:한정훈"
+     "roleId": "138186",
+     "personId": "20750"
     },
     {
      "name": "고영빈",
-     "roleId": "r:고종"
+     "roleId": "138187",
+     "personId": "3733"
     },
     {
      "name": "김태한",
-     "roleId": "r:이완"
+     "roleId": "138188",
+     "personId": "35"
     },
     {
      "name": "지현준",
-     "roleId": "r:와다/이완"
+     "roleId": "r:와다/이완",
+     "personId": "1967"
     },
     {
      "name": "한정우",

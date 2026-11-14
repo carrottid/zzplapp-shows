@@ -127,10 +127,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "김이담"
+     "name": "김이담",
+     "personId": "35919"
     },
     {
-     "name": "김시유"
+     "name": "김시유",
+     "personId": "34017"
     }
    ],
    "color": {
@@ -972,10 +974,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "송영미"
+     "name": "송영미",
+     "personId": "40909"
     },
     {
-     "name": "전하영"
+     "name": "전하영",
+     "personId": "49554"
     }
    ],
    "color": {

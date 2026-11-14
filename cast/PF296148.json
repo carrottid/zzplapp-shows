@@ -4,9 +4,7 @@
  "goodsKey": "26010086:26000815",
  "roles": {
   "137793": "소크라테스",
-  "137794": "멜레토스",
-  "r:소크라테스": "소크라테스",
-  "r:멜레토스": "멜레토스"
+  "137794": "멜레토스"
  },
  "people": {
   "6959": {
@@ -41,11 +39,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -55,11 +55,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -69,11 +71,13 @@
    "cast": [
     {
      "name": "문경초",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "37412"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -83,11 +87,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -97,11 +103,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -111,11 +119,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -125,11 +135,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -139,11 +151,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -153,11 +167,13 @@
    "cast": [
     {
      "name": "문경초",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "37412"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -167,11 +183,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -181,11 +199,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -195,11 +215,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -209,11 +231,13 @@
    "cast": [
     {
      "name": "문경초",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "37412"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -223,11 +247,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -237,11 +263,13 @@
    "cast": [
     {
      "name": "김도빈",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "29152"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -251,11 +279,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -265,11 +295,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -279,11 +311,13 @@
    "cast": [
     {
      "name": "문경초",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "37412"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -293,11 +327,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -307,11 +343,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -321,11 +359,13 @@
    "cast": [
     {
      "name": "문경초",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "37412"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -335,11 +375,13 @@
    "cast": [
     {
      "name": "문경초",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "37412"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -349,11 +391,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "이종석",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "45668"
     }
    ]
   },
@@ -363,11 +407,13 @@
    "cast": [
     {
      "name": "김도빈",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "29152"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -377,11 +423,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },
@@ -391,11 +439,13 @@
    "cast": [
     {
      "name": "김도빈",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "29152"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -405,11 +455,13 @@
    "cast": [
     {
      "name": "정민",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "6959"
     },
     {
      "name": "황민수",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "38360"
     }
    ]
   },
@@ -419,11 +471,13 @@
    "cast": [
     {
      "name": "문경초",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "37412"
     },
     {
      "name": "이종석",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "45668"
     }
    ]
   },
@@ -433,11 +487,13 @@
    "cast": [
     {
      "name": "김도빈",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "29152"
     },
     {
      "name": "최호승",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "23999"
     }
    ]
   },
@@ -447,11 +503,13 @@
    "cast": [
     {
      "name": "김도빈",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "29152"
     },
     {
      "name": "이종석",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "45668"
     }
    ]
   },
@@ -461,11 +519,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "33256"
     },
     {
      "name": "이종석",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "45668"
     }
    ]
   },
@@ -475,11 +535,13 @@
    "cast": [
     {
      "name": "문경초",
-     "roleId": "r:소크라테스"
+     "roleId": "137793",
+     "personId": "37412"
     },
     {
      "name": "이준우",
-     "roleId": "r:멜레토스"
+     "roleId": "137794",
+     "personId": "47518"
     }
    ]
   },

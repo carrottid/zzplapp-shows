@@ -330,10 +330,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "이승준"
+     "name": "이승준",
+     "personId": "51846"
     },
     {
-     "name": "김시유"
+     "name": "김시유",
+     "personId": "34017"
     }
    ],
    "color": {
@@ -1176,10 +1178,12 @@
    "castSource": "nol",
    "cast": [
     {
-     "name": "임찬민"
+     "name": "임찬민",
+     "personId": "30495"
     },
     {
-     "name": "이서영"
+     "name": "이서영",
+     "personId": "44123"
     }
    ],
    "color": {

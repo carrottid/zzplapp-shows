@@ -4,9 +4,7 @@
  "goodsKey": "26011560:25000129",
  "roles": {
   "138171": "정도전",
-  "138172": "이방원",
-  "r:정도전": "정도전",
-  "r:이방원": "이방원"
+  "138172": "이방원"
  },
  "people": {
   "25262": {
@@ -35,11 +33,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -49,11 +49,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -63,11 +65,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -77,11 +81,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -91,11 +97,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -105,11 +113,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -119,11 +129,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -133,11 +145,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -147,11 +161,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -161,11 +177,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -175,11 +193,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -189,11 +209,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -203,11 +225,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -217,11 +241,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -231,11 +257,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -245,11 +273,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -259,11 +289,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -273,11 +305,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -287,11 +321,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -301,11 +337,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -315,11 +353,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -329,11 +369,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -343,11 +385,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -357,11 +401,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -371,11 +417,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -385,11 +433,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -399,11 +449,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -413,11 +465,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -427,11 +481,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -441,11 +497,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -455,11 +513,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "최석진",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "25262"
     }
    ]
   },
@@ -469,11 +529,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -483,11 +545,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -497,11 +561,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -511,11 +577,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -525,11 +593,13 @@
    "cast": [
     {
      "name": "심수호",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "45194"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
@@ -539,11 +609,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -553,11 +625,13 @@
    "cast": [
     {
      "name": "손유동",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "37034"
     },
     {
      "name": "박두호",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "53056"
     }
    ]
   },
@@ -567,11 +641,13 @@
    "cast": [
     {
      "name": "조풍래",
-     "roleId": "r:정도전"
+     "roleId": "138171",
+     "personId": "33256"
     },
     {
      "name": "김기택",
-     "roleId": "r:이방원"
+     "roleId": "138172",
+     "personId": "44399"
     }
    ]
   },
