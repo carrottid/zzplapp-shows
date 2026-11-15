@@ -23,7 +23,36 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "엄기준"
+    },
+    {
+     "name": "윤시윤"
+    },
+    {
+     "name": "이지수"
+    },
+    {
+     "name": "고창석"
+    },
+    {
+     "name": "이경미"
+    },
+    {
+     "name": "우재하"
+    },
+    {
+     "name": "황재하"
+    },
+    {
+     "name": "고운지"
+    },
+    {
+     "name": "정단비"
+    }
+   ],
    "color": {
     "bg": "#2A2520",
     "fg": "#F2A33A"
@@ -35,7 +64,27 @@
    "genre": "연극",
    "venue": "백암아트홀",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "송옥숙"
+    },
+    {
+     "name": "김나희"
+    },
+    {
+     "name": "윤서빈"
+    },
+    {
+     "name": "조영진"
+    },
+    {
+     "name": "이정은"
+    },
+    {
+     "name": "이원장"
+    }
+   ],
    "color": {
     "bg": "#E8B4A8",
     "fg": "#111111"
@@ -59,7 +108,21 @@
    "genre": "연극",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오화라"
+    },
+    {
+     "name": "김소라"
+    },
+    {
+     "name": "서혜원"
+    },
+    {
+     "name": "전우형"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -71,7 +134,24 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박효신"
+    },
+    {
+     "name": "윤공주"
+    },
+    {
+     "name": "김도현"
+    },
+    {
+     "name": "박시원"
+    },
+    {
+     "name": "유연정"
+    }
+   ],
    "color": {
     "bg": "#B3202A",
     "fg": "#FFFFFF"
@@ -83,7 +163,30 @@
    "genre": "뮤지컬",
    "venue": "블루스퀘어 (우리은행홀 (구. 인터파크홀, 구. 신한카드홀) )",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김승주"
+    },
+    {
+     "name": "최정원"
+    },
+    {
+     "name": "최동원"
+    },
+    {
+     "name": "박정자"
+    },
+    {
+     "name": "이루리"
+    },
+    {
+     "name": "박예솔"
+    },
+    {
+     "name": "김명윤"
+    }
+   ],
    "color": {
     "bg": "#A9C4D6",
     "fg": "#111111"
@@ -95,7 +198,24 @@
    "genre": "뮤지컬",
    "venue": "광림아트센터 (BBCH홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이봄소리"
+    },
+    {
+     "name": "김경수"
+    },
+    {
+     "name": "김태한"
+    },
+    {
+     "name": "박재이"
+    },
+    {
+     "name": "육현욱"
+    }
+   ],
    "color": {
     "bg": "#E8B4C4",
     "fg": "#111111"
@@ -107,7 +227,30 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신성록"
+    },
+    {
+     "name": "김수연"
+    },
+    {
+     "name": "김건우"
+    },
+    {
+     "name": "하도권"
+    },
+    {
+     "name": "황만익"
+    },
+    {
+     "name": "이정화"
+    },
+    {
+     "name": "오진영"
+    }
+   ],
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
@@ -119,7 +262,18 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이기완"
+    },
+    {
+     "name": "정원영"
+    },
+    {
+     "name": "이한수"
+    }
+   ],
    "color": {
     "bg": "#D8C4A0",
     "fg": "#111111"
@@ -139,7 +293,24 @@
    "genre": "뮤지컬",
    "venue": "예술의전당 [서울] (CJ 토월극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "티파니 영"
+    },
+    {
+     "name": "최재림"
+    },
+    {
+     "name": "김소향"
+    },
+    {
+     "name": "박시인"
+    },
+    {
+     "name": "임기홍"
+    }
+   ],
    "color": {
     "bg": "#1F6FB2",
     "fg": "#FFFFFF"
@@ -158,20 +329,29 @@
    }
   },
   {
-   "id": "PF292135",
-   "title": "창작ing, 던터치",
-   "genre": "뮤지컬",
-   "venue": "국립정동극장 세실 (구.세실극장)",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
    "id": "PF290498",
    "title": "파가니니",
    "genre": "뮤지컬",
    "venue": "홍익대 대학로 아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "KoN(콘)"
+    },
+    {
+     "name": "김종구"
+    },
+    {
+     "name": "조훈"
+    },
+    {
+     "name": "신수빈"
+    },
+    {
+     "name": "유주연"
+    }
+   ],
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
@@ -183,7 +363,27 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최민우"
+    },
+    {
+     "name": "이태은"
+    },
+    {
+     "name": "이동수"
+    },
+    {
+     "name": "윤석현"
+    },
+    {
+     "name": "원종환"
+    },
+    {
+     "name": "홍준기"
+    }
+   ],
    "color": {
     "bg": "#1E3A6B",
     "fg": "#FFFFFF"
@@ -195,7 +395,30 @@
    "genre": "뮤지컬",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "태호"
+    },
+    {
+     "name": "홍은기"
+    },
+    {
+     "name": "김보라"
+    },
+    {
+     "name": "김찰리"
+    },
+    {
+     "name": "김주일"
+    },
+    {
+     "name": "양성령"
+    },
+    {
+     "name": "김지훈"
+    }
+   ],
    "color": {
     "bg": "#F7C632",
     "fg": "#111111"
@@ -233,7 +456,15 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍기범"
+    },
+    {
+     "name": "송유택"
+    }
+   ],
    "color": {
     "bg": "#2563A8",
     "fg": "#FFFFFF"
@@ -245,7 +476,24 @@
    "genre": "연극",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박소진"
+    },
+    {
+     "name": "진선규"
+    },
+    {
+     "name": "이다아야"
+    },
+    {
+     "name": "김대현"
+    },
+    {
+     "name": "정예인"
+    }
+   ],
    "color": {
     "bg": "#F3E3C3",
     "fg": "#111111"
@@ -257,7 +505,15 @@
    "genre": "연극",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (3관(구. 수현재씨어터))",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "강승호"
+    },
+    {
+     "name": "고상호"
+    }
+   ],
    "color": {
     "bg": "#2B2326",
     "fg": "#FFFFFF"
@@ -269,7 +525,12 @@
    "genre": "뮤지컬",
    "venue": "링크더스페이스(LINK THE SPACE) (1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "주민진"
+    }
+   ],
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -281,7 +542,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (3관(소극장))",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "남민우"
+    },
+    {
+     "name": "최하람"
+    },
+    {
+     "name": "유소리"
+    },
+    {
+     "name": "박혜민"
+    },
+    {
+     "name": "설다혜"
+    },
+    {
+     "name": "강대운"
+    },
+    {
+     "name": "김준"
+    },
+    {
+     "name": "조재철"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#F2A33A"
@@ -293,7 +580,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "손유동"
+    },
+    {
+     "name": "최수진"
+    },
+    {
+     "name": "박영수"
+    }
+   ],
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
@@ -305,9 +603,61 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "백인태"
+    },
+    {
+     "name": "김재범"
+    },
+    {
+     "name": "황민수"
+    },
+    {
+     "name": "강하경"
+    },
+    {
+     "name": "조영훈"
+    }
+   ],
    "color": {
     "bg": "#1A1A22",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF292095",
+   "title": "브로크백 마운틴",
+   "genre": "연극",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (1관)",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정상훈"
+    },
+    {
+     "name": "홍승안"
+    },
+    {
+     "name": "정휘"
+    },
+    {
+     "name": "전재희"
+    },
+    {
+     "name": "민성욱"
+    },
+    {
+     "name": "문혜원"
+    }
+   ],
+   "color": {
+    "bg": "#4E5B3C",
     "fg": "#FFFFFF"
    }
   },
@@ -317,7 +667,24 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (벅스홀)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박정원"
+    },
+    {
+     "name": "김경록"
+    },
+    {
+     "name": "이정화"
+    },
+    {
+     "name": "정지우"
+    },
+    {
+     "name": "안유진"
+    }
+   ],
    "color": {
     "bg": "#1B2535",
     "fg": "#FFFFFF"
@@ -341,7 +708,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터 (페이코홀)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "온주완"
+    },
+    {
+     "name": "여은"
+    },
+    {
+     "name": "유현석"
+    }
+   ],
    "color": {
     "bg": "#2B3A4A",
     "fg": "#FFFFFF"
@@ -353,7 +731,21 @@
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임준혁"
+    },
+    {
+     "name": "서영택"
+    },
+    {
+     "name": "강홍준"
+    },
+    {
+     "name": "김동빈"
+    }
+   ],
    "color": {
     "bg": "#C8D0D4",
     "fg": "#111111"
@@ -365,7 +757,18 @@
    "genre": "뮤지컬",
    "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "안재영"
+    },
+    {
+     "name": "강병훈"
+    },
+    {
+     "name": "유낙원"
+    }
+   ],
    "color": {
     "bg": "#6B5A44",
     "fg": "#FFFFFF"
@@ -377,7 +780,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이승준"
+    },
+    {
+     "name": "차규민"
+    }
+   ],
    "color": {
     "bg": "#8A6A3A",
     "fg": "#FFFFFF"
@@ -389,7 +800,15 @@
    "genre": "뮤지컬",
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조모세"
+    },
+    {
+     "name": "이한솔"
+    }
+   ],
    "color": {
     "bg": "#1C2230",
     "fg": "#FFFFFF"
@@ -401,7 +820,15 @@
    "genre": "연극",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "양지원"
+    },
+    {
+     "name": "강은빈"
+    }
+   ],
    "color": {
     "bg": "#2B2826",
     "fg": "#FFFFFF"
@@ -413,7 +840,15 @@
    "genre": "연극",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김경남"
+    },
+    {
+     "name": "정운선"
+    }
+   ],
    "color": {
     "bg": "#D9E2EA",
     "fg": "#111111"
@@ -425,22 +860,24 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "원찬"
+    },
+    {
+     "name": "박주혁"
+    },
+    {
+     "name": "조현우"
+    },
+    {
+     "name": "이한울"
+    }
+   ],
    "color": {
     "bg": "#F7D23E",
     "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF291576",
-   "title": "이올라오스",
-   "genre": "연극",
-   "venue": "예스24아트원(구.대학로아트원씨어터) (3관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2E3B3F",
-    "fg": "#FFFFFF"
    }
   },
   {
@@ -449,7 +886,21 @@
    "genre": "뮤지컬",
    "venue": "동덕여대공연예술센터 (코튼홀)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신은총"
+    },
+    {
+     "name": "정재환"
+    },
+    {
+     "name": "도해"
+    },
+    {
+     "name": "김사라"
+    }
+   ],
    "color": {
     "bg": "#0B1B3A",
     "fg": "#FFFFFF"
@@ -461,7 +912,12 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최연우"
+    }
+   ],
    "color": {
     "bg": "#2A1A1E",
     "fg": "#FFFFFF"
@@ -473,7 +929,12 @@
    "genre": "연극",
    "venue": "두산아트센터 (연강홀)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김히어라"
+    }
+   ],
    "color": {
     "bg": "#1F4D2E",
     "fg": "#F5D547"
@@ -485,7 +946,15 @@
    "genre": "뮤지컬",
    "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정민"
+    },
+    {
+     "name": "김지온"
+    }
+   ],
    "color": {
     "bg": "#1C3A6E",
     "fg": "#FFFFFF"
@@ -497,7 +966,21 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김도빈"
+    },
+    {
+     "name": "박준형"
+    },
+    {
+     "name": "김서환"
+    },
+    {
+     "name": "안창용"
+    }
+   ],
    "color": {
     "bg": "#5A2E3A",
     "fg": "#FFFFFF"

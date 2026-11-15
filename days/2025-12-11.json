@@ -129,7 +129,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "김성규"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -239,7 +259,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "민하늘"
+    },
+    {
+     "name": "류찬열"
+    },
+    {
+     "name": "최정화"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "이가연"
+    }
+   ],
    "color": {
     "bg": "#3B5B7A",
     "fg": "#FFFFFF"

@@ -1248,7 +1248,21 @@
    "genre": "연극",
    "venue": "부산시민회관 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이동휘"
+    },
+    {
+     "name": "정승길"
+    },
+    {
+     "name": "우정원"
+    },
+    {
+     "name": "김수현"
+    }
+   ],
    "color": {
     "bg": "#D8312B",
     "fg": "#FFFFFF"

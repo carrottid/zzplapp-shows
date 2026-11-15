@@ -7,7 +7,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김민석"
+    },
+    {
+     "name": "김성철"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -50,18 +70,6 @@
    }
   },
   {
-   "id": "PF276569",
-   "title": "킹키부츠",
-   "genre": "뮤지컬",
-   "venue": "샤롯데씨어터",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#C8102E",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF275178",
    "title": "한복 입은 남자",
    "genre": "뮤지컬",
@@ -70,18 +78,6 @@
    "castSource": "none",
    "color": {
     "bg": "#14213D",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF273451",
-   "title": "빨래: 31차 프로덕션",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (2관(중극장))",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3B5B7A",
     "fg": "#FFFFFF"
    }
   },
@@ -139,7 +135,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "16:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍우진"
+    },
+    {
+     "name": "설가은"
+    },
+    {
+     "name": "박근식"
+    },
+    {
+     "name": "유동훈"
+    }
+   ],
    "color": {
     "bg": "#17766A",
     "fg": "#FFFFFF"
@@ -235,7 +245,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "16:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김지철"
+    },
+    {
+     "name": "김재한"
+    },
+    {
+     "name": "전민지"
+    }
+   ],
    "color": {
     "bg": "#2B2320",
     "fg": "#FFFFFF"
@@ -330,7 +351,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "산들"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -488,7 +529,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "류석호"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "허순미"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "서인권"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
    "color": {
     "bg": "#3B5B7A",
     "fg": "#FFFFFF"
@@ -568,7 +635,27 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "백인태"
+    },
+    {
+     "name": "영빈"
+    },
+    {
+     "name": "강하온"
+    },
+    {
+     "name": "성재"
+    },
+    {
+     "name": "서승원"
+    },
+    {
+     "name": "박채원"
+    }
+   ],
    "color": {
     "bg": "#1C2433",
     "fg": "#F2A33A"
@@ -600,7 +687,24 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신재범"
+    },
+    {
+     "name": "강홍석"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "유주연"
+    }
+   ],
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"
@@ -660,7 +764,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이서영"
+    },
+    {
+     "name": "전혜주"
+    },
+    {
+     "name": "백예은"
+    },
+    {
+     "name": "최민경"
+    }
+   ],
    "color": {
     "bg": "#3A3530",
     "fg": "#FFFFFF"
@@ -696,7 +814,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍우진"
+    },
+    {
+     "name": "임하윤"
+    },
+    {
+     "name": "박근식"
+    },
+    {
+     "name": "유동훈"
+    }
+   ],
    "color": {
     "bg": "#17766A",
     "fg": "#FFFFFF"
@@ -875,7 +1007,18 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "손유동"
+    },
+    {
+     "name": "이종석"
+    },
+    {
+     "name": "이한별"
+    }
+   ],
    "color": {
     "bg": "#2B2320",
     "fg": "#FFFFFF"

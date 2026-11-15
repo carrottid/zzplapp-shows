@@ -2,15 +2,116 @@
  "date": "2026-05-04",
  "sessions": [
   {
+   "id": "PF286500",
+   "title": "아트",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "박은석"
+    },
+    {
+     "name": "박정복"
+    }
+   ],
+   "color": {
+    "bg": "#1E2A4F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF286500",
+   "title": "아트",
+   "genre": "연극",
+   "venue": "예스24 스테이지(구. DCF대명문화공장) (1관)",
+   "time": "19:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최재웅"
+    },
+    {
+     "name": "박은석"
+    },
+    {
+     "name": "박정복"
+    }
+   ],
+   "color": {
+    "bg": "#1E2A4F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF286730",
    "title": "국립극단, 그의 어머니 Mother of Him",
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "진서연"
+    },
+    {
+     "name": "최자운"
+    },
+    {
+     "name": "최호재"
+    },
+    {
+     "name": "홍선우"
+    },
+    {
+     "name": "김서아"
+    },
+    {
+     "name": "정환"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF288366",
+   "title": "6시 퇴근",
+   "genre": "뮤지컬",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "동현"
+    },
+    {
+     "name": "김동현"
+    },
+    {
+     "name": "정소연"
+    },
+    {
+     "name": "김찰리"
+    },
+    {
+     "name": "정재헌"
+    },
+    {
+     "name": "여은"
+    },
+    {
+     "name": "고철순"
+    }
+   ],
+   "color": {
+    "bg": "#F7C632",
+    "fg": "#111111"
    }
   },
   {
@@ -19,7 +120,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "윤승우"
+    },
+    {
+     "name": "현석준"
+    }
+   ],
    "color": {
     "bg": "#2E3B4E",
     "fg": "#FFFFFF"
@@ -31,7 +140,12 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박정혁"
+    }
+   ]
   }
  ]
 }

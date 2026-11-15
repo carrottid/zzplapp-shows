@@ -431,6 +431,32 @@
    }
   },
   {
+   "id": "PF300992",
+   "title": "사막에도 가끔 비가 내립니다 (근데 이제 줌바를 곁들인)",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "16:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유낙원"
+    },
+    {
+     "name": "최하윤"
+    },
+    {
+     "name": "윤지현"
+    },
+    {
+     "name": "권도균"
+    }
+   ],
+   "color": {
+    "bg": "#3F8FD8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF298593",
    "title": "아나키스트",
    "genre": "뮤지컬",
@@ -773,7 +799,27 @@
    "genre": "뮤지컬",
    "venue": "계명아트센터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "전동석"
+    },
+    {
+     "name": "조정은"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "임현준"
+    },
+    {
+     "name": "이예은"
+    },
+    {
+     "name": "조성린"
+    }
+   ],
    "color": {
     "bg": "#0F1830",
     "fg": "#D9A441"
@@ -785,7 +831,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "김선영"
+    },
+    {
+     "name": "김수호"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "정동근"
+    },
+    {
+     "name": "안시하"
+    },
+    {
+     "name": "김강진"
+    },
+    {
+     "name": "염희진"
+    }
+   ],
    "color": {
     "bg": "#2F6FB5",
     "fg": "#FFFFFF"
@@ -1177,7 +1249,27 @@
    "genre": "연극",
    "venue": "소극장 혜화당 (구. 까망소극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "한우림"
+    },
+    {
+     "name": "성지예"
+    },
+    {
+     "name": "이시윤"
+    },
+    {
+     "name": "박현진"
+    },
+    {
+     "name": "신수언"
+    },
+    {
+     "name": "배서진"
+    }
+   ]
   },
   {
    "id": "PF301323",
@@ -1491,7 +1583,21 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유낙원"
+    },
+    {
+     "name": "오민경"
+    },
+    {
+     "name": "강은빈"
+    },
+    {
+     "name": "권도균"
+    }
+   ],
    "color": {
     "bg": "#3F8FD8",
     "fg": "#FFFFFF"

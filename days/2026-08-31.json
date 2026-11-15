@@ -7,7 +7,15 @@
    "genre": "연극",
    "venue": "티켓링크 1975 씨어터(구.능동 어린이회관) (티켓링크 1975 씨어터(구.무지개극장))",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "우현주"
+    },
+    {
+     "name": "이정열"
+    }
+   ]
   },
   {
    "id": "PF293924",
@@ -27,7 +35,15 @@
    "genre": "연극",
    "venue": "한성아트홀(구. 인켈아트홀) (2관)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "송병근"
+    },
+    {
+     "name": "이지나"
+    }
+   ],
    "color": {
     "bg": "#6E94B8",
     "fg": "#FFFFFF"
@@ -39,7 +55,27 @@
    "genre": "연극",
    "venue": "선돌극장",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이승연"
+    },
+    {
+     "name": "문민경"
+    },
+    {
+     "name": "정현규"
+    },
+    {
+     "name": "기혜유"
+    },
+    {
+     "name": "강이성"
+    },
+    {
+     "name": "이태검"
+    }
+   ]
   },
   {
    "id": "PF294932",
@@ -47,7 +83,33 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유희제"
+    },
+    {
+     "name": "김서환"
+    },
+    {
+     "name": "김이후"
+    },
+    {
+     "name": "선유하"
+    },
+    {
+     "name": "조풍래"
+    },
+    {
+     "name": "김보나"
+    },
+    {
+     "name": "박현미"
+    },
+    {
+     "name": "윤상호"
+    }
+   ],
    "color": {
     "bg": "#14201F",
     "fg": "#FFFFFF"
@@ -59,7 +121,21 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "도희원"
+    },
+    {
+     "name": "정아인"
+    },
+    {
+     "name": "장희원"
+    },
+    {
+     "name": "김세진"
+    }
+   ],
    "color": {
     "bg": "#C95F9A",
     "fg": "#FFFFFF"

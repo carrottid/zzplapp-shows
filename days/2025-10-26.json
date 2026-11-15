@@ -71,7 +71,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김민석"
+    },
+    {
+     "name": "산들"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -1171,7 +1191,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "탕준상"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "최서연"
+    },
+    {
+     "name": "김용수"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"

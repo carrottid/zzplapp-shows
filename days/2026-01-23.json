@@ -159,7 +159,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "김성철"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "윤영석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -305,7 +325,30 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "민하늘"
+    },
+    {
+     "name": "정형석"
+    },
+    {
+     "name": "최정화"
+    },
+    {
+     "name": "한우열"
+    },
+    {
+     "name": "황윤중"
+    },
+    {
+     "name": "박존정민"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
    "color": {
     "bg": "#3B5B7A",
     "fg": "#FFFFFF"
@@ -385,7 +428,24 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이재환"
+    },
+    {
+     "name": "강홍석"
+    },
+    {
+     "name": "허윤슬"
+    },
+    {
+     "name": "김동현"
+    },
+    {
+     "name": "유주연"
+    }
+   ],
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"
@@ -501,7 +561,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍우진"
+    },
+    {
+     "name": "최은영"
+    },
+    {
+     "name": "도유현"
+    },
+    {
+     "name": "이규학"
+    }
+   ],
    "color": {
     "bg": "#17766A",
     "fg": "#FFFFFF"

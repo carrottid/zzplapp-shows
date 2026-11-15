@@ -124,7 +124,18 @@
    "genre": "뮤지컬",
    "venue": "롯데콘서트홀",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신효범"
+    },
+    {
+     "name": "최재림"
+    },
+    {
+     "name": "정선아"
+    }
+   ],
    "color": {
     "bg": "#5A1F26",
     "fg": "#F2E3C0"

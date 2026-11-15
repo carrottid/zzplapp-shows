@@ -1,0 +1,29 @@
+{
+ "id": "PF289083",
+ "source": "plapp",
+ "roles": {
+  "r:출연": "출연"
+ },
+ "people": {},
+ "sessions": [
+  {
+   "date": "2026-05-02",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "권태하",
+     "roleId": "r:출연"
+    },
+    {
+     "name": "박상혁",
+     "roleId": "r:출연"
+    },
+    {
+     "name": "조성필",
+     "roleId": "r:출연"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-15T05:57:22"
+}

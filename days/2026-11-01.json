@@ -306,7 +306,27 @@
    "genre": "뮤지컬",
    "venue": "계명아트센터",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "조정은"
+    },
+    {
+     "name": "강태을"
+    },
+    {
+     "name": "진태화"
+    },
+    {
+     "name": "이예은"
+    },
+    {
+     "name": "조성린"
+    }
+   ],
    "color": {
     "bg": "#0F1830",
     "fg": "#D9A441"
@@ -471,7 +491,21 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍나현"
+    },
+    {
+     "name": "오민경"
+    },
+    {
+     "name": "윤지현"
+    },
+    {
+     "name": "박강원"
+    }
+   ],
    "color": {
     "bg": "#3F8FD8",
     "fg": "#FFFFFF"
@@ -1098,7 +1132,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "신영숙"
+    },
+    {
+     "name": "김수호"
+    },
+    {
+     "name": "강지혜"
+    },
+    {
+     "name": "정동근"
+    },
+    {
+     "name": "임민영"
+    },
+    {
+     "name": "윤현선"
+    },
+    {
+     "name": "염희진"
+    }
+   ],
    "color": {
     "bg": "#2F6FB5",
     "fg": "#FFFFFF"
@@ -1374,7 +1434,27 @@
    "genre": "연극",
    "venue": "소극장 혜화당 (구. 까망소극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "한우림"
+    },
+    {
+     "name": "성지예"
+    },
+    {
+     "name": "이시윤"
+    },
+    {
+     "name": "박현진"
+    },
+    {
+     "name": "신수언"
+    },
+    {
+     "name": "배서진"
+    }
+   ]
   },
   {
    "id": "PF301706",
@@ -1805,18 +1885,6 @@
    "color": {
     "bg": "#0E1018",
     "fg": "#E8C86A"
-   }
-  },
-  {
-   "id": "PF300992",
-   "title": "사막에도 가끔 비가 내립니다 (근데 이제 줌바를 곁들인)",
-   "genre": "연극",
-   "venue": "예그린씨어터",
-   "time": "18:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3F8FD8",
-    "fg": "#FFFFFF"
    }
   },
   {
@@ -2321,7 +2389,27 @@
    "genre": "뮤지컬",
    "venue": "계명아트센터",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신성록"
+    },
+    {
+     "name": "김환희"
+    },
+    {
+     "name": "강태을"
+    },
+    {
+     "name": "진태화"
+    },
+    {
+     "name": "이예은"
+    },
+    {
+     "name": "조성린"
+    }
+   ],
    "color": {
     "bg": "#0F1830",
     "fg": "#D9A441"

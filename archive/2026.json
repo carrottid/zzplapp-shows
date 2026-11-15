@@ -16,7 +16,7 @@
     "임태현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#5E7FA6",
     "fg": "#FFFFFF"
@@ -40,7 +40,7 @@
     "박새힘"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C8A27A",
     "fg": "#111111"
@@ -63,7 +63,7 @@
     "정찬호"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2F6FC0",
     "fg": "#FFFFFF"
@@ -213,7 +213,7 @@
     "유선호"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3F3F3F",
     "fg": "#E8B95A"
@@ -254,7 +254,7 @@
     "이강민"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#D8451F",
     "fg": "#FFFFFF"
@@ -412,7 +412,7 @@
     "윤진성"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF298711",
@@ -534,7 +534,7 @@
     "나재엽"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B03A78",
     "fg": "#FFFFFF"
@@ -558,7 +558,7 @@
     "이지우"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B03A78",
     "fg": "#FFFFFF"
@@ -612,7 +612,7 @@
     "김예나"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B03A78",
     "fg": "#FFFFFF"
@@ -657,7 +657,7 @@
     "이윤성"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F6FB5",
     "fg": "#FFFFFF"
@@ -697,7 +697,7 @@
     "홍준기"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF297391",
@@ -763,18 +763,10 @@
     "정현규",
     "이세형",
     "장우정",
-    "박서은",
-    "문민경",
-    "기혜유",
-    "유희리",
-    "이태검",
-    "유용",
-    "손윤필",
-    "이현진",
-    "강이성"
+    "박서은"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF297109",
@@ -823,7 +815,7 @@
     "윤상인"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF292079",
@@ -843,7 +835,7 @@
     "홍나현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#7A2352",
     "fg": "#FFFFFF"
@@ -901,7 +893,7 @@
     "박재은"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F4E79",
     "fg": "#F4C95D"
@@ -934,7 +926,7 @@
    "venue": "전남광주통합특별시 예술의전당 (구. 광주예술의전당) (대극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF292067_260522_135903.gif",
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F6FB5",
     "fg": "#FFFFFF"
@@ -973,7 +965,7 @@
     "권다솔"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -1335,7 +1327,7 @@
     "이정열"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF295802",
@@ -1355,7 +1347,7 @@
     "차윤해"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1565C0",
     "fg": "#FFFFFF"
@@ -1441,7 +1433,7 @@
     "문다현"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF296064",
@@ -1475,7 +1467,7 @@
     "윤동원"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF292947",
@@ -1544,7 +1536,7 @@
     "최기욱"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF296166",
@@ -1625,7 +1617,7 @@
     "유동원"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#7A2BC4",
     "fg": "#FFFFFF"
@@ -1649,7 +1641,7 @@
     "배세은"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF295524",
@@ -1703,7 +1695,7 @@
     "서범석"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#EFC3D0",
     "fg": "#111111"
@@ -1785,7 +1777,7 @@
     "김세진"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C95F9A",
     "fg": "#FFFFFF"
@@ -1889,7 +1881,7 @@
     "도준영"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F3E3DA",
     "fg": "#111111"
@@ -1945,7 +1937,7 @@
     "성홍일"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF294158",
@@ -2138,7 +2130,7 @@
     "서진원"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#7A2BC4",
     "fg": "#FFFFFF"
@@ -2162,7 +2154,7 @@
     "최태용"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -2186,7 +2178,7 @@
     "김태균"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#E0A83A",
     "fg": "#111111"
@@ -2206,7 +2198,7 @@
     "이나리"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2B4C9B",
     "fg": "#FFFFFF"
@@ -2248,7 +2240,7 @@
     "강기한"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -2272,7 +2264,7 @@
     "유성재"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E2A44",
     "fg": "#FFFFFF"
@@ -2446,7 +2438,7 @@
     "이해준"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B2A3A",
     "fg": "#FFFFFF"
@@ -2670,7 +2662,7 @@
     "김슬기"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B4A7D",
     "fg": "#FFFFFF"
@@ -2817,20 +2809,10 @@
     "임강희",
     "임병근",
     "이형훈",
-    "남명렬",
-    "오찬우",
-    "강성진",
-    "최수형",
-    "박정자",
-    "나자명",
-    "황성대",
-    "엄정욱",
-    "김동현",
-    "손창성",
-    "이충곤"
+    "남명렬"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -2852,7 +2834,7 @@
     "원빈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#E8DFCF",
     "fg": "#111111"
@@ -2977,7 +2959,7 @@
     "최정우"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF292922",
@@ -3006,13 +2988,13 @@
     "이서영",
     "이휴",
     "홍준기",
-    "박찬우",
     "이재환",
+    "박찬우",
     "변지석",
     "홍선"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF293790",
@@ -3050,13 +3032,10 @@
     "장승조",
     "우정원",
     "임수향",
-    "김수현",
-    "김정호",
-    "이호철",
-    "박성민"
+    "김수현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C8262C",
     "fg": "#FFFFFF"
@@ -3173,7 +3152,7 @@
     "박시인"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F6FB2",
     "fg": "#FFFFFF"
@@ -3196,7 +3175,7 @@
     "서영택"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C8D0D4",
     "fg": "#111111"
@@ -3385,7 +3364,7 @@
     "윤재호"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1C3A6E",
     "fg": "#FFFFFF"
@@ -3505,7 +3484,7 @@
     "전재희"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4E5B3C",
     "fg": "#FFFFFF"
@@ -3549,7 +3528,7 @@
     "최유현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2E3B3F",
     "fg": "#FFFFFF"
@@ -3564,28 +3543,16 @@
    "venue": "홍익대 대학로 아트센터 (대극장)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF290498_260504_111347.gif",
    "cast": [
-    "KoN",
+    "이일근",
     "홍석기",
     "홍주찬",
     "김종구",
     "김경수",
     "윤형렬",
-    "이준혁",
-    "황민수",
-    "조훈",
-    "이승준",
-    "신수빈",
-    "박주혁",
-    "이세헌",
-    "유주연",
-    "안리나",
-    "이지혁",
-    "이여진",
-    "전현철",
-    "이일근"
+    "이준혁"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
@@ -3607,7 +3574,7 @@
     "황상경"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF291466",
@@ -3704,7 +3671,7 @@
     "황윤희"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B8322E",
     "fg": "#FFFFFF"
@@ -3724,7 +3691,7 @@
     "김규남"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F4D2E",
     "fg": "#F5D547"
@@ -3810,7 +3777,7 @@
     "류제윤"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF293623",
@@ -3850,7 +3817,7 @@
     "김경록"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B2535",
     "fg": "#FFFFFF"
@@ -3970,7 +3937,7 @@
     "서준영"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#E8B4A8",
     "fg": "#111111"
@@ -3994,7 +3961,7 @@
     "정우연"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2B3A4A",
     "fg": "#FFFFFF"
@@ -4018,7 +3985,7 @@
     "강은빈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2B2826",
     "fg": "#FFFFFF"
@@ -4042,7 +4009,7 @@
     "배소미"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F3E3C3",
     "fg": "#111111"
@@ -4064,7 +4031,7 @@
     "문소희"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF289415",
@@ -4109,7 +4076,7 @@
     "오현정"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#D8C4A0",
     "fg": "#111111"
@@ -4129,7 +4096,7 @@
     "정이운"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -4153,7 +4120,7 @@
     "박좌헌"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E3A6B",
     "fg": "#FFFFFF"
@@ -4176,7 +4143,7 @@
     "이현우"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2B2326",
     "fg": "#FFFFFF"
@@ -4221,7 +4188,7 @@
     "장보람"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2A1A1E",
     "fg": "#FFFFFF"
@@ -4284,7 +4251,7 @@
     "박영수"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
@@ -4313,7 +4280,7 @@
    "venue": "세종문화회관 (세종M씨어터)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF282128_251224_125318.png",
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#E9B93A",
     "fg": "#111111"
@@ -4329,30 +4296,15 @@
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF288803_260407_104823.gif",
    "cast": [
     "엄기준",
-    "류수영",
+    "어남선",
     "최진혁",
     "김정현",
     "박규원",
     "윤시윤",
-    "산들",
-    "유선호",
-    "이지수",
-    "박새힘",
-    "서현철",
-    "이정열",
-    "고창석",
-    "이경미",
-    "김석영",
-    "김선제",
-    "우재하",
-    "손우민",
-    "고운지",
-    "김이진",
-    "어남선",
     "이정환"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2A2520",
     "fg": "#F2A33A"
@@ -4373,14 +4325,10 @@
     "김지현",
     "김지우",
     "신성민",
-    "김도현",
-    "박시원",
-    "최호중",
-    "성민재",
-    "유연정"
+    "김도현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B3202A",
     "fg": "#FFFFFF"
@@ -4404,7 +4352,7 @@
     "장은아"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2A1412",
     "fg": "#FFFFFF"
@@ -4428,7 +4376,7 @@
     "조성윤"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2563A8",
     "fg": "#FFFFFF"
@@ -4471,7 +4419,7 @@
     "류동휘"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1C2230",
     "fg": "#FFFFFF"
@@ -4492,7 +4440,7 @@
     "홍나현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -4548,7 +4496,7 @@
     "황규찬"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -4652,7 +4600,7 @@
     "장희원"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2F3B2C",
     "fg": "#FFFFFF"
@@ -4720,7 +4668,7 @@
     "강병훈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#6B5A44",
     "fg": "#FFFFFF"
@@ -4762,7 +4710,7 @@
     "서혜원"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -4833,7 +4781,7 @@
     "이동주"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -4856,7 +4804,7 @@
     "박세훈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F2D7A",
     "fg": "#FFFFFF"
@@ -4913,7 +4861,7 @@
     "김승현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2C6CA8",
     "fg": "#FFFFFF"
@@ -5027,7 +4975,7 @@
     "류경수"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B3202A",
     "fg": "#FFFFFF"
@@ -5126,7 +5074,7 @@
     "신윤지"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#D9E2EA",
     "fg": "#111111"
@@ -5150,7 +5098,7 @@
     "기주봉"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#CFC9C0",
     "fg": "#111111"
@@ -5358,7 +5306,7 @@
     "김원태"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF290139",
@@ -5474,7 +5422,7 @@
     "이시안"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F3F6B",
     "fg": "#FFFFFF"
@@ -5540,7 +5488,7 @@
     "허순미"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F5F0E8",
     "fg": "#111111"
@@ -5584,7 +5532,7 @@
     "이천희"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#DCD6E8",
     "fg": "#111111"
@@ -5624,21 +5572,10 @@
     "조풍래",
     "이형훈",
     "백인태",
-    "김재범",
-    "임강성",
-    "강정우",
-    "유승현",
-    "김대현",
-    "황민수",
-    "이선우",
-    "임태현",
-    "최석진",
-    "강하경",
-    "박두호",
-    "이준우"
+    "김재범"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1A22",
     "fg": "#FFFFFF"
@@ -5677,7 +5614,7 @@
     "이진혁"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF287634",
@@ -5697,7 +5634,7 @@
     "박세훈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E4FA0",
     "fg": "#FFFFFF"
@@ -5755,7 +5692,7 @@
     "성태준"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -5779,7 +5716,7 @@
     "원다희"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B2A4A",
     "fg": "#FFFFFF"
@@ -5802,7 +5739,7 @@
     "박은호"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#6A4C8C",
     "fg": "#FFFFFF"
@@ -5826,7 +5763,7 @@
     "민윤재"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#8B3A2B",
     "fg": "#FFFFFF"
@@ -5850,7 +5787,7 @@
     "조일우"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B1F3B",
     "fg": "#FFFFFF"
@@ -5873,7 +5810,7 @@
     "차규민"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#8A6A3A",
     "fg": "#FFFFFF"
@@ -5909,19 +5846,14 @@
    "cast": [
     "정욱진",
     "황두현",
-    "원찬",
+    "김용석",
     "류동휘",
     "송유택",
     "임재윤",
-    "박주혁",
-    "박세훈",
-    "조현우",
-    "이한울",
-    "김현기",
-    "김용석"
+    "박주혁"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F7D23E",
     "fg": "#111111"
@@ -5941,7 +5873,7 @@
     "최수현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#A31F3D",
     "fg": "#FFFFFF"
@@ -5985,7 +5917,7 @@
     "김동균"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2E3B4E",
     "fg": "#FFFFFF"
@@ -6003,7 +5935,7 @@
     "박정혁"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF289107",
@@ -6023,7 +5955,7 @@
     "유주민"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C8362F",
     "fg": "#FFFFFF"
@@ -6047,7 +5979,7 @@
     "송문선"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F0C23B",
     "fg": "#111111"
@@ -6071,7 +6003,7 @@
     "노상원"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B2233",
     "fg": "#FFFFFF"
@@ -6095,7 +6027,7 @@
     "조일우"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C8362F",
     "fg": "#FFFFFF"
@@ -6119,7 +6051,7 @@
     "김도희"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F7C632",
     "fg": "#111111"
@@ -6183,7 +6115,7 @@
     "조일우"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#F5CE3C",
     "fg": "#111111"
@@ -6231,7 +6163,7 @@
     "유현석"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#E8B4C4",
     "fg": "#111111"
@@ -6423,7 +6355,7 @@
     "신창주"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2A6DB5",
     "fg": "#FFFFFF"
@@ -6447,7 +6379,7 @@
     "한재아"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C41E3A",
     "fg": "#FFFFFF"
@@ -6471,7 +6403,7 @@
     "박진주"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F3D7A",
     "fg": "#FFFFFF"
@@ -6537,7 +6469,7 @@
     "박세연"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#A3262E",
     "fg": "#FFFFFF"
@@ -6649,7 +6581,7 @@
     "김보영"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF287185",
@@ -6719,7 +6651,7 @@
     "박세훈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F3D7A",
     "fg": "#FFFFFF"
@@ -6814,21 +6746,10 @@
     "김려원",
     "나하나",
     "김수연",
-    "고훈정",
-    "이창용",
-    "김건우",
-    "정상훈",
-    "하도권",
-    "김승용",
-    "성기윤",
-    "황만익",
-    "이지숙",
-    "이정화",
-    "김지선",
-    "오진영"
+    "고훈정"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
@@ -6852,7 +6773,7 @@
     "안상은"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B3262E",
     "fg": "#FFFFFF"
@@ -6875,7 +6796,7 @@
     "정환"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -7059,7 +6980,7 @@
     "박정혁"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF284081",
@@ -7074,25 +6995,12 @@
     "박지후",
     "김우진",
     "조윤우",
-    "이서준",
-    "이루리",
-    "김효빈",
-    "지윤호",
-    "김예은",
-    "박예솔",
-    "김서윤",
     "최정원",
     "전수미",
-    "조정근",
-    "최동원",
-    "박정자",
-    "민경옥",
-    "홍윤희",
-    "김명윤",
-    "임선우"
+    "조정근"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#A9C4D6",
     "fg": "#111111"
@@ -7130,7 +7038,7 @@
     "한재아"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B01C2E",
     "fg": "#FFFFFF"
@@ -7151,15 +7059,10 @@
     "유리아",
     "이충주",
     "김성식",
-    "서영주",
-    "전재홍",
-    "홍륜희",
-    "정은혜",
-    "김진수",
-    "유성재"
+    "서영주"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -7183,7 +7086,7 @@
     "박세훈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2B3FA8",
     "fg": "#FFFFFF"
@@ -7206,7 +7109,7 @@
     "송석근"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#161A2E",
     "fg": "#FFFFFF"
@@ -7274,7 +7177,7 @@
     "정보석"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C9452A",
     "fg": "#FFFFFF"
@@ -7335,7 +7238,7 @@
     "정단비"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B1830",
     "fg": "#FFFFFF"
@@ -7438,7 +7341,7 @@
     "선한국"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1410",
     "fg": "#F2A33A"
@@ -7462,7 +7365,7 @@
     "박준형"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#5A2E3A",
     "fg": "#FFFFFF"
@@ -7533,7 +7436,7 @@
     "한재아"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#B5122A",
     "fg": "#FFFFFF"
@@ -7556,7 +7459,7 @@
     "문유강"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3F6E7E",
     "fg": "#FFFFFF"
@@ -7619,7 +7522,7 @@
     "강해진"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -7845,23 +7748,10 @@
     "유승현",
     "이시강",
     "임준혁",
-    "이호석",
-    "이주순",
-    "금준현",
-    "강찬",
-    "강승식",
-    "이세온",
-    "조상웅",
-    "윤은오",
-    "김태오",
-    "효은",
-    "송다혜",
-    "주다온",
-    "임현준",
-    "최찬우"
+    "이호석"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2A2420",
     "fg": "#FFFFFF"
@@ -7962,7 +7852,7 @@
     "김수호"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F2E5C",
     "fg": "#FFFFFF"
@@ -7986,7 +7876,7 @@
     "박희정"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#6E5E57",
     "fg": "#FFFFFF"
@@ -8010,7 +7900,7 @@
     "안다니엘"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"
@@ -8031,15 +7921,10 @@
     "박은석",
     "박건형",
     "김재범",
-    "조풍래",
-    "주민진",
-    "원종환",
-    "박정복",
-    "박영수",
-    "조성윤"
+    "조풍래"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E2A4F",
     "fg": "#FFFFFF"
@@ -8063,7 +7948,7 @@
     "김은희"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2C2F3A",
     "fg": "#FFFFFF"
@@ -8086,7 +7971,7 @@
     "박세훈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1D2B6E",
     "fg": "#FFFFFF"
@@ -8151,7 +8036,7 @@
     "이정화"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -8199,7 +8084,7 @@
     "이건희"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#A8201A",
     "fg": "#FFFFFF"
@@ -8217,7 +8102,7 @@
     "김시유"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#D3202A",
     "fg": "#FFFFFF"
@@ -8259,7 +8144,7 @@
     "곽다인"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A2F28",
     "fg": "#FFFFFF"
@@ -8386,7 +8271,7 @@
     "한우림"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF286450",
@@ -8413,29 +8298,14 @@
    "cast": [
     "유회승",
     "김희재",
-    "뉴",
-    "우빈",
+    "최찬희",
+    "서우빈",
     "송은혜",
     "장혜린",
-    "오종혁",
-    "김현수",
-    "김대식",
-    "박민성",
-    "이재진",
-    "원혁",
-    "곽동현",
-    "김순택",
-    "우상준",
-    "백주연",
-    "심은진",
-    "안유진",
-    "김영주",
-    "김아선",
-    "최찬희",
-    "서우빈"
+    "오종혁"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#8B1A24",
     "fg": "#F2C14E"
@@ -8458,7 +8328,7 @@
     "변희상"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4A2A22",
     "fg": "#FFFFFF"
@@ -8479,7 +8349,7 @@
     "김찬종"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A3A3A",
     "fg": "#FFFFFF"
@@ -8498,22 +8368,12 @@
     "박혜나",
     "정선아",
     "차지연",
-    "린아",
     "손승연",
     "김호영",
-    "조형균",
-    "김우형",
-    "김민철",
-    "최정원",
-    "김혜미",
-    "김현숙",
-    "윤사봉",
-    "김민수",
-    "김남수",
-    "차유은"
+    "조형균"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4F5B57",
     "fg": "#FFFFFF"
@@ -8536,7 +8396,7 @@
     "고훈정"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E2A6E",
     "fg": "#FFFFFF"
@@ -8598,7 +8458,7 @@
     "이지현"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#222222",
     "fg": "#F5C518"
@@ -8639,7 +8499,7 @@
     "윤경"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF285502",
@@ -8659,7 +8519,7 @@
     "윤진성"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2A211C",
     "fg": "#FFFFFF"
@@ -8740,24 +8600,10 @@
     "이규형",
     "문태유",
     "문성일",
-    "윤소호",
-    "홍기범",
-    "소정화",
-    "강혜인",
-    "이봄소리",
-    "허윤슬",
-    "박정표",
-    "정민",
-    "이형훈",
-    "안창용",
-    "이한밀",
-    "김지욱",
-    "이승현",
-    "장민수",
-    "김태인"
+    "윤소호"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#6E4B2F",
     "fg": "#FFFFFF"
@@ -8778,7 +8624,7 @@
     "차정우"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F1B17",
     "fg": "#FFFFFF"
@@ -8911,7 +8757,7 @@
     "조영화"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E3A38",
     "fg": "#FFFFFF"
@@ -8960,7 +8806,7 @@
     "이세영"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#5A3A7A",
     "fg": "#FFFFFF"
@@ -9029,7 +8875,7 @@
     "박경주"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF285575",
@@ -9068,7 +8914,7 @@
     "조성민"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF284888",
@@ -9088,7 +8934,7 @@
     "온주완"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E2B45",
     "fg": "#FFFFFF"
@@ -9109,15 +8955,10 @@
     "양소민",
     "정인지",
     "문근영",
-    "최석진",
-    "오승훈",
-    "김시유",
-    "김주연",
-    "최정우",
-    "김단이"
+    "최석진"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E7A80",
     "fg": "#FFFFFF"
@@ -9141,7 +8982,7 @@
     "임진섭"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2C5F8C",
     "fg": "#FFFFFF"
@@ -9165,7 +9006,7 @@
     "박종찬"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3F4449",
     "fg": "#FFFFFF"
@@ -9207,7 +9048,7 @@
     "정우연"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A2E1A",
     "fg": "#FFFFFF"
@@ -9222,22 +9063,16 @@
    "venue": "NOL 서경스퀘어(구. 서경대학교 공연예술센터) (스콘1관)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF283451_260306_110559.gif",
    "cast": [
-    "신구",
+    "신순기",
     "성지루",
     "장현성",
     "김한결",
     "정영주",
     "장영남",
-    "최영준",
-    "주종혁",
-    "김슬기",
-    "금새록",
-    "조달환",
-    "안두호",
-    "신순기"
+    "최영준"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
@@ -9310,7 +9145,7 @@
     "서광섭"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C8232C",
     "fg": "#FFFFFF"
@@ -9396,7 +9231,7 @@
     "박주혁"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#13243F",
     "fg": "#FFFFFF"
@@ -9489,18 +9324,13 @@
     "윤승우",
     "이진우",
     "강병훈",
-    "윤여백",
-    "박새힘",
-    "성민재",
-    "조영화",
-    "임별",
-    "최민우",
-    "박좌헌",
     "김용진",
-    "박세연"
+    "박세연",
+    "성민재",
+    "조영화"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#E9C7BE",
     "fg": "#111111"
@@ -9593,7 +9423,7 @@
     "이지연"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B2A40",
     "fg": "#FFFFFF"
@@ -9881,7 +9711,7 @@
     "김창일"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#5E6B4E",
     "fg": "#FFFFFF"
@@ -9969,15 +9799,10 @@
     "윤형렬",
     "문유강",
     "정승원",
-    "이건명",
-    "민영기",
-    "백승렬",
-    "노윤",
-    "정유지",
-    "유소리"
+    "이건명"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#7A1419",
     "fg": "#FFFFFF"
@@ -10015,7 +9840,7 @@
     "강승호"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#5A5148",
     "fg": "#FFFFFF"
@@ -10121,7 +9946,7 @@
     "이진우"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2A2A2E",
     "fg": "#FFFFFF"
@@ -10558,27 +10383,12 @@
     "김찬호",
     "백인태",
     "오종혁",
-    "니엘",
+    "안다니엘",
     "서동진",
-    "유태율",
-    "영빈",
-    "강하온",
-    "민규",
-    "이지함",
-    "조용휘",
-    "김수용",
-    "김주호",
-    "서승원",
-    "성재",
-    "임강성",
-    "한상훈",
-    "박채원",
-    "전국향",
-    "최은경",
-    "안다니엘"
+    "유태율"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1C2433",
     "fg": "#F2A33A"
@@ -10777,7 +10587,7 @@
     "김청아"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3A3530",
     "fg": "#FFFFFF"
@@ -10801,7 +10611,7 @@
     "박란주"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2B2320",
     "fg": "#FFFFFF"
@@ -11012,14 +10822,10 @@
     "최주은",
     "설가은",
     "최은영",
-    "임하윤",
-    "박근식",
-    "도유현",
-    "유동훈",
-    "이규학"
+    "임하윤"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#17766A",
     "fg": "#FFFFFF"

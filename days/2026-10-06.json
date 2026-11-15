@@ -36,50 +36,37 @@
    }
   },
   {
-   "id": "PF292342",
-   "title": "더 헬멧",
-   "genre": "연극",
-   "venue": "홍익대 대학로 아트센터 (소극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4743",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF291461",
-   "title": "드라큘라",
-   "genre": "뮤지컬",
-   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#0A1020",
-    "fg": "#D8324A"
-   }
-  },
-  {
    "id": "PF296312",
    "title": "드림하이 시즌3: 리부트",
    "genre": "뮤지컬",
    "venue": "광림아트센터 (BBCH홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "세븐"
+    },
+    {
+     "name": "여원"
+    },
+    {
+     "name": "원찬"
+    },
+    {
+     "name": "선예"
+    },
+    {
+     "name": "김찬호"
+    },
+    {
+     "name": "조남희"
+    },
+    {
+     "name": "송용진"
+    }
+   ],
    "color": {
     "bg": "#E0242B",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF292306",
-   "title": "디어 에반 핸슨 (Musical Dear Evan Hansen)",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#2F6FB5",
     "fg": "#FFFFFF"
    }
   },
@@ -108,30 +95,6 @@
    }
   },
   {
-   "id": "PF298880",
-   "title": "뮤지컬 오페라",
-   "genre": "뮤지컬",
-   "venue": "이화여자대학교 삼성홀",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#2FA39A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF294163",
-   "title": "비더슈탄트",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#B9A58A",
-    "fg": "#111111"
-   }
-  },
-  {
    "id": "PF299807",
    "title": "신부님. 신부님? 신부님!",
    "genre": "연극",
@@ -149,7 +112,18 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이건희"
+    },
+    {
+     "name": "김안젤라"
+    },
+    {
+     "name": "이한수"
+    }
+   ]
   },
   {
    "id": "PF295611",
@@ -157,7 +131,27 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조소은"
+    },
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "박란주"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "정연"
+    },
+    {
+     "name": "김대웅"
+    }
+   ],
    "color": {
     "bg": "#6F9ACB",
     "fg": "#FFFFFF"
@@ -169,7 +163,12 @@
    "genre": "연극",
    "venue": "예술의전당 [서울] (자유소극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김찬종"
+    }
+   ],
    "color": {
     "bg": "#D8232A",
     "fg": "#FFFFFF"
@@ -241,46 +240,24 @@
    "genre": "뮤지컬",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "태호"
+    },
+    {
+     "name": "박진우"
+    },
+    {
+     "name": "조승희"
+    },
+    {
+     "name": "김담현"
+    }
+   ],
    "color": {
     "bg": "#1B1612",
     "fg": "#E8B04A"
-   }
-  },
-  {
-   "id": "PF300992",
-   "title": "사막에도 가끔 비가 내립니다 (근데 이제 줌바를 곁들인)",
-   "genre": "연극",
-   "venue": "예그린씨어터",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3F8FD8",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF294425",
-   "title": "사칠",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A0A08",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF294747",
-   "title": "소년의 초상",
-   "genre": "뮤지컬",
-   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#D8CDB6",
-    "fg": "#111111"
    }
   },
   {
@@ -292,38 +269,22 @@
    "castSource": "none"
   },
   {
-   "id": "PF298596",
-   "title": "제임스 바이런 딘: 디 오리지널",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 4관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#0F1F5C",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF293269",
    "title": "죽음에 관하여",
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유승현"
+    },
+    {
+     "name": "강찬"
+    }
+   ],
    "color": {
     "bg": "#4A4A4A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF292342",
-   "title": "더 헬멧",
-   "genre": "연극",
-   "venue": "홍익대 대학로 아트센터 (소극장)",
-   "time": "21:15",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4743",
     "fg": "#FFFFFF"
    }
   }

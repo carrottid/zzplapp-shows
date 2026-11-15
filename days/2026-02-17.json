@@ -40,6 +40,90 @@
    }
   },
   {
+   "id": "PF281676",
+   "title": "은밀하게 위대하게: THE LAST",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김동준"
+    },
+    {
+     "name": "서동진"
+    },
+    {
+     "name": "강하온"
+    },
+    {
+     "name": "한상훈"
+    },
+    {
+     "name": "서승원"
+    },
+    {
+     "name": "최은경"
+    }
+   ],
+   "color": {
+    "bg": "#1C2433",
+    "fg": "#F2A33A"
+   }
+  },
+  {
+   "id": "PF282307",
+   "title": "초록",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "김찬종"
+    },
+    {
+     "name": "이한별"
+    }
+   ],
+   "color": {
+    "bg": "#2B2320",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF276569",
+   "title": "킹키부츠",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신재범"
+    },
+    {
+     "name": "강홍석"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "이루원"
+    }
+   ],
+   "color": {
+    "bg": "#C8102E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF277515",
    "title": "벙커 트릴로지",
    "genre": "연극",
@@ -49,6 +133,107 @@
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF281820",
+   "title": "A여고 사서의 영광과 비극",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 2관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "선유하"
+    },
+    {
+     "name": "김주연"
+    },
+    {
+     "name": "백예은"
+    },
+    {
+     "name": "최민경"
+    }
+   ],
+   "color": {
+    "bg": "#3A3530",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF281317",
+   "title": "비밀통로: INTERVAL",
+   "genre": "연극",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "양경원"
+    },
+    {
+     "name": "오경주"
+    }
+   ],
+   "color": {
+    "bg": "#5A5148",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF282307",
+   "title": "초록",
+   "genre": "뮤지컬",
+   "venue": "링크아트센터드림 (드림 3관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "손유동"
+    },
+    {
+     "name": "김재한"
+    },
+    {
+     "name": "전민지"
+    }
+   ],
+   "color": {
+    "bg": "#2B2320",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF281676",
+   "title": "은밀하게 위대하게: THE LAST",
+   "genre": "뮤지컬",
+   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
+   "time": "18:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "백인태"
+    },
+    {
+     "name": "영빈"
+    },
+    {
+     "name": "조용휘"
+    },
+    {
+     "name": "한상훈"
+    },
+    {
+     "name": "서승원"
+    },
+    {
+     "name": "최은경"
+    }
+   ],
+   "color": {
+    "bg": "#1C2433",
+    "fg": "#F2A33A"
    }
   },
   {
@@ -69,7 +254,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김민석"
+    },
+    {
+     "name": "김성철"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "최서연"
+    },
+    {
+     "name": "윤영석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -110,6 +315,35 @@
    ],
    "color": {
     "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF276569",
+   "title": "킹키부츠",
+   "genre": "뮤지컬",
+   "venue": "샤롯데씨어터",
+   "time": "19:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이재환"
+    },
+    {
+     "name": "백형훈"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "이루원"
+    }
+   ],
+   "color": {
+    "bg": "#C8102E",
     "fg": "#FFFFFF"
    }
   },
@@ -222,18 +456,6 @@
    }
   },
   {
-   "id": "PF281317",
-   "title": "비밀통로: INTERVAL",
-   "genre": "연극",
-   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#5A5148",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF276168",
    "title": "비틀쥬스",
    "genre": "뮤지컬",
@@ -306,30 +528,6 @@
    }
   },
   {
-   "id": "PF281676",
-   "title": "은밀하게 위대하게: THE LAST",
-   "genre": "뮤지컬",
-   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1C2433",
-    "fg": "#F2A33A"
-   }
-  },
-  {
-   "id": "PF276569",
-   "title": "킹키부츠",
-   "genre": "뮤지컬",
-   "venue": "샤롯데씨어터",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#C8102E",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF278326",
    "title": "타오르는 어둠 속에서",
    "genre": "뮤지컬",
@@ -390,18 +588,6 @@
    }
   },
   {
-   "id": "PF281820",
-   "title": "A여고 사서의 영광과 비극",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3A3530",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF278358",
    "title": "그때도 오늘2: 꽃신",
    "genre": "연극",
@@ -411,18 +597,6 @@
    "color": {
     "bg": "#E9CFCB",
     "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF281796",
-   "title": "긴긴밤",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#17766A",
-    "fg": "#FFFFFF"
    }
   },
   {
@@ -471,18 +645,6 @@
    "color": {
     "bg": "#1A1410",
     "fg": "#F2A33A"
-   }
-  },
-  {
-   "id": "PF283613",
-   "title": "스톤",
-   "genre": "뮤지컬",
-   "venue": "예그린씨어터",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2A2A2E",
-    "fg": "#FFFFFF"
    }
   },
   {
@@ -554,18 +716,6 @@
    "castSource": "none",
    "color": {
     "bg": "#1B2536",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF282307",
-   "title": "초록",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 3관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B2320",
     "fg": "#FFFFFF"
    }
   },

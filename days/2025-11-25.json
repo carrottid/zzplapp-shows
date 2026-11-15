@@ -14,24 +14,44 @@
    }
   },
   {
-   "id": "PF273019",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "디큐브링크아트센터 (디큐브씨어터)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B1412",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF278685",
    "title": "달이 두 개 뜨는 밤",
    "genre": "연극",
    "venue": "나온씨어터",
    "time": "19:30",
    "castSource": "none"
+  },
+  {
+   "id": "PF273019",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조형균"
+    },
+    {
+     "name": "산들"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
+   "color": {
+    "bg": "#2B1412",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF271506",

@@ -103,6 +103,38 @@
    }
   },
   {
+   "id": "PF291461",
+   "title": "드라큘라",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신성록"
+    },
+    {
+     "name": "김환희"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "진태화"
+    },
+    {
+     "name": "이아름솔"
+    },
+    {
+     "name": "지원선"
+    }
+   ],
+   "color": {
+    "bg": "#0A1020",
+    "fg": "#D8324A"
+   }
+  },
+  {
    "id": "PF294946",
    "title": "엘리자벳",
    "genre": "뮤지컬",
@@ -193,6 +225,41 @@
    }
   },
   {
+   "id": "PF292137",
+   "title": "웨스턴 스토리",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "표바하"
+    },
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "송원근"
+    },
+    {
+     "name": "주다온"
+    },
+    {
+     "name": "정상윤"
+    },
+    {
+     "name": "이동희"
+    },
+    {
+     "name": "신은호"
+    }
+   ],
+   "color": {
+    "bg": "#B83A22",
+    "fg": "#F5E3B0"
+   }
+  },
+  {
    "id": "PF298745",
    "title": "클로저",
    "genre": "연극",
@@ -219,18 +286,6 @@
    ],
    "color": {
     "bg": "#B8284A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF292306",
-   "title": "디어 에반 핸슨 (Musical Dear Evan Hansen)",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#2F6FB5",
     "fg": "#FFFFFF"
    }
   },
@@ -264,6 +319,113 @@
    "color": {
     "bg": "#F2C400",
     "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF298964",
+   "title": "국립극단, 안트로폴리스 Ⅲ: 오이디푸스",
+   "genre": "연극",
+   "venue": "국립극단 [명동] (명동예술극장)",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "강세웅"
+    },
+    {
+     "name": "김문희"
+    },
+    {
+     "name": "김석주"
+    },
+    {
+     "name": "김신효"
+    },
+    {
+     "name": "김정아"
+    },
+    {
+     "name": "김진복"
+    },
+    {
+     "name": "배선희"
+    },
+    {
+     "name": "신소영"
+    },
+    {
+     "name": "유은숙"
+    },
+    {
+     "name": "이재호"
+    },
+    {
+     "name": "조성윤"
+    },
+    {
+     "name": "조의진"
+    },
+    {
+     "name": "최호영"
+    }
+   ]
+  },
+  {
+   "id": "PF296285",
+   "title": "면회",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조병규"
+    },
+    {
+     "name": "서예슬"
+    }
+   ],
+   "color": {
+    "bg": "#6E94B8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF294932",
+   "title": "쇄골에 천사가 잠들고 있다",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유희제"
+    },
+    {
+     "name": "윤지현"
+    },
+    {
+     "name": "김이후"
+    },
+    {
+     "name": "유낙원"
+    },
+    {
+     "name": "이형훈"
+    },
+    {
+     "name": "배보람"
+    },
+    {
+     "name": "송희정"
+    },
+    {
+     "name": "윤상호"
+    }
+   ],
+   "color": {
+    "bg": "#14201F",
+    "fg": "#FFFFFF"
    }
   },
   {
@@ -329,6 +491,19 @@
     "bg": "#C8372D",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF299351",
+   "title": "하녀들 (Les Bonnes)",
+   "genre": "연극",
+   "venue": "나온씨어터",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유진희"
+    }
+   ]
   },
   {
    "id": "PF291886",
@@ -454,6 +629,26 @@
    ],
    "color": {
     "bg": "#1E7FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF296285",
+   "title": "면회",
+   "genre": "연극",
+   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준희"
+    },
+    {
+     "name": "이가은"
+    }
+   ],
+   "color": {
+    "bg": "#6E94B8",
     "fg": "#FFFFFF"
    }
   },
@@ -664,6 +859,111 @@
    }
   },
   {
+   "id": "PF291461",
+   "title": "드라큘라",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "조정은"
+    },
+    {
+     "name": "강태을"
+    },
+    {
+     "name": "임현준"
+    },
+    {
+     "name": "이아름솔"
+    },
+    {
+     "name": "지원선"
+    }
+   ],
+   "color": {
+    "bg": "#0A1020",
+    "fg": "#D8324A"
+   }
+  },
+  {
+   "id": "PF296312",
+   "title": "드림하이 시즌3: 리부트",
+   "genre": "뮤지컬",
+   "venue": "광림아트센터 (BBCH홀)",
+   "time": "19:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임세준"
+    },
+    {
+     "name": "유영재"
+    },
+    {
+     "name": "유권"
+    },
+    {
+     "name": "선예"
+    },
+    {
+     "name": "이지훈"
+    },
+    {
+     "name": "김주호"
+    },
+    {
+     "name": "심건우"
+    }
+   ],
+   "color": {
+    "bg": "#E0242B",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF294932",
+   "title": "쇄골에 천사가 잠들고 있다",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "19:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유희제"
+    },
+    {
+     "name": "윤지현"
+    },
+    {
+     "name": "김이후"
+    },
+    {
+     "name": "유낙원"
+    },
+    {
+     "name": "이형훈"
+    },
+    {
+     "name": "배보람"
+    },
+    {
+     "name": "송희정"
+    },
+    {
+     "name": "윤상호"
+    }
+   ],
+   "color": {
+    "bg": "#14201F",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF294946",
    "title": "엘리자벳",
    "genre": "뮤지컬",
@@ -710,252 +1010,26 @@
    "castSource": "none"
   },
   {
-   "id": "PF298964",
-   "title": "국립극단, 안트로폴리스 Ⅲ: 오이디푸스",
-   "genre": "연극",
-   "venue": "국립극단 [명동] (명동예술극장)",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
-   "id": "PF292342",
-   "title": "더 헬멧",
-   "genre": "연극",
-   "venue": "홍익대 대학로 아트센터 (소극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4743",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF291461",
-   "title": "드라큘라",
-   "genre": "뮤지컬",
-   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#0A1020",
-    "fg": "#D8324A"
-   }
-  },
-  {
-   "id": "PF296312",
-   "title": "드림하이 시즌3: 리부트",
-   "genre": "뮤지컬",
-   "venue": "광림아트센터 (BBCH홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#E0242B",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF292306",
-   "title": "디어 에반 핸슨 (Musical Dear Evan Hansen)",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#2F6FB5",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF296285",
-   "title": "면회",
-   "genre": "연극",
-   "venue": "한성아트홀(구. 인켈아트홀) (2관)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#6E94B8",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF294163",
-   "title": "비더슈탄트",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#B9A58A",
-    "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF282153",
-   "title": "스미레 미용실",
-   "genre": "연극",
-   "venue": "세종문화회관 (세종M씨어터)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#3A3532",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF292137",
-   "title": "웨스턴 스토리",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (1관(대극장))",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#B83A22",
-    "fg": "#F5E3B0"
-   }
-  },
-  {
-   "id": "PF297976",
-   "title": "쿼드, 연극의 질문들: 김광보, 옥상 밭 고추는 왜",
-   "genre": "연극",
-   "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#2E7D3A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF295611",
-   "title": "푸른 꽃",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (중극장 블랙)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#6F9ACB",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF299351",
-   "title": "하녀들 (Les Bonnes)",
-   "genre": "연극",
-   "venue": "나온씨어터",
-   "time": "19:30",
-   "castSource": "none"
-  },
-  {
    "id": "PF298355",
    "title": "까라마조프의 자매들",
    "genre": "뮤지컬",
    "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
    "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF298801",
-   "title": "브람스",
-   "genre": "뮤지컬",
-   "venue": "KT&G 상상마당 대치아트홀",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1B1612",
-    "fg": "#E8B04A"
-   }
-  },
-  {
-   "id": "PF294425",
-   "title": "사칠",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A0A08",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF298555",
-   "title": "산울림 고전극장, 헤라 아프로디테 아르테미스: 리부트",
-   "genre": "연극",
-   "venue": "산울림소극장",
-   "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF294747",
-   "title": "소년의 초상",
-   "genre": "뮤지컬",
-   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#D8CDB6",
-    "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF294932",
-   "title": "쇄골에 천사가 잠들고 있다",
-   "genre": "연극",
-   "venue": "예그린씨어터",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#14201F",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF298596",
-   "title": "제임스 바이런 딘: 디 오리지널",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 4관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#0F1F5C",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF293269",
-   "title": "죽음에 관하여",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 3관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4A4A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF292943",
-   "title": "청새치",
-   "genre": "뮤지컬",
-   "venue": "et theatre 1 (구. 눈빛극장)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1F5E8C",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF294244",
-   "title": "키키의 경계성 인격장애 다이어리",
-   "genre": "뮤지컬",
-   "venue": "SH아트홀",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4C9A3C",
-    "fg": "#FFFFFF"
-   }
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김경민"
+    },
+    {
+     "name": "전민지"
+    },
+    {
+     "name": "오유민"
+    },
+    {
+     "name": "이아진"
+    }
+   ]
   }
  ]
 }

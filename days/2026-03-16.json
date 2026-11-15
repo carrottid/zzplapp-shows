@@ -7,7 +7,51 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "지춘성"
+    },
+    {
+     "name": "고용선"
+    },
+    {
+     "name": "곽성은"
+    },
+    {
+     "name": "박경주"
+    },
+    {
+     "name": "박성민"
+    },
+    {
+     "name": "서유덕"
+    },
+    {
+     "name": "유재연"
+    },
+    {
+     "name": "이강민"
+    },
+    {
+     "name": "이원희"
+    },
+    {
+     "name": "이창현"
+    },
+    {
+     "name": "정주호"
+    },
+    {
+     "name": "조성윤"
+    },
+    {
+     "name": "조의진"
+    },
+    {
+     "name": "홍지인"
+    }
+   ]
   },
   {
    "id": "PF286389",
@@ -36,6 +80,23 @@
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
    "castSource": "none"
+  },
+  {
+   "id": "PF285569",
+   "title": "지킬 앤 하이드",
+   "genre": "연극",
+   "venue": "링크더스페이스(LINK THE SPACE) (2관)",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "배수빈"
+    }
+   ],
+   "color": {
+    "bg": "#1F1B17",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

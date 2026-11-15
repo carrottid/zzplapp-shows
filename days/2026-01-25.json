@@ -31,7 +31,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "강정우"
+    },
+    {
+     "name": "설가은"
+    },
+    {
+     "name": "도유현"
+    },
+    {
+     "name": "이규학"
+    }
+   ],
    "color": {
     "bg": "#17766A",
     "fg": "#FFFFFF"
@@ -91,7 +105,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김민석"
+    },
+    {
+     "name": "탕준상"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "윤영석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -237,7 +271,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "정형석"
+    },
+    {
+     "name": "최정화"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "박존정민"
+    },
+    {
+     "name": "이가연"
+    }
+   ],
    "color": {
     "bg": "#3B5B7A",
     "fg": "#FFFFFF"
@@ -403,7 +463,24 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이재환"
+    },
+    {
+     "name": "서경수"
+    },
+    {
+     "name": "허윤슬"
+    },
+    {
+     "name": "신승환"
+    },
+    {
+     "name": "유주연"
+    }
+   ],
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"
@@ -617,18 +694,6 @@
    }
   },
   {
-   "id": "PF273451",
-   "title": "빨래: 31차 프로덕션",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (2관(중극장))",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3B5B7A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF282229",
    "title": "제8회 소설시장 페스티벌: 호밀밭의 파수꾼",
    "genre": "연극",
@@ -749,7 +814,21 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "강정우"
+    },
+    {
+     "name": "최은영"
+    },
+    {
+     "name": "도유현"
+    },
+    {
+     "name": "이규학"
+    }
+   ],
    "color": {
     "bg": "#17766A",
     "fg": "#FFFFFF"
@@ -1023,7 +1102,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "정형석"
+    },
+    {
+     "name": "최정화"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "박존정민"
+    },
+    {
+     "name": "이가연"
+    }
+   ],
    "color": {
     "bg": "#3B5B7A",
     "fg": "#FFFFFF"
@@ -1060,18 +1165,6 @@
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:00",
    "castSource": "none"
-  },
-  {
-   "id": "PF273019",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "디큐브링크아트센터 (디큐브씨어터)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B1412",
-    "fg": "#FFFFFF"
-   }
   },
   {
    "id": "PF274238",
@@ -1153,7 +1246,24 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신재범"
+    },
+    {
+     "name": "강홍석"
+    },
+    {
+     "name": "허윤슬"
+    },
+    {
+     "name": "신승환"
+    },
+    {
+     "name": "유주연"
+    }
+   ],
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"

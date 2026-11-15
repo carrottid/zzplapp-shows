@@ -1,0 +1,989 @@
+{
+ "id": "PF297976",
+ "source": "plapp",
+ "roles": {
+  "r:현태": "현태",
+  "r:재란": "재란",
+  "r:현수": "현수",
+  "r:현자": "현자",
+  "r:수환": "수환",
+  "r:동교": "동교",
+  "r:지영": "지영",
+  "r:광자": "광자",
+  "r:성북": "성북",
+  "r:주연": "주연",
+  "r:성식": "성식",
+  "r:균": "균",
+  "r:구": "구",
+  "r:쏘": "쏘",
+  "r:성": "성",
+  "r:충": "충",
+  "r:경찰 등": "경찰 등"
+ },
+ "people": {},
+ "sessions": [
+  {
+   "date": "2026-09-19",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-20",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-22",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-23",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-24",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-26",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-27",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-29",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-09-30",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-01",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-02",
+   "time": "19:30",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-03",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  },
+  {
+   "date": "2026-10-04",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "장석환",
+     "roleId": "r:현태"
+    },
+    {
+     "name": "김시영",
+     "roleId": "r:재란"
+    },
+    {
+     "name": "정홍구",
+     "roleId": "r:현수"
+    },
+    {
+     "name": "고수희",
+     "roleId": "r:현자"
+    },
+    {
+     "name": "박상종",
+     "roleId": "r:수환"
+    },
+    {
+     "name": "송철호",
+     "roleId": "r:동교"
+    },
+    {
+     "name": "최나라",
+     "roleId": "r:지영"
+    },
+    {
+     "name": "문경희",
+     "roleId": "r:광자"
+    },
+    {
+     "name": "성노진",
+     "roleId": "r:성북"
+    },
+    {
+     "name": "김민혜",
+     "roleId": "r:주연"
+    },
+    {
+     "name": "이준혁",
+     "roleId": "r:성식"
+    },
+    {
+     "name": "김현진",
+     "roleId": "r:균"
+    },
+    {
+     "name": "이진혁",
+     "roleId": "r:구"
+    },
+    {
+     "name": "변은영",
+     "roleId": "r:쏘"
+    },
+    {
+     "name": "김남진",
+     "roleId": "r:성"
+    },
+    {
+     "name": "장연익",
+     "roleId": "r:충"
+    },
+    {
+     "name": "김은기",
+     "roleId": "r:경찰 등"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-14T22:36:51"
+}

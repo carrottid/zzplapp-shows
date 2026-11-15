@@ -46,18 +46,6 @@
    }
   },
   {
-   "id": "PF273019",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "디큐브링크아트센터 (디큐브씨어터)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B1412",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF278648",
    "title": "헬로마마",
    "genre": "뮤지컬",
@@ -98,6 +86,38 @@
    "castSource": "none",
    "color": {
     "bg": "#B0306A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF273019",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "산들"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
+   "color": {
+    "bg": "#2B1412",
     "fg": "#FFFFFF"
    }
   },
@@ -273,7 +293,24 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김호영"
+    },
+    {
+     "name": "서경수"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "심재현"
+    },
+    {
+     "name": "이루원"
+    }
+   ],
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"

@@ -34,40 +34,6 @@
   }
  ],
  "updated": "2026-06-11 15:00:04.135123",
- "castSource": "none",
- "fetchedAt": "2026-11-14T09:29:37",
- "roleCast": [
-  {
-   "role": "정미 외",
-   "name": "이서영"
-  },
-  {
-   "role": "경자 외",
-   "name": "이휴"
-  },
-  {
-   "role": "민수 외",
-   "name": "홍준기"
-  },
-  {
-   "role": "철후 외",
-   "name": "박찬우"
-  },
-  {
-   "role": "재홍 외",
-   "name": "이재환"
-  },
-  {
-   "role": "창식 외",
-   "name": "변지석"
-  },
-  {
-   "role": "",
-   "name": "홍선"
-  }
- ],
- "roleCastSource": {
-  "name": "PlayDB",
-  "url": "https://web.archive.org/web/20260714193711/http://www.playdb.co.kr/playdb/PlaydbDetail.asp?sReqPlayNo=231372"
- }
+ "castSource": "plapp",
+ "fetchedAt": "2026-11-14T09:29:37"
 }

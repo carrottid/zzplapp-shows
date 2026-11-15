@@ -2,6 +2,76 @@
  "date": "2025-12-19",
  "sessions": [
   {
+   "id": "PF273451",
+   "title": "빨래: 31차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오주언"
+    },
+    {
+     "name": "류석호"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "김유정"
+    },
+    {
+     "name": "유우헌"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "서인권"
+    },
+    {
+     "name": "최현희"
+    }
+   ],
+   "color": {
+    "bg": "#3B5B7A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF273019",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "14:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "탕준상"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "최서연"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
+   "color": {
+    "bg": "#2B1412",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF274745",
    "title": "라이프 오브 파이 (LIFE OF PI)",
    "genre": "연극",
@@ -203,7 +273,27 @@
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김민석"
+    },
+    {
+     "name": "김성규"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "최서연"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -344,18 +434,6 @@
    }
   },
   {
-   "id": "PF273451",
-   "title": "빨래: 31차 프로덕션",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (2관(중극장))",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#3B5B7A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF277092",
    "title": "슈가 SUGAR",
    "genre": "뮤지컬",
@@ -457,7 +535,24 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김호영"
+    },
+    {
+     "name": "강홍석"
+    },
+    {
+     "name": "허윤슬"
+    },
+    {
+     "name": "신승환"
+    },
+    {
+     "name": "유주연"
+    }
+   ],
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"

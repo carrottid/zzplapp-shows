@@ -7,7 +7,51 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "지춘성"
+    },
+    {
+     "name": "고용선"
+    },
+    {
+     "name": "곽성은"
+    },
+    {
+     "name": "박경주"
+    },
+    {
+     "name": "박성민"
+    },
+    {
+     "name": "서유덕"
+    },
+    {
+     "name": "유재연"
+    },
+    {
+     "name": "이강민"
+    },
+    {
+     "name": "이원희"
+    },
+    {
+     "name": "이창현"
+    },
+    {
+     "name": "정주호"
+    },
+    {
+     "name": "조성윤"
+    },
+    {
+     "name": "조의진"
+    },
+    {
+     "name": "홍지인"
+    }
+   ]
   },
   {
    "id": "PF282148",
@@ -15,7 +59,15 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조한철"
+    },
+    {
+     "name": "이강욱"
+    }
+   ],
    "color": {
     "bg": "#2C2F3A",
     "fg": "#FFFFFF"
@@ -27,7 +79,24 @@
    "genre": "연극",
    "venue": "국립정동극장 세실 (구.세실극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최희진"
+    },
+    {
+     "name": "유은숙"
+    },
+    {
+     "name": "백성철"
+    },
+    {
+     "name": "조어진"
+    },
+    {
+     "name": "윤경"
+    }
+   ]
   },
   {
    "id": "PF286355",
@@ -35,19 +104,24 @@
    "genre": "연극",
    "venue": "나온씨어터",
    "time": "20:00",
-   "castSource": "none"
-  },
-  {
-   "id": "PF285802",
-   "title": "얼떨결에 종언",
-   "genre": "연극",
-   "venue": "산울림소극장",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3A2F28",
-    "fg": "#FFFFFF"
-   }
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "윤아진"
+    },
+    {
+     "name": "한우림"
+    },
+    {
+     "name": "이준"
+    },
+    {
+     "name": "이예원"
+    },
+    {
+     "name": "최소현"
+    }
+   ]
   }
  ]
 }

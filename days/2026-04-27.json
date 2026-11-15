@@ -7,7 +7,27 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "진서연"
+    },
+    {
+     "name": "최자운"
+    },
+    {
+     "name": "최호재"
+    },
+    {
+     "name": "홍선우"
+    },
+    {
+     "name": "김서아"
+    },
+    {
+     "name": "정환"
+    }
+   ],
    "color": {
     "bg": "#1A1410",
     "fg": "#FFFFFF"
@@ -19,7 +39,66 @@
    "genre": "뮤지컬",
    "venue": "플러스씨어터(구. 컬처스페이스 엔유)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김대현"
+    },
+    {
+     "name": "안재영"
+    },
+    {
+     "name": "송유택"
+    },
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "조성태"
+    },
+    {
+     "name": "임진섭"
+    },
+    {
+     "name": "신창주"
+    },
+    {
+     "name": "김승용"
+    },
+    {
+     "name": "김효성"
+    },
+    {
+     "name": "조현우"
+    },
+    {
+     "name": "신윤철"
+    },
+    {
+     "name": "구준모"
+    },
+    {
+     "name": "곽민수"
+    },
+    {
+     "name": "김민강"
+    },
+    {
+     "name": "권정수"
+    },
+    {
+     "name": "장두환"
+    },
+    {
+     "name": "김현기"
+    },
+    {
+     "name": "김승현"
+    },
+    {
+     "name": "정찬호"
+    }
+   ],
    "color": {
     "bg": "#2A6DB5",
     "fg": "#FFFFFF"
@@ -31,7 +110,27 @@
    "genre": "연극",
    "venue": "산울림소극장",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "송영미"
+    },
+    {
+     "name": "황두현"
+    },
+    {
+     "name": "이한별"
+    },
+    {
+     "name": "곽다인"
+    },
+    {
+     "name": "이채원"
+    },
+    {
+     "name": "탁승빈"
+    }
+   ],
    "color": {
     "bg": "#3A2F28",
     "fg": "#FFFFFF"

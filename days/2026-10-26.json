@@ -43,7 +43,24 @@
    "genre": "뮤지컬",
    "venue": "서강대 메리홀 (대극장)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "노해성"
+    },
+    {
+     "name": "정호준"
+    },
+    {
+     "name": "박좌헌"
+    },
+    {
+     "name": "랑연"
+    },
+    {
+     "name": "전찬욱"
+    }
+   ],
    "color": {
     "bg": "#D8312B",
     "fg": "#FFFFFF"

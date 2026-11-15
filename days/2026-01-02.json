@@ -134,18 +134,6 @@
    }
   },
   {
-   "id": "PF273019",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "디큐브링크아트센터 (디큐브씨어터)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B1412",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF274745",
    "title": "라이프 오브 파이 (LIFE OF PI)",
    "genre": "연극",
@@ -257,7 +245,33 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (2관(중극장))",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "류석호"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "김은지"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "서인권"
+    },
+    {
+     "name": "김정윤"
+    }
+   ],
    "color": {
     "bg": "#3B5B7A",
     "fg": "#FFFFFF"
@@ -325,7 +339,24 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김호영"
+    },
+    {
+     "name": "백형훈"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "김동현"
+    },
+    {
+     "name": "유주연"
+    }
+   ],
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"

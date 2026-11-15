@@ -46,18 +46,6 @@
    }
   },
   {
-   "id": "PF273019",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "디큐브링크아트센터 (디큐브씨어터)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B1412",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF275923",
    "title": "헬로, (주) 지옥관리",
    "genre": "연극",
@@ -66,6 +54,38 @@
    "castSource": "none",
    "color": {
     "bg": "#2E6AA8",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF273019",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조형균"
+    },
+    {
+     "name": "산들"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "케이"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
+   "color": {
+    "bg": "#2B1412",
     "fg": "#FFFFFF"
    }
   },

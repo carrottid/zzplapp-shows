@@ -14,18 +14,6 @@
    }
   },
   {
-   "id": "PF273019",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "디큐브링크아트센터 (디큐브씨어터)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B1412",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF280583",
    "title": "노인의 꿈",
    "genre": "연극",
@@ -59,18 +47,6 @@
    "color": {
     "bg": "#1B1A22",
     "fg": "#FF6FB5"
-   }
-  },
-  {
-   "id": "PF281317",
-   "title": "비밀통로: INTERVAL",
-   "genre": "연극",
-   "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리투자증권홀(구.중극장))",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#5A5148",
-    "fg": "#FFFFFF"
    }
   },
   {
@@ -151,24 +127,32 @@
    }
   },
   {
-   "id": "PF283280",
-   "title": "안나 카레니나",
-   "genre": "뮤지컬",
-   "venue": "세종문화회관 (세종대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#7A1419",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF281676",
    "title": "은밀하게 위대하게: THE LAST",
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오종혁"
+    },
+    {
+     "name": "니엘"
+    },
+    {
+     "name": "강하온"
+    },
+    {
+     "name": "임강성"
+    },
+    {
+     "name": "서승원"
+    },
+    {
+     "name": "최은경"
+    }
+   ],
    "color": {
     "bg": "#1C2433",
     "fg": "#F2A33A"
@@ -195,18 +179,6 @@
    "castSource": "none",
    "color": {
     "bg": "#9E1B22",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF276569",
-   "title": "킹키부츠",
-   "genre": "뮤지컬",
-   "venue": "샤롯데씨어터",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#C8102E",
     "fg": "#FFFFFF"
    }
   },
@@ -247,36 +219,12 @@
    }
   },
   {
-   "id": "PF281820",
-   "title": "A여고 사서의 영광과 비극",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3A3530",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF285573",
    "title": "NEP 낭독 페스티벌, 링크 더 플레이",
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "20:00",
    "castSource": "none"
-  },
-  {
-   "id": "PF281796",
-   "title": "긴긴밤",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 1관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#17766A",
-    "fg": "#FFFFFF"
-   }
   },
   {
    "id": "PF279586",
@@ -291,18 +239,6 @@
    }
   },
   {
-   "id": "PF284403",
-   "title": "나의 죽음을 애도하기",
-   "genre": "연극",
-   "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#5E6B4E",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF278506",
    "title": "미드나잇: 액터뮤지션",
    "genre": "뮤지컬",
@@ -312,18 +248,6 @@
    "color": {
     "bg": "#1A1410",
     "fg": "#F2A33A"
-   }
-  },
-  {
-   "id": "PF283613",
-   "title": "스톤",
-   "genre": "뮤지컬",
-   "venue": "예그린씨어터",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2A2A2E",
-    "fg": "#FFFFFF"
    }
   },
   {
@@ -375,18 +299,6 @@
    }
   },
   {
-   "id": "PF282307",
-   "title": "초록",
-   "genre": "뮤지컬",
-   "venue": "링크아트센터드림 (드림 3관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B2320",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF278333",
    "title": "판",
    "genre": "뮤지컬",
@@ -395,18 +307,6 @@
    "castSource": "none",
    "color": {
     "bg": "#2F5D45",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF283152",
-   "title": "홍련",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (중극장 블랙)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1B2A40",
     "fg": "#FFFFFF"
    }
   }

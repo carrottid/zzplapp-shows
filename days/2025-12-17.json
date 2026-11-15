@@ -2,12 +2,70 @@
  "date": "2025-12-17",
  "sessions": [
   {
+   "id": "PF273451",
+   "title": "빨래: 31차 프로덕션",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (2관(중극장))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "기영수"
+    },
+    {
+     "name": "류석호"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "허순미"
+    },
+    {
+     "name": "안두호"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "서인권"
+    },
+    {
+     "name": "최현희"
+    }
+   ],
+   "color": {
+    "bg": "#3B5B7A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF273019",
    "title": "데스노트",
    "genre": "뮤지컬",
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
-   "time": "14:00",
-   "castSource": "none",
+   "time": "14:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "탕준상"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "최서연"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -22,18 +80,6 @@
    "castSource": "none",
    "color": {
     "bg": "#D8242E",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF276569",
-   "title": "킹키부츠",
-   "genre": "뮤지컬",
-   "venue": "샤롯데씨어터",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#C8102E",
     "fg": "#FFFFFF"
    }
   },
@@ -58,18 +104,6 @@
    "castSource": "none",
    "color": {
     "bg": "#2A2F5C",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF273451",
-   "title": "빨래: 31차 프로덕션",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (2관(중극장))",
-   "time": "15:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#3B5B7A",
     "fg": "#FFFFFF"
    }
   },
@@ -289,18 +323,6 @@
    }
   },
   {
-   "id": "PF273019",
-   "title": "데스노트",
-   "genre": "뮤지컬",
-   "venue": "디큐브링크아트센터 (디큐브씨어터)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2B1412",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF278648",
    "title": "헬로마마",
    "genre": "뮤지컬",
@@ -333,6 +355,38 @@
    "castSource": "none",
    "color": {
     "bg": "#B0306A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF273019",
+   "title": "데스노트",
+   "genre": "뮤지컬",
+   "venue": "디큐브링크아트센터 (디큐브씨어터)",
+   "time": "19:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김민석"
+    },
+    {
+     "name": "김성규"
+    },
+    {
+     "name": "이영미"
+    },
+    {
+     "name": "양승리"
+    },
+    {
+     "name": "최서연"
+    },
+    {
+     "name": "서범석"
+    }
+   ],
+   "color": {
+    "bg": "#2B1412",
     "fg": "#FFFFFF"
    }
   },
@@ -443,18 +497,6 @@
    }
   },
   {
-   "id": "PF273451",
-   "title": "빨래: 31차 프로덕션",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (2관(중극장))",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#3B5B7A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF277092",
    "title": "슈가 SUGAR",
    "genre": "뮤지컬",
@@ -532,7 +574,24 @@
    "genre": "뮤지컬",
    "venue": "샤롯데씨어터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이재환"
+    },
+    {
+     "name": "서경수"
+    },
+    {
+     "name": "허윤슬"
+    },
+    {
+     "name": "김동현"
+    },
+    {
+     "name": "유주연"
+    }
+   ],
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"

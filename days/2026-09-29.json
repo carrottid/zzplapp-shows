@@ -125,7 +125,24 @@
    "genre": "연극",
    "venue": "홍익대 대학로 아트센터 (소극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오정택"
+    },
+    {
+     "name": "정우연"
+    },
+    {
+     "name": "김지혜"
+    },
+    {
+     "name": "안창용"
+    },
+    {
+     "name": "허영손"
+    }
+   ],
    "color": {
     "bg": "#4A4743",
     "fg": "#FFFFFF"
@@ -137,7 +154,27 @@
    "genre": "뮤지컬",
    "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "조정은"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "임현준"
+    },
+    {
+     "name": "이아름솔"
+    },
+    {
+     "name": "지원선"
+    }
+   ],
    "color": {
     "bg": "#0A1020",
     "fg": "#D8324A"
@@ -149,7 +186,30 @@
    "genre": "뮤지컬",
    "venue": "광림아트센터 (BBCH홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "강승식"
+    },
+    {
+     "name": "여원"
+    },
+    {
+     "name": "유권"
+    },
+    {
+     "name": "선예"
+    },
+    {
+     "name": "김다현"
+    },
+    {
+     "name": "김주호"
+    },
+    {
+     "name": "심건우"
+    }
+   ],
    "color": {
     "bg": "#E0242B",
     "fg": "#FFFFFF"
@@ -161,7 +221,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박강현"
+    },
+    {
+     "name": "신영숙"
+    },
+    {
+     "name": "조민호"
+    },
+    {
+     "name": "강지혜"
+    },
+    {
+     "name": "장현성"
+    },
+    {
+     "name": "안시하"
+    },
+    {
+     "name": "김강진"
+    },
+    {
+     "name": "강은세"
+    }
+   ],
    "color": {
     "bg": "#2F6FB5",
     "fg": "#FFFFFF"
@@ -173,7 +259,27 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 1관)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최석진"
+    },
+    {
+     "name": "박정원"
+    },
+    {
+     "name": "김방언"
+    },
+    {
+     "name": "조모세"
+    },
+    {
+     "name": "김태환"
+    },
+    {
+     "name": "김보현"
+    }
+   ],
    "color": {
     "bg": "#B9A58A",
     "fg": "#111111"
@@ -235,7 +341,45 @@
    "genre": "연극",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "전무송"
+    },
+    {
+     "name": "최지연"
+    },
+    {
+     "name": "전국향"
+    },
+    {
+     "name": "송영주"
+    },
+    {
+     "name": "서동갑"
+    },
+    {
+     "name": "김동원"
+    },
+    {
+     "name": "홍원기"
+    },
+    {
+     "name": "이승우"
+    },
+    {
+     "name": "김문식"
+    },
+    {
+     "name": "신현종"
+    },
+    {
+     "name": "송석근"
+    },
+    {
+     "name": "김지훈"
+    }
+   ],
    "color": {
     "bg": "#3A3532",
     "fg": "#FFFFFF"
@@ -308,7 +452,60 @@
    "genre": "연극",
    "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "장석환"
+    },
+    {
+     "name": "김시영"
+    },
+    {
+     "name": "정홍구"
+    },
+    {
+     "name": "고수희"
+    },
+    {
+     "name": "박상종"
+    },
+    {
+     "name": "송철호"
+    },
+    {
+     "name": "최나라"
+    },
+    {
+     "name": "문경희"
+    },
+    {
+     "name": "성노진"
+    },
+    {
+     "name": "김민혜"
+    },
+    {
+     "name": "이준혁"
+    },
+    {
+     "name": "김현진"
+    },
+    {
+     "name": "이진혁"
+    },
+    {
+     "name": "변은영"
+    },
+    {
+     "name": "김남진"
+    },
+    {
+     "name": "장연익"
+    },
+    {
+     "name": "김은기"
+    }
+   ],
    "color": {
     "bg": "#2E7D3A",
     "fg": "#FFFFFF"
@@ -320,7 +517,27 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김소율"
+    },
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "박란주"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "정연"
+    },
+    {
+     "name": "원종환"
+    }
+   ],
    "color": {
     "bg": "#6F9ACB",
     "fg": "#FFFFFF"
@@ -366,7 +583,12 @@
    "genre": "연극",
    "venue": "예술의전당 [서울] (자유소극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준식"
+    }
+   ],
    "color": {
     "bg": "#D8232A",
     "fg": "#FFFFFF"
@@ -424,7 +646,21 @@
    "genre": "뮤지컬",
    "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임강희"
+    },
+    {
+     "name": "전민지"
+    },
+    {
+     "name": "유소리"
+    },
+    {
+     "name": "이아진"
+    }
+   ]
   },
   {
    "id": "PF298385",
@@ -559,7 +795,21 @@
    "genre": "뮤지컬",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "태호"
+    },
+    {
+     "name": "이시강"
+    },
+    {
+     "name": "조은샘"
+    },
+    {
+     "name": "김담현"
+    }
+   ],
    "color": {
     "bg": "#1B1612",
     "fg": "#E8B04A"
@@ -594,7 +844,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "황민수"
+    },
+    {
+     "name": "임태현"
+    }
+   ],
    "color": {
     "bg": "#1A0A08",
     "fg": "#FFFFFF"
@@ -606,7 +864,24 @@
    "genre": "연극",
    "venue": "산울림소극장",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "한송희"
+    },
+    {
+     "name": "이주희"
+    },
+    {
+     "name": "김희연"
+    },
+    {
+     "name": "이강우"
+    },
+    {
+     "name": "김한빈"
+    }
+   ]
   },
   {
    "id": "PF294747",
@@ -614,7 +889,21 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박소현"
+    },
+    {
+     "name": "송영미"
+    },
+    {
+     "name": "김이담"
+    },
+    {
+     "name": "윤지성"
+    }
+   ],
    "color": {
     "bg": "#D8CDB6",
     "fg": "#111111"
@@ -819,7 +1108,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "후이"
+    },
+    {
+     "name": "최민우"
+    }
+   ],
    "color": {
     "bg": "#0F1F5C",
     "fg": "#FFFFFF"
@@ -831,7 +1128,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 3관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유승현"
+    },
+    {
+     "name": "강찬"
+    }
+   ],
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -923,7 +1228,27 @@
    "genre": "뮤지컬",
    "venue": "SH아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최태이"
+    },
+    {
+     "name": "한유란"
+    },
+    {
+     "name": "이주찬"
+    },
+    {
+     "name": "김나연"
+    },
+    {
+     "name": "이창하"
+    },
+    {
+     "name": "주예리"
+    }
+   ],
    "color": {
     "bg": "#4C9A3C",
     "fg": "#FFFFFF"
@@ -935,7 +1260,24 @@
    "genre": "연극",
    "venue": "홍익대 대학로 아트센터 (소극장)",
    "time": "21:15",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오정택"
+    },
+    {
+     "name": "정우연"
+    },
+    {
+     "name": "김지혜"
+    },
+    {
+     "name": "안창용"
+    },
+    {
+     "name": "허영손"
+    }
+   ],
    "color": {
     "bg": "#4A4743",
     "fg": "#FFFFFF"

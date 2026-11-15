@@ -1563,7 +1563,21 @@
    "genre": "연극",
    "venue": "부산시민회관 (대극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "윤나무"
+    },
+    {
+     "name": "장승조"
+    },
+    {
+     "name": "임수향"
+    },
+    {
+     "name": "김정호"
+    }
+   ],
    "color": {
     "bg": "#D8312B",
     "fg": "#FFFFFF"

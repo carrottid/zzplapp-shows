@@ -2,6 +2,44 @@
  "date": "2026-10-21",
  "sessions": [
   {
+   "id": "PF292306",
+   "title": "디어 에반 핸슨 (Musical Dear Evan Hansen)",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "13:30",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임규형"
+    },
+    {
+     "name": "김선영"
+    },
+    {
+     "name": "김수호"
+    },
+    {
+     "name": "강지혜"
+    },
+    {
+     "name": "정동근"
+    },
+    {
+     "name": "임민영"
+    },
+    {
+     "name": "김강진"
+    },
+    {
+     "name": "강은세"
+    }
+   ],
+   "color": {
+    "bg": "#2F6FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF303376",
    "title": "올 클리어 (ALL CLEAR)",
    "genre": "연극",
@@ -228,6 +266,38 @@
    }
   },
   {
+   "id": "PF295611",
+   "title": "푸른 꽃",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (중극장 블랙)",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김소율"
+    },
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "한보라"
+    },
+    {
+     "name": "김대웅"
+    }
+   ],
+   "color": {
+    "bg": "#6F9ACB",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF298032",
    "title": "난세: 정도전과 이방원의 이야기",
    "genre": "뮤지컬",
@@ -359,6 +429,32 @@
    }
   },
   {
+   "id": "PF298801",
+   "title": "브람스",
+   "genre": "뮤지컬",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "16:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오승윤"
+    },
+    {
+     "name": "박진우"
+    },
+    {
+     "name": "조승희"
+    },
+    {
+     "name": "김담현"
+    }
+   ],
+   "color": {
+    "bg": "#1B1612",
+    "fg": "#E8B04A"
+   }
+  },
+  {
    "id": "PF298497",
    "title": "사의찬미 2ND STAGE",
    "genre": "뮤지컬",
@@ -387,7 +483,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "16:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "선한국"
+    },
+    {
+     "name": "김재한"
+    }
+   ],
    "color": {
     "bg": "#1A0A08",
     "fg": "#FFFFFF"
@@ -676,7 +780,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "나현우"
+    },
+    {
+     "name": "김선영"
+    },
+    {
+     "name": "김수호"
+    },
+    {
+     "name": "강지혜"
+    },
+    {
+     "name": "장현성"
+    },
+    {
+     "name": "임민영"
+    },
+    {
+     "name": "김강진"
+    },
+    {
+     "name": "강은세"
+    }
+   ],
    "color": {
     "bg": "#2F6FB5",
     "fg": "#FFFFFF"
@@ -942,7 +1072,27 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최은영"
+    },
+    {
+     "name": "윤은오"
+    },
+    {
+     "name": "박란주"
+    },
+    {
+     "name": "최호중"
+    },
+    {
+     "name": "이지숙"
+    },
+    {
+     "name": "김대웅"
+    }
+   ],
    "color": {
     "bg": "#6F9ACB",
     "fg": "#FFFFFF"
@@ -1236,7 +1386,21 @@
    "genre": "뮤지컬",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍주찬"
+    },
+    {
+     "name": "박진우"
+    },
+    {
+     "name": "조은샘"
+    },
+    {
+     "name": "김담현"
+    }
+   ],
    "color": {
     "bg": "#1B1612",
     "fg": "#E8B04A"
@@ -1260,7 +1424,21 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유낙원"
+    },
+    {
+     "name": "최하윤"
+    },
+    {
+     "name": "강은빈"
+    },
+    {
+     "name": "박강원"
+    }
+   ],
    "color": {
     "bg": "#3F8FD8",
     "fg": "#FFFFFF"
@@ -1295,7 +1473,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "황민수"
+    },
+    {
+     "name": "임태현"
+    }
+   ],
    "color": {
     "bg": "#1A0A08",
     "fg": "#FFFFFF"

@@ -27,7 +27,18 @@
    "genre": "연극",
    "venue": "서강대 메리홀 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "장재호"
+    },
+    {
+     "name": "이정미"
+    },
+    {
+     "name": "이나리"
+    }
+   ],
    "color": {
     "bg": "#2B4C9B",
     "fg": "#FFFFFF"

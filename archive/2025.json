@@ -717,15 +717,10 @@
     "강홍석",
     "백형훈",
     "서경수",
-    "한재아",
-    "허윤슬",
-    "신승환",
-    "심재현",
-    "김동현",
-    "이도헌"
+    "한재아"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#C8102E",
     "fg": "#FFFFFF"
@@ -4677,28 +4672,16 @@
    "venue": "디큐브링크아트센터 (디큐브씨어터)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF273019_250901_104904.gif",
    "cast": [
-    "조형균",
-    "규현",
+    "조규현",
     "고은성",
     "김민석",
     "임규형",
     "김준수",
-    "김성규",
     "김성철",
-    "산들",
-    "탕준상",
-    "이영미",
-    "장은아",
-    "양승리",
-    "임정모",
-    "최서연",
-    "케이",
-    "장민제",
-    "조규현",
     "이정환"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#2B1412",
     "fg": "#FFFFFF"
@@ -4879,7 +4862,7 @@
     "서나영"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#3B5B7A",
     "fg": "#FFFFFF"

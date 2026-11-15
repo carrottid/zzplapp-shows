@@ -308,7 +308,27 @@
    "genre": "뮤지컬",
    "venue": "계명아트센터",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "전동석"
+    },
+    {
+     "name": "조정은"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "임현준"
+    },
+    {
+     "name": "이아름솔"
+    },
+    {
+     "name": "지원선"
+    }
+   ],
    "color": {
     "bg": "#0F1830",
     "fg": "#D9A441"
@@ -320,7 +340,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박강현"
+    },
+    {
+     "name": "김선영"
+    },
+    {
+     "name": "김수호"
+    },
+    {
+     "name": "강지혜"
+    },
+    {
+     "name": "장현성"
+    },
+    {
+     "name": "안시하"
+    },
+    {
+     "name": "윤현선"
+    },
+    {
+     "name": "염희진"
+    }
+   ],
    "color": {
     "bg": "#2F6FB5",
     "fg": "#FFFFFF"
@@ -714,7 +760,24 @@
    "genre": "뮤지컬",
    "venue": "HD아트센터(구 현대예술관) (대공연장)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이규형"
+    },
+    {
+     "name": "윤소호"
+    },
+    {
+     "name": "김히어라"
+    },
+    {
+     "name": "이형훈"
+    },
+    {
+     "name": "손유동"
+    }
+   ],
    "color": {
     "bg": "#8C6A48",
     "fg": "#FFFFFF"
@@ -1050,7 +1113,21 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유낙원"
+    },
+    {
+     "name": "최하윤"
+    },
+    {
+     "name": "윤지현"
+    },
+    {
+     "name": "박강원"
+    }
+   ],
    "color": {
     "bg": "#3F8FD8",
     "fg": "#FFFFFF"
@@ -1426,7 +1503,27 @@
    "genre": "연극",
    "venue": "소극장 혜화당 (구. 까망소극장)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "한우림"
+    },
+    {
+     "name": "성지예"
+    },
+    {
+     "name": "이시윤"
+    },
+    {
+     "name": "박현진"
+    },
+    {
+     "name": "신수언"
+    },
+    {
+     "name": "배서진"
+    }
+   ]
   },
   {
    "id": "PF301706",
@@ -1959,7 +2056,27 @@
    "genre": "연극",
    "venue": "소극장 혜화당 (구. 까망소극장)",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "한우림"
+    },
+    {
+     "name": "성지예"
+    },
+    {
+     "name": "이시윤"
+    },
+    {
+     "name": "박현진"
+    },
+    {
+     "name": "신수언"
+    },
+    {
+     "name": "배서진"
+    }
+   ]
   },
   {
    "id": "PF296104",
@@ -2133,7 +2250,24 @@
    "genre": "뮤지컬",
    "venue": "HD아트센터(구 현대예술관) (대공연장)",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이규형"
+    },
+    {
+     "name": "김리현"
+    },
+    {
+     "name": "강혜인"
+    },
+    {
+     "name": "이형훈"
+    },
+    {
+     "name": "손유동"
+    }
+   ],
    "color": {
     "bg": "#8C6A48",
     "fg": "#FFFFFF"
@@ -2281,7 +2415,27 @@
    "genre": "뮤지컬",
    "venue": "계명아트센터",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "김환희"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "임현준"
+    },
+    {
+     "name": "이아름솔"
+    },
+    {
+     "name": "지원선"
+    }
+   ],
    "color": {
     "bg": "#0F1830",
     "fg": "#D9A441"
@@ -2293,7 +2447,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "나현우"
+    },
+    {
+     "name": "김선영"
+    },
+    {
+     "name": "조민호"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "장현성"
+    },
+    {
+     "name": "안시하"
+    },
+    {
+     "name": "김강진"
+    },
+    {
+     "name": "강은세"
+    }
+   ],
    "color": {
     "bg": "#2F6FB5",
     "fg": "#FFFFFF"
@@ -2457,7 +2637,21 @@
    "genre": "연극",
    "venue": "예그린씨어터",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유낙원"
+    },
+    {
+     "name": "최하윤"
+    },
+    {
+     "name": "강은빈"
+    },
+    {
+     "name": "권도균"
+    }
+   ],
    "color": {
     "bg": "#3F8FD8",
     "fg": "#FFFFFF"

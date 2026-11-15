@@ -1369,7 +1369,30 @@
    "genre": "뮤지컬",
    "venue": "안동문화예술의전당 (웅부홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "이규형"
+    },
+    {
+     "name": "홍기범"
+    },
+    {
+     "name": "강혜인"
+    },
+    {
+     "name": "이형훈"
+    },
+    {
+     "name": "이한밀"
+    },
+    {
+     "name": "김태인"
+    },
+    {
+     "name": "김보현"
+    }
+   ],
    "color": {
     "bg": "#7A5A3A",
     "fg": "#FFFFFF"

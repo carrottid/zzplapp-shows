@@ -91,7 +91,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "14:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박강현"
+    },
+    {
+     "name": "신영숙"
+    },
+    {
+     "name": "조민호"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "정동근"
+    },
+    {
+     "name": "안시하"
+    },
+    {
+     "name": "박건우"
+    },
+    {
+     "name": "염희진"
+    }
+   ],
    "color": {
     "bg": "#2F6FB5",
     "fg": "#FFFFFF"
@@ -236,6 +262,23 @@
    }
   },
   {
+   "id": "PF301368",
+   "title": "화이트 래빗 레드 래빗 (WHITE RABBIT RED RABBIT)",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "장동윤"
+    }
+   ],
+   "color": {
+    "bg": "#D8232A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF298740",
    "title": "제26회 SPAF, 블러: 경계가 흐려질 때: PHI 스튜디오, 리버베드 시어터, 오나시스 컬쳐",
    "genre": "연극",
@@ -299,6 +342,32 @@
    "color": {
     "bg": "#0A0A0A",
     "fg": "#D8312B"
+   }
+  },
+  {
+   "id": "PF298801",
+   "title": "브람스",
+   "genre": "뮤지컬",
+   "venue": "KT&G 상상마당 대치아트홀",
+   "time": "16:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "오승윤"
+    },
+    {
+     "name": "박진우"
+    },
+    {
+     "name": "조은샘"
+    },
+    {
+     "name": "김찰리"
+    }
+   ],
+   "color": {
+    "bg": "#1B1612",
+    "fg": "#E8B04A"
    }
   },
   {
@@ -512,7 +581,48 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "강세웅"
+    },
+    {
+     "name": "김문희"
+    },
+    {
+     "name": "김석주"
+    },
+    {
+     "name": "김신효"
+    },
+    {
+     "name": "김정아"
+    },
+    {
+     "name": "김진복"
+    },
+    {
+     "name": "배선희"
+    },
+    {
+     "name": "신소영"
+    },
+    {
+     "name": "유은숙"
+    },
+    {
+     "name": "이재호"
+    },
+    {
+     "name": "조성윤"
+    },
+    {
+     "name": "조의진"
+    },
+    {
+     "name": "최호영"
+    }
+   ]
   },
   {
    "id": "PF300416",
@@ -528,7 +638,24 @@
    "genre": "뮤지컬",
    "venue": "드림씨어터 [부산]",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "류수영"
+    },
+    {
+     "name": "박규원"
+    },
+    {
+     "name": "박새힘"
+    },
+    {
+     "name": "김선제"
+    },
+    {
+     "name": "김이진"
+    }
+   ],
    "color": {
     "bg": "#D1A46A",
     "fg": "#111111"
@@ -612,22 +739,30 @@
    "genre": "뮤지컬",
    "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "전동석"
+    },
+    {
+     "name": "박지연"
+    },
+    {
+     "name": "임정모"
+    },
+    {
+     "name": "임현준"
+    },
+    {
+     "name": "이아름솔"
+    },
+    {
+     "name": "지원선"
+    }
+   ],
    "color": {
     "bg": "#0A1020",
     "fg": "#D8324A"
-   }
-  },
-  {
-   "id": "PF296312",
-   "title": "드림하이 시즌3: 리부트",
-   "genre": "뮤지컬",
-   "venue": "광림아트센터 (BBCH홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#E0242B",
-    "fg": "#FFFFFF"
    }
   },
   {
@@ -636,7 +771,33 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "나현우"
+    },
+    {
+     "name": "신영숙"
+    },
+    {
+     "name": "조민호"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "정동근"
+    },
+    {
+     "name": "새봄"
+    },
+    {
+     "name": "윤현선"
+    },
+    {
+     "name": "염희진"
+    }
+   ],
    "color": {
     "bg": "#2F6FB5",
     "fg": "#FFFFFF"
@@ -678,7 +839,21 @@
    "genre": "뮤지컬",
    "venue": "이화여자대학교 삼성홀",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "조병규"
+    },
+    {
+     "name": "백인태"
+    },
+    {
+     "name": "임강성"
+    },
+    {
+     "name": "백서진"
+    }
+   ],
    "color": {
     "bg": "#2FA39A",
     "fg": "#FFFFFF"
@@ -957,7 +1132,27 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (중극장 블랙)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최은영"
+    },
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "한재아"
+    },
+    {
+     "name": "김지훈"
+    },
+    {
+     "name": "이지숙"
+    },
+    {
+     "name": "김대웅"
+    }
+   ],
    "color": {
     "bg": "#6F9ACB",
     "fg": "#FFFFFF"
@@ -995,18 +1190,6 @@
    "color": {
     "bg": "#D98A1E",
     "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF301368",
-   "title": "화이트 래빗 레드 래빗 (WHITE RABBIT RED RABBIT)",
-   "genre": "연극",
-   "venue": "예술의전당 [서울] (자유소극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#D8232A",
-    "fg": "#FFFFFF"
    }
   },
   {
@@ -1222,10 +1405,50 @@
    "genre": "뮤지컬",
    "venue": "KT&G 상상마당 대치아트홀",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "홍주찬"
+    },
+    {
+     "name": "박진우"
+    },
+    {
+     "name": "조은샘"
+    },
+    {
+     "name": "김찰리"
+    }
+   ],
    "color": {
     "bg": "#1B1612",
     "fg": "#E8B04A"
+   }
+  },
+  {
+   "id": "PF300992",
+   "title": "사막에도 가끔 비가 내립니다 (근데 이제 줌바를 곁들인)",
+   "genre": "연극",
+   "venue": "예그린씨어터",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유낙원"
+    },
+    {
+     "name": "오민경"
+    },
+    {
+     "name": "윤지현"
+    },
+    {
+     "name": "권도균"
+    }
+   ],
+   "color": {
+    "bg": "#3F8FD8",
+    "fg": "#FFFFFF"
    }
   },
   {
@@ -1257,7 +1480,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김찬종"
+    },
+    {
+     "name": "김재한"
+    }
+   ],
    "color": {
     "bg": "#1A0A08",
     "fg": "#FFFFFF"
@@ -1269,7 +1500,21 @@
    "genre": "뮤지컬",
    "venue": "티오엠씨어터(구. 문화공간필링) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "성민재"
+    },
+    {
+     "name": "김수"
+    },
+    {
+     "name": "정백선"
+    },
+    {
+     "name": "윤지성"
+    }
+   ],
    "color": {
     "bg": "#D8CDB6",
     "fg": "#111111"
@@ -1551,7 +1796,15 @@
    "genre": "뮤지컬",
    "venue": "링크아트센터드림 (드림 4관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "윤서빈"
+    },
+    {
+     "name": "황두현"
+    }
+   ],
    "color": {
     "bg": "#0F1F5C",
     "fg": "#FFFFFF"
