@@ -437,18 +437,6 @@
    }
   },
   {
-   "id": "PF299169",
-   "title": "미드나잇: 앤틀러스",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (1관(대극장))",
-   "time": "14:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#0A0A0A",
-    "fg": "#D8312B"
-   }
-  },
-  {
    "id": "PF294169",
    "title": "분홍 립스틱",
    "genre": "연극",
@@ -1821,7 +1809,29 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (1관(대극장))",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "고상호",
+     "personId": "28626"
+    },
+    {
+     "name": "이창용",
+     "personId": "4202"
+    },
+    {
+     "name": "김리",
+     "personId": "35303"
+    },
+    {
+     "name": "정종환",
+     "personId": "44988"
+    },
+    {
+     "name": "방가희",
+     "personId": "50922"
+    }
+   ],
    "color": {
     "bg": "#0A0A0A",
     "fg": "#D8312B"

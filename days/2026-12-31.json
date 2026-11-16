@@ -7,7 +7,18 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박애리"
+    },
+    {
+     "name": "추현종"
+    },
+    {
+     "name": "김율희"
+    }
+   ],
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"
@@ -19,25 +30,35 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "15:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "홍경민"
+     "name": "홍경민",
+     "personId": "1162"
     },
     {
-     "name": "구옥분"
+     "name": "구옥분",
+     "personId": "8419"
     },
     {
-     "name": "손수아"
+     "name": "손수아",
+     "personId": "48715"
     },
     {
-     "name": "전대현"
+     "name": "전대현",
+     "personId": "28126"
     },
     {
-     "name": "김형욱"
+     "name": "김형욱",
+     "personId": "46368"
     },
     {
-     "name": "김모은"
+     "name": "김모은",
+     "personId": "34533"
+    },
+    {
+     "name": "하성훈",
+     "personId": "57277"
     }
    ],
    "color": {
@@ -189,25 +210,35 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "19:30",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "홍경민"
+     "name": "홍경민",
+     "personId": "1162"
     },
     {
-     "name": "구옥분"
+     "name": "구옥분",
+     "personId": "8419"
     },
     {
-     "name": "손수아"
+     "name": "손수아",
+     "personId": "48715"
     },
     {
-     "name": "전대현"
+     "name": "전대현",
+     "personId": "28126"
     },
     {
-     "name": "손우민"
+     "name": "손우민",
+     "personId": "34994"
     },
     {
-     "name": "안예인"
+     "name": "안예인",
+     "personId": "49778"
+    },
+    {
+     "name": "하성훈",
+     "personId": "57277"
     }
    ],
    "color": {
@@ -255,7 +286,41 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김우형",
+     "personId": "3586"
+    },
+    {
+     "name": "옥주현",
+     "personId": "3727"
+    },
+    {
+     "name": "이지수",
+     "personId": "29583"
+    },
+    {
+     "name": "임정모",
+     "personId": "42618"
+    },
+    {
+     "name": "김나윤(하은섬)",
+     "personId": "3275"
+    },
+    {
+     "name": "홍기주",
+     "personId": "4026"
+    },
+    {
+     "name": "임현준",
+     "personId": "56965"
+    },
+    {
+     "name": "김주호",
+     "personId": "22003"
+    }
+   ],
    "color": {
     "bg": "#0E1B3A",
     "fg": "#F29A2E"
@@ -729,7 +794,37 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (1관(대극장))",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "유현석",
+     "personId": "34390"
+    },
+    {
+     "name": "류동휘",
+     "personId": "47362"
+    },
+    {
+     "name": "양승리",
+     "personId": "22378"
+    },
+    {
+     "name": "임진섭",
+     "personId": "40833"
+    },
+    {
+     "name": "김성현",
+     "personId": "44004"
+    },
+    {
+     "name": "장재웅",
+     "personId": "46344"
+    },
+    {
+     "name": "강지혜",
+     "personId": "31435"
+    }
+   ],
    "color": {
     "bg": "#2E8FB5",
     "fg": "#FFFFFF"

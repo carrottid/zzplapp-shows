@@ -6,8 +6,28 @@
    "title": "센과 치히로의 행방불명 오리지널 투어 (SPIRITED AWAY)",
    "genre": "연극",
    "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "14:30",
-   "castSource": "none",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "모리 마리나"
+    },
+    {
+     "name": "아쿠츠 니치카"
+    },
+    {
+     "name": "사와무라 료"
+    },
+    {
+     "name": "히나미 후우"
+    },
+    {
+     "name": "미야자키 토무"
+    },
+    {
+     "name": "하노 아키"
+    }
+   ],
    "color": {
     "bg": "#1E3F8A",
     "fg": "#FFFFFF"
@@ -416,18 +436,6 @@
    }
   },
   {
-   "id": "PF276168",
-   "title": "비틀쥬스",
-   "genre": "뮤지컬",
-   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4A4A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF273451",
    "title": "빨래: 31차 프로덕션",
    "genre": "뮤지컬",
@@ -512,7 +520,27 @@
    "genre": "연극",
    "venue": "예술의전당 [서울] (오페라극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "카와에이 리나"
+    },
+    {
+     "name": "아쿠츠 니치카"
+    },
+    {
+     "name": "사와무라 료"
+    },
+    {
+     "name": "타카하시 리코"
+    },
+    {
+     "name": "미야자키 토무"
+    },
+    {
+     "name": "오우세 요우코"
+    }
+   ],
    "color": {
     "bg": "#1E3F8A",
     "fg": "#FFFFFF"
@@ -929,7 +957,15 @@
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유승현"
+    },
+    {
+     "name": "강찬"
+    }
+   ],
    "color": {
     "bg": "#4C6240",
     "fg": "#FFFFFF"
@@ -1004,6 +1040,38 @@
    ],
    "color": {
     "bg": "#1E2B45",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF276168",
+   "title": "비틀쥬스",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "홍나현"
+    },
+    {
+     "name": "나하나"
+    },
+    {
+     "name": "이율"
+    },
+    {
+     "name": "김대령"
+    },
+    {
+     "name": "윤공주"
+    }
+   ],
+   "color": {
+    "bg": "#4A4A4A",
     "fg": "#FFFFFF"
    }
   },

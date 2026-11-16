@@ -161,28 +161,35 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "14:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "김준현"
+     "name": "김준현",
+     "personId": "55012"
     },
     {
-     "name": "구옥분"
+     "name": "구옥분",
+     "personId": "8419"
     },
     {
-     "name": "손수아"
+     "name": "손수아",
+     "personId": "48715"
     },
     {
-     "name": "전대현"
+     "name": "전대현",
+     "personId": "28126"
     },
     {
-     "name": "김형욱"
+     "name": "김형욱",
+     "personId": "46368"
     },
     {
-     "name": "김모은"
+     "name": "김모은",
+     "personId": "34533"
     },
     {
-     "name": "최찬우"
+     "name": "최찬우",
+     "personId": "55667"
     }
    ],
    "color": {
@@ -216,7 +223,41 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "민우혁",
+     "personId": "33371"
+    },
+    {
+     "name": "신영숙",
+     "personId": "4500"
+    },
+    {
+     "name": "이봄소리",
+     "personId": "37814"
+    },
+    {
+     "name": "최민철",
+     "personId": "259"
+    },
+    {
+     "name": "김나윤(하은섬)",
+     "personId": "3275"
+    },
+    {
+     "name": "류수화",
+     "personId": "3543"
+    },
+    {
+     "name": "임현준",
+     "personId": "56965"
+    },
+    {
+     "name": "김주호",
+     "personId": "22003"
+    }
+   ],
    "color": {
     "bg": "#0E1B3A",
     "fg": "#F29A2E"
@@ -228,7 +269,33 @@
    "genre": "뮤지컬",
    "venue": "수성아트피아 (대극장 (대공연장) )",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신고은"
+    },
+    {
+     "name": "정형석"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "강나리"
+    },
+    {
+     "name": "김영환"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "이윤성"
+    },
+    {
+     "name": "서태인"
+    }
+   ],
    "color": {
     "bg": "#5B9BD5",
     "fg": "#FFFFFF"
@@ -447,28 +514,35 @@
    "genre": "뮤지컬",
    "venue": "강동아트센터 (대극장 한강)",
    "time": "14:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "조형균"
+     "name": "조형균",
+     "personId": "22946"
     },
     {
-     "name": "이창용"
+     "name": "이창용",
+     "personId": "4202"
     },
     {
-     "name": "임기홍"
+     "name": "임기홍",
+     "personId": "4018"
     },
     {
-     "name": "정다희"
+     "name": "정다희",
+     "personId": "30266"
     },
     {
-     "name": "도율희"
+     "name": "도율희",
+     "personId": "28333"
     },
     {
-     "name": "전재현"
+     "name": "전재현",
+     "personId": "37449"
     },
     {
-     "name": "장두환"
+     "name": "장두환",
+     "personId": "47685"
     }
    ],
    "color": {
@@ -582,7 +656,18 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정은혜"
+    },
+    {
+     "name": "추현종"
+    },
+    {
+     "name": "김율희"
+    }
+   ],
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"
@@ -768,13 +853,13 @@
      "name": "박영빈"
     },
     {
-     "name": "노혜성"
+     "name": "이서후"
     },
     {
      "name": "안상은"
     },
     {
-     "name": "이서후"
+     "name": "노혜성"
     },
     {
      "name": "장민수"
@@ -1091,7 +1176,54 @@
    "genre": "연극",
    "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "예수정"
+    },
+    {
+     "name": "서진"
+    },
+    {
+     "name": "박완규"
+    },
+    {
+     "name": "유성진"
+    },
+    {
+     "name": "정만식"
+    },
+    {
+     "name": "린다전"
+    },
+    {
+     "name": "민병욱"
+    },
+    {
+     "name": "박민이"
+    },
+    {
+     "name": "황선화"
+    },
+    {
+     "name": "민해심"
+    },
+    {
+     "name": "강해진"
+    },
+    {
+     "name": "권다솔"
+    },
+    {
+     "name": "신대철"
+    },
+    {
+     "name": "문정원"
+    },
+    {
+     "name": "조영웅"
+    }
+   ],
    "color": {
     "bg": "#1E4FA8",
     "fg": "#F28C28"
@@ -1182,7 +1314,24 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박하늘"
+    },
+    {
+     "name": "이리"
+    },
+    {
+     "name": "이미라"
+    },
+    {
+     "name": "백소정"
+    },
+    {
+     "name": "진효순"
+    }
+   ],
    "color": {
     "bg": "#D82B2B",
     "fg": "#FFFFFF"
@@ -1310,25 +1459,35 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "18:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "김준현"
+     "name": "김준현",
+     "personId": "55012"
     },
     {
-     "name": "구옥분"
+     "name": "구옥분",
+     "personId": "8419"
     },
     {
-     "name": "손수아"
+     "name": "손수아",
+     "personId": "48715"
     },
     {
-     "name": "전대현"
+     "name": "전대현",
+     "personId": "28126"
     },
     {
-     "name": "김형욱"
+     "name": "김형욱",
+     "personId": "46368"
     },
     {
-     "name": "김모은"
+     "name": "김모은",
+     "personId": "34533"
+    },
+    {
+     "name": "하성훈",
+     "personId": "57277"
     }
    ],
    "color": {
@@ -1534,22 +1693,27 @@
    "genre": "연극",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "18:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "표지훈"
+     "name": "표지훈",
+     "personId": "33507"
     },
     {
-     "name": "이충호"
+     "name": "이충호",
+     "personId": "41279"
     },
     {
-     "name": "오원권"
+     "name": "오원권",
+     "personId": "56324"
     },
     {
-     "name": "임동진"
+     "name": "임동진",
+     "personId": "41280"
     },
     {
-     "name": "김기주"
+     "name": "김기주",
+     "personId": "46981"
     }
    ],
    "color": {
@@ -1595,7 +1759,33 @@
    "genre": "뮤지컬",
    "venue": "수성아트피아 (대극장 (대공연장) )",
    "time": "18:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "신고은"
+    },
+    {
+     "name": "정형석"
+    },
+    {
+     "name": "조영임"
+    },
+    {
+     "name": "강나리"
+    },
+    {
+     "name": "김영환"
+    },
+    {
+     "name": "박준성"
+    },
+    {
+     "name": "이윤성"
+    },
+    {
+     "name": "서태인"
+    }
+   ],
    "color": {
     "bg": "#5B9BD5",
     "fg": "#FFFFFF"
@@ -1760,7 +1950,41 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "테이",
+     "personId": "1165"
+    },
+    {
+     "name": "이아름솔",
+     "personId": "32179"
+    },
+    {
+     "name": "이지수",
+     "personId": "29583"
+    },
+    {
+     "name": "최민철",
+     "personId": "259"
+    },
+    {
+     "name": "김나윤(하은섬)",
+     "personId": "3275"
+    },
+    {
+     "name": "류수화",
+     "personId": "3543"
+    },
+    {
+     "name": "임현준",
+     "personId": "56965"
+    },
+    {
+     "name": "김주호",
+     "personId": "22003"
+    }
+   ],
    "color": {
     "bg": "#0E1B3A",
     "fg": "#F29A2E"
@@ -1886,10 +2110,10 @@
      "name": "박주혁"
     },
     {
-     "name": "노혜성"
+     "name": "안상은"
     },
     {
-     "name": "안상은"
+     "name": "노혜성"
     },
     {
      "name": "최수현"

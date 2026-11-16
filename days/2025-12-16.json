@@ -177,7 +177,27 @@
    "genre": "뮤지컬",
    "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정성화"
+    },
+    {
+     "name": "홍나현"
+    },
+    {
+     "name": "나하나"
+    },
+    {
+     "name": "이율"
+    },
+    {
+     "name": "김용수"
+    },
+    {
+     "name": "전수미"
+    }
+   ],
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"

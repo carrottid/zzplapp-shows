@@ -55,7 +55,15 @@
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최호승"
+    },
+    {
+     "name": "동현"
+    }
+   ],
    "color": {
     "bg": "#4C6240",
     "fg": "#FFFFFF"
@@ -253,7 +261,27 @@
    "genre": "뮤지컬",
    "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "박혜미"
+    },
+    {
+     "name": "이율"
+    },
+    {
+     "name": "김대령"
+    },
+    {
+     "name": "전수미"
+    }
+   ],
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"
@@ -429,7 +457,18 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (1관(대극장))",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "조민호"
+    },
+    {
+     "name": "김보현"
+    }
+   ],
    "color": {
     "bg": "#1A1F4D",
     "fg": "#FFFFFF"
@@ -1005,7 +1044,15 @@
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임별"
+    },
+    {
+     "name": "박경호"
+    }
+   ],
    "color": {
     "bg": "#4C6240",
     "fg": "#FFFFFF"
@@ -1160,7 +1207,18 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (1관(대극장))",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "이동수"
+    },
+    {
+     "name": "박상준"
+    }
+   ],
    "color": {
     "bg": "#1A1F4D",
     "fg": "#FFFFFF"
@@ -1471,18 +1529,6 @@
    "castSource": "none",
    "color": {
     "bg": "#2F6DA3",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF276168",
-   "title": "비틀쥬스",
-   "genre": "뮤지컬",
-   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4A4A",
     "fg": "#FFFFFF"
    }
   },

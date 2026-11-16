@@ -7,7 +7,24 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "16:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김한결"
+    },
+    {
+     "name": "마이삭"
+    },
+    {
+     "name": "한비"
+    },
+    {
+     "name": "최민경"
+    },
+    {
+     "name": "박민주"
+    }
+   ]
   },
   {
    "id": "PF271914",
@@ -118,18 +135,6 @@
    }
   },
   {
-   "id": "PF276168",
-   "title": "비틀쥬스",
-   "genre": "뮤지컬",
-   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4A4A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF283458",
    "title": "빵야",
    "genre": "연극",
@@ -176,7 +181,27 @@
    "genre": "연극",
    "venue": "예술의전당 [서울] (오페라극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "카와에이 리나"
+    },
+    {
+     "name": "아쿠츠 니치카"
+    },
+    {
+     "name": "사와무라 료"
+    },
+    {
+     "name": "타카하시 리코"
+    },
+    {
+     "name": "만타니 노리히데"
+    },
+    {
+     "name": "하노 아키"
+    }
+   ],
    "color": {
     "bg": "#1E3F8A",
     "fg": "#FFFFFF"
@@ -482,7 +507,15 @@
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최호승"
+    },
+    {
+     "name": "동현"
+    }
+   ],
    "color": {
     "bg": "#4C6240",
     "fg": "#FFFFFF"
@@ -537,7 +570,24 @@
    "genre": "뮤지컬",
    "venue": "브릭스씨어터 (구. 콘텐츠 그라운드)",
    "time": "20:00",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김한결"
+    },
+    {
+     "name": "마이삭"
+    },
+    {
+     "name": "한비"
+    },
+    {
+     "name": "최민경"
+    },
+    {
+     "name": "박민주"
+    }
+   ]
   },
   {
    "id": "PF284888",
@@ -565,6 +615,38 @@
    ],
    "color": {
     "bg": "#1E2B45",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF276168",
+   "title": "비틀쥬스",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "홍나현"
+    },
+    {
+     "name": "박혜미"
+    },
+    {
+     "name": "정욱진"
+    },
+    {
+     "name": "김대령"
+    },
+    {
+     "name": "윤공주"
+    }
+   ],
+   "color": {
+    "bg": "#4A4A4A",
     "fg": "#FFFFFF"
    }
   },

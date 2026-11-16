@@ -7,7 +7,30 @@
    "genre": "뮤지컬",
    "venue": "링크더스페이스(LINK THE SPACE) (1관)",
    "time": "19:30",
-   "castSource": "none"
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "손유동"
+    },
+    {
+     "name": "김지철"
+    },
+    {
+     "name": "박란주"
+    },
+    {
+     "name": "전민지"
+    },
+    {
+     "name": "이종석"
+    },
+    {
+     "name": "김재한"
+    },
+    {
+     "name": "이한별"
+    }
+   ]
   },
   {
    "id": "PF286389",

@@ -74,24 +74,23 @@
    }
   },
   {
-   "id": "PF302516",
-   "title": "레베카",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#0E1B3A",
-    "fg": "#F29A2E"
-   }
-  },
-  {
    "id": "PF295977",
    "title": "국립극장, 마당놀이: 춘풍처도 온다",
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박애리"
+    },
+    {
+     "name": "추현종"
+    },
+    {
+     "name": "김나니"
+    }
+   ],
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"
@@ -538,22 +537,27 @@
    "genre": "연극",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "16:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "표지훈"
+     "name": "표지훈",
+     "personId": "33507"
     },
     {
-     "name": "신성하"
+     "name": "신성하",
+     "personId": "41137"
     },
     {
-     "name": "오원권"
+     "name": "오원권",
+     "personId": "56324"
     },
     {
-     "name": "이예준"
+     "name": "이예준",
+     "personId": "54568"
     },
     {
-     "name": "김기주"
+     "name": "김기주",
+     "personId": "46981"
     }
    ],
    "color": {
@@ -666,7 +670,33 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최하윤"
+    },
+    {
+     "name": "홍지인"
+    },
+    {
+     "name": "김명수"
+    },
+    {
+     "name": "김신효"
+    },
+    {
+     "name": "이호재"
+    },
+    {
+     "name": "신현종"
+    },
+    {
+     "name": "조승연"
+    },
+    {
+     "name": "이주영"
+    }
+   ],
    "color": {
     "bg": "#E0245E",
     "fg": "#FFFFFF"
@@ -678,7 +708,18 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "양금석"
+    },
+    {
+     "name": "박지연"
+    },
+    {
+     "name": "이혁"
+    }
+   ],
    "color": {
     "bg": "#1F3F9E",
     "fg": "#F2C500"
@@ -716,28 +757,35 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "19:30",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "하도권"
+     "name": "하도권",
+     "personId": "8053"
     },
     {
-     "name": "구옥분"
+     "name": "구옥분",
+     "personId": "8419"
     },
     {
-     "name": "손수아"
+     "name": "손수아",
+     "personId": "48715"
     },
     {
-     "name": "김선제"
+     "name": "김선제",
+     "personId": "55011"
     },
     {
-     "name": "손우민"
+     "name": "손우민",
+     "personId": "34994"
     },
     {
-     "name": "안예인"
+     "name": "안예인",
+     "personId": "49778"
     },
     {
-     "name": "최찬우"
+     "name": "최찬우",
+     "personId": "55667"
     }
    ],
    "color": {
@@ -777,18 +825,6 @@
    "color": {
     "bg": "#1B2A4A",
     "fg": "#E8B65A"
-   }
-  },
-  {
-   "id": "PF302516",
-   "title": "레베카",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#0E1B3A",
-    "fg": "#F29A2E"
    }
   },
   {
@@ -924,7 +960,27 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정선영"
+    },
+    {
+     "name": "한보라"
+    },
+    {
+     "name": "유라현"
+    },
+    {
+     "name": "고은율"
+    },
+    {
+     "name": "정다엘"
+    },
+    {
+     "name": "최예린"
+    }
+   ],
    "color": {
     "bg": "#1B3A4B",
     "fg": "#F2E3C0"
@@ -984,7 +1040,54 @@
    "genre": "연극",
    "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "예수정"
+    },
+    {
+     "name": "서진"
+    },
+    {
+     "name": "박완규"
+    },
+    {
+     "name": "유성진"
+    },
+    {
+     "name": "정만식"
+    },
+    {
+     "name": "린다전"
+    },
+    {
+     "name": "민병욱"
+    },
+    {
+     "name": "박민이"
+    },
+    {
+     "name": "황선화"
+    },
+    {
+     "name": "민해심"
+    },
+    {
+     "name": "강해진"
+    },
+    {
+     "name": "권다솔"
+    },
+    {
+     "name": "신대철"
+    },
+    {
+     "name": "문정원"
+    },
+    {
+     "name": "조영웅"
+    }
+   ],
    "color": {
     "bg": "#1E4FA8",
     "fg": "#F28C28"
@@ -996,7 +1099,24 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박하늘"
+    },
+    {
+     "name": "이리"
+    },
+    {
+     "name": "이미라"
+    },
+    {
+     "name": "백소정"
+    },
+    {
+     "name": "진효순"
+    }
+   ],
    "color": {
     "bg": "#D82B2B",
     "fg": "#FFFFFF"
@@ -1477,22 +1597,27 @@
    "genre": "연극",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "20:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "표지훈"
+     "name": "표지훈",
+     "personId": "33507"
     },
     {
-     "name": "이충호"
+     "name": "이충호",
+     "personId": "41279"
     },
     {
-     "name": "오원권"
+     "name": "오원권",
+     "personId": "56324"
     },
     {
-     "name": "이예준"
+     "name": "이예준",
+     "personId": "54568"
     },
     {
-     "name": "김종현"
+     "name": "김종현",
+     "personId": "42121"
     }
    ],
    "color": {

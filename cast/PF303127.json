@@ -1,7 +1,15 @@
 {
  "id": "PF303127",
- "source": "ticketlink",
+ "source": "nol",
+ "goodsKey": "26014529:15710383",
  "roles": {
+  "139193": "마크",
+  "139194": "리드",
+  "139195": "제리",
+  "139196": "로레인/레이첼",
+  "139197": "케이티",
+  "139198": "탐",
+  "139199": "에반",
   "r:마크": "마크",
   "r:리드": "리드",
   "r:제리": "제리",
@@ -10,7 +18,29 @@
   "r:탐": "탐",
   "r:에반": "에반"
  },
- "people": {},
+ "people": {
+  "4018": {
+   "name": "임기홍"
+  },
+  "4202": {
+   "name": "이창용"
+  },
+  "22946": {
+   "name": "조형균"
+  },
+  "28333": {
+   "name": "도율희"
+  },
+  "30266": {
+   "name": "정다희"
+  },
+  "37449": {
+   "name": "전재현"
+  },
+  "47685": {
+   "name": "장두환"
+  }
+ },
  "sessions": [
   {
    "date": "2026-11-17",
@@ -18,31 +48,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -52,31 +89,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -86,31 +130,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -120,31 +171,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -154,31 +212,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -188,31 +253,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -222,31 +294,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -256,31 +335,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -290,31 +376,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -324,31 +417,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -358,31 +458,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -392,31 +499,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -426,31 +540,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -460,31 +581,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -494,31 +622,38 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   },
@@ -528,34 +663,41 @@
    "cast": [
     {
      "name": "조형균",
-     "roleId": "r:마크"
+     "personId": "22946",
+     "roleId": "139193"
     },
     {
      "name": "이창용",
-     "roleId": "r:리드"
+     "personId": "4202",
+     "roleId": "139194"
     },
     {
      "name": "임기홍",
-     "roleId": "r:제리"
+     "personId": "4018",
+     "roleId": "139195"
     },
     {
      "name": "정다희",
-     "roleId": "r:로레인/레이첼"
+     "personId": "30266",
+     "roleId": "139196"
     },
     {
      "name": "도율희",
-     "roleId": "r:케이티"
+     "personId": "28333",
+     "roleId": "139197"
     },
     {
      "name": "전재현",
-     "roleId": "r:탐"
+     "personId": "37449",
+     "roleId": "139198"
     },
     {
      "name": "장두환",
-     "roleId": "r:에반"
+     "personId": "47685",
+     "roleId": "139199"
     }
    ]
   }
  ],
- "updatedAt": "2026-11-08T10:36:24"
+ "updatedAt": "2026-11-16T09:44:41"
 }

@@ -54,6 +54,26 @@
    }
   },
   {
+   "id": "PF279586",
+   "title": "나르치스와 골드문트",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유승현"
+    },
+    {
+     "name": "동현"
+    }
+   ],
+   "color": {
+    "bg": "#4C6240",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF273019",
    "title": "데스노트",
    "genre": "뮤지컬",
@@ -124,6 +144,29 @@
    }
   },
   {
+   "id": "PF282953",
+   "title": "로드씨어터, 클럽 라틴",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (자유소극장)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김다흰"
+    },
+    {
+     "name": "전석호"
+    },
+    {
+     "name": "임승범"
+    }
+   ],
+   "color": {
+    "bg": "#1B1A22",
+    "fg": "#FF6FB5"
+   }
+  },
+  {
    "id": "PF281317",
    "title": "비밀통로: INTERVAL",
    "genre": "연극",
@@ -140,6 +183,70 @@
    ],
    "color": {
     "bg": "#5A5148",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF276168",
+   "title": "비틀쥬스",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정원영"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "박혜미"
+    },
+    {
+     "name": "정욱진"
+    },
+    {
+     "name": "김용수"
+    },
+    {
+     "name": "윤공주"
+    }
+   ],
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF277594",
+   "title": "센과 치히로의 행방불명 오리지널 투어 (SPIRITED AWAY)",
+   "genre": "연극",
+   "venue": "예술의전당 [서울] (오페라극장)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "모리 마리나"
+    },
+    {
+     "name": "아쿠츠 니치카"
+    },
+    {
+     "name": "사와무라 료"
+    },
+    {
+     "name": "히나미 후우"
+    },
+    {
+     "name": "만타니 노리히데"
+    },
+    {
+     "name": "타카하시 히토미"
+    }
+   ],
+   "color": {
+    "bg": "#1E3F8A",
     "fg": "#FFFFFF"
    }
   },
@@ -222,6 +329,29 @@
    }
   },
   {
+   "id": "PF279790",
+   "title": "이터니티",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "노민우"
+    },
+    {
+     "name": "김우성"
+    },
+    {
+     "name": "박유덕"
+    }
+   ],
+   "color": {
+    "bg": "#1A1F4D",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF276569",
    "title": "킹키부츠",
    "genre": "뮤지컬",
@@ -259,18 +389,6 @@
    "castSource": "none",
    "color": {
     "bg": "#4A4A4A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF277594",
-   "title": "센과 치히로의 행방불명 오리지널 투어 (SPIRITED AWAY)",
-   "genre": "연극",
-   "venue": "예술의전당 [서울] (오페라극장)",
-   "time": "14:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1E3F8A",
     "fg": "#FFFFFF"
    }
   },
@@ -416,18 +534,6 @@
    "castSource": "none",
    "color": {
     "bg": "#D8242E",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF279586",
-   "title": "나르치스와 골드문트",
-   "genre": "뮤지컬",
-   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
-   "time": "16:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4C6240",
     "fg": "#FFFFFF"
    }
   },
@@ -615,6 +721,26 @@
    }
   },
   {
+   "id": "PF279586",
+   "title": "나르치스와 골드문트",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "임별"
+    },
+    {
+     "name": "강찬"
+    }
+   ],
+   "color": {
+    "bg": "#4C6240",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF283613",
    "title": "스톤",
    "genre": "뮤지컬",
@@ -634,6 +760,29 @@
    ],
    "color": {
     "bg": "#2A2A2E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF279790",
+   "title": "이터니티",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "현석준"
+    },
+    {
+     "name": "조민호"
+    },
+    {
+     "name": "김보현"
+    }
+   ],
+   "color": {
+    "bg": "#1A1F4D",
     "fg": "#FFFFFF"
    }
   },
@@ -726,6 +875,38 @@
    }
   },
   {
+   "id": "PF276168",
+   "title": "비틀쥬스",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "박혜미"
+    },
+    {
+     "name": "이율"
+    },
+    {
+     "name": "김용수"
+    },
+    {
+     "name": "윤공주"
+    }
+   ],
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF276569",
    "title": "킹키부츠",
    "genre": "뮤지컬",
@@ -803,18 +984,6 @@
    }
   },
   {
-   "id": "PF282953",
-   "title": "로드씨어터, 클럽 라틴",
-   "genre": "연극",
-   "venue": "예술의전당 [서울] (자유소극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1B1A22",
-    "fg": "#FF6FB5"
-   }
-  },
-  {
    "id": "PF281142",
    "title": "몽유도원",
    "genre": "뮤지컬",
@@ -863,18 +1032,6 @@
    }
   },
   {
-   "id": "PF276168",
-   "title": "비틀쥬스",
-   "genre": "뮤지컬",
-   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4A4A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF281763",
    "title": "살아있는 자를 수선하기",
    "genre": "연극",
@@ -892,7 +1049,27 @@
    "genre": "연극",
    "venue": "예술의전당 [서울] (오페라극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "카와에이 리나"
+    },
+    {
+     "name": "아쿠츠 니치카"
+    },
+    {
+     "name": "사와무라 료"
+    },
+    {
+     "name": "히나미 후우"
+    },
+    {
+     "name": "만타니 노리히데"
+    },
+    {
+     "name": "오우세 요우코"
+    }
+   ],
    "color": {
     "bg": "#1E3F8A",
     "fg": "#FFFFFF"
@@ -995,18 +1172,6 @@
    }
   },
   {
-   "id": "PF279586",
-   "title": "나르치스와 골드문트",
-   "genre": "뮤지컬",
-   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4C6240",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF275203",
    "title": "난쟁이들",
    "genre": "뮤지컬",
@@ -1063,18 +1228,6 @@
    "castSource": "none",
    "color": {
     "bg": "#14213A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF279790",
-   "title": "이터니티",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (1관(대극장))",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#1A1F4D",
     "fg": "#FFFFFF"
    }
   },

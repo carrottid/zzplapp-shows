@@ -8646,7 +8646,7 @@
     "박민주"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF283901",
@@ -8665,7 +8665,7 @@
     "고훈정"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E2A6E",
     "fg": "#FFFFFF"
@@ -8733,7 +8733,7 @@
     "김기택"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F3A6B",
     "fg": "#F5D76E"
@@ -9030,7 +9030,7 @@
     "전민지"
    ],
    "state": "공연완료",
-   "castSource": "none"
+   "castSource": "plapp"
   },
   {
    "id": "PF284007",
@@ -9096,7 +9096,7 @@
     "박세훈"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1C2A5E",
     "fg": "#FFFFFF"
@@ -9193,7 +9193,7 @@
     "이상아"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1C3F6E",
     "fg": "#F2A33A"
@@ -9503,25 +9503,15 @@
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF284207_260202_105315.gif",
    "cast": [
     "김호산",
-    "김준수",
     "원경식",
+    "김준수",
     "김세경",
     "장재호",
     "양서빈",
-    "강득종",
-    "김도완",
-    "전재형",
-    "임진구",
-    "홍준기",
-    "김동지",
-    "고영찬",
-    "윤건일",
-    "김해양",
-    "최지영",
-    "박한빈"
+    "강득종"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#9E1B22",
     "fg": "#FFFFFF"
@@ -9987,7 +9977,7 @@
     "임승범"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B1A22",
     "fg": "#FF6FB5"
@@ -11418,7 +11408,7 @@
     "사와무라 료"
    ],
    "state": "공연완료",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E3F8A",
     "fg": "#FFFFFF"

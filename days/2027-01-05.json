@@ -7,7 +7,18 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정은혜"
+    },
+    {
+     "name": "추현종"
+    },
+    {
+     "name": "김율희"
+    }
+   ],
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"

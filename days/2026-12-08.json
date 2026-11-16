@@ -7,7 +7,18 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정은혜"
+    },
+    {
+     "name": "추현종"
+    },
+    {
+     "name": "김율희"
+    }
+   ],
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"
@@ -69,7 +80,18 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "채연정"
+    },
+    {
+     "name": "박지연"
+    },
+    {
+     "name": "이혁"
+    }
+   ],
    "color": {
     "bg": "#1F3F9E",
     "fg": "#F2C500"
@@ -93,22 +115,34 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "19:30",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "하도권"
+     "name": "하도권",
+     "personId": "8053"
     },
     {
      "name": "하은섬"
     },
     {
-     "name": "전대현"
+     "name": "소나영",
+     "personId": "48195"
     },
     {
-     "name": "손우민"
+     "name": "전대현",
+     "personId": "28126"
     },
     {
-     "name": "김모은"
+     "name": "손우민",
+     "personId": "34994"
+    },
+    {
+     "name": "김모은",
+     "personId": "34533"
+    },
+    {
+     "name": "하성훈",
+     "personId": "57277"
     }
    ],
    "color": {
@@ -168,18 +202,6 @@
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF302516",
-   "title": "레베카",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#0E1B3A",
-    "fg": "#F29A2E"
    }
   },
   {
@@ -291,7 +313,27 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정선영"
+    },
+    {
+     "name": "한보라"
+    },
+    {
+     "name": "유지호"
+    },
+    {
+     "name": "최아빈"
+    },
+    {
+     "name": "황예은"
+    },
+    {
+     "name": "바라스시안이"
+    }
+   ],
    "color": {
     "bg": "#1B3A4B",
     "fg": "#F2E3C0"
@@ -499,7 +541,24 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박하늘"
+    },
+    {
+     "name": "이리"
+    },
+    {
+     "name": "이미라"
+    },
+    {
+     "name": "백소정"
+    },
+    {
+     "name": "진효순"
+    }
+   ],
    "color": {
     "bg": "#D82B2B",
     "fg": "#FFFFFF"
@@ -806,7 +865,12 @@
    "genre": "뮤지컬",
    "venue": "연우소극장",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "윤석원"
+    }
+   ],
    "color": {
     "bg": "#1E1B3F",
     "fg": "#F26B4F"

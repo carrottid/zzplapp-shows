@@ -31,7 +31,27 @@
    "genre": "뮤지컬",
    "venue": "GS아트센터",
    "time": "14:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "정성화"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "김다현"
+    },
+    {
+     "name": "임기홍"
+    },
+    {
+     "name": "이경욱"
+    },
+    {
+     "name": "지혜근"
+    }
+   ],
    "color": {
     "bg": "#1E5FB0",
     "fg": "#FFFFFF"
@@ -150,7 +170,18 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정은혜"
+    },
+    {
+     "name": "추현종"
+    },
+    {
+     "name": "김율희"
+    }
+   ],
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"
@@ -210,7 +241,27 @@
    "genre": "뮤지컬",
    "venue": "GS아트센터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "황정민"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "김다현"
+    },
+    {
+     "name": "임기홍"
+    },
+    {
+     "name": "이경욱"
+    },
+    {
+     "name": "지혜근"
+    }
+   ],
    "color": {
     "bg": "#1E5FB0",
     "fg": "#FFFFFF"

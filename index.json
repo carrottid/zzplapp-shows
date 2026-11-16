@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-15T00:40:44",
+ "updatedAt": "2026-11-16T09:44:42",
  "archives": [
   "1987",
   "1988",
@@ -906,11 +906,12 @@
     "윤석원"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E1B3F",
     "fg": "#F26B4F"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF302677",
@@ -934,7 +935,8 @@
    "color": {
     "bg": "#1E5FB0",
     "fg": "#FFFFFF"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF305851",
@@ -989,11 +991,12 @@
    "venue": "세종문화회관 (세종M씨어터)",
    "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF282162_251224_140222.png",
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1B3A4B",
     "fg": "#F2E3C0"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF304181",
@@ -1013,11 +1016,12 @@
     "이혁"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1F3F9E",
     "fg": "#F2C500"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF304479",
@@ -1060,11 +1064,12 @@
     "조승연"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#E0245E",
     "fg": "#FFFFFF"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF304784",
@@ -1197,7 +1202,7 @@
     "이예준"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "color": {
     "bg": "#8CA3B8",
     "fg": "#111111"
@@ -1221,11 +1226,12 @@
     "홍승희"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF302414",
@@ -1310,7 +1316,7 @@
     "전대현"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "color": {
     "bg": "#1F3D2B",
     "fg": "#F2E3A0"
@@ -1400,11 +1406,12 @@
     "이윤성"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#5B9BD5",
     "fg": "#FFFFFF"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF304757",
@@ -1422,11 +1429,12 @@
     "박하늘"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#D82B2B",
     "fg": "#FFFFFF"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF302516",
@@ -1446,11 +1454,12 @@
     "김다혜"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "color": {
     "bg": "#0E1B3A",
     "fg": "#F29A2E"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:02:04+09:00"
   },
   {
    "id": "PF303673",
@@ -1474,7 +1483,8 @@
    "color": {
     "bg": "#2E8FB5",
     "fg": "#FFFFFF"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:02:04+09:00"
   },
   {
    "id": "PF305375",
@@ -1515,11 +1525,12 @@
     "이현진"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#E7B5AE",
     "fg": "#8A2B2B"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF298550",
@@ -1539,7 +1550,7 @@
     "강혜인"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "color": {
     "bg": "#7A5A3A",
     "fg": "#FFFFFF"
@@ -1807,7 +1818,7 @@
     "장두환"
    ],
    "state": "공연예정",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "color": {
     "bg": "#111111",
     "fg": "#F2D600"
@@ -1922,11 +1933,12 @@
     "박민이"
    ],
    "state": "공연예정",
-   "castSource": "none",
+   "castSource": "plapp",
    "color": {
     "bg": "#1E4FA8",
     "fg": "#F28C28"
-   }
+   },
+   "castAddedAt": "2026-11-16T09:44:42+09:00"
   },
   {
    "id": "PF305172",

@@ -596,28 +596,35 @@
    "genre": "뮤지컬",
    "venue": "인천문화예술회관 (대공연장)",
    "time": "14:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "김경수"
+     "name": "김경수",
+     "personId": "6299"
     },
     {
-     "name": "문태유"
+     "name": "문태유",
+     "personId": "4030"
     },
     {
-     "name": "강혜인"
+     "name": "강혜인",
+     "personId": "43688"
     },
     {
-     "name": "김지철"
+     "name": "김지철",
+     "personId": "29458"
     },
     {
-     "name": "김지욱"
+     "name": "김지욱",
+     "personId": "36037"
     },
     {
-     "name": "김태인"
+     "name": "김태인",
+     "personId": "42971"
     },
     {
-     "name": "김효성"
+     "name": "김효성",
+     "personId": "41558"
     }
    ],
    "color": {
@@ -631,28 +638,35 @@
    "genre": "뮤지컬",
    "venue": "강동아트센터 (대극장 한강)",
    "time": "14:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "조형균"
+     "name": "조형균",
+     "personId": "22946"
     },
     {
-     "name": "이창용"
+     "name": "이창용",
+     "personId": "4202"
     },
     {
-     "name": "임기홍"
+     "name": "임기홍",
+     "personId": "4018"
     },
     {
-     "name": "정다희"
+     "name": "정다희",
+     "personId": "30266"
     },
     {
-     "name": "도율희"
+     "name": "도율희",
+     "personId": "28333"
     },
     {
-     "name": "전재현"
+     "name": "전재현",
+     "personId": "37449"
     },
     {
-     "name": "장두환"
+     "name": "장두환",
+     "personId": "47685"
     }
    ],
    "color": {
@@ -949,13 +963,13 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "박주혁"
-    },
-    {
      "name": "김현기"
     },
     {
      "name": "문진아"
+    },
+    {
+     "name": "박주혁"
     },
     {
      "name": "이선주"
@@ -1346,7 +1360,54 @@
    "genre": "연극",
    "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "예수정"
+    },
+    {
+     "name": "서진"
+    },
+    {
+     "name": "박완규"
+    },
+    {
+     "name": "유성진"
+    },
+    {
+     "name": "정만식"
+    },
+    {
+     "name": "린다전"
+    },
+    {
+     "name": "민병욱"
+    },
+    {
+     "name": "박민이"
+    },
+    {
+     "name": "황선화"
+    },
+    {
+     "name": "민해심"
+    },
+    {
+     "name": "강해진"
+    },
+    {
+     "name": "권다솔"
+    },
+    {
+     "name": "신대철"
+    },
+    {
+     "name": "문정원"
+    },
+    {
+     "name": "조영웅"
+    }
+   ],
    "color": {
     "bg": "#1E4FA8",
     "fg": "#F28C28"
@@ -2206,19 +2267,19 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "박주혁"
+     "name": "김현기"
     },
     {
-     "name": "김현기"
+     "name": "정호준"
+    },
+    {
+     "name": "박주혁"
     },
     {
      "name": "안상은"
     },
     {
      "name": "최수현"
-    },
-    {
-     "name": "정호준"
     }
    ],
    "color": {
@@ -2575,28 +2636,35 @@
    "genre": "뮤지컬",
    "venue": "인천문화예술회관 (대공연장)",
    "time": "19:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "이규형"
+     "name": "이규형",
+     "personId": "3624"
     },
     {
-     "name": "문태유"
+     "name": "문태유",
+     "personId": "4030"
     },
     {
-     "name": "강혜인"
+     "name": "강혜인",
+     "personId": "43688"
     },
     {
-     "name": "김지철"
+     "name": "김지철",
+     "personId": "29458"
     },
     {
-     "name": "김지욱"
+     "name": "김지욱",
+     "personId": "36037"
     },
     {
-     "name": "김태인"
+     "name": "김태인",
+     "personId": "42971"
     },
     {
-     "name": "김효성"
+     "name": "김효성",
+     "personId": "41558"
     }
    ],
    "color": {
@@ -2644,28 +2712,35 @@
    "genre": "뮤지컬",
    "venue": "강동아트센터 (대극장 한강)",
    "time": "19:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "조형균"
+     "name": "조형균",
+     "personId": "22946"
     },
     {
-     "name": "이창용"
+     "name": "이창용",
+     "personId": "4202"
     },
     {
-     "name": "임기홍"
+     "name": "임기홍",
+     "personId": "4018"
     },
     {
-     "name": "정다희"
+     "name": "정다희",
+     "personId": "30266"
     },
     {
-     "name": "도율희"
+     "name": "도율희",
+     "personId": "28333"
     },
     {
-     "name": "전재현"
+     "name": "전재현",
+     "personId": "37449"
     },
     {
-     "name": "장두환"
+     "name": "장두환",
+     "personId": "47685"
     }
    ],
    "color": {

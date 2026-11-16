@@ -674,7 +674,54 @@
    "genre": "연극",
    "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "예수정"
+    },
+    {
+     "name": "서진"
+    },
+    {
+     "name": "박완규"
+    },
+    {
+     "name": "유성진"
+    },
+    {
+     "name": "정만식"
+    },
+    {
+     "name": "린다전"
+    },
+    {
+     "name": "민병욱"
+    },
+    {
+     "name": "박민이"
+    },
+    {
+     "name": "황선화"
+    },
+    {
+     "name": "민해심"
+    },
+    {
+     "name": "강해진"
+    },
+    {
+     "name": "권다솔"
+    },
+    {
+     "name": "신대철"
+    },
+    {
+     "name": "문정원"
+    },
+    {
+     "name": "조영웅"
+    }
+   ],
    "color": {
     "bg": "#1E4FA8",
     "fg": "#F28C28"
@@ -720,28 +767,35 @@
    "genre": "뮤지컬",
    "venue": "강동아트센터 (대극장 한강)",
    "time": "19:30",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "조형균"
+     "name": "조형균",
+     "personId": "22946"
     },
     {
-     "name": "이창용"
+     "name": "이창용",
+     "personId": "4202"
     },
     {
-     "name": "임기홍"
+     "name": "임기홍",
+     "personId": "4018"
     },
     {
-     "name": "정다희"
+     "name": "정다희",
+     "personId": "30266"
     },
     {
-     "name": "도율희"
+     "name": "도율희",
+     "personId": "28333"
     },
     {
-     "name": "전재현"
+     "name": "전재현",
+     "personId": "37449"
     },
     {
-     "name": "장두환"
+     "name": "장두환",
+     "personId": "47685"
     }
    ],
    "color": {
@@ -986,10 +1040,10 @@
      "name": "김현기"
     },
     {
-     "name": "박선영"
+     "name": "이선주"
     },
     {
-     "name": "이선주"
+     "name": "박선영"
     },
     {
      "name": "장민수"

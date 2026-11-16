@@ -2,6 +2,26 @@
  "date": "2025-12-25",
  "sessions": [
   {
+   "id": "PF279586",
+   "title": "나르치스와 골드문트",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최호승"
+    },
+    {
+     "name": "김서환"
+    }
+   ],
+   "color": {
+    "bg": "#4C6240",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF273019",
    "title": "데스노트",
    "genre": "뮤지컬",
@@ -68,6 +88,38 @@
    ],
    "color": {
     "bg": "#1A1410",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF276168",
+   "title": "비틀쥬스",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "14:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김준수"
+    },
+    {
+     "name": "홍나현"
+    },
+    {
+     "name": "나하나"
+    },
+    {
+     "name": "정욱진"
+    },
+    {
+     "name": "김용수"
+    },
+    {
+     "name": "윤공주"
+    }
+   ],
+   "color": {
+    "bg": "#4A4A4A",
     "fg": "#FFFFFF"
    }
   },
@@ -328,6 +380,26 @@
    }
   },
   {
+   "id": "PF279586",
+   "title": "나르치스와 골드문트",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "18:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "유승현"
+    },
+    {
+     "name": "박경호"
+    }
+   ],
+   "color": {
+    "bg": "#4C6240",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF275043",
    "title": "어쩌면 해피엔딩",
    "genre": "뮤지컬",
@@ -559,6 +631,38 @@
    }
   },
   {
+   "id": "PF276168",
+   "title": "비틀쥬스",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "19:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정원영"
+    },
+    {
+     "name": "홍나현"
+    },
+    {
+     "name": "나하나"
+    },
+    {
+     "name": "정욱진"
+    },
+    {
+     "name": "김용수"
+    },
+    {
+     "name": "윤공주"
+    }
+   ],
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF276569",
    "title": "킹키부츠",
    "genre": "뮤지컬",
@@ -696,18 +800,6 @@
    "castSource": "none",
    "color": {
     "bg": "#1A1410",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF276168",
-   "title": "비틀쥬스",
-   "genre": "뮤지컬",
-   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4A4A",
     "fg": "#FFFFFF"
    }
   },
@@ -885,18 +977,6 @@
    "color": {
     "bg": "#E9CFCB",
     "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF279586",
-   "title": "나르치스와 골드문트",
-   "genre": "뮤지컬",
-   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#4C6240",
-    "fg": "#FFFFFF"
    }
   },
   {

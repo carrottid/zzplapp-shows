@@ -31,7 +31,27 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 합정(구, 신한카드 SOL페이 스퀘어) (동양생명홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김완수"
+    },
+    {
+     "name": "홍준기"
+    },
+    {
+     "name": "이은상"
+    },
+    {
+     "name": "노용원"
+    },
+    {
+     "name": "위현욱"
+    },
+    {
+     "name": "김가현"
+    }
+   ],
    "color": {
     "bg": "#E7B5AE",
     "fg": "#8A2B2B"

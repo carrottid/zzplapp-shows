@@ -31,7 +31,27 @@
    "genre": "뮤지컬",
    "venue": "GS아트센터",
    "time": "14:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "정성화"
+    },
+    {
+     "name": "장은아"
+    },
+    {
+     "name": "김다현"
+    },
+    {
+     "name": "육현욱"
+    },
+    {
+     "name": "이경욱"
+    },
+    {
+     "name": "지혜근"
+    }
+   ],
    "color": {
     "bg": "#1E5FB0",
     "fg": "#FFFFFF"
@@ -234,18 +254,6 @@
    "castSource": "none",
    "color": {
     "bg": "#14204A",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF302677",
-   "title": "미세스 다웃파이어",
-   "genre": "뮤지컬",
-   "venue": "GS아트센터",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#1E5FB0",
     "fg": "#FFFFFF"
    }
   },

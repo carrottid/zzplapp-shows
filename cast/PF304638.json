@@ -1,14 +1,51 @@
 {
  "id": "PF304638",
- "source": "ticketlink",
+ "source": "nol",
+ "goodsKey": "26015227:19001312",
  "roles": {
+  "139510": "건규",
+  "139511": "규태",
+  "139512": "도형",
+  "139513": "코치 외",
+  "139514": "아빠 외",
   "r:건규": "건규",
   "r:규태": "규태",
   "r:도형": "도형",
   "r:코치 외": "코치 외",
   "r:아빠 외": "아빠 외"
  },
- "people": {},
+ "people": {
+  "33507": {
+   "name": "표지훈"
+  },
+  "41137": {
+   "name": "신성하"
+  },
+  "41279": {
+   "name": "이충호"
+  },
+  "41280": {
+   "name": "임동진"
+  },
+  "41591": {
+   "name": "장원혁"
+  },
+  "42121": {
+   "name": "김종현"
+  },
+  "43996": {
+   "name": "허영손"
+  },
+  "46981": {
+   "name": "김기주"
+  },
+  "54568": {
+   "name": "이예준"
+  },
+  "56324": {
+   "name": "오원권"
+  }
+ },
  "sessions": [
   {
    "date": "2026-11-28",
@@ -16,23 +53,28 @@
    "cast": [
     {
      "name": "표지훈",
-     "roleId": "r:건규"
+     "personId": "33507",
+     "roleId": "139510"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "personId": "41279",
+     "roleId": "139511"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "personId": "56324",
+     "roleId": "139512"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "personId": "41280",
+     "roleId": "139513"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "personId": "46981",
+     "roleId": "139514"
     }
    ]
   },
@@ -42,23 +84,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "personId": "43996",
+     "roleId": "139510"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "personId": "41137",
+     "roleId": "139511"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "personId": "41591",
+     "roleId": "139512"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "personId": "54568",
+     "roleId": "139513"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "personId": "42121",
+     "roleId": "139514"
     }
    ]
   },
@@ -68,23 +115,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "personId": "43996",
+     "roleId": "139510"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "personId": "41137",
+     "roleId": "139511"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "personId": "56324",
+     "roleId": "139512"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "personId": "54568",
+     "roleId": "139513"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "personId": "46981",
+     "roleId": "139514"
     }
    ]
   },
@@ -94,23 +146,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "personId": "43996",
+     "roleId": "139510"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "personId": "41279",
+     "roleId": "139511"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "personId": "41591",
+     "roleId": "139512"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "personId": "41280",
+     "roleId": "139513"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "personId": "42121",
+     "roleId": "139514"
     }
    ]
   },
@@ -120,23 +177,28 @@
    "cast": [
     {
      "name": "표지훈",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "33507"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41137"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -146,23 +208,28 @@
    "cast": [
     {
      "name": "표지훈",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "33507"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   },
@@ -172,23 +239,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -198,23 +270,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   },
@@ -224,23 +301,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41137"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -250,23 +332,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41137"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   },
@@ -276,23 +363,28 @@
    "cast": [
     {
      "name": "표지훈",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "33507"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -302,23 +394,28 @@
    "cast": [
     {
      "name": "표지훈",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "33507"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41137"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -328,23 +425,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   },
@@ -354,23 +456,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41137"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -380,23 +487,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -406,23 +518,28 @@
    "cast": [
     {
      "name": "표지훈",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "33507"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41137"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   },
@@ -432,23 +549,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   },
@@ -458,23 +580,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41137"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   },
@@ -484,23 +611,28 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "신성하",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41137"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "이예준",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "54568"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -510,23 +642,28 @@
    "cast": [
     {
      "name": "표지훈",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "33507"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김기주",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "46981"
     }
    ]
   },
@@ -536,23 +673,28 @@
    "cast": [
     {
      "name": "표지훈",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "33507"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "장원혁",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "41591"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   },
@@ -562,26 +704,31 @@
    "cast": [
     {
      "name": "허영손",
-     "roleId": "r:건규"
+     "roleId": "139510",
+     "personId": "43996"
     },
     {
      "name": "이충호",
-     "roleId": "r:규태"
+     "roleId": "139511",
+     "personId": "41279"
     },
     {
      "name": "오원권",
-     "roleId": "r:도형"
+     "roleId": "139512",
+     "personId": "56324"
     },
     {
      "name": "임동진",
-     "roleId": "r:코치 외"
+     "roleId": "139513",
+     "personId": "41280"
     },
     {
      "name": "김종현",
-     "roleId": "r:아빠 외"
+     "roleId": "139514",
+     "personId": "42121"
     }
    ]
   }
  ],
- "updatedAt": "2026-11-08T10:36:24"
+ "updatedAt": "2026-11-16T09:44:41"
 }

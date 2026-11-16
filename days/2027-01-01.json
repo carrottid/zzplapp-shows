@@ -77,25 +77,38 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "14:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "하도권"
+     "name": "하도권",
+     "personId": "8053"
     },
     {
      "name": "하은섬"
     },
     {
-     "name": "김선제"
+     "name": "소나영",
+     "personId": "48195"
     },
     {
-     "name": "손우민"
+     "name": "김선제",
+     "personId": "55011"
     },
     {
-     "name": "안예인"
+     "name": "손우민",
+     "personId": "34994"
     },
     {
-     "name": "최찬우"
+     "name": "안예인",
+     "personId": "49778"
+    },
+    {
+     "name": "하성훈",
+     "personId": "57277"
+    },
+    {
+     "name": "최찬우",
+     "personId": "55667"
     }
    ],
    "color": {
@@ -308,6 +321,48 @@
    }
   },
   {
+   "id": "PF303673",
+   "title": "여신님이 보고 계셔",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "14:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "정욱진",
+     "personId": "28470"
+    },
+    {
+     "name": "김리현",
+     "personId": "46090"
+    },
+    {
+     "name": "김세환",
+     "personId": "37985"
+    },
+    {
+     "name": "곽다인",
+     "personId": "46383"
+    },
+    {
+     "name": "황두현",
+     "personId": "32453"
+    },
+    {
+     "name": "김재민",
+     "personId": "48318"
+    },
+    {
+     "name": "최서연",
+     "personId": "31844"
+    }
+   ],
+   "color": {
+    "bg": "#2E8FB5",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF302842",
    "title": "오페라의 유령 40주년 스페셜 시즌",
    "genre": "뮤지컬",
@@ -347,6 +402,29 @@
    "color": {
     "bg": "#0E1B3A",
     "fg": "#F29A2E"
+   }
+  },
+  {
+   "id": "PF295977",
+   "title": "국립극장, 마당놀이: 춘풍처도 온다",
+   "genre": "연극",
+   "venue": "국립극장 (하늘극장)",
+   "time": "15:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정은혜"
+    },
+    {
+     "name": "이광복"
+    },
+    {
+     "name": "김율희"
+    }
+   ],
+   "color": {
+    "bg": "#4B2E83",
+    "fg": "#F2C500"
    }
   },
   {
@@ -417,18 +495,6 @@
    }
   },
   {
-   "id": "PF303673",
-   "title": "여신님이 보고 계셔",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (1관(대극장))",
-   "time": "16:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2E8FB5",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
    "id": "PF306341",
    "title": "멘치카",
    "genre": "연극",
@@ -484,25 +550,38 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "18:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "하도권"
+     "name": "하도권",
+     "personId": "8053"
     },
     {
      "name": "하은섬"
     },
     {
-     "name": "김선제"
+     "name": "소나영",
+     "personId": "48195"
     },
     {
-     "name": "손우민"
+     "name": "김선제",
+     "personId": "55011"
     },
     {
-     "name": "안예인"
+     "name": "손우민",
+     "personId": "34994"
     },
     {
-     "name": "최찬우"
+     "name": "안예인",
+     "personId": "49778"
+    },
+    {
+     "name": "하성훈",
+     "personId": "57277"
+    },
+    {
+     "name": "최찬우",
+     "personId": "55667"
     }
    ],
    "color": {
@@ -590,6 +669,48 @@
    ],
    "color": {
     "bg": "#1C2433",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF303673",
+   "title": "여신님이 보고 계셔",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (1관(대극장))",
+   "time": "18:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "정욱진",
+     "personId": "28470"
+    },
+    {
+     "name": "홍기범",
+     "personId": "51082"
+    },
+    {
+     "name": "김세환",
+     "personId": "37985"
+    },
+    {
+     "name": "곽다인",
+     "personId": "46383"
+    },
+    {
+     "name": "황두현",
+     "personId": "32453"
+    },
+    {
+     "name": "김재민",
+     "personId": "48318"
+    },
+    {
+     "name": "최서연",
+     "personId": "31844"
+    }
+   ],
+   "color": {
+    "bg": "#2E8FB5",
     "fg": "#FFFFFF"
    }
   },
@@ -871,18 +992,6 @@
    }
   },
   {
-   "id": "PF295977",
-   "title": "국립극장, 마당놀이: 춘풍처도 온다",
-   "genre": "연극",
-   "venue": "국립극장 (하늘극장)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4B2E83",
-    "fg": "#F2C500"
-   }
-  },
-  {
    "id": "PF300616",
    "title": "너를 들고 간다",
    "genre": "연극",
@@ -1090,18 +1199,6 @@
    "color": {
     "bg": "#9DB0C4",
     "fg": "#111111"
-   }
-  },
-  {
-   "id": "PF303673",
-   "title": "여신님이 보고 계셔",
-   "genre": "뮤지컬",
-   "venue": "유니플렉스 (1관(대극장))",
-   "time": "20:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#2E8FB5",
-    "fg": "#FFFFFF"
    }
   },
   {

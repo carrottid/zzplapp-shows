@@ -171,7 +171,41 @@
    "genre": "뮤지컬",
    "venue": "충무아트센터 (대극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "민우혁",
+     "personId": "33371"
+    },
+    {
+     "name": "옥주현",
+     "personId": "3727"
+    },
+    {
+     "name": "이봄소리",
+     "personId": "37814"
+    },
+    {
+     "name": "최민철",
+     "personId": "259"
+    },
+    {
+     "name": "김나윤(하은섬)",
+     "personId": "3275"
+    },
+    {
+     "name": "류수화",
+     "personId": "3543"
+    },
+    {
+     "name": "임현준",
+     "personId": "56965"
+    },
+    {
+     "name": "김주호",
+     "personId": "22003"
+    }
+   ],
    "color": {
     "bg": "#0E1B3A",
     "fg": "#F29A2E"
@@ -332,7 +366,54 @@
    "genre": "연극",
    "venue": "서울문화재단 대학로극장 쿼드 (예술청)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "예수정"
+    },
+    {
+     "name": "서진"
+    },
+    {
+     "name": "박완규"
+    },
+    {
+     "name": "유성진"
+    },
+    {
+     "name": "정만식"
+    },
+    {
+     "name": "린다전"
+    },
+    {
+     "name": "민병욱"
+    },
+    {
+     "name": "박민이"
+    },
+    {
+     "name": "황선화"
+    },
+    {
+     "name": "민해심"
+    },
+    {
+     "name": "강해진"
+    },
+    {
+     "name": "권다솔"
+    },
+    {
+     "name": "신대철"
+    },
+    {
+     "name": "문정원"
+    },
+    {
+     "name": "조영웅"
+    }
+   ],
    "color": {
     "bg": "#1E4FA8",
     "fg": "#F28C28"
@@ -378,28 +459,35 @@
    "genre": "뮤지컬",
    "venue": "강동아트센터 (대극장 한강)",
    "time": "19:30",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "조형균"
+     "name": "조형균",
+     "personId": "22946"
     },
     {
-     "name": "이창용"
+     "name": "이창용",
+     "personId": "4202"
     },
     {
-     "name": "임기홍"
+     "name": "임기홍",
+     "personId": "4018"
     },
     {
-     "name": "정다희"
+     "name": "정다희",
+     "personId": "30266"
     },
     {
-     "name": "도율희"
+     "name": "도율희",
+     "personId": "28333"
     },
     {
-     "name": "전재현"
+     "name": "전재현",
+     "personId": "37449"
     },
     {
-     "name": "장두환"
+     "name": "장두환",
+     "personId": "47685"
     }
    ],
    "color": {
@@ -638,19 +726,19 @@
    "castSource": "ticketlink",
    "cast": [
     {
-     "name": "박주혁"
+     "name": "정호준"
     },
     {
-     "name": "노혜성"
+     "name": "박주혁"
     },
     {
      "name": "안상은"
     },
     {
-     "name": "최수현"
+     "name": "노혜성"
     },
     {
-     "name": "정호준"
+     "name": "최수현"
     }
    ],
    "color": {

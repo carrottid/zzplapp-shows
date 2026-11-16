@@ -77,7 +77,18 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "양금석"
+    },
+    {
+     "name": "박지연"
+    },
+    {
+     "name": "이혁"
+    }
+   ],
    "color": {
     "bg": "#1F3F9E",
     "fg": "#F2C500"
@@ -101,28 +112,38 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "14:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "하도권"
+     "name": "하도권",
+     "personId": "8053"
     },
     {
      "name": "하은섬"
     },
     {
-     "name": "손수아"
+     "name": "손수아",
+     "personId": "48715"
     },
     {
-     "name": "김선제"
+     "name": "김선제",
+     "personId": "55011"
     },
     {
-     "name": "김형욱"
+     "name": "김형욱",
+     "personId": "46368"
     },
     {
-     "name": "안예인"
+     "name": "안예인",
+     "personId": "49778"
     },
     {
-     "name": "최찬우"
+     "name": "하성훈",
+     "personId": "57277"
+    },
+    {
+     "name": "최찬우",
+     "personId": "55667"
     }
    ],
    "color": {
@@ -182,18 +203,6 @@
    "color": {
     "bg": "#2F5A3E",
     "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF302516",
-   "title": "레베카",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "14:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#0E1B3A",
-    "fg": "#F29A2E"
    }
   },
   {
@@ -571,7 +580,12 @@
    "genre": "뮤지컬",
    "venue": "연우소극장",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "윤석원"
+    }
+   ],
    "color": {
     "bg": "#1E1B3F",
     "fg": "#F26B4F"
@@ -633,22 +647,27 @@
    "genre": "연극",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "14:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "허영손"
+     "name": "허영손",
+     "personId": "43996"
     },
     {
-     "name": "신성하"
+     "name": "신성하",
+     "personId": "41137"
     },
     {
-     "name": "오원권"
+     "name": "오원권",
+     "personId": "56324"
     },
     {
-     "name": "이예준"
+     "name": "이예준",
+     "personId": "54568"
     },
     {
-     "name": "김종현"
+     "name": "김종현",
+     "personId": "42121"
     }
    ],
    "color": {
@@ -709,7 +728,33 @@
    "genre": "연극",
    "venue": "국립극단 [명동] (명동예술극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "최하윤"
+    },
+    {
+     "name": "홍지인"
+    },
+    {
+     "name": "김명수"
+    },
+    {
+     "name": "김신효"
+    },
+    {
+     "name": "이호재"
+    },
+    {
+     "name": "신현종"
+    },
+    {
+     "name": "조승연"
+    },
+    {
+     "name": "이주영"
+    }
+   ],
    "color": {
     "bg": "#E0245E",
     "fg": "#FFFFFF"
@@ -721,7 +766,18 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정은혜"
+    },
+    {
+     "name": "이광복"
+    },
+    {
+     "name": "김나니"
+    }
+   ],
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"
@@ -910,7 +966,27 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김다현"
+    },
+    {
+     "name": "한보라"
+    },
+    {
+     "name": "유지호"
+    },
+    {
+     "name": "최아빈"
+    },
+    {
+     "name": "황예은"
+    },
+    {
+     "name": "바라스시안이"
+    }
+   ],
    "color": {
     "bg": "#1B3A4B",
     "fg": "#F2E3C0"
@@ -1238,7 +1314,24 @@
    "genre": "연극",
    "venue": "두산아트센터 (Space111)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박하늘"
+    },
+    {
+     "name": "이리"
+    },
+    {
+     "name": "이미라"
+    },
+    {
+     "name": "백소정"
+    },
+    {
+     "name": "진효순"
+    }
+   ],
    "color": {
     "bg": "#D82B2B",
     "fg": "#FFFFFF"
@@ -1291,7 +1384,12 @@
    "genre": "뮤지컬",
    "venue": "연우소극장",
    "time": "17:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "윤석원"
+    }
+   ],
    "color": {
     "bg": "#1E1B3F",
     "fg": "#F26B4F"
@@ -1303,7 +1401,18 @@
    "genre": "뮤지컬",
    "venue": "국립정동극장",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "양금석"
+    },
+    {
+     "name": "박지연"
+    },
+    {
+     "name": "이혁"
+    }
+   ],
    "color": {
     "bg": "#1F3F9E",
     "fg": "#F2C500"
@@ -1315,25 +1424,38 @@
    "genre": "뮤지컬",
    "venue": "NOL 씨어터 대학로 (구. 대학로뮤지컬센터) (우리카드홀 )",
    "time": "18:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "하도권"
+     "name": "하도권",
+     "personId": "8053"
     },
     {
      "name": "하은섬"
     },
     {
-     "name": "전대현"
+     "name": "소나영",
+     "personId": "48195"
     },
     {
-     "name": "김형욱"
+     "name": "전대현",
+     "personId": "28126"
     },
     {
-     "name": "안예인"
+     "name": "김형욱",
+     "personId": "46368"
     },
     {
-     "name": "최찬우"
+     "name": "안예인",
+     "personId": "49778"
+    },
+    {
+     "name": "하성훈",
+     "personId": "57277"
+    },
+    {
+     "name": "최찬우",
+     "personId": "55667"
     }
    ],
    "color": {
@@ -1581,22 +1703,27 @@
    "genre": "연극",
    "venue": "대학로 자유극장 (자유문화발전소)",
    "time": "18:00",
-   "castSource": "ticketlink",
+   "castSource": "nol",
    "cast": [
     {
-     "name": "허영손"
+     "name": "허영손",
+     "personId": "43996"
     },
     {
-     "name": "신성하"
+     "name": "신성하",
+     "personId": "41137"
     },
     {
-     "name": "오원권"
+     "name": "오원권",
+     "personId": "56324"
     },
     {
-     "name": "이예준"
+     "name": "이예준",
+     "personId": "54568"
     },
     {
-     "name": "김기주"
+     "name": "김기주",
+     "personId": "46981"
     }
    ],
    "color": {
@@ -1903,18 +2030,6 @@
    }
   },
   {
-   "id": "PF302516",
-   "title": "레베카",
-   "genre": "뮤지컬",
-   "venue": "충무아트센터 (대극장)",
-   "time": "19:00",
-   "castSource": "none",
-   "color": {
-    "bg": "#0E1B3A",
-    "fg": "#F29A2E"
-   }
-  },
-  {
    "id": "PF299346",
    "title": "렛미플라이",
    "genre": "뮤지컬",
@@ -2093,7 +2208,27 @@
    "genre": "뮤지컬",
    "venue": "세종문화회관 (세종M씨어터)",
    "time": "19:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정선영"
+    },
+    {
+     "name": "이연경"
+    },
+    {
+     "name": "유라현"
+    },
+    {
+     "name": "고은율"
+    },
+    {
+     "name": "정다엘"
+    },
+    {
+     "name": "최예린"
+    }
+   ],
    "color": {
     "bg": "#1B3A4B",
     "fg": "#F2E3C0"

@@ -55,7 +55,27 @@
    "genre": "뮤지컬",
    "venue": "GS아트센터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "황정민"
+    },
+    {
+     "name": "박혜나"
+    },
+    {
+     "name": "이지훈"
+    },
+    {
+     "name": "임기홍"
+    },
+    {
+     "name": "영오"
+    },
+    {
+     "name": "원종환"
+    }
+   ],
    "color": {
     "bg": "#1E5FB0",
     "fg": "#FFFFFF"

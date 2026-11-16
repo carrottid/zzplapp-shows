@@ -107,7 +107,30 @@
    "genre": "연극",
    "venue": "드림씨어터 [부산]",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "박강현"
+    },
+    {
+     "name": "서현철"
+    },
+    {
+     "name": "송인성"
+    },
+    {
+     "name": "정호준"
+    },
+    {
+     "name": "임민영"
+    },
+    {
+     "name": "이승헌"
+    },
+    {
+     "name": "이상아"
+    }
+   ],
    "color": {
     "bg": "#1C3F6E",
     "fg": "#F2A33A"
@@ -119,7 +142,18 @@
    "genre": "연극",
    "venue": "예술의전당 [서울] (자유소극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "김다흰"
+    },
+    {
+     "name": "전석호"
+    },
+    {
+     "name": "임승범"
+    }
+   ],
    "color": {
     "bg": "#1B1A22",
     "fg": "#FF6FB5"
@@ -142,18 +176,6 @@
    ],
    "color": {
     "bg": "#5A5148",
-    "fg": "#FFFFFF"
-   }
-  },
-  {
-   "id": "PF276168",
-   "title": "비틀쥬스",
-   "genre": "뮤지컬",
-   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
-   "time": "19:30",
-   "castSource": "none",
-   "color": {
-    "bg": "#4A4A4A",
     "fg": "#FFFFFF"
    }
   },
@@ -204,7 +226,27 @@
    "genre": "연극",
    "venue": "예술의전당 [서울] (오페라극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "카와에이 리나"
+    },
+    {
+     "name": "아쿠츠 니치카"
+    },
+    {
+     "name": "사와무라 료"
+    },
+    {
+     "name": "히나미 후우"
+    },
+    {
+     "name": "미야자키 토무"
+    },
+    {
+     "name": "오우세 요우코"
+    }
+   ],
    "color": {
     "bg": "#1E3F8A",
     "fg": "#FFFFFF"
@@ -309,7 +351,12 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "원경식  김호산"
+    }
+   ],
    "color": {
     "bg": "#9E1B22",
     "fg": "#FFFFFF"
@@ -434,7 +481,15 @@
    "genre": "뮤지컬",
    "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "안재영"
+    },
+    {
+     "name": "강찬"
+    }
+   ],
    "color": {
     "bg": "#4C6240",
     "fg": "#FFFFFF"
@@ -496,6 +551,38 @@
    }
   },
   {
+   "id": "PF276168",
+   "title": "비틀쥬스",
+   "genre": "뮤지컬",
+   "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
+   "time": "20:00",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정원영"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "나하나"
+    },
+    {
+     "name": "이율"
+    },
+    {
+     "name": "김대령"
+    },
+    {
+     "name": "전수미"
+    }
+   ],
+   "color": {
+    "bg": "#4A4A4A",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF283613",
    "title": "스톤",
    "genre": "뮤지컬",
@@ -536,7 +623,18 @@
    "genre": "뮤지컬",
    "venue": "유니플렉스 (1관(대극장))",
    "time": "20:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "변희상"
+    },
+    {
+     "name": "김우성"
+    },
+    {
+     "name": "박상준"
+    }
+   ],
    "color": {
     "bg": "#1A1F4D",
     "fg": "#FFFFFF"

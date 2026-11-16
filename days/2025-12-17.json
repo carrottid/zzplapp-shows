@@ -490,7 +490,27 @@
    "genre": "뮤지컬",
    "venue": "LG아트센터 서울 (LG SIGNATURE 홀)",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정원영"
+    },
+    {
+     "name": "장민제"
+    },
+    {
+     "name": "박혜미"
+    },
+    {
+     "name": "정욱진"
+    },
+    {
+     "name": "김대령"
+    },
+    {
+     "name": "윤공주"
+    }
+   ],
    "color": {
     "bg": "#4A4A4A",
     "fg": "#FFFFFF"

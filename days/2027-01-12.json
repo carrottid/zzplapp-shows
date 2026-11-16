@@ -7,7 +7,18 @@
    "genre": "연극",
    "venue": "국립극장 (하늘극장)",
    "time": "15:00",
-   "castSource": "none",
+   "castSource": "plapp",
+   "cast": [
+    {
+     "name": "정은혜"
+    },
+    {
+     "name": "이광복"
+    },
+    {
+     "name": "김나니"
+    }
+   ],
    "color": {
     "bg": "#4B2E83",
     "fg": "#F2C500"
@@ -79,7 +90,27 @@
    "genre": "뮤지컬",
    "venue": "GS아트센터",
    "time": "19:30",
-   "castSource": "none",
+   "castSource": "ticketlink",
+   "cast": [
+    {
+     "name": "황정민"
+    },
+    {
+     "name": "박혜나"
+    },
+    {
+     "name": "이지훈"
+    },
+    {
+     "name": "육현욱"
+    },
+    {
+     "name": "영오"
+    },
+    {
+     "name": "원종환"
+    }
+   ],
    "color": {
     "bg": "#1E5FB0",
     "fg": "#FFFFFF"
