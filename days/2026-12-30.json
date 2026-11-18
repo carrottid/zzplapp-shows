@@ -1017,6 +1017,14 @@
    }
   },
   {
+   "id": "PF306671",
+   "title": "하이타이",
+   "genre": "연극",
+   "venue": "미마지아트센터 (물빛극장)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF301565",
    "title": "FATED",
    "genre": "뮤지컬",
@@ -1039,6 +1047,14 @@
     "bg": "#2A2038",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF306732",
+   "title": "WBB: We Borrowed Brokenness",
+   "genre": "연극",
+   "venue": "링크더스페이스(LINK THE SPACE) (2관)",
+   "time": "20:00",
+   "castSource": "none"
   },
   {
    "id": "PF305728",

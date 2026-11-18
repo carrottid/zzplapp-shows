@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T11:27:09",
+ "updatedAt": "2026-11-18T10:35:08",
  "archives": [
   "1987",
   "1988",
@@ -86,6 +86,21 @@
    "state": "공연예정",
    "castSource": "none",
    "addedAt": "2026-11-17T11:27:09+09:00"
+  },
+  {
+   "id": "PF306671",
+   "title": "하이타이",
+   "genre": "연극",
+   "from": "2026-12-29",
+   "to": "2027-01-03",
+   "venue": "미마지아트센터 (물빛극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306671_261117_111602.gif",
+   "cast": [
+    "김필"
+   ],
+   "state": "공연예정",
+   "castSource": "none",
+   "addedAt": "2026-11-18T10:35:08+09:00"
   },
   {
    "id": "PF287489",
@@ -414,6 +429,27 @@
    "castSource": "plapp"
   },
   {
+   "id": "PF306694",
+   "title": "서울숲 씨어터: 젊은 연출가 시리즈, 최후의 마녀가 우리의 생을 먹고 자라날 것이며",
+   "genre": "연극",
+   "from": "2026-12-16",
+   "to": "2026-12-16",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306694_261117_132727.gif",
+   "cast": [
+    "김양균",
+    "김윤지",
+    "김주홍",
+    "박창모",
+    "신윤철",
+    "양정인",
+    "엄현수"
+   ],
+   "state": "공연예정",
+   "castSource": "none",
+   "addedAt": "2026-11-18T10:35:08+09:00"
+  },
+  {
    "id": "PF302744",
    "title": "식스 더 뮤지컬 (SIX THE MUSICAL)",
    "genre": "뮤지컬",
@@ -436,6 +472,27 @@
     "bg": "#5B2A8C",
     "fg": "#F2C94C"
    }
+  },
+  {
+   "id": "PF306726",
+   "title": "서울숲 씨어터: 젊은 연출가 시리즈, 자전거 배우기",
+   "genre": "연극",
+   "from": "2026-12-15",
+   "to": "2026-12-15",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306726_261117_145014.gif",
+   "cast": [
+    "고용선",
+    "김보경",
+    "박성민",
+    "이강호",
+    "이주협",
+    "하재성",
+    "한지혜"
+   ],
+   "state": "공연예정",
+   "castSource": "none",
+   "addedAt": "2026-11-18T10:35:08+09:00"
   },
   {
    "id": "PF305850",
@@ -526,6 +583,46 @@
    "state": "공연예정",
    "castSource": "none",
    "addedAt": "2026-11-17T11:27:09+09:00"
+  },
+  {
+   "id": "PF306732",
+   "title": "WBB: We Borrowed Brokenness",
+   "genre": "연극",
+   "from": "2026-12-11",
+   "to": "2027-03-07",
+   "venue": "링크더스페이스(LINK THE SPACE) (2관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306732_261117_150807.png",
+   "cast": [
+    "이석준",
+    "장태민",
+    "이형훈",
+    "강찬",
+    "유희제",
+    "김보정",
+    "전혜주"
+   ],
+   "state": "공연예정",
+   "castSource": "none",
+   "addedAt": "2026-11-18T10:35:08+09:00"
+  },
+  {
+   "id": "PF306702",
+   "title": "NOT, I",
+   "genre": "연극",
+   "from": "2026-12-10",
+   "to": "2026-12-20",
+   "venue": "더 줌 아트센터",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306702_261117_134834.gif",
+   "cast": [
+    "이용범",
+    "정재훈",
+    "안대겸",
+    "유준홍",
+    "류인환"
+   ],
+   "state": "공연예정",
+   "castSource": "none",
+   "addedAt": "2026-11-18T10:35:08+09:00"
   },
   {
    "id": "PF305029",
@@ -714,6 +811,18 @@
     "bg": "#6B4A2E",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF306710",
+   "title": "서울숲 씨어터: 젊은 연출가 시리즈, 구의 집: 갈월동 98번지",
+   "genre": "연극",
+   "from": "2026-12-08",
+   "to": "2026-12-08",
+   "venue": "더 서울라이티움 (갤러리아포레) (G층 전용관)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306710_261117_140559.gif",
+   "state": "공연예정",
+   "castSource": "none",
+   "addedAt": "2026-11-18T10:35:08+09:00"
   },
   {
    "id": "PF305855",
@@ -1495,6 +1604,25 @@
     "fg": "#FFFFFF"
    },
    "castAddedAt": "2026-11-16T09:44:42+09:00"
+  },
+  {
+   "id": "PF306685",
+   "title": "곰팡이, 락스 XX새끼",
+   "genre": "연극",
+   "from": "2026-11-25",
+   "to": "2026-11-29",
+   "venue": "나온씨어터",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF306685_261117_130350.gif",
+   "cast": [
+    "김수란",
+    "유독현",
+    "조은",
+    "김강태",
+    "이다운"
+   ],
+   "state": "공연예정",
+   "castSource": "none",
+   "addedAt": "2026-11-18T10:35:08+09:00"
   },
   {
    "id": "PF302516",
