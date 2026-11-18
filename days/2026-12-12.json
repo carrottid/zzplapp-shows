@@ -724,7 +724,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF305949",
@@ -923,7 +927,11 @@
     {
      "name": "김보미"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#081018",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303594",
@@ -1965,7 +1973,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF292160",
@@ -2163,7 +2175,11 @@
     {
      "name": "김동빈"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#081018",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302677",

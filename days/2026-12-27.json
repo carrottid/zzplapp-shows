@@ -101,7 +101,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304181",
@@ -420,7 +424,11 @@
     {
      "name": "유태율"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#010001",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300790",
@@ -1137,7 +1145,11 @@
      "name": "정찬호",
      "personId": "49625"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B131E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300616",
@@ -1181,7 +1193,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304086",
@@ -1320,7 +1336,11 @@
     {
      "name": "유태율"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#010001",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300790",
@@ -1805,7 +1825,11 @@
      "name": "도준영",
      "personId": "55438"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B131E",
+    "fg": "#FFFFFF"
+   }
   }
  ]
 }

@@ -71,7 +71,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304181",
@@ -463,7 +467,11 @@
     {
      "name": "최호승"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#010001",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300790",
@@ -1333,7 +1341,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304086",
@@ -1524,7 +1536,11 @@
     {
      "name": "최호승"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#010001",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300790",

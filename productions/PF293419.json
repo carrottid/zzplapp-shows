@@ -35,5 +35,9 @@
  ],
  "updated": "2026-06-11 15:00:04.135123",
  "castSource": "plapp",
- "fetchedAt": "2026-11-14T09:29:37"
+ "fetchedAt": "2026-11-14T09:29:37",
+ "color": {
+  "bg": "#807265",
+  "fg": "#FFFFFF"
+ }
 }

@@ -23,5 +23,9 @@
   }
  ],
  "castSource": "x",
- "fetchedAt": "2026-11-18T13:09:47"
+ "fetchedAt": "2026-11-18T13:09:47",
+ "color": {
+  "bg": "#4A3C4E",
+  "fg": "#FFFFFF"
+ }
 }

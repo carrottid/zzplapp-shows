@@ -238,7 +238,11 @@
     {
      "name": "김경록"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#010001",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300598",
@@ -571,7 +575,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "15:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF295977",
@@ -851,7 +859,11 @@
      "name": "도준영",
      "personId": "55438"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B131E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302744",
@@ -956,7 +968,11 @@
     {
      "name": "김경록"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#010001",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF300598",
@@ -1265,7 +1281,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "19:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF292160",
@@ -1672,7 +1692,11 @@
      "name": "정찬호",
      "personId": "49625"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#1B131E",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302744",

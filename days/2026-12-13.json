@@ -82,7 +82,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "14:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304181",
@@ -354,7 +358,11 @@
     {
      "name": "박영훈"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#081018",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF302677",
@@ -1451,7 +1459,11 @@
    "genre": "연극",
    "venue": "링크더스페이스(LINK THE SPACE) (2관)",
    "time": "18:00",
-   "castSource": "none"
+   "castSource": "none",
+   "color": {
+    "bg": "#DCC60A",
+    "fg": "#111111"
+   }
   },
   {
    "id": "PF304086",
@@ -1607,7 +1619,11 @@
     {
      "name": "임지은"
     }
-   ]
+   ],
+   "color": {
+    "bg": "#081018",
+    "fg": "#FFFFFF"
+   }
   },
   {
    "id": "PF303594",
