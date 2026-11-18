@@ -1,0 +1,106 @@
+{
+ "id": "PF194290",
+ "source": "x",
+ "roles": {
+  "r:X-White": "X-White",
+  "r:X-Black": "X-Black",
+  "r:John": "John",
+  "r:Gretchen": "Gretchen"
+ },
+ "people": {},
+ "sessions": [
+  {
+   "date": "2022-08-07",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "조형균",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "백형훈",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "이승헌",
+     "roleId": "r:John"
+    },
+    {
+     "name": "박좌헌",
+     "roleId": "r:John"
+    },
+    {
+     "name": "이석준",
+     "roleId": "r:John"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:Gretchen"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:Gretchen"
+    }
+   ]
+  },
+  {
+   "date": "2022-08-07",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "조형균",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "백형훈",
+     "roleId": "r:X-White"
+    },
+    {
+     "name": "김찬호",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "박규원",
+     "roleId": "r:X-Black"
+    },
+    {
+     "name": "이승헌",
+     "roleId": "r:John"
+    },
+    {
+     "name": "박좌헌",
+     "roleId": "r:John"
+    },
+    {
+     "name": "이석준",
+     "roleId": "r:John"
+    },
+    {
+     "name": "여은",
+     "roleId": "r:Gretchen"
+    },
+    {
+     "name": "이지연",
+     "roleId": "r:Gretchen"
+    }
+   ]
+  }
+ ],
+ "updatedAt": "2026-11-18T14:09:50"
+}
