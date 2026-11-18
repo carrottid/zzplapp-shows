@@ -1086,6 +1086,52 @@
    }
   },
   {
+   "id": "PF302516",
+   "title": "레베카",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "15:00",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "테이",
+     "personId": "1165"
+    },
+    {
+     "name": "신영숙",
+     "personId": "4500"
+    },
+    {
+     "name": "이봄소리",
+     "personId": "37814"
+    },
+    {
+     "name": "최민철",
+     "personId": "259"
+    },
+    {
+     "name": "김나윤(하은섬)",
+     "personId": "3275"
+    },
+    {
+     "name": "홍기주",
+     "personId": "4026"
+    },
+    {
+     "name": "임현준",
+     "personId": "56965"
+    },
+    {
+     "name": "김현웅",
+     "personId": "31476"
+    }
+   ],
+   "color": {
+    "bg": "#0E1B3A",
+    "fg": "#F29A2E"
+   }
+  },
+  {
    "id": "PF304765",
    "title": "붓다, 세상의 길을 묻다",
    "genre": "뮤지컬",

@@ -40,6 +40,52 @@
    }
   },
   {
+   "id": "PF302516",
+   "title": "레베카",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "14:30",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "테이",
+     "personId": "1165"
+    },
+    {
+     "name": "이아름솔",
+     "personId": "32179"
+    },
+    {
+     "name": "이지수",
+     "personId": "29583"
+    },
+    {
+     "name": "최민철",
+     "personId": "259"
+    },
+    {
+     "name": "윤사봉",
+     "personId": "8133"
+    },
+    {
+     "name": "홍기주",
+     "personId": "4026"
+    },
+    {
+     "name": "임현준",
+     "personId": "56965"
+    },
+    {
+     "name": "김현웅",
+     "personId": "31476"
+    }
+   ],
+   "color": {
+    "bg": "#0E1B3A",
+    "fg": "#F29A2E"
+   }
+  },
+  {
    "id": "PF299346",
    "title": "렛미플라이",
    "genre": "뮤지컬",
@@ -412,6 +458,52 @@
    "color": {
     "bg": "#1B2A4A",
     "fg": "#E8B65A"
+   }
+  },
+  {
+   "id": "PF302516",
+   "title": "레베카",
+   "genre": "뮤지컬",
+   "venue": "충무아트센터 (대극장)",
+   "time": "19:30",
+   "castSource": "nol",
+   "cast": [
+    {
+     "name": "김우형",
+     "personId": "3586"
+    },
+    {
+     "name": "옥주현",
+     "personId": "3727"
+    },
+    {
+     "name": "유연정",
+     "personId": "48995"
+    },
+    {
+     "name": "최민철",
+     "personId": "259"
+    },
+    {
+     "name": "윤사봉",
+     "personId": "8133"
+    },
+    {
+     "name": "홍기주",
+     "personId": "4026"
+    },
+    {
+     "name": "임현준",
+     "personId": "56965"
+    },
+    {
+     "name": "김현웅",
+     "personId": "31476"
+    }
+   ],
+   "color": {
+    "bg": "#0E1B3A",
+    "fg": "#F29A2E"
    }
   },
   {
