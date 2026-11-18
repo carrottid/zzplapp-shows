@@ -27,6 +27,438 @@
  },
  "sessions": [
   {
+   "date": "2018-09-25",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-09-26",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-09-26",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
+   "date": "2018-09-27",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-09-28",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
+   "date": "2018-09-29",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-09-29",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-09-30",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-09-30",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-02",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-03",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-03",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-04",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-05",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-06",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-06",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-07",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-07",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-09",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-09",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-10",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-11",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-12",
+   "time": "20:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-13",
+   "time": "15:00",
+   "cast": [
+    {
+     "name": "고훈정",
+     "roleId": "r:루카",
+     "personId": "15870"
+    },
+    {
+     "name": "홍승안",
+     "roleId": "r:발렌티노",
+     "personId": "37565"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-13",
+   "time": "19:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-14",
+   "time": "14:00",
+   "cast": [
+    {
+     "name": "조풍래",
+     "roleId": "r:루카",
+     "personId": "33256"
+    },
+    {
+     "name": "양지원",
+     "roleId": "r:발렌티노",
+     "personId": "32898"
+    }
+   ]
+  },
+  {
+   "date": "2018-10-14",
+   "time": "18:00",
+   "cast": [
+    {
+     "name": "장지후",
+     "roleId": "r:루카",
+     "personId": "40830"
+    },
+    {
+     "name": "허규",
+     "roleId": "r:발렌티노",
+     "personId": "11734"
+    }
+   ]
+  },
+  {
    "date": "2018-10-16",
    "time": "20:00",
    "cast": [
@@ -683,5 +1115,5 @@
    ]
   }
  ],
- "updatedAt": "2026-11-14T19:14:32"
+ "updatedAt": "2026-11-18T15:05:50"
 }
