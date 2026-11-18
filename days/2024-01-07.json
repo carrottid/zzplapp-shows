@@ -423,7 +423,27 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "14:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "신의정"
+    },
+    {
+     "name": "이경미"
+    },
+    {
+     "name": "류이재"
+    },
+    {
+     "name": "김서연"
+    },
+    {
+     "name": "박윤정"
+    },
+    {
+     "name": "황휘"
+    }
+   ],
    "color": {
     "bg": "#9B6C4B",
     "fg": "#FFFFFF"
@@ -896,7 +916,27 @@
    "genre": "연극",
    "venue": "링크아트센터드림 (드림 2관)",
    "time": "18:00",
-   "castSource": "none",
+   "castSource": "x",
+   "cast": [
+    {
+     "name": "신의정"
+    },
+    {
+     "name": "이경미"
+    },
+    {
+     "name": "류이재"
+    },
+    {
+     "name": "김서연"
+    },
+    {
+     "name": "박윤정"
+    },
+    {
+     "name": "황휘"
+    }
+   ],
    "color": {
     "bg": "#9B6C4B",
     "fg": "#FFFFFF"
