@@ -62,6 +62,26 @@
    }
   },
   {
+   "id": "PF306847",
+   "title": "리플리",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF306377",
+   "title": "미드나잇: 액터뮤지션 THE FINAL",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "14:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#081018",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
    "id": "PF302677",
    "title": "미세스 다웃파이어",
    "genre": "뮤지컬",
@@ -315,6 +335,14 @@
    }
   },
   {
+   "id": "PF306851",
+   "title": "하트셉수트",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "14:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF306119",
    "title": "해밀턴 내한공연 (Musical HAMILTON)",
    "genre": "뮤지컬",
@@ -414,6 +442,26 @@
    "color": {
     "bg": "#F4C430",
     "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF306847",
+   "title": "리플리",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "18:00",
+   "castSource": "none"
+  },
+  {
+   "id": "PF306377",
+   "title": "미드나잇: 액터뮤지션 THE FINAL",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "18:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#081018",
+    "fg": "#FFFFFF"
    }
   },
   {
@@ -595,6 +643,14 @@
     "bg": "#2F8F4E",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF306851",
+   "title": "하트셉수트",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "18:00",
+   "castSource": "none"
   },
   {
    "id": "PF305670",

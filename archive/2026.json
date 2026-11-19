@@ -1,6 +1,102 @@
 {
  "productions": [
   {
+   "id": "PF299494",
+   "title": "까미난떼 오픈 리허설",
+   "genre": "뮤지컬",
+   "from": "2026-09-19",
+   "to": "2026-09-19",
+   "venue": "백암아트홀",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF299494_260827_125958.jpg",
+   "cast": [
+    "최승환",
+    "류주원",
+    "진희주",
+    "권준서",
+    "배리유",
+    "진원",
+    "강하"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#1E3F7A",
+    "fg": "#F5C518"
+   }
+  },
+  {
+   "id": "PF295702",
+   "title": "팬레터",
+   "genre": "뮤지컬",
+   "from": "2026-09-18",
+   "to": "2026-09-19",
+   "venue": "경상남도문화예술회관 (대공연장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295702_260709_110703.jpg",
+   "cast": [
+    "이규형",
+    "김종구",
+    "문태유",
+    "문성일",
+    "이봄소리",
+    "허윤슬",
+    "안창용"
+   ],
+   "state": "공연완료",
+   "castSource": "plapp",
+   "color": {
+    "bg": "#8A6F52",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF296713",
+   "title": "6시 퇴근",
+   "genre": "뮤지컬",
+   "from": "2026-09-18",
+   "to": "2026-09-19",
+   "venue": "HD아트센터(구 현대예술관) (대공연장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF296713_260723_111357.jpg",
+   "cast": [
+    "안다니엘",
+    "유창현",
+    "오승희",
+    "김찰리",
+    "김주일",
+    "간미연",
+    "박태성"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#F2B233",
+    "fg": "#111111"
+   }
+  },
+  {
+   "id": "PF295017",
+   "title": "푸른점의 진주",
+   "genre": "연극",
+   "from": "2026-09-12",
+   "to": "2026-09-19",
+   "venue": "서강대 메리홀 (대극장)",
+   "poster": "https://www.kopis.or.kr/upload/pfmPoster/PF_PF295017_260724_131339.png",
+   "cast": [
+    "김지은",
+    "정성호",
+    "이재희",
+    "전현아",
+    "김진영",
+    "윤종훈",
+    "송현섭"
+   ],
+   "state": "공연완료",
+   "castSource": "none",
+   "color": {
+    "bg": "#2A2A78",
+    "fg": "#E8C4F0"
+   }
+  },
+  {
    "id": "PF298442",
    "title": "등등곡",
    "genre": "뮤지컬",

@@ -194,6 +194,14 @@
    }
   },
   {
+   "id": "PF306822",
+   "title": "돌아온다",
+   "genre": "연극",
+   "venue": "링크아트센터드림 (드림 4관)",
+   "time": "19:30",
+   "castSource": "none"
+  },
+  {
    "id": "PF300974",
    "title": "두 도시 이야기",
    "genre": "뮤지컬",
@@ -437,6 +445,14 @@
    }
   },
   {
+   "id": "PF306847",
+   "title": "리플리",
+   "genre": "뮤지컬",
+   "venue": "홍익대 대학로 아트센터 (소극장)",
+   "time": "20:00",
+   "castSource": "none"
+  },
+  {
    "id": "PF301746",
    "title": "마하고니",
    "genre": "뮤지컬",
@@ -457,6 +473,18 @@
    "castSource": "none",
    "color": {
     "bg": "#1B131E",
+    "fg": "#FFFFFF"
+   }
+  },
+  {
+   "id": "PF306377",
+   "title": "미드나잇: 액터뮤지션 THE FINAL",
+   "genre": "뮤지컬",
+   "venue": "유니플렉스 (3관(소극장))",
+   "time": "20:00",
+   "castSource": "none",
+   "color": {
+    "bg": "#081018",
     "fg": "#FFFFFF"
    }
   },
@@ -627,6 +655,14 @@
     "bg": "#2F8F4E",
     "fg": "#FFFFFF"
    }
+  },
+  {
+   "id": "PF306851",
+   "title": "하트셉수트",
+   "genre": "뮤지컬",
+   "venue": "예스24아트원(구.대학로아트원씨어터) (2관)",
+   "time": "20:00",
+   "castSource": "none"
   },
   {
    "id": "PF302744",
