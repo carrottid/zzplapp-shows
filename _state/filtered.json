@@ -6335,7 +6335,7 @@
   "title": "행오버",
   "genre": "연극",
   "from": "2014-09-11",
-  "to": "2026-11-30",
+  "to": "2026-12-23",
   "venue": "정극장 (구. M시어터, 구.하모니아트홀)",
   "area": "서울특별시",
   "openRun": true,
@@ -39838,10 +39838,10 @@
  },
  "PF294961": {
   "id": "PF294961",
-  "title": "SEXY MEN STANDING 섹시 맨 스탠딩",
+  "title": "맨틱: 더 넥스트 (섹시맨스탠딩)",
   "genre": "뮤지컬",
   "from": "2026-07-01",
-  "to": "2026-11-29",
+  "to": "2027-01-31",
   "venue": "레드루즈씨어터",
   "area": "서울특별시",
   "age": "만 19세 이상",
@@ -39849,7 +39849,8 @@
   "reasons": [
    "venue_not_listed"
   ],
-  "since": "2026-11-09"
+  "since": "2026-11-09",
+  "openRun": true
  },
  "PF295086": {
   "id": "PF295086",
@@ -41647,6 +41648,24 @@
   ],
   "since": "2026-11-09"
  },
+ "PF301550": {
+  "id": "PF301550",
+  "title": "보잉보잉",
+  "genre": "연극",
+  "from": "2026-11-07",
+  "to": "2026-12-27",
+  "venue": "KBS 수원아트홀",
+  "area": "경기도",
+  "age": "만 12세 이상",
+  "hall": "KBS 수원아트홀 (KBS 수원아트홀)",
+  "facilityId": "FC000926",
+  "producer": "극단 두레",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-20"
+ },
  "PF301593": {
   "id": "PF301593",
   "title": "히든퍼즐",
@@ -42370,6 +42389,23 @@
    "venue_not_listed"
   ],
   "since": "2026-11-09"
+ },
+ "PF302986": {
+  "id": "PF302986",
+  "title": "임금님 귀는 당나귀 귀",
+  "genre": "뮤지컬",
+  "from": "2026-10-31",
+  "to": "2026-11-22",
+  "venue": "조이마루아트홀",
+  "area": "대전광역시",
+  "age": "전체 관람가",
+  "hall": "조이마루아트홀 (조이마루아트홀)",
+  "facilityId": "FC001691",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-20"
  },
  "PF303011": {
   "id": "PF303011",
@@ -43317,6 +43353,24 @@
   ],
   "since": "2026-11-09"
  },
+ "PF304406": {
+  "id": "PF304406",
+  "title": "어바웃타임",
+  "genre": "연극",
+  "from": "2026-12-17",
+  "to": "2026-12-27",
+  "venue": "부산예술대학교 원곡예술관",
+  "area": "부산광역시",
+  "age": "만 14세 이상",
+  "hall": "부산예술대학교 원곡예술관 (공연장)",
+  "facilityId": "FC001466",
+  "producer": "(주)플레이더부산",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-20"
+ },
  "PF304411": {
   "id": "PF304411",
   "title": "크리스마스 대소동",
@@ -43933,6 +43987,24 @@
    "venue_not_listed"
   ],
   "since": "2026-11-09"
+ },
+ "PF305121": {
+  "id": "PF305121",
+  "title": "빨간모자와 크리스마스",
+  "genre": "뮤지컬",
+  "from": "2026-12-02",
+  "to": "2026-12-27",
+  "venue": "경복궁아트홀",
+  "area": "서울특별시",
+  "age": "36개월 이상",
+  "hall": "경복궁아트홀 (경복궁아트홀)",
+  "facilityId": "FC000194",
+  "producer": "경복궁아트홀",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-20"
  },
  "PF305125": {
   "id": "PF305125",
@@ -45089,6 +45161,23 @@
   ],
   "since": "2026-11-18"
  },
+ "PF306533": {
+  "id": "PF306533",
+  "title": "산타의 크리스마스",
+  "genre": "뮤지컬",
+  "from": "2026-12-12",
+  "to": "2026-12-26",
+  "venue": "김포한강괜찮은홀",
+  "area": "경기도",
+  "age": "전체 관람가",
+  "hall": "김포한강괜찮은홀 (김포한강괜찮은홀)",
+  "facilityId": "FC002017",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-20"
+ },
  "PF306535": {
   "id": "PF306535",
   "title": "루돌프와 쏟아진 동화책",
@@ -45746,6 +45835,60 @@
   "hall": "우란2경 (우란2경)",
   "facilityId": "FC002016",
   "producer": "예술창작공장 콤마앤드",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-20"
+ },
+ "PF307037": {
+  "id": "PF307037",
+  "title": "바람",
+  "genre": "연극",
+  "from": "2026-12-09",
+  "to": "2026-12-13",
+  "venue": "미래아트홀",
+  "area": "서울특별시",
+  "age": "전체 관람가",
+  "hall": "미래아트홀 (미래아트홀)",
+  "facilityId": "FC004394",
+  "producer": "프로젝트 비(project B)",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-20"
+ },
+ "PF307097": {
+  "id": "PF307097",
+  "title": "크리스마스 선물",
+  "genre": "연극",
+  "from": "2026-12-02",
+  "to": "2026-12-05",
+  "venue": "문학시어터",
+  "area": "인천광역시",
+  "age": "만 4세 이상",
+  "hall": "문학시어터 (문학시어터)",
+  "facilityId": "FC000600",
+  "producer": "인천교육연극연구회",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-20"
+ },
+ "PF307103": {
+  "id": "PF307103",
+  "title": "비도크",
+  "genre": "뮤지컬",
+  "from": "2026-12-17",
+  "to": "2026-12-27",
+  "venue": "공간아울",
+  "area": "서울특별시",
+  "age": "10세 이상",
+  "hall": "공간아울 (공간아울)",
+  "facilityId": "FC001209",
+  "producer": "(주)팀플레이예술기획",
   "detailed": true,
   "reasons": [
    "venue_not_listed"
