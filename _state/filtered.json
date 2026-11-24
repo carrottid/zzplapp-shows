@@ -13763,7 +13763,7 @@
   "title": "핫식스",
   "genre": "연극",
   "from": "2023-04-01",
-  "to": "2026-11-30",
+  "to": "2026-12-31",
   "venue": "도토리씨어터",
   "area": "서울특별시",
   "openRun": true,
@@ -22300,7 +22300,7 @@
   "title": "남사친 여사친",
   "genre": "연극",
   "from": "2024-06-01",
-  "to": "2026-11-29",
+  "to": "2026-12-31",
   "venue": "세우아트센터",
   "area": "서울특별시",
   "openRun": true,
@@ -46853,6 +46853,24 @@
   ],
   "since": "2026-11-24"
  },
+ "PF307251": {
+  "id": "PF307251",
+  "title": "차트",
+  "genre": "뮤지컬",
+  "from": "2026-12-17",
+  "to": "2026-12-27",
+  "venue": "일터 소극장",
+  "area": "부산광역시",
+  "age": "만 15세 이상",
+  "hall": "일터 소극장 (일터 소극장)",
+  "facilityId": "FC001676",
+  "producer": "언해피 컴퍼니(UNHAPPY COMPANY)",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-25"
+ },
  "PF307259": {
   "id": "PF307259",
   "title": "정의의 사람들",
@@ -46923,5 +46941,58 @@
    "venue_not_listed"
   ],
   "since": "2026-11-24"
+ },
+ "PF307325": {
+  "id": "PF307325",
+  "title": "드리머스",
+  "genre": "뮤지컬",
+  "from": "2026-12-30",
+  "to": "2026-12-31",
+  "venue": "세종문화회관",
+  "area": "서울특별시",
+  "age": "12개월 이상",
+  "hall": "세종문화회관 (세종M씨어터)",
+  "facilityId": "FC000020",
+  "producer": "(사)라하프 (극단 라하프)",
+  "detailed": true,
+  "reasons": [
+   "kids_age_months"
+  ],
+  "since": "2026-11-25"
+ },
+ "PF307340": {
+  "id": "PF307340",
+  "title": "조각조각 땃따따 쇼!",
+  "genre": "연극",
+  "from": "2026-12-10",
+  "to": "2026-12-13",
+  "venue": "극장 동국",
+  "area": "서울특별시",
+  "age": "만 19세 이상",
+  "hall": "극장 동국 (극장 동국)",
+  "facilityId": "FC001226",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-25"
+ },
+ "PF307353": {
+  "id": "PF307353",
+  "title": "XIA Musical Concert with Orchestra Vol.9",
+  "genre": "뮤지컬",
+  "from": "2026-12-18",
+  "to": "2026-12-20",
+  "venue": "올림픽공원",
+  "area": "서울특별시",
+  "age": "8세 이상",
+  "hall": "올림픽공원 (티켓링크 라이브 아레나 (핸드볼경기장))",
+  "facilityId": "FC001247",
+  "producer": "라우드펀투게더(Loud Fun Together), 팜트리아일랜드(PALMTREE ISLAND)",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-25"
  }
 }
