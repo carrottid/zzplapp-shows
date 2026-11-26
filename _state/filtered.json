@@ -116,7 +116,7 @@
   "title": "시간을 파는 상점",
   "genre": "연극",
   "from": "2017-07-01",
-  "to": "2026-12-20",
+  "to": "2026-12-27",
   "venue": "파랑씨어터 (구. 도향아트홀, 구. 뮤디스홀)",
   "area": "서울특별시",
   "openRun": true,
@@ -1613,7 +1613,7 @@
   "title": "연극라면",
   "genre": "연극",
   "from": "2021-01-14",
-  "to": "2026-11-30",
+  "to": "2026-12-31",
   "venue": "해피씨어터",
   "area": "서울특별시",
   "openRun": true,
@@ -24403,7 +24403,7 @@
   "title": "점프 JUMP",
   "genre": "뮤지컬",
   "from": "2024-10-01",
-  "to": "2026-12-31",
+  "to": "2027-02-28",
   "venue": "명보아트홀",
   "area": "서울특별시",
   "openRun": true,
@@ -33704,7 +33704,7 @@
   "title": "아빠와 딸",
   "genre": "연극",
   "from": "2025-11-09",
-  "to": "2026-10-31",
+  "to": "2026-12-31",
   "venue": "세우아트센터",
   "area": "서울특별시",
   "openRun": true,
@@ -33713,7 +33713,11 @@
   "reasons": [
    "venue_not_listed"
   ],
-  "since": "2026-11-09"
+  "since": "2026-11-09",
+  "hall": "세우아트센터 (2관)",
+  "facilityId": "FC000794",
+  "producer": "데이문",
+  "checkedAt": "2026-11-27"
  },
  "PF276730": {
   "id": "PF276730",
@@ -40535,7 +40539,8 @@
   "reasons": [
    "venue_not_listed"
   ],
-  "since": "2026-11-13"
+  "since": "2026-11-13",
+  "checkedAt": "2026-11-27"
  },
  "PF296872": {
   "id": "PF296872",
@@ -42267,6 +42272,21 @@
   "producer": "(주)비컨크리에이티브",
   "checkedAt": "2026-11-23"
  },
+ "PF301985": {
+  "id": "PF301985",
+  "title": "DRAG in 혜화 (드랙인혜화)",
+  "genre": "뮤지컬",
+  "from": "2026-10-09",
+  "to": "2027-01-02",
+  "venue": "뮤지컬펍 커튼콜",
+  "area": "서울특별시",
+  "openRun": true,
+  "detailed": false,
+  "reasons": [
+   "openrun_flag"
+  ],
+  "since": "2026-11-27"
+ },
  "PF302012": {
   "id": "PF302012",
   "title": "더 라스트 카고",
@@ -43109,7 +43129,7 @@
   "title": "북경반점",
   "genre": "연극",
   "from": "2026-11-03",
-  "to": "2026-12-23",
+  "to": "2026-12-24",
   "venue": "동아백화점 아트홀",
   "area": "대구광역시",
   "age": "만 13세 이상",
@@ -45598,7 +45618,8 @@
   "reasons": [
    "venue_not_listed"
   ],
-  "since": "2026-11-13"
+  "since": "2026-11-13",
+  "checkedAt": "2026-11-27"
  },
  "PF306094": {
   "id": "PF306094",
@@ -45691,7 +45712,8 @@
   "reasons": [
    "venue_not_listed"
   ],
-  "since": "2026-11-13"
+  "since": "2026-11-13",
+  "checkedAt": "2026-11-27"
  },
  "PF306259": {
   "id": "PF306259",
@@ -45709,7 +45731,8 @@
   "reasons": [
    "venue_not_listed"
   ],
-  "since": "2026-11-13"
+  "since": "2026-11-13",
+  "checkedAt": "2026-11-27"
  },
  "PF306264": {
   "id": "PF306264",
@@ -45727,7 +45750,8 @@
   "reasons": [
    "kids_age_months"
   ],
-  "since": "2026-11-13"
+  "since": "2026-11-13",
+  "checkedAt": "2026-11-27"
  },
  "PF306287": {
   "id": "PF306287",
@@ -45745,7 +45769,8 @@
   "reasons": [
    "venue_not_listed"
   ],
-  "since": "2026-11-13"
+  "since": "2026-11-13",
+  "checkedAt": "2026-11-27"
  },
  "PF306323": {
   "id": "PF306323",
@@ -47107,5 +47132,112 @@
    "venue_not_listed"
   ],
   "since": "2026-11-26"
+ },
+ "PF307489": {
+  "id": "PF307489",
+  "title": "제2회 N뮤즈페스티벌, 0도",
+  "genre": "연극",
+  "from": "2026-12-16",
+  "to": "2026-12-20",
+  "venue": "나인진홀 (구.청년극장)",
+  "area": "서울특별시",
+  "age": "12세 이상",
+  "hall": "나인진홀 (구.청년극장) (나인진홀 3관(5F))",
+  "facilityId": "FC001121",
+  "producer": "프로젝트팀 얼레벌레",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-27"
+ },
+ "PF307514": {
+  "id": "PF307514",
+  "title": "겨울왕국",
+  "genre": "뮤지컬",
+  "from": "2027-01-02",
+  "to": "2027-01-03",
+  "venue": "성남아트센터",
+  "area": "경기도",
+  "age": "전체 관람가",
+  "hall": "성남아트센터 (앙상블씨어터)",
+  "facilityId": "FC000016",
+  "detailed": true,
+  "reasons": [
+   "kids_all_ages"
+  ],
+  "since": "2026-11-27"
+ },
+ "PF307529": {
+  "id": "PF307529",
+  "title": "어른동생",
+  "genre": "뮤지컬",
+  "from": "2027-01-16",
+  "to": "2027-03-01",
+  "venue": "광복극장",
+  "area": "서울특별시",
+  "age": "24개월 이상",
+  "hall": "광복극장 (광복극장(B1))",
+  "facilityId": "FC004482",
+  "producer": "광복극장, 슬롯",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-27"
+ },
+ "PF307537": {
+  "id": "PF307537",
+  "title": "제3회 연문페스티벌, 광인수기",
+  "genre": "연극",
+  "from": "2026-11-25",
+  "to": "2026-11-29",
+  "venue": "피카소소극장",
+  "area": "서울특별시",
+  "age": "9세 이상",
+  "hall": "피카소소극장 (1관)",
+  "facilityId": "FC000825",
+  "producer": "극단 늑대",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-27"
+ },
+ "PF307557": {
+  "id": "PF307557",
+  "title": "바냐",
+  "genre": "연극",
+  "from": "2026-12-10",
+  "to": "2026-12-13",
+  "venue": "성미산마을극장 향",
+  "area": "서울특별시",
+  "age": "만 15세 이상",
+  "hall": "성미산마을극장 향 (성미산마을극장 향)",
+  "facilityId": "FC000138",
+  "producer": "극단 자랑",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-27"
+ },
+ "PF307576": {
+  "id": "PF307576",
+  "title": "주체할 수 없는",
+  "genre": "연극",
+  "from": "2026-11-26",
+  "to": "2026-11-29",
+  "venue": "극발전소301",
+  "area": "서울특별시",
+  "age": "만 12세 이상",
+  "hall": "극발전소301 (연습실(B1))",
+  "facilityId": "FC005227",
+  "producer": "극발전소301",
+  "detailed": true,
+  "reasons": [
+   "venue_not_listed"
+  ],
+  "since": "2026-11-27"
  }
 }
